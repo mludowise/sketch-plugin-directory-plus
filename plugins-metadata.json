@@ -2557,7 +2557,7 @@
     "homepage": "https://github.com/matt-curtis/Fluid-for-Sketch",
     "gh_url": "https://github.com/matt-curtis/Fluid-for-Sketch.git",
     "gh_updated": "2016-12-04 16:05:55 UTC",
-    "gh_stars": 2257,
+    "gh_stars": 2258,
     "gh_issues": 34,
     "gh_branch": "master",
     "man_identifier": "com.matt-curtis.sketch.constraints",
@@ -2619,13 +2619,13 @@
     "description": "A plugin to place external bitmap files into Sketch and update Sketch layers after external bitmaps are updated",
     "homepage": "https://github.com/frankko/Place-Linked-Bitmap",
     "gh_url": "https://github.com/frankko/Place-Linked-Bitmap.git",
-    "gh_updated": "2016-09-08 17:08:09 UTC",
+    "gh_updated": "2017-04-07 13:52:41 UTC",
     "gh_stars": 127,
-    "gh_issues": 3,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "io.kolo.sketch.place-linked-bitmap",
-    "man_version": "1.39.2",
-    "man_compatible_version": "39"
+    "man_version": "1.43.2",
+    "man_compatible_version": "43"
   },
   {
     "name": "Watch-Icon",
@@ -2883,7 +2883,7 @@
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2017-04-06 08:36:20 UTC",
     "gh_stars": 1731,
-    "gh_issues": 16,
+    "gh_issues": 15,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
     "man_compatible_version": "3"

@@ -221,8 +221,7 @@
     "gh_branch": "master",
     "man_identifier": "com.github.herrhelms.radial-lines-sketch",
     "man_version": "1.2",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/herrhelms/radial-lines-sketch/master/Radial-Lines.sketchplugin/Contents/Resources/icon.png"
+    "man_compatible_version": "3"
   },
   {
     "name": "even-guides-sketch",
@@ -238,8 +237,7 @@
     "gh_branch": "master",
     "man_identifier": "com.github.herrhelms.even-guides-sketch",
     "man_version": "1.1",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/herrhelms/even-guides-sketch/master/Evenly-Distributed-Guides.sketchplugin/Contents/Resources/icon.png"
+    "man_compatible_version": "3"
   },
   {
     "name": "social-artboards-sketch",
@@ -255,8 +253,7 @@
     "gh_branch": "master",
     "man_identifier": "com.github.herrhelms.social-artboards-sketch",
     "man_version": "1.1",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/herrhelms/social-artboards-sketch/master/Social-Artboards.sketchplugin/Contents/Resources/icon.png"
+    "man_compatible_version": "3"
   },
   {
     "name": "sync.sketchplugin",
@@ -725,8 +722,7 @@
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "net.creative-tweet.switch-text-spacing",
-    "man_version": "1.0.0",
-    "icon": "https://raw.githubusercontent.com/littlebusters/Switch-Text-Spacing/master/Switch Text Spacing.sketchplugin/Contents/Resources/icon.png"
+    "man_version": "1.0.0"
   },
   {
     "name": "sketch-data-parser",
@@ -953,8 +949,7 @@
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.5c62e078-3c28-4a0c-9b26-6b3cf5fbd164",
     "man_version": "1.0",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/x-raizor/Efficiency/master/Efficiency.sketchplugin/Contents/Resources/Icon.png"
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-divine-proportions",
@@ -1032,8 +1027,7 @@
     "gh_branch": "master",
     "man_identifier": "com.notebook",
     "man_version": "0.3",
-    "man_compatible_version": "39",
-    "icon": "https://raw.githubusercontent.com/marcosvidal/Sketch-Notebook/master/Notebook.sketchplugin/Contents/Resources/icon.png"
+    "man_compatible_version": "39"
   },
   {
     "name": "Modulizer",
@@ -1357,8 +1351,7 @@
     "gh_branch": "v2",
     "man_identifier": "com.abynim.sketchplugins.userflows",
     "man_version": "2.0.4",
-    "man_compatible_version": "4.1",
-    "icon": "https://raw.githubusercontent.com/abynim/userflows/v2/UserFlows.sketchplugin/Contents/Resources/icon.png"
+    "man_compatible_version": "4.1"
   },
   {
     "name": "UtilityBelt",
@@ -1405,8 +1398,7 @@
     "gh_branch": "master",
     "man_identifier": "com.precious-forever.sketch.datapopulator2",
     "man_version": "2.1.3",
-    "man_compatible_version": "3.7",
-    "icon": "https://raw.githubusercontent.com/preciousforever/sketch-data-populator/master/Sketch Data Populator.sketchplugin/Contents/Resources/icon.png"
+    "man_compatible_version": "3.7"
   },
   {
     "name": "sketch-aspect-ratio",
@@ -1621,8 +1613,7 @@
     "gh_branch": "master",
     "man_identifier": "com.silverux.sketchplugins.xport",
     "man_version": "1.0",
-    "man_compatible_version": "4.0",
-    "icon": "https://raw.githubusercontent.com/abynim/Xport/master/Xport.sketchplugin/Contents/Resources/icon.png"
+    "man_compatible_version": "4.0"
   },
   {
     "name": "ZEN-Sketch",
@@ -1857,8 +1848,7 @@
     "gh_branch": "master",
     "man_identifier": "com.github.romashamin.statemachine-sketch",
     "man_version": "1.1",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/romashamin/statemachine-sketch/master/State-Machine.sketchplugin/Contents/Resources/Icon.png"
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-select-invisible-layers",
@@ -1998,8 +1988,7 @@
     "gh_branch": "master",
     "man_identifier": "com.jonmmay.sketch.export-scrollmotion",
     "man_version": "1.0.2",
-    "man_compatible_version": "3.5",
-    "icon": "https://raw.githubusercontent.com/jonmmay/sketch-scrollmotion/master/SMExport.sketchplugin/Contents/Resources/icon.png"
+    "man_compatible_version": "3.5"
   },
   {
     "name": "sketch-user-flow-docs",
@@ -2060,8 +2049,7 @@
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.silverux.sketchplugins.basealign",
-    "man_version": "1.0",
-    "icon": "https://raw.githubusercontent.com/abynim/BaseAlign/master/BaseAlign.sketchplugin/Contents/Resources/icon.png"
+    "man_version": "1.0"
   },
   {
     "name": "frame-sequencer",
@@ -2293,8 +2281,7 @@
     "gh_branch": "master",
     "man_identifier": "com.github.romashamin.sort-me-sketch",
     "man_version": "1.0",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/romashamin/sort-me-sketch/master/Sort-Me.sketchplugin/Contents/Resources/Icon.png"
+    "man_compatible_version": "3"
   },
   {
     "name": "Sketch-TitleCase",
@@ -2899,8 +2886,7 @@
     "gh_issues": 16,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/mathieudutour/git-sketch-plugin/master/Git.sketchplugin/Contents/Resources/icon.png"
+    "man_compatible_version": "3"
   },
   {
     "name": "gb-sketch-segmentcircle",
@@ -3472,8 +3458,7 @@
     "gh_branch": "master",
     "man_identifier": "com.github.romashamin.compo-sketch",
     "man_version": "1.3",
-    "man_compatible_version": "41",
-    "icon": "https://raw.githubusercontent.com/romashamin/compo-sketch/master/Compo.sketchplugin/Contents/Resources/Icon.png"
+    "man_compatible_version": "41"
   },
   {
     "name": "specify",
@@ -4116,8 +4101,7 @@
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.44673736-18ee-470e-b22a-f17fbb378238",
-    "man_version": "9.5",
-    "icon": "https://raw.githubusercontent.com/sonburn/symbol-organizer/master/Symbol Organizer.sketchplugin/Contents/Resources/icon.png"
+    "man_version": "9.5"
   },
   {
     "name": "Sketch-Resize-Commands",
@@ -4420,8 +4404,7 @@
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.f16cc26a-dbde-49e7-8abd-4d81585247df",
-    "man_version": "1.0",
-    "icon": "https://raw.githubusercontent.com/exevil/Sketch-Export-Text/master/Export All Text.sketchplugin/Contents/Resources/icon.png"
+    "man_version": "1.0"
   },
   {
     "name": "Sketch-Color-Vars",
@@ -4482,8 +4465,7 @@
     "gh_stars": 22,
     "gh_issues": 0,
     "gh_branch": "master",
-    "man_version": "2.0",
-    "icon": "https://raw.githubusercontent.com/cshdllr/Notes/master/Notes.sketchplugin/Contents/Resources/icon.png"
+    "man_version": "2.0"
   },
   {
     "name": "sketch-rtl",
@@ -4731,8 +4713,7 @@
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.examples.image-replaste",
-    "man_version": "0.1",
-    "icon": "https://raw.githubusercontent.com/mheesakkers/sketch-image-replaste/master/Image Replaste.sketchplugin/Contents/Resources/icon.png"
+    "man_version": "0.1"
   },
   {
     "name": "sketch-plugin-monster",
@@ -4839,8 +4820,7 @@
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch.pdf-export",
     "man_version": "1.2.1",
-    "man_compatible_version": "39",
-    "icon": "https://raw.githubusercontent.com/DWilliames/PDF-export-sketch-plugin/master/PDF Export.sketchplugin/Contents/Resources/icon.png"
+    "man_compatible_version": "39"
   },
   {
     "name": "nudge-resize-sketch-plugin",

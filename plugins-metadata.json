@@ -1,5 +1,12 @@
 [
   {
+    "name": "foreign-ipsum",
+    "owner": "3raxton",
+    "author": "Braxton Huff",
+    "title": "Foreign Ipsum",
+    "description": "Generate text for your mockups in multiple languages"
+  },
+  {
     "name": "Gridy",
     "owner": "Volorf",
     "author": "Oleg Frolov",
@@ -25,7 +32,7 @@
     "gh_url": "https://github.com/sureskumar/Looper.git",
     "gh_updated": "2017-04-07 02:30:25 UTC",
     "gh_stars": 32,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.sureskumar.sketch.looper",
     "man_version": "1.2.3",
@@ -2269,7 +2276,7 @@
     "homepage": "https://github.com/romashamin/sort-me-sketch",
     "gh_url": "https://github.com/romashamin/sort-me-sketch.git",
     "gh_updated": "2016-05-12 14:23:25 UTC",
-    "gh_stars": 396,
+    "gh_stars": 397,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.github.romashamin.sort-me-sketch",

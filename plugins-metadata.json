@@ -1898,7 +1898,7 @@
     "gh_url": "https://github.com/keremciu/sketch-iconfont.git",
     "gh_updated": "2017-01-19 10:20:50 UTC",
     "gh_stars": 1148,
-    "gh_issues": 8,
+    "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.keremciu.sketch.iconfont",
     "man_version": "4.5.1"
@@ -2550,7 +2550,7 @@
     "homepage": "https://github.com/matt-curtis/Fluid-for-Sketch",
     "gh_url": "https://github.com/matt-curtis/Fluid-for-Sketch.git",
     "gh_updated": "2016-12-04 16:05:55 UTC",
-    "gh_stars": 2255,
+    "gh_stars": 2256,
     "gh_issues": 34,
     "gh_branch": "master",
     "man_identifier": "com.matt-curtis.sketch.constraints",

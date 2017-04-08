@@ -2,6 +2,8 @@
 
 Enhances the [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory/) with additional metadata about each plugin.
 
+The [plugins-metadata.json](https://github.com/mludowise/sketch-plugin-directory-plus/blob/master/plugins-metadata.json) and [log.md](https://github.com/mludowise/sketch-plugin-directory-plus/blob/master/log.md) files are generated every hour from the latest plugins in the [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory/).
+
 ## Fields
 
 **owner** (required) &ndash; The GitHub owner of the repository. This is either a user or organization. *Note that for plugins that do not have a GitHub repository, this may not correspond to a valid GitHub owner.*
@@ -35,3 +37,7 @@ Enhances the [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-d
 **man_version** (nullable) &ndash; The **version** field from the manifest.json file of the plugin.
 
 **man_compatible_version** (nullable) &ndash; The **compatibleVersion** field from the manifest.json file of the plugin.
+
+## Log.md
+
+Problems found during the last time the [plugins-metadata.json](https://github.com/mludowise/sketch-plugin-directory-plus/blob/master/plugins-metadata.json) file was generated can be found in [log.md](https://github.com/mludowise/sketch-plugin-directory-plus/blob/master/log.md).

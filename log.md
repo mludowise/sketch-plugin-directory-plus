@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2017-04-08 08:01:23 +0000
+Updated 2017-04-08 09:01:17 +0000
 
 Total plugins: 328
 
@@ -156,6 +156,8 @@ Total plugins: 328
 **interfacemarket/Egmont-plugin** manifest.json contains extra commas
 
 <span style='color:red'>**MichaelFouquet/sketch-nudge-push-shove** has no repo</span>
+
+**finchalyzer/slinky** manifest.json contains extra commas
 
 **Rezaaa/english-and-persian-lorem-ipsum** manifest.json contains extra commas
 

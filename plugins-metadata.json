@@ -1820,13 +1820,13 @@
     "description": "Sketch Plugins to export selected artboard or layers for Replia.",
     "homepage": "https://github.com/bunguu/SketchExportForRepliaPlugin",
     "gh_url": "https://github.com/bunguu/SketchExportForRepliaPlugin.git",
-    "gh_updated": "2016-08-19 12:41:24 UTC",
+    "gh_updated": "2017-04-08 10:39:49 UTC",
     "gh_stars": 2,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "io.replia.sketch-export-replia-plugin",
-    "man_version": "1.4",
-    "man_compatible_version": "39.1"
+    "man_version": "1.5",
+    "man_compatible_version": "43.1"
   },
   {
     "name": "sketch-radius",

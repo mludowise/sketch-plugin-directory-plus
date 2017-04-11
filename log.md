@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2017-04-11 13:01:44 UTC
+Updated 2017-04-11 14:01:38 UTC
 
 Total plugins: 329
 
@@ -29,7 +29,7 @@ Total plugins: 329
 
 **alssndro/sandros-sketch-plugins** manifest.json contains extra commas
 
-<span style='color:red'>**florianpnn/sketch-data-parser** missing manifest.json</span>
+<span style='color:red'>**florianpnn/sketch-data-parser** has no repo</span>
 
 **getflourish/Sketch-Color-Contrast-Analyser** manifest.json contains extra commas
 

@@ -2420,7 +2420,7 @@
     "homepage": "https://github.com/andrewfiorillo/sketch-palettes",
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
     "gh_updated": "2017-03-28 15:34:56 UTC",
-    "gh_stars": 1411,
+    "gh_stars": 1412,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
@@ -2940,7 +2940,6 @@
     "gh_stars": 44,
     "gh_issues": 1,
     "gh_branch": "master",
-    "man_identifier": "",
     "man_version": "0.8.0",
     "man_compatible_version": "3.4.2"
   },
@@ -4089,7 +4088,6 @@
     "gh_stars": 96,
     "gh_issues": 5,
     "gh_branch": "master",
-    "man_identifier": "",
     "man_version": "1.1",
     "man_compatible_version": "40"
   },
@@ -4742,7 +4740,6 @@
     "gh_stars": 15,
     "gh_issues": 0,
     "gh_branch": "master",
-    "man_identifier": "",
     "man_version": "1.1.0"
   },
   {
@@ -4937,7 +4934,7 @@
     "homepage": "https://github.com/Ashung/Sketch_Swatches",
     "gh_url": "https://github.com/Ashung/Sketch_Swatches.git",
     "gh_updated": "2017-04-11 09:03:07 UTC",
-    "gh_stars": 226,
+    "gh_stars": 227,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.sketch_swatches",

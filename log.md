@@ -1,161 +1,163 @@
 # Plugin Metadata
 
-Updated 2017-04-11 23:01:02 UTC
+Updated 2017-04-12 00:03:06 UTC
 
 Total plugins: 330
 
 ## Problems
-**Volorf/Gridy** manifest.json contains extra commas
+__Volorf/Gridy__ manifest.json contains extra commas
 
-**mludowise/sketch-html-export** manifest.json contains extra commas
+__mludowise/sketch-html-export__ manifest.json contains extra commas
 
-**markhorgan/click-thru-prototype** manifest.json contains extra commas
+__markhorgan/click-thru-prototype__ manifest.json contains extra commas
 
-**AnimaApp/Auto-Layout** manifest.json contains extra commas
+__AnimaApp/Auto-Layout__ manifest.json contains extra commas
 
-**emrerussia/sketch-clear-export-options** manifest.json contains extra commas
+__emrerussia/sketch-clear-export-options__ manifest.json contains extra commas
 
-**herrhelms/radial-lines-sketch** manifest.json contains extra commas
+__herrhelms/radial-lines-sketch__ manifest.json contains extra commas
 
-**herrhelms/social-artboards-sketch** manifest.json contains extra commas
+__herrhelms/social-artboards-sketch__ manifest.json contains extra commas
 
-**nolastan/sync.sketchplugin** manifest.json contains extra commas
+__nolastan/sync.sketchplugin__ manifest.json contains extra commas
 
-**thetylerwolf/sketch-data-studio** manifest.json contains extra commas
+__thetylerwolf/sketch-data-studio__ manifest.json contains extra commas
 
-<span style='color:red'>**WorkingOn/SketchingOn** missing manifest.json</span>
+**__WorkingOn/SketchingOn__ missing manifest.json**
 
-**marcisme/sketch-preview** manifest.json contains extra commas
+__marcisme/sketch-preview__ manifest.json contains extra commas
 
-**alssndro/sandros-sketch-plugins** manifest.json contains extra commas
+__alssndro/sandros-sketch-plugins__ manifest.json contains extra commas
 
-<span style='color:red'>**florianpnn/sketch-data-parser** has no repo</span>
+**__florianpnn/sketch-data-parser__ has no repo**
 
-**getflourish/Sketch-Color-Contrast-Analyser** manifest.json contains extra commas
+__getflourish/Sketch-Color-Contrast-Analyser__ manifest.json contains extra commas
 
-**getflourish/Sketch-Set-Line-Height-Plugin** manifest.json contains extra commas
+__getflourish/Sketch-Set-Line-Height-Plugin__ manifest.json contains extra commas
 
-<span style='color:red'>**automat/sketch-plugin-typographic-scale** missing manifest.json</span>
+**__automat/sketch-plugin-typographic-scale__ missing manifest.json**
 
-**ichik/RemoveAllGuides** manifest.json contains extra commas
+__ichik/RemoveAllGuides__ manifest.json contains extra commas
 
-**mfouquet/Color-Copier** manifest.json contains extra commas
+__mfouquet/Color-Copier__ manifest.json contains extra commas
 
-**getflourish/Sketch-Mate** manifest.json contains extra commas
+__getflourish/Sketch-Mate__ manifest.json contains extra commas
 
-**eivindbohler/Sketch-Unlinker** manifest.json contains extra commas
+__eivindbohler/Sketch-Unlinker__ manifest.json contains extra commas
 
-**preciousforever/sketch-bounding-boxer** manifest.json contains extra commas
+__preciousforever/sketch-bounding-boxer__ manifest.json contains extra commas
 
-<span style='color:red'>**preciousforever/sketch-aspect-ratio** missing manifest.json</span>
+**__preciousforever/sketch-aspect-ratio__ missing manifest.json**
 
-**kumo/sketch-tiles** manifest.json contains extra commas
+__kumo/sketch-tiles__ manifest.json contains extra commas
 
-**ozzik/swap-styles** manifest.json contains extra commas
+__ozzik/swap-styles__ manifest.json contains extra commas
 
-**tudou527/marketch** manifest.json contains extra commas
+__tudou527/marketch__ manifest.json contains extra commas
 
-**nolastan/charts.sketchplugin** manifest.json contains extra commas
+__nolastan/charts.sketchplugin__ manifest.json contains extra commas
 
-**soutaro/Align-text-baseline-sketch-plugin** manifest.json contains extra commas
+__soutaro/Align-text-baseline-sketch-plugin__ manifest.json contains extra commas
 
-**hamidp/sketchtextsourcer** manifest.json contains extra commas
+__hamidp/sketchtextsourcer__ manifest.json contains extra commas
 
-**jamztang/MagicMirror** manifest.json contains extra commas
+__jamztang/MagicMirror__ manifest.json contains extra commas
 
-**bunguu/SketchExportForRepliaPlugin** manifest.json contains extra commas
+__bunguu/SketchExportForRepliaPlugin__ manifest.json contains extra commas
 
-**keremciu/sketch-use-fontawesome** manifest.json contains extra commas
+__keremciu/sketch-use-fontawesome__ manifest.json contains extra commas
 
-**ozgurgunes/Sketch-Layer-Comps** manifest.json contains extra commas
+__ozgurgunes/Sketch-Layer-Comps__ manifest.json contains extra commas
 
-**Charimon/iosViews** manifest.json contains extra commas
+__Charimon/iosViews__ manifest.json contains extra commas
 
-**alexito4/Sketch-Color-Theme-Plugin** manifest.json contains extra commas
+__alexito4/Sketch-Color-Theme-Plugin__ manifest.json contains extra commas
 
-**eivindbohler/Sketch-All-Caps** manifest.json contains extra commas
+__eivindbohler/Sketch-All-Caps__ manifest.json contains extra commas
 
-**stuartromanek/sketch-mouse-pointers** manifest.json contains extra commas
+__stuartromanek/sketch-mouse-pointers__ manifest.json contains extra commas
 
-**andrewfiorillo/sketch-palettes** manifest.json contains extra commas
+__andrewfiorillo/sketch-palettes__ manifest.json contains extra commas
 
-**jessebilsten/Sketch-TitleCase** manifest.json contains extra commas
+__jessebilsten/Sketch-TitleCase__ manifest.json contains extra commas
 
-**axmsv/sharpen-images-sketch** manifest.json contains extra commas
+__axmsv/sharpen-images-sketch__ manifest.json contains extra commas
 
-**JohnCoates/CSSketch** manifest.json contains extra commas
+__JohnCoates/CSSketch__ manifest.json contains extra commas
 
-**sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin** manifest.json contains extra commas
+__sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin__ manifest.json contains extra commas
 
-**swiadek/pixel-perfecter-sketch-plugin** manifest.json contains extra commas
+__swiadek/pixel-perfecter-sketch-plugin__ manifest.json contains extra commas
 
-**AntonioJMartinez/sketch-ImageAverageColor** manifest.json contains extra commas
+__AntonioJMartinez/sketch-ImageAverageColor__ manifest.json contains extra commas
 
-**timurnurutdinov/Framer-Inventory-for-Sketch** manifest.json contains extra commas
+__timurnurutdinov/Framer-Inventory-for-Sketch__ manifest.json contains extra commas
 
-**ryanjohnson-me/Sketch-Copy-Paste-Shadows** manifest.json contains extra commas
+__ryanjohnson-me/Sketch-Copy-Paste-Shadows__ manifest.json contains extra commas
 
-**LaloMrtnz/Prism** manifest.json contains extra commas
+__LaloMrtnz/Prism__ manifest.json contains extra commas
 
-**nahitheper/SwiftColorPalette** manifest.json contains extra commas
+__nahitheper/SwiftColorPalette__ manifest.json contains extra commas
 
-<span style='color:red'>**SketchRunner/** has no repo</span>
+**__SketchRunner/__ has no repo**
 
-**lessthanzero/Formr** manifest.json contains extra commas
+__lessthanzero/Formr__ manifest.json contains extra commas
 
-**stackdevelopment/sketch-pixel-cleanup** manifest.json contains extra commas
+__stackdevelopment/sketch-pixel-cleanup__ manifest.json contains extra commas
 
-<span style='color:red'>**opencolor-tools/sketch-opencolor** missing manifest.json</span>
+**__opencolor-tools/sketch-opencolor__ missing manifest.json**
 
-**MagicSketch/MagicPresenter** manifest.json contains extra commas
+__MagicSketch/MagicPresenter__ manifest.json contains extra commas
 
-**screenfork/ScreenFork** manifest.json contains extra commas
+__screenfork/ScreenFork__ manifest.json contains extra commas
 
-<span style='color:red'>**vmdanilov/optically-sketch-plugin** missing manifest.json</span>
+**__vmdanilov/optically-sketch-plugin__ missing manifest.json**
 
-**kylehickinson/Sketch-SF-UI-Font-Fixer** manifest.json contains extra commas
+__kylehickinson/Sketch-SF-UI-Font-Fixer__ manifest.json contains extra commas
 
-<span style='color:red'>**Atomic.io/** has no repo</span>
+**__Atomic.io/__ has no repo**
 
-<span style='color:red'>**PixelCut/** has no repo</span>
+**__PixelCut/__ has no repo**
 
-**cute/SketchI18N** manifest.json contains extra commas
+__cute/SketchI18N__ manifest.json contains extra commas
 
-**jorgemartins/sketch-paginate** manifest.json contains extra commas
+__jorgemartins/sketch-paginate__ manifest.json contains extra commas
 
-**marianomike/sketch-exportsymbols** manifest.json contains extra commas
+__marianomike/sketch-exportsymbols__ manifest.json contains extra commas
 
-**marianomike/sketch-organizesymbols** manifest.json contains extra commas
+__marianomike/sketch-organizesymbols__ manifest.json contains extra commas
 
-**marianomike/sketch-duplicatesymbol** manifest.json contains extra commas
+__marianomike/sketch-duplicatesymbol__ manifest.json contains extra commas
 
-**marisaroque/sketch-markup-listify** manifest.json contains extra commas
+__marisaroque/sketch-markup-listify__ manifest.json contains extra commas
 
-**exevil/sketch-rename-instances** manifest.json contains extra commas
+__exevil/sketch-rename-instances__ manifest.json contains extra commas
 
-**luvmex/Sketch-Guides** manifest.json contains extra commas
+__nmwoods1/Sketch---Find-all-instances-of-symbol__ and __lewishowles/sketch-replace-colour__ use the same manifest identifier, __com.example.sketch.845bc9b1-ac46-43f0-9163-2b6de0b7fbd1__
 
-**pberrecloth/rotator-sketch-plugin** manifest.json contains extra commas
+__luvmex/Sketch-Guides__ manifest.json contains extra commas
 
-**eaugustine/Sketch-Color-Contrast-Analyzer** manifest.json contains extra commas
+__pberrecloth/rotator-sketch-plugin__ manifest.json contains extra commas
 
-**exevil/Sketch-Export-Text** manifest.json contains extra commas
+__eaugustine/Sketch-Color-Contrast-Analyzer__ manifest.json contains extra commas
 
-**devinmancuso/sketch-rtl** manifest.json contains extra commas
+__exevil/Sketch-Export-Text__ manifest.json contains extra commas
 
-**pberrecloth/fitter-sketch-plugin** manifest.json contains extra commas
+__devinmancuso/sketch-rtl__ manifest.json contains extra commas
 
-**YusukeKokubo/sketch-hback-plugin** manifest.json contains extra commas
+__pberrecloth/fitter-sketch-plugin__ manifest.json contains extra commas
 
-**maximedegreve/TinyFaces-Sketch-Plugin** manifest.json contains extra commas
+__YusukeKokubo/sketch-hback-plugin__ manifest.json contains extra commas
 
-**mmilano/sketch-rotate-artboards** manifest.json contains extra commas
+__maximedegreve/TinyFaces-Sketch-Plugin__ manifest.json contains extra commas
 
-**interfacemarket/Egmont-plugin** manifest.json contains extra commas
+__mmilano/sketch-rotate-artboards__ manifest.json contains extra commas
 
-<span style='color:red'>**MichaelFouquet/sketch-nudge-push-shove** has no repo</span>
+__interfacemarket/Egmont-plugin__ manifest.json contains extra commas
 
-**finchalyzer/slinky** manifest.json contains extra commas
+**__MichaelFouquet/sketch-nudge-push-shove__ has no repo**
 
-**Rezaaa/english-and-persian-lorem-ipsum** manifest.json contains extra commas
+__finchalyzer/slinky__ manifest.json contains extra commas
+
+__Rezaaa/english-and-persian-lorem-ipsum__ manifest.json contains extra commas
 

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2017-04-12 07:01:33 UTC
+Updated 2017-04-12 08:02:39 UTC
 
 Total plugins: 330
 
@@ -24,6 +24,8 @@ __nolastan/sync.sketchplugin__ manifest.json contains extra commas
 __thetylerwolf/sketch-data-studio__ manifest.json contains extra commas
 
 **__WorkingOn/SketchingOn__ missing manifest.json**
+
+**__sebj/Select-By-Name__ manifest.json is missing identifier**
 
 __marcisme/sketch-preview__ manifest.json contains extra commas
 
@@ -89,11 +91,15 @@ __sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin__ manifest.json contains e
 
 __swiadek/pixel-perfecter-sketch-plugin__ manifest.json contains extra commas
 
+**__pixelpillow/copy-paste-guides__ manifest.json is missing identifier**
+
 __AntonioJMartinez/sketch-ImageAverageColor__ manifest.json contains extra commas
 
 __timurnurutdinov/Framer-Inventory-for-Sketch__ manifest.json contains extra commas
 
 __ryanjohnson-me/Sketch-Copy-Paste-Shadows__ manifest.json contains extra commas
+
+**__ryanjohnson-me/Sketch-Copy-Paste-Shadows__ manifest.json is missing identifier**
 
 __LaloMrtnz/Prism__ manifest.json contains extra commas
 
@@ -106,6 +112,8 @@ __lessthanzero/Formr__ manifest.json contains extra commas
 __stackdevelopment/sketch-pixel-cleanup__ manifest.json contains extra commas
 
 **__opencolor-tools/sketch-opencolor__ missing manifest.json**
+
+**__joclin/arrowfy__ manifest.json is missing identifier**
 
 __MagicSketch/MagicPresenter__ manifest.json contains extra commas
 
@@ -122,6 +130,8 @@ __kylehickinson/Sketch-SF-UI-Font-Fixer__ manifest.json contains extra commas
 __cute/SketchI18N__ manifest.json contains extra commas
 
 __jorgemartins/sketch-paginate__ manifest.json contains extra commas
+
+**__nilshoenson/shared-text-styles__ manifest.json is missing identifier**
 
 __marianomike/sketch-exportsymbols__ manifest.json contains extra commas
 
@@ -141,7 +151,13 @@ __pberrecloth/rotator-sketch-plugin__ manifest.json contains extra commas
 
 __eaugustine/Sketch-Color-Contrast-Analyzer__ manifest.json contains extra commas
 
+**__amin-nas/Sketch-to-Clickthrough-HTML__ manifest.json is missing identifier**
+
 __exevil/Sketch-Export-Text__ manifest.json contains extra commas
+
+**__philsinatra/Sketch-Color-Vars__ manifest.json is missing identifier**
+
+**__cshdllr/Notes__ manifest.json is missing identifier**
 
 __devinmancuso/sketch-rtl__ manifest.json contains extra commas
 

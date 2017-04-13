@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2017-04-13 17:01:11 UTC
+Updated 2017-04-13 18:01:07 UTC
 
 Total plugins: 330
 
@@ -164,8 +164,6 @@ __exevil/Sketch-Export-Text__ manifest.json contains extra commas
 __devinmancuso/sketch-rtl__ manifest.json contains extra commas
 
 __pberrecloth/fitter-sketch-plugin__ manifest.json contains extra commas
-
-__YusukeKokubo/sketch-hback-plugin__ manifest.json contains extra commas
 
 __maximedegreve/TinyFaces-Sketch-Plugin__ manifest.json contains extra commas
 

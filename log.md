@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2017-04-12 23:01:56 UTC
+Updated 2017-04-13 00:02:44 UTC
 
 Total plugins: 330
 
@@ -100,6 +100,8 @@ __timurnurutdinov/Framer-Inventory-for-Sketch__ manifest.json contains extra com
 __ryanjohnson-me/Sketch-Copy-Paste-Shadows__ manifest.json contains extra commas
 
 **__ryanjohnson-me/Sketch-Copy-Paste-Shadows__ manifest.json is missing identifier**
+
+__ryanmclaughlin/styledrop__ manifest.json contains extra commas
 
 __LaloMrtnz/Prism__ manifest.json contains extra commas
 

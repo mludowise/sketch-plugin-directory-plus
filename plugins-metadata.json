@@ -3034,12 +3034,12 @@
     "added": "2016-01-12 16:22:46 UTC",
     "homepage": "https://github.com/lewishowles/sketch-replace-colour",
     "gh_url": "https://github.com/lewishowles/sketch-replace-colour.git",
-    "gh_updated": "2017-02-12 15:26:51 UTC",
+    "gh_updated": "2017-04-14 10:15:09 UTC",
     "gh_stars": 79,
-    "gh_issues": 5,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.845bc9b1-ac46-43f0-9163-2b6de0b7fbd1",
-    "man_version": "2.0.5"
+    "man_version": "2.0.6"
   },
   {
     "name": "sketch-distribute-layers",
@@ -3547,7 +3547,7 @@
     "homepage": "https://twitter.com/andreaswah",
     "gh_url": "https://github.com/awt2542/ViewController-for-Framer.git",
     "gh_updated": "2016-12-06 18:26:23 UTC",
-    "gh_stars": 374,
+    "gh_stars": 375,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.156fcaaf-4d3d-4534-9c0d-e89f33efc0a5",
@@ -4217,7 +4217,7 @@
     "homepage": "https://github.com/KivyGogh/Coffee-Slice",
     "gh_url": "https://github.com/KivyGogh/Coffee-Slice.git",
     "gh_updated": "2016-10-14 07:12:27 UTC",
-    "gh_stars": 45,
+    "gh_stars": 84,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.sketchapps.coffee-slice",

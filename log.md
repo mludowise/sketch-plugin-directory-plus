@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2017-04-16 00:02:12 UTC
+Updated 2017-04-16 01:01:38 UTC
 
 Total plugins: 330
 
@@ -96,10 +96,6 @@ __swiadek/pixel-perfecter-sketch-plugin__ manifest.json contains extra commas
 __AntonioJMartinez/sketch-ImageAverageColor__ manifest.json contains extra commas
 
 __timurnurutdinov/Framer-Inventory-for-Sketch__ manifest.json contains extra commas
-
-__ryanjohnson-me/Sketch-Copy-Paste-Shadows__ manifest.json contains extra commas
-
-**__ryanjohnson-me/Sketch-Copy-Paste-Shadows__ manifest.json is missing identifier**
 
 __ryanmclaughlin/styledrop__ manifest.json contains extra commas
 

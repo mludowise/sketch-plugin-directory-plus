@@ -3691,7 +3691,7 @@
     "title": "Sketch Wakatime",
     "description": "A Plugin to update your WakaTime stats automatically from Sketch.",
     "added": "2016-06-08 12:10:49 UTC",
-    "homepage": "https://wakatime.com/",
+    "homepage": "https://wakatime.com/sketch",
     "gh_url": "https://github.com/wakatime/sketch-wakatime.git",
     "gh_updated": "2017-04-15 17:13:33 UTC",
     "gh_stars": 34,

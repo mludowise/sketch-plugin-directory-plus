@@ -3164,10 +3164,11 @@
     "added": "2016-02-02 09:46:05 UTC",
     "homepage": "https://github.com/ryanjohnson-me/Sketch-Copy-Paste-Shadows",
     "gh_url": "https://github.com/ryanjohnson-me/Sketch-Copy-Paste-Shadows.git",
-    "gh_updated": "2017-03-02 15:08:23 UTC",
+    "gh_updated": "2017-04-16 00:54:18 UTC",
     "gh_stars": 21,
     "gh_issues": 0,
     "gh_branch": "master",
+    "man_identifier": "com.example.sketch.copy-paste-shadows",
     "man_version": "0.3"
   },
   {

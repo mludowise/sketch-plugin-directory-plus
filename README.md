@@ -6,23 +6,23 @@ The [plugins-metadata.json](https://github.com/mludowise/sketch-plugin-directory
 
 ## Fields
 
-**owner** (required) &ndash; The GitHub owner of the repository. This is either a user or organization. *Note that for plugins that do not have a GitHub repository, this may not correspond to a valid GitHub owner.*
+**owner** &ndash; The GitHub owner of the repository. This is either a user or organization. *Note that for plugins that do not have a GitHub repository, this may not correspond to a valid GitHub owner.*
 
-**name** (optional) &ndash; The GitHub repository name. *Note that for plugins that do not have a GitHub repository, this may not correspond to a valid GitHub repository and may be nil.
+**name** (nullable) &ndash; The GitHub repository name. *Note that for plugins that do not have a GitHub repository, this may not correspond to a valid GitHub repository and may be nil.
 
-**author** (optional) &ndash; The display name for the author of this repository. Defaults to **owner** if none is provided.
+**author** &ndash; The display name for the author of this repository. Defaults to **owner** if none is provided.
 
-**title** (optional) &ndash; The display name for the plugin. Defaults to **name** if none is provided.
+**title** &ndash; The display name for the plugin. Defaults to **name** if none is provided.
 
-**homepage** (optional) &ndash; A URL pointing to the homepage for this plugin. If none is provided and this plugin corresponds to a valid GitHub repository, this will default to the homepage set in GitHub. If no homepage is set in GitHub, this will default to the GitHub repository URL.
+**homepage** (nullable) &ndash; A URL pointing to the homepage for this plugin. If none is provided and this plugin corresponds to a valid GitHub repository, this will default to the homepage set in GitHub. If no homepage is set in GitHub, this will default to the GitHub repository URL.
 
-**description** (required) &ndash; A human-readable description of what this plugin does.
+**description** &ndash; A human-readable description of what this plugin does.
 
 **added** &ndash; The date this plugin was added to the [Plugin Directory](https://github.com/sketchplugins/plugin-directory/). This may correspond to the time the plugin was detected (within 1 hour) and not the precise time it was added.
 
-**icon** (nullable) &ndash; A URL for a PNG icon for this plugin. If an icon exists in the plugin path **[plugin name].sketchplugin/Contents/Resources/icon.png**, its URL will display here.
+**icon** (nullable) &ndash; A URL for a PNG icon for this plugin. Currently, the only way to specify an icon for a plugin is to put it in the path **[plugin name].sketchplugin/Contents/Resources/icon.png** location in the GitHub project for a plugin.
 
-**gh_url** (nullable) &ndash; The URL for the GitHub repository corresponding to this plugin, if it exits.
+**gh_url** (nullable) &ndash; The URL for the GitHub repository corresponding to this plugin, if it exits (based on the **owner** and **name**).
 
 **gh_branch** (nullable) &ndash; The default branch for the GitHub repository corresponding to this plugin, if it exists.
 
@@ -41,3 +41,9 @@ The [plugins-metadata.json](https://github.com/mludowise/sketch-plugin-directory
 ## Log.md
 
 Problems found during the last time the [plugins-metadata.json](https://github.com/mludowise/sketch-plugin-directory-plus/blob/master/plugins-metadata.json) file was generated can be found in [log.md](https://github.com/mludowise/sketch-plugin-directory-plus/blob/master/log.md).
+
+## Contribution
+
+To add a plugin to this directory, follow the contribution instructions for the official [Plugin Directory](https://github.com/sketchplugins/plugin-directory/). This directory will be automatically updated within an hour after the changes have been committed.
+
+To request any additional information to this project, make a request by filing an [Issue](https://github.com/mludowise/sketch-plugin-directory-plus/issues).

@@ -1,4 +1,4 @@
-# sketch-plugin-directory-plus
+# Sketch Plugin Directory Plus
 
 Enhances the [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory/) with additional metadata about each plugin.
 

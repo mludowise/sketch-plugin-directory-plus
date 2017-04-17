@@ -660,7 +660,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2017-04-05 07:29:54 UTC",
-    "gh_stars": 4511,
+    "gh_stars": 4513,
     "gh_issues": 59,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -3842,7 +3842,7 @@
     "gh_url": "https://github.com/auxdesigner/Sketch-to-VR.git",
     "gh_updated": "2016-11-08 20:13:58 UTC",
     "gh_stars": 370,
-    "gh_issues": 2,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.liuliu.sketch2vr",
     "man_version": "2.0.1"

@@ -4769,12 +4769,12 @@
     "added": "2016-12-02 10:49:20 UTC",
     "homepage": "https://github.com/Ashung/HSL_Color_Picker",
     "gh_url": "https://github.com/Ashung/HSL_Color_Picker.git",
-    "gh_updated": "2017-04-05 11:23:50 UTC",
+    "gh_updated": "2017-04-18 04:09:02 UTC",
     "gh_stars": 26,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.hsl_color_picker",
-    "man_version": "2.1.0",
+    "man_version": "2.2.0",
     "man_compatible_version": "3"
   },
   {
@@ -4951,12 +4951,12 @@
     "added": "2017-01-09 14:30:09 UTC",
     "homepage": "https://github.com/YusukeKokubo/sketch-historyback-plugin",
     "gh_url": "https://github.com/YusukeKokubo/sketch-historyback-plugin.git",
-    "gh_updated": "2017-04-13 17:29:44 UTC",
+    "gh_updated": "2017-04-18 04:34:00 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.phantomtype.sketch.hback",
-    "man_version": "0.2"
+    "man_version": "0.3"
   },
   {
     "name": "sketch_fix_styles",

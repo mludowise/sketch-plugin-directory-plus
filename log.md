@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2017-04-18 10:02:08 UTC
+Updated 2017-04-18 11:01:09 UTC
 
-Total plugins: 330
+Total plugins: 332
 
 ## Problems
 __Volorf/Gridy__ manifest.json contains extra commas

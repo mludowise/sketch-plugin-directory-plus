@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2017-04-18 20:03:02 UTC
+Updated 2017-04-18 21:02:02 UTC
 
 Total plugins: 332
 
@@ -8,8 +8,6 @@ Total plugins: 332
 __Volorf/Gridy__ manifest.json contains extra commas
 
 __mludowise/sketch-html-export__ manifest.json contains extra commas
-
-__markhorgan/click-thru-prototype__ manifest.json contains extra commas
 
 __AnimaApp/Auto-Layout__ manifest.json contains extra commas
 

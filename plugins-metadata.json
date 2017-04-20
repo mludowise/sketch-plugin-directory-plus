@@ -1161,12 +1161,12 @@
     "homepage": "https://zeplin.io",
     "added": "2014-11-10 08:30:49 UTC",
     "gh_url": "https://github.com/zeplin/zeplin-sketch-plugin.git",
-    "gh_updated": "2017-04-20 18:49:13 UTC",
+    "gh_updated": "2017-04-20 22:29:58 UTC",
     "gh_stars": 99,
     "gh_issues": 4,
     "gh_branch": "develop",
     "man_identifier": "io.zeplin.sketch-plugin",
-    "man_version": "1.3"
+    "man_version": "1.3.1"
   },
   {
     "name": "smartboards",
@@ -5325,7 +5325,7 @@
     "homepage": "https://www.diverseui.com",
     "gh_url": "https://github.com/reneepadgham/diverseui-sketch-plugin.git",
     "gh_updated": "2017-04-08 01:08:05 UTC",
-    "gh_stars": 25,
+    "gh_stars": 26,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.diverseui.sketch",

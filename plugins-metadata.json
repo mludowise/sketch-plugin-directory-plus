@@ -140,7 +140,7 @@
     "homepage": "https://github.com/markhorgan/click-thru-prototype",
     "gh_url": "https://github.com/markhorgan/click-thru-prototype.git",
     "gh_updated": "2017-04-18 20:04:49 UTC",
-    "gh_stars": 232,
+    "gh_stars": 233,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.markhorgan.sketch.clickThruPrototype",
@@ -341,12 +341,12 @@
     "added": "2015-07-24 09:02:37 UTC",
     "homepage": "https://prottapp.com",
     "gh_url": "https://github.com/goodpatch/Prott-Sketch-Plugin.git",
-    "gh_updated": "2017-04-05 00:36:31 UTC",
+    "gh_updated": "2017-04-20 02:34:15 UTC",
     "gh_stars": 21,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.goodpatch.prott.prott-sketch-plugin",
-    "man_version": "2.0.0",
+    "man_version": "2.0.2",
     "man_compatible_version": "3"
   },
   {

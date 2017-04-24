@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2017-04-24 08:01:32 UTC
+Updated 2017-04-24 09:02:13 UTC
 
-Total plugins: 336
+Total plugins: 335
 
 ## Problems
 __Volorf/Gridy__ manifest.json contains extra commas
@@ -26,8 +26,6 @@ __thetylerwolf/sketch-data-studio__ manifest.json contains extra commas
 __marcisme/sketch-preview__ manifest.json contains extra commas
 
 __alssndro/sandros-sketch-plugins__ manifest.json contains extra commas
-
-**__florianpnn/sketch-data-parser__ has no repo**
 
 __getflourish/Sketch-Color-Contrast-Analyser__ manifest.json contains extra commas
 
@@ -162,8 +160,6 @@ __maximedegreve/TinyFaces-Sketch-Plugin__ manifest.json contains extra commas
 __mmilano/sketch-rotate-artboards__ manifest.json contains extra commas
 
 __interfacemarket/Egmont-plugin__ manifest.json contains extra commas
-
-**__MichaelFouquet/sketch-nudge-push-shove__ has no repo**
 
 __finchalyzer/slinky__ manifest.json contains extra commas
 

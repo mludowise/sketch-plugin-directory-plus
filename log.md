@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2017-04-25 10:01:18 UTC
+Updated 2017-04-25 11:01:43 UTC
 
-Total plugins: 335
+Total plugins: 336
 
 ## Problems
 __Volorf/Gridy__ manifest.json contains extra commas
@@ -164,4 +164,6 @@ __interfacemarket/Egmont-plugin__ manifest.json contains extra commas
 __finchalyzer/slinky__ manifest.json contains extra commas
 
 __Rezaaa/english-and-persian-lorem-ipsum__ manifest.json contains extra commas
+
+__poyi/CopyColor__ manifest.json contains extra commas
 

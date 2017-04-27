@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2017-04-27 13:01:57 UTC
+Updated 2017-04-27 14:02:07 UTC
 
 Total plugins: 337
 
@@ -72,8 +72,6 @@ __alexito4/Sketch-Color-Theme-Plugin__ manifest.json contains extra commas
 __eivindbohler/Sketch-All-Caps__ manifest.json contains extra commas
 
 __stuartromanek/sketch-mouse-pointers__ manifest.json contains extra commas
-
-__andrewfiorillo/sketch-palettes__ manifest.json contains extra commas
 
 __jessebilsten/Sketch-TitleCase__ manifest.json contains extra commas
 

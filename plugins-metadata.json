@@ -9,7 +9,7 @@
     "added": "2017-04-21 18:02:00 UTC",
     "gh_url": "https://github.com/stark-contrast/stark-sketch-plugin.git",
     "gh_updated": "2017-04-21 04:06:33 UTC",
-    "gh_stars": 108,
+    "gh_stars": 109,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.mfouquet.sketch.stark",
@@ -5259,7 +5259,7 @@
     "homepage": "https://github.com/ScottSavarie/stacker",
     "gh_url": "https://github.com/ScottSavarie/stacker.git",
     "gh_updated": "2017-02-27 09:03:15 UTC",
-    "gh_stars": 14,
+    "gh_stars": 15,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.6bc9eb72-4338-4b17-8cc1-2c19cce9f619",
@@ -5510,5 +5510,21 @@
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.examples.copy-color",
     "man_version": "2.0"
+  },
+  {
+    "name": "justinmind-sketch",
+    "owner": "vconesa",
+    "author": "Justinmind",
+    "title": "Justinmind Sketch",
+    "description": "You can export artboards, layers and pages you’ve made in Sketch to Justinmind and turn them into interactive shareable prototypes.",
+    "added": "2017-04-27 12:01:52 UTC",
+    "homepage": "https://github.com/vconesa/justinmind-sketch",
+    "gh_url": "https://github.com/vconesa/justinmind-sketch.git",
+    "gh_updated": "2017-04-26 23:10:03 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.justinmind.exporttojustinmind",
+    "man_version": "1.0.0"
   }
 ]

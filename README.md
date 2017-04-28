@@ -8,7 +8,7 @@ The [plugins-metadata.json](https://github.com/mludowise/sketch-plugin-directory
 
 **owner** &ndash; The GitHub owner of the repository. This is either a user or organization. *Note that for plugins that do not have a GitHub repository, this may not correspond to a valid GitHub owner.*
 
-**name** (nullable) &ndash; The GitHub repository name. *Note that for plugins that do not have a GitHub repository, this may not correspond to a valid GitHub repository and may be nil.
+**name** (nullable) &ndash; The GitHub repository name. *Note that for plugins that do not have a GitHub repository, this may not correspond to a valid GitHub repository and may be nil.*
 
 **author** &ndash; The display name for the author of this repository. Defaults to **owner** if none is provided.
 

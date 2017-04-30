@@ -1,5 +1,22 @@
 [
   {
+    "name": "chromatic-sketch",
+    "owner": "petterheterjag",
+    "author": "Petter Nilsson",
+    "title": "Chromatic Sketch",
+    "description": "Create good-looking and perceptually uniform gradients and color scales.",
+    "added": "2017-04-30 05:01:39 UTC",
+    "homepage": "https://github.com/petterheterjag/chromatic-sketch",
+    "gh_url": "https://github.com/petterheterjag/chromatic-sketch.git",
+    "gh_updated": "2017-04-29 18:53:36 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.plugins.chromatic-sketch",
+    "man_version": "1.0.0",
+    "man_compatible_version": "3"
+  },
+  {
     "name": "stark-sketch-plugin",
     "owner": "stark-contrast",
     "author": "Michael Fouquet, Cat Noone, Benedikt Lehnert",

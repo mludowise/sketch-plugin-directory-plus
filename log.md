@@ -1,12 +1,10 @@
 # Plugin Metadata
 
-Updated 2017-05-01 15:01:36 UTC
+Updated 2017-05-01 16:02:06 UTC
 
 Total plugins: 339
 
 ## Problems
-**__ediathome/word-cloud__ has no repo**
-
 __Volorf/Gridy__ manifest.json contains extra commas
 
 __AnimaApp/Auto-Layout__ manifest.json contains extra commas

@@ -1,5 +1,13 @@
 [
   {
+    "name": "word-cloud",
+    "owner": "ediathome",
+    "author": "Martin Kolb",
+    "title": "WordCloud",
+    "description": "Create basic word clouds and tag clouds.",
+    "added": "2017-05-01 11:01:59 UTC"
+  },
+  {
     "name": "chromatic-sketch",
     "owner": "petterheterjag",
     "author": "Petter Nilsson",

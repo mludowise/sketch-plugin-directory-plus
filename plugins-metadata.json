@@ -42,7 +42,7 @@
     "added": "2017-04-21 18:02:00 UTC",
     "gh_url": "https://github.com/stark-contrast/stark-sketch-plugin.git",
     "gh_updated": "2017-04-21 04:06:33 UTC",
-    "gh_stars": 170,
+    "gh_stars": 171,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.mfouquet.sketch.stark",
@@ -206,12 +206,12 @@
     "homepage": "https://animaapp.github.io/Auto-Layout/",
     "added": "2016-12-30 12:11:40 UTC",
     "gh_url": "https://github.com/AnimaApp/Auto-Layout.git",
-    "gh_updated": "2017-04-17 19:43:33 UTC",
+    "gh_updated": "2017-05-02 20:37:37 UTC",
     "gh_stars": 370,
     "gh_issues": 21,
     "gh_branch": "master",
     "man_identifier": "com.animaapp.stc-sketch-plugin",
-    "man_version": "0.2.3",
+    "man_version": "0.5.0",
     "man_compatible_version": "41"
   },
   {

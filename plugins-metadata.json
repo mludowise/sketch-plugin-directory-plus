@@ -25,7 +25,7 @@
     "homepage": "https://github.com/petterheterjag/chromatic-sketch",
     "gh_url": "https://github.com/petterheterjag/chromatic-sketch.git",
     "gh_updated": "2017-05-03 07:37:12 UTC",
-    "gh_stars": 39,
+    "gh_stars": 40,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.plugins.chromatic-sketch",
@@ -206,12 +206,12 @@
     "homepage": "https://animaapp.github.io/Auto-Layout/",
     "added": "2016-12-30 12:11:40 UTC",
     "gh_url": "https://github.com/AnimaApp/Auto-Layout.git",
-    "gh_updated": "2017-05-02 20:37:37 UTC",
+    "gh_updated": "2017-05-03 21:26:20 UTC",
     "gh_stars": 373,
     "gh_issues": 27,
     "gh_branch": "master",
     "man_identifier": "com.animaapp.stc-sketch-plugin",
-    "man_version": "0.5.0",
+    "man_version": "0.5.2",
     "man_compatible_version": "41"
   },
   {
@@ -5587,11 +5587,11 @@
     "added": "2017-05-03 12:00:52 UTC",
     "homepage": "https://github.com/perrysmotors/copy-framer-code",
     "gh_url": "https://github.com/perrysmotors/copy-framer-code.git",
-    "gh_updated": "2017-05-03 20:06:10 UTC",
+    "gh_updated": "2017-05-03 22:03:02 UTC",
     "gh_stars": 50,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.gilesperry.copy-framer-code",
-    "man_version": "1.1"
+    "man_version": "1.1.1"
   }
 ]

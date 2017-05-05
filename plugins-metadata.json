@@ -1508,7 +1508,7 @@
     "gh_url": "https://github.com/abynim/UserFlows.git",
     "gh_updated": "2017-04-16 16:36:03 UTC",
     "gh_stars": 1007,
-    "gh_issues": 24,
+    "gh_issues": 25,
     "gh_branch": "v2",
     "man_identifier": "com.abynim.sketchplugins.userflows",
     "man_version": "2.0.4",
@@ -4447,7 +4447,7 @@
     "homepage": "https://github.com/sonburn/symbol-organizer",
     "gh_url": "https://github.com/sonburn/symbol-organizer.git",
     "gh_updated": "2017-04-14 15:32:40 UTC",
-    "gh_stars": 228,
+    "gh_stars": 229,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.44673736-18ee-470e-b22a-f17fbb378238",
@@ -5601,5 +5601,21 @@
     "gh_branch": "master",
     "man_identifier": "com.gilesperry.copy-framer-code",
     "man_version": "1.1.2"
+  },
+  {
+    "name": "Table-of-Contents",
+    "owner": "youwenliang",
+    "author": "You-Wen Liang (Mark)",
+    "title": "Table of Contents",
+    "description": "Sketch plugin for generating table of contents for documentations",
+    "added": "2017-05-05 10:00:52 UTC",
+    "homepage": "https://github.com/youwenliang/Table-of-Contents",
+    "gh_url": "https://github.com/youwenliang/Table-of-Contents.git",
+    "gh_updated": "2017-01-17 10:17:52 UTC",
+    "gh_stars": 12,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.tableofcontents",
+    "man_version": "1.0"
   }
 ]

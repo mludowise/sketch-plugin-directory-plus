@@ -214,12 +214,12 @@
     "homepage": "https://animaapp.github.io/Auto-Layout/",
     "added": "2016-12-30 12:11:40 UTC",
     "gh_url": "https://github.com/AnimaApp/Auto-Layout.git",
-    "gh_updated": "2017-05-06 12:53:34 UTC",
+    "gh_updated": "2017-05-06 13:58:18 UTC",
     "gh_stars": 380,
     "gh_issues": 28,
     "gh_branch": "master",
     "man_identifier": "com.animaapp.stc-sketch-plugin",
-    "man_version": "0.5.2",
+    "man_version": "0.5.4",
     "man_compatible_version": "41"
   },
   {

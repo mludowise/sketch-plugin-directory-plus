@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2017-05-06 21:01:09 UTC
+Updated 2017-05-06 22:01:33 UTC
 
 Total plugins: 343
 
@@ -130,8 +130,6 @@ Total plugins: 343
 [marisaroque/sketch-markup-listify](https://github.com/marisaroque/sketch-markup-listify) manifest.json contains extra commas
 
 [exevil/sketch-rename-instances](https://github.com/exevil/sketch-rename-instances) manifest.json contains extra commas
-
-[nmwoods1/Sketch---Find-all-instances-of-symbol](https://github.com/nmwoods1/Sketch---Find-all-instances-of-symbol) and [lewishowles/sketch-replace-colour](https://github.com/lewishowles/sketch-replace-colour) use the same manifest identifier, __com.example.sketch.845bc9b1-ac46-43f0-9163-2b6de0b7fbd1__
 
 [luvmex/Sketch-Guides](https://github.com/luvmex/Sketch-Guides) manifest.json contains extra commas
 

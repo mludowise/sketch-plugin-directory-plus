@@ -3083,12 +3083,12 @@
     "added": "2016-01-12 16:22:46 UTC",
     "homepage": "https://github.com/lewishowles/sketch-replace-colour",
     "gh_url": "https://github.com/lewishowles/sketch-replace-colour.git",
-    "gh_updated": "2017-04-14 11:46:56 UTC",
+    "gh_updated": "2017-05-06 21:08:58 UTC",
     "gh_stars": 87,
-    "gh_issues": 3,
+    "gh_issues": 1,
     "gh_branch": "master",
-    "man_identifier": "com.example.sketch.845bc9b1-ac46-43f0-9163-2b6de0b7fbd1",
-    "man_version": "2.1.1"
+    "man_identifier": "com.example.sketch.sketch-replace-colour",
+    "man_version": "2.1.2"
   },
   {
     "name": "sketch-distribute-layers",
@@ -3115,11 +3115,11 @@
     "added": "2016-01-14 08:45:27 UTC",
     "homepage": "https://github.com/lewishowles/sketch-bound-with-box",
     "gh_url": "https://github.com/lewishowles/sketch-bound-with-box.git",
-    "gh_updated": "2017-02-12 14:11:17 UTC",
+    "gh_updated": "2017-05-06 21:08:23 UTC",
     "gh_stars": 26,
     "gh_issues": 0,
     "gh_branch": "master",
-    "man_identifier": "com.example.sketch.03e9d746-4b3c-472e-8e6b-706fc5c3a46d",
+    "man_identifier": "com.example.sketch.sketch-bound-with-box",
     "man_version": "1.5"
   },
   {

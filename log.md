@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2017-05-07 01:01:26 UTC
+Updated 2017-05-07 02:01:10 UTC
 
 Total plugins: 343
 
@@ -21,7 +21,7 @@ Total plugins: 343
 
 [thetylerwolf/sketch-data-studio](https://github.com/thetylerwolf/sketch-data-studio) manifest.json contains extra commas
 
-**[WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) missing manifest.json**
+[WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
 
 **[sebj/Select-By-Name](https://github.com/sebj/Select-By-Name) manifest.json is missing identifier**
 

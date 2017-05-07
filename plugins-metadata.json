@@ -518,10 +518,12 @@
     "homepage": "https://www.workingon.co",
     "added": "2015-04-06 04:56:55 UTC",
     "gh_url": "https://github.com/WorkingOn/SketchingOn.git",
-    "gh_updated": "2016-05-04 22:41:15 UTC",
+    "gh_updated": "2017-05-07 01:19:03 UTC",
     "gh_stars": 18,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.sketchingon",
+    "man_version": "1.1.0"
   },
   {
     "name": "Cover-Artboard",
@@ -718,7 +720,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2017-04-05 07:29:54 UTC",
-    "gh_stars": 4606,
+    "gh_stars": 4607,
     "gh_issues": 63,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -5578,12 +5580,12 @@
     "homepage": "https://mludowise.github.io/Sketch-Plugin-Manager",
     "added": "2017-05-02 08:01:49 UTC",
     "gh_url": "https://github.com/mludowise/Sketch-Plugin-Manager.git",
-    "gh_updated": "2017-05-01 23:51:27 UTC",
+    "gh_updated": "2017-05-07 01:15:33 UTC",
     "gh_stars": 8,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.mludowise.sketch-plugin-manager",
-    "man_version": "0.2",
+    "man_version": "1.1",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/mludowise/Sketch-Plugin-Manager/master/sketch-plugin-manager.sketchplugin/Contents/Resources/icon.png"
   },

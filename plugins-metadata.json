@@ -4087,12 +4087,12 @@
     "added": "2017-03-22 12:51:18 UTC",
     "homepage": "https://github.com/contentsync/SketchContentSync.sketchplugin",
     "gh_url": "https://github.com/contentsync/SketchContentSync.sketchplugin.git",
-    "gh_updated": "2017-05-06 00:01:18 UTC",
+    "gh_updated": "2017-05-08 01:52:40 UTC",
     "gh_stars": 208,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.syncify.sketch.contentsync",
-    "man_version": "2.4.3",
+    "man_version": "2.4.4",
     "man_compatible_version": "3.7"
   },
   {

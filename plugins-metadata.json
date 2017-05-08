@@ -1457,13 +1457,13 @@
     "added": "2015-04-07 21:17:44 UTC",
     "homepage": "https://github.com/frankko/Artboard-Tools",
     "gh_url": "https://github.com/frankko/Artboard-Tools.git",
-    "gh_updated": "2015-04-13 14:28:33 UTC",
+    "gh_updated": "2017-05-08 18:58:49 UTC",
     "gh_stars": 59,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "io.kolo.sketch.artboard-tools",
-    "man_version": "2.0",
-    "man_compatible_version": "3.3"
+    "man_version": "2.43.1",
+    "man_compatible_version": "43"
   },
   {
     "name": "Sketch-Unlinker",
@@ -5403,7 +5403,7 @@
     "homepage": "https://github.com/finchalyzer/slinky",
     "gh_url": "https://github.com/finchalyzer/slinky.git",
     "gh_updated": "2017-04-08 08:49:52 UTC",
-    "gh_stars": 322,
+    "gh_stars": 323,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.slinky-plugin",

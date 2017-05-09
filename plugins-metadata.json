@@ -5403,7 +5403,7 @@
     "homepage": "https://github.com/finchalyzer/slinky",
     "gh_url": "https://github.com/finchalyzer/slinky.git",
     "gh_updated": "2017-04-08 08:49:52 UTC",
-    "gh_stars": 323,
+    "gh_stars": 324,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.slinky-plugin",
@@ -5535,7 +5535,7 @@
     "gh_url": "https://github.com/kenmoore/sketch-artboard.git",
     "gh_updated": "2017-04-11 16:55:37 UTC",
     "gh_stars": 17,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.kenmoore.sketch.artboard",
     "man_version": "2.0"

@@ -745,7 +745,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-03-07 07:36:38 UTC",
-    "gh_stars": 3847,
+    "gh_stars": 3848,
     "gh_issues": 29,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -1063,20 +1063,6 @@
     "gh_branch": "master",
     "man_identifier": "net.tadija.sketch.AEIconizer",
     "man_version": "2.2.2"
-  },
-  {
-    "name": "sketch-plugin-typographic-scale",
-    "owner": "automat",
-    "author": "Henryk Wollik",
-    "title": "Typographic Scale",
-    "description": "Generates a typographic scale from selected text layers.",
-    "added": "2014-10-07 02:51:36 UTC",
-    "homepage": "https://github.com/automat/sketch-plugin-typographic-scale",
-    "gh_url": "https://github.com/automat/sketch-plugin-typographic-scale.git",
-    "gh_updated": "2014-10-07 11:08:32 UTC",
-    "gh_stars": 56,
-    "gh_issues": 2,
-    "gh_branch": "master"
   },
   {
     "name": "Efficiency",
@@ -1518,7 +1504,7 @@
     "homepage": "https://github.com/abynim/UserFlows",
     "gh_url": "https://github.com/abynim/UserFlows.git",
     "gh_updated": "2017-04-16 16:36:03 UTC",
-    "gh_stars": 1018,
+    "gh_stars": 1019,
     "gh_issues": 25,
     "gh_branch": "v2",
     "man_identifier": "com.abynim.sketchplugins.userflows",
@@ -1578,18 +1564,12 @@
     "icon": "https://raw.githubusercontent.com/preciousforever/sketch-data-populator/master/Sketch%20Data%20Populator.sketchplugin/Contents/Resources/icon.png"
   },
   {
-    "name": "sketch-aspect-ratio",
     "owner": "preciousforever",
     "author": "precious design studio",
     "title": "Sketch Aspect Ratio",
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
-    "added": "2017-01-09 14:28:43 UTC",
     "homepage": "https://github.com/preciousforever/sketch-aspect-ratio",
-    "gh_url": "https://github.com/preciousforever/sketch-aspect-ratio.git",
-    "gh_updated": "2017-01-13 13:43:56 UTC",
-    "gh_stars": 11,
-    "gh_issues": 1,
-    "gh_branch": "master"
+    "added": "2017-01-09 14:28:43 UTC"
   },
   {
     "name": "sketch-tiles",
@@ -3585,18 +3565,12 @@
     "man_compatible_version": "3.5.1"
   },
   {
-    "name": "sketch-opencolor",
     "owner": "opencolor-tools",
     "author": "OpenColor",
     "title": "Open Color Plugin for Sketch",
     "description": "A sketch plugin to support the open color file format",
-    "added": "2016-04-27 14:58:39 UTC",
-    "homepage": "http://opencolor.tools",
-    "gh_url": "https://github.com/opencolor-tools/sketch-opencolor.git",
-    "gh_updated": "2016-12-16 09:44:36 UTC",
-    "gh_stars": 26,
-    "gh_issues": 10,
-    "gh_branch": "master"
+    "homepage": "http://opencolor.tools/",
+    "added": "2016-04-27 14:58:39 UTC"
   },
   {
     "name": "ViewController-for-Framer",
@@ -3796,18 +3770,12 @@
     "man_compatible_version": "3.8"
   },
   {
-    "name": "optically-sketch-plugin",
     "owner": "vmdanilov",
     "author": "Vlad Danilov",
     "title": "Optically for Sketch",
     "description": "Automated and mathematically precise optical adjustments in Sketch.",
     "homepage": "http://designplugins.com/optically",
-    "added": "2016-06-16 14:25:00 UTC",
-    "gh_url": "https://github.com/vmdanilov/optically-sketch-plugin.git",
-    "gh_updated": "2016-06-15 07:04:28 UTC",
-    "gh_stars": 2,
-    "gh_issues": 0,
-    "gh_branch": "master"
+    "added": "2016-06-16 14:25:00 UTC"
   },
   {
     "name": "ImageExtractorSketch",
@@ -4227,12 +4195,12 @@
     "added": "2016-08-23 08:40:18 UTC",
     "homepage": "https://github.com/Ashung/Android_Res_Export",
     "gh_url": "https://github.com/Ashung/Android_Res_Export.git",
-    "gh_updated": "2017-05-02 06:28:28 UTC",
+    "gh_updated": "2017-05-10 10:23:11 UTC",
     "gh_stars": 55,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.android_res_export",
-    "man_version": "2.1.0",
+    "man_version": "2.1.1",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/Ashung/Android_Res_Export/master/Android_Res_Export.sketchplugin/Contents/Resources/icon.png"
   },
@@ -5591,7 +5559,7 @@
     "added": "2017-05-02 08:01:49 UTC",
     "gh_url": "https://github.com/mludowise/Sketch-Plugin-Manager.git",
     "gh_updated": "2017-05-09 20:01:36 UTC",
-    "gh_stars": 19,
+    "gh_stars": 20,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.mludowise.sketch-plugin-manager",

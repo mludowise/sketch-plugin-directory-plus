@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2017-05-10 10:01:53 UTC
+Updated 2017-05-10 11:01:26 UTC
 
-Total plugins: 343
+Total plugins: 342
 
 ## Problems
 [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) manifest.json contains extra commas
@@ -35,8 +35,6 @@ Total plugins: 343
 
 [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/Sketch-Set-Line-Height-Plugin) manifest.json contains extra commas
 
-**[automat/sketch-plugin-typographic-scale](https://github.com/automat/sketch-plugin-typographic-scale) missing manifest.json**
-
 [ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) manifest.json contains extra commas
 
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
@@ -47,7 +45,7 @@ Total plugins: 343
 
 [preciousforever/sketch-bounding-boxer](https://github.com/preciousforever/sketch-bounding-boxer) manifest.json contains extra commas
 
-**[preciousforever/sketch-aspect-ratio](https://github.com/preciousforever/sketch-aspect-ratio) missing manifest.json**
+**preciousforever/ has no repo**
 
 [kumo/sketch-tiles](https://github.com/kumo/sketch-tiles) manifest.json contains extra commas
 
@@ -103,7 +101,7 @@ Total plugins: 343
 
 [stackdevelopment/sketch-pixel-cleanup](https://github.com/stackdevelopment/sketch-pixel-cleanup) manifest.json contains extra commas
 
-**[opencolor-tools/sketch-opencolor](https://github.com/opencolor-tools/sketch-opencolor) missing manifest.json**
+**opencolor-tools/ has no repo**
 
 **[joclin/arrowfy](https://github.com/joclin/arrowfy) manifest.json is missing identifier**
 
@@ -111,7 +109,7 @@ Total plugins: 343
 
 [screenfork/ScreenFork](https://github.com/screenfork/ScreenFork) manifest.json contains extra commas
 
-**[vmdanilov/optically-sketch-plugin](https://github.com/vmdanilov/optically-sketch-plugin) missing manifest.json**
+**vmdanilov/ has no repo**
 
 [kylehickinson/Sketch-SF-UI-Font-Fixer](https://github.com/kylehickinson/Sketch-SF-UI-Font-Fixer) manifest.json contains extra commas
 

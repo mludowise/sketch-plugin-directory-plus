@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2017-05-10 17:01:40 UTC
+Updated 2017-05-10 18:02:20 UTC
 
 Total plugins: 343
 
@@ -84,8 +84,6 @@ Total plugins: 343
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 
 [swiadek/pixel-perfecter-sketch-plugin](https://github.com/swiadek/pixel-perfecter-sketch-plugin) manifest.json contains extra commas
-
-**[pixelpillow/copy-paste-guides](https://github.com/pixelpillow/copy-paste-guides) manifest.json is missing identifier**
 
 [AntonioJMartinez/sketch-ImageAverageColor](https://github.com/AntonioJMartinez/sketch-ImageAverageColor) manifest.json contains extra commas
 

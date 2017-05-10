@@ -1,15 +1,17 @@
 # Plugin Metadata
 
-Updated 2017-05-10 08:01:19 UTC
+Updated 2017-05-10 09:01:22 UTC
 
 Total plugins: 343
 
 ## Problems
-**AnimaApp/ has no repo**
+[AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) manifest.json contains extra commas
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
 
 [AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) manifest.json contains extra commas
+
+[AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) and [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) use the same manifest identifier, __com.animaapp.stc-sketch-plugin__
 
 [emrerussia/sketch-clear-export-options](https://github.com/emrerussia/sketch-clear-export-options) manifest.json contains extra commas
 

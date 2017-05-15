@@ -744,9 +744,9 @@
     "added": "2014-05-18 14:11:20 UTC",
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
-    "gh_updated": "2017-03-07 07:36:38 UTC",
+    "gh_updated": "2017-05-15 19:22:31 UTC",
     "gh_stars": 3854,
-    "gh_issues": 30,
+    "gh_issues": 26,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
     "man_version": "1.1"

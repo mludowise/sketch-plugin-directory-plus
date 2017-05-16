@@ -1364,12 +1364,12 @@
     "added": "2015-01-12 09:28:25 UTC",
     "homepage": "https://github.com/kenmoore/sketch-relabel-button",
     "gh_url": "https://github.com/kenmoore/sketch-relabel-button.git",
-    "gh_updated": "2017-04-03 16:28:43 UTC",
+    "gh_updated": "2017-05-16 21:19:13 UTC",
     "gh_stars": 179,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.kenmoore.sketch.relabelbutton",
-    "man_version": "1.2"
+    "man_version": "1.4"
   },
   {
     "name": "sketch-pull-to-center",
@@ -3167,7 +3167,7 @@
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2017-05-10 13:44:40 UTC",
     "gh_stars": 1808,
-    "gh_issues": 12,
+    "gh_issues": 13,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
     "man_compatible_version": "3",

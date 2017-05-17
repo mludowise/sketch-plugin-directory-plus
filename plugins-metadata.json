@@ -738,7 +738,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2017-05-13 01:34:18 UTC",
-    "gh_stars": 4645,
+    "gh_stars": 4646,
     "gh_issues": 71,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -2605,7 +2605,7 @@
     "gh_url": "https://github.com/wonderbit/sketch-select-similar-layers.git",
     "gh_updated": "2017-03-10 08:12:22 UTC",
     "gh_stars": 138,
-    "gh_issues": 5,
+    "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "me.wessley.selectSimilarLayers",
     "man_version": "1.1"
@@ -3020,7 +3020,7 @@
     "homepage": "https://github.com/kang-chen/sketch-export-generator",
     "gh_url": "https://github.com/kang-chen/sketch-export-generator.git",
     "gh_updated": "2016-11-21 22:55:58 UTC",
-    "gh_stars": 75,
+    "gh_stars": 76,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "me.kangchen.export-scale-generator",
@@ -3461,7 +3461,7 @@
     "homepage": "http://AnimateMate.com",
     "gh_url": "https://github.com/Creatide/AnimateMate.git",
     "gh_updated": "2016-11-09 15:37:53 UTC",
-    "gh_stars": 1018,
+    "gh_stars": 1019,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.creatide.sketch.animatemate",
@@ -5658,5 +5658,22 @@
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.partyka.fontily",
     "man_version": "1.1"
+  },
+  {
+    "name": "sketch-copy-paste-layout-settings",
+    "owner": "FrancisVega",
+    "author": "Francis",
+    "title": "Sketch Copy Paste Layout Settings",
+    "description": "Copy layout settings from one artboard and paste into multiples artboards.",
+    "added": "2017-05-17 10:01:12 UTC",
+    "homepage": "https://github.com/FrancisVega/sketch-copy-paste-layout-settings",
+    "gh_url": "https://github.com/FrancisVega/sketch-copy-paste-layout-settings.git",
+    "gh_updated": "2017-05-17 08:33:31 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.layoutsettings",
+    "man_version": "0.2",
+    "man_compatible_version": "4.3"
   }
 ]

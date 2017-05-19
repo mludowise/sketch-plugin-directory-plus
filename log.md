@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2017-05-19 20:01:36 UTC
+Updated 2017-05-19 21:01:32 UTC
 
 Total plugins: 348
 
@@ -102,8 +102,6 @@ Total plugins: 348
 [stackdevelopment/sketch-pixel-cleanup](https://github.com/stackdevelopment/sketch-pixel-cleanup) manifest.json contains extra commas
 
 **opencolor-tools/ has no repo**
-
-**[joclin/arrowfy](https://github.com/joclin/arrowfy) manifest.json is missing identifier**
 
 [MagicSketch/MagicPresenter](https://github.com/MagicSketch/MagicPresenter) manifest.json contains extra commas
 

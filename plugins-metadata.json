@@ -3363,12 +3363,12 @@
     "added": "2016-03-01 12:09:51 UTC",
     "homepage": "https://github.com/ryanmclaughlin/styledrop",
     "gh_url": "https://github.com/ryanmclaughlin/styledrop.git",
-    "gh_updated": "2017-04-12 23:26:16 UTC",
+    "gh_updated": "2017-05-19 20:35:46 UTC",
     "gh_stars": 50,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "io.mack.sketch.style-drop",
-    "man_version": "1.0.1"
+    "man_version": "1.0.2"
   },
   {
     "name": "SketchPlugins",
@@ -3624,10 +3624,11 @@
     "added": "2016-05-02 19:04:07 UTC",
     "homepage": "https://github.com/joclin/arrowfy",
     "gh_url": "https://github.com/joclin/arrowfy.git",
-    "gh_updated": "2016-09-06 19:14:07 UTC",
+    "gh_updated": "2017-05-19 20:43:00 UTC",
     "gh_stars": 72,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
+    "man_identifier": "com.jocelynlin.sketch.arrowfy",
     "man_version": "1.1"
   },
   {
@@ -5585,12 +5586,12 @@
     "homepage": "https://mludowise.github.io/Sketch-Plugin-Manager",
     "added": "2017-05-02 08:01:49 UTC",
     "gh_url": "https://github.com/mludowise/Sketch-Plugin-Manager.git",
-    "gh_updated": "2017-05-09 20:01:36 UTC",
+    "gh_updated": "2017-05-19 20:33:46 UTC",
     "gh_stars": 37,
-    "gh_issues": 3,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.mludowise.sketch-plugin-manager",
-    "man_version": "1.2",
+    "man_version": "1.3",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/mludowise/Sketch-Plugin-Manager/master/sketch-plugin-manager.sketchplugin/Contents/Resources/icon.png"
   },

@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2017-05-23 08:00:55 UTC
+Updated 2017-05-23 09:01:27 UTC
 
-Total plugins: 349
+Total plugins: 351
 
 ## Problems
 **[Ashung/design-system](https://github.com/Ashung/design-system) has no repo**
@@ -160,4 +160,6 @@ Total plugins: 349
 [youwenliang/Table-of-Contents](https://github.com/youwenliang/Table-of-Contents) manifest.json contains extra commas
 
 [partyka1/Fontily](https://github.com/partyka1/Fontily) manifest.json contains extra commas
+
+[canisminor1990/sketch-move-half-pixel](https://github.com/canisminor1990/sketch-move-half-pixel) manifest.json contains extra commas
 

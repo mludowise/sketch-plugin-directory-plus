@@ -738,7 +738,7 @@
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2017-05-13 01:34:18 UTC",
     "gh_stars": 4671,
-    "gh_issues": 73,
+    "gh_issues": 74,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.6.3"
@@ -1365,7 +1365,7 @@
     "gh_url": "https://github.com/kenmoore/sketch-relabel-button.git",
     "gh_updated": "2017-05-17 07:11:06 UTC",
     "gh_stars": 189,
-    "gh_issues": 3,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.kenmoore.sketch.relabelbutton",
     "man_version": "1.6"
@@ -3896,7 +3896,7 @@
     "homepage": "https://github.com/auxdesigner/Sketch-to-VR",
     "gh_url": "https://github.com/auxdesigner/Sketch-to-VR.git",
     "gh_updated": "2016-11-08 20:13:58 UTC",
-    "gh_stars": 387,
+    "gh_stars": 388,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.liuliu.sketch2vr",
@@ -5091,12 +5091,12 @@
     "added": "2017-01-27 19:11:27 UTC",
     "homepage": "https://github.com/herrkris/sketch-dynamic-symbol-button",
     "gh_url": "https://github.com/herrkris/sketch-dynamic-symbol-button.git",
-    "gh_updated": "2017-05-24 12:12:54 UTC",
-    "gh_stars": 38,
-    "gh_issues": 5,
+    "gh_updated": "2017-05-24 13:46:04 UTC",
+    "gh_stars": 39,
+    "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "dreier.kristof.rbs",
-    "man_version": "2.0.0-beta.1",
+    "man_version": "2.0.0-beta.2",
     "man_compatible_version": "3.5"
   },
   {
@@ -5127,7 +5127,7 @@
     "gh_url": "https://github.com/PeachScript/sketch-plugin-monster.git",
     "gh_updated": "2017-03-13 11:56:48 UTC",
     "gh_stars": 58,
-    "gh_issues": 5,
+    "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.peachscript.pluginMonster",
     "man_version": "0.2.0"

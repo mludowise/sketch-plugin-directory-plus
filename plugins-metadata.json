@@ -82,12 +82,12 @@
     "homepage": "https://zeroheight.com",
     "added": "2017-04-11 17:00:45 UTC",
     "gh_url": "https://github.com/zeroheight/zeroheight-sketch-plugin.git",
-    "gh_updated": "2017-04-19 18:36:16 UTC",
+    "gh_updated": "2017-05-25 17:22:52 UTC",
     "gh_stars": 2,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.zeroheight.sketch",
-    "man_version": "1.4.1"
+    "man_version": "1.5.3"
   },
   {
     "name": "foreignipsum",
@@ -738,7 +738,7 @@
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2017-05-13 01:34:18 UTC",
     "gh_stars": 4674,
-    "gh_issues": 74,
+    "gh_issues": 75,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.6.3"
@@ -2619,7 +2619,7 @@
     "homepage": "https://github.com/JohnCoates/CSSketch",
     "gh_url": "https://github.com/JohnCoates/CSSketch.git",
     "gh_updated": "2016-11-23 03:55:38 UTC",
-    "gh_stars": 1811,
+    "gh_stars": 1812,
     "gh_issues": 43,
     "gh_branch": "master",
     "man_identifier": "com.johncoates.CSSketch",
@@ -5175,7 +5175,7 @@
     "homepage": "https://github.com/ScottSavarie/Enumerator",
     "gh_url": "https://github.com/ScottSavarie/Enumerator.git",
     "gh_updated": "2017-02-27 09:09:20 UTC",
-    "gh_stars": 30,
+    "gh_stars": 31,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.7662642c-ab6d-439a-acee-4a6b9bf810df",

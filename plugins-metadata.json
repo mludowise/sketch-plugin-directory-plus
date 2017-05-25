@@ -3754,12 +3754,12 @@
     "added": "2016-06-08 12:10:49 UTC",
     "homepage": "https://wakatime.com/sketch",
     "gh_url": "https://github.com/wakatime/sketch-wakatime.git",
-    "gh_updated": "2017-04-15 17:13:33 UTC",
+    "gh_updated": "2017-05-25 06:51:33 UTC",
     "gh_stars": 34,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.wakatime.sketch.plugin",
-    "man_version": "1.0.9"
+    "man_version": "1.0.10"
   },
   {
     "name": "compo-sketch",

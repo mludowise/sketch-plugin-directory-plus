@@ -214,12 +214,12 @@
     "added": "2017-01-19 10:37:58 UTC",
     "homepage": "https://github.com/markhorgan/click-thru-prototype",
     "gh_url": "https://github.com/markhorgan/click-thru-prototype.git",
-    "gh_updated": "2017-04-18 20:04:49 UTC",
+    "gh_updated": "2017-05-26 13:01:06 UTC",
     "gh_stars": 250,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.markhorgan.sketch.clickThruPrototype",
-    "man_version": "1.1.3",
+    "man_version": "1.1.4",
     "man_compatible_version": "3"
   },
   {
@@ -5407,7 +5407,7 @@
     "homepage": "https://github.com/finchalyzer/slinky",
     "gh_url": "https://github.com/finchalyzer/slinky.git",
     "gh_updated": "2017-05-18 09:42:01 UTC",
-    "gh_stars": 332,
+    "gh_stars": 333,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.slinky-plugin",

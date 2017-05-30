@@ -67,7 +67,7 @@
     "added": "2017-04-21 18:02:00 UTC",
     "gh_url": "https://github.com/stark-contrast/stark-sketch-plugin.git",
     "gh_updated": "2017-05-05 16:39:11 UTC",
-    "gh_stars": 229,
+    "gh_stars": 230,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.mfouquet.sketch.stark",
@@ -2088,12 +2088,13 @@
     "added": "2015-08-09 11:03:01 UTC",
     "homepage": "https://github.com/romannurik/Sketch-ArtboardTricks",
     "gh_url": "https://github.com/romannurik/Sketch-ArtboardTricks.git",
-    "gh_updated": "2017-05-30 18:42:28 UTC",
+    "gh_updated": "2017-05-30 20:19:34 UTC",
     "gh_stars": 180,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.artboardtricks",
-    "man_version": "1.0.3"
+    "man_version": "1.0.3",
+    "man_compatible_version": "41"
   },
   {
     "name": "sketch-use-fontawesome",
@@ -2485,7 +2486,7 @@
     "homepage": "https://github.com/andrewfiorillo/sketch-palettes",
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
     "gh_updated": "2017-05-21 19:08:29 UTC",
-    "gh_stars": 1492,
+    "gh_stars": 1493,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
@@ -5638,7 +5639,7 @@
     "gh_url": "https://github.com/avadhbsd/IconFlower.git",
     "gh_updated": "2017-05-19 17:17:48 UTC",
     "gh_stars": 82,
-    "gh_issues": 0,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.d701dfe6-8995-454b-ba89-e5f894208334",
     "man_version": "1.0"
@@ -5719,7 +5720,7 @@
     "gh_url": "https://github.com/canisminor1990/sketch-move-half-pixel.git",
     "gh_updated": "2017-05-23 02:45:38 UTC",
     "gh_stars": 5,
-    "gh_issues": 0,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "me.canisminor.SketchMoveHalfPixel",
     "man_version": "1.0"

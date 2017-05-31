@@ -2936,13 +2936,13 @@
     "added": "2015-11-26 11:11:02 UTC",
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
-    "gh_updated": "2017-05-10 13:05:48 UTC",
+    "gh_updated": "2017-05-31 08:42:10 UTC",
     "gh_stars": 138,
-    "gh_issues": 3,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
-    "man_version": "2.0.20170510",
-    "man_compatible_version": "3"
+    "man_version": "2.0.20170531",
+    "man_compatible_version": "40"
   },
   {
     "name": "move-it",
@@ -3150,7 +3150,7 @@
     "homepage": "https://github.com/ScottSavarie/Clipboard-Fill",
     "gh_url": "https://github.com/ScottSavarie/Clipboard-Fill.git",
     "gh_updated": "2017-02-27 09:08:32 UTC",
-    "gh_stars": 292,
+    "gh_stars": 293,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.7ee74bdc-1af8-4b23-bfc8-f051f8c64992",
@@ -3899,7 +3899,9 @@
     "gh_updated": "2016-11-08 20:13:58 UTC",
     "gh_stars": 392,
     "gh_issues": 3,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.liuliu.sketch2vr",
+    "man_version": "2.0.1"
   },
   {
     "owner": "Atomic.io",
@@ -4453,7 +4455,7 @@
     "homepage": "https://github.com/sonburn/symbol-organizer",
     "gh_url": "https://github.com/sonburn/symbol-organizer.git",
     "gh_updated": "2017-05-24 18:54:14 UTC",
-    "gh_stars": 250,
+    "gh_stars": 251,
     "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.44673736-18ee-470e-b22a-f17fbb378238",
@@ -4486,7 +4488,7 @@
     "homepage": "https://github.com/ANGIstudio/Sketch-Copy-Paste-Position-Size",
     "gh_url": "https://github.com/ANGIstudio/Sketch-Copy-Paste-Position-Size.git",
     "gh_updated": "2016-11-12 20:08:36 UTC",
-    "gh_stars": 109,
+    "gh_stars": 110,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.copypastepositionsize",
@@ -4877,7 +4879,7 @@
     "homepage": "https://github.com/pberrecloth/prefixation-sketch-plugin",
     "gh_url": "https://github.com/pberrecloth/prefixation-sketch-plugin.git",
     "gh_updated": "2016-11-15 19:31:29 UTC",
-    "gh_stars": 17,
+    "gh_stars": 16,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.pathprefixmanager.sketchplugin",
@@ -4942,7 +4944,7 @@
     "homepage": "https://github.com/eddiesigner/sketch-map-generator",
     "gh_url": "https://github.com/eddiesigner/sketch-map-generator.git",
     "gh_updated": "2017-04-16 14:12:43 UTC",
-    "gh_stars": 187,
+    "gh_stars": 188,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "io.eduardogomez.sketch.map-generator",
@@ -5522,7 +5524,7 @@
     "gh_url": "https://github.com/kenmoore/sketch-arrange-artboards.git",
     "gh_updated": "2017-04-11 18:22:27 UTC",
     "gh_stars": 43,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.kenmoore.sketch.arrangeartboards",
     "man_version": "1.0"
@@ -5603,7 +5605,7 @@
     "homepage": "https://github.com/perrysmotors/copy-framer-code",
     "gh_url": "https://github.com/perrysmotors/copy-framer-code.git",
     "gh_updated": "2017-05-26 08:55:39 UTC",
-    "gh_stars": 110,
+    "gh_stars": 111,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.gilesperry.copy-framer-code",
@@ -5739,5 +5741,21 @@
     "man_identifier": "com.carlosnavarro.sketch.appalette",
     "man_version": "1.0.0",
     "man_compatible_version": "3"
+  },
+  {
+    "name": "Seca",
+    "owner": "iGenius-Srl",
+    "author": "iGenius",
+    "title": "Seca",
+    "description": "Your friendly Sketch slicing helper for symbols",
+    "added": "2017-05-31 09:01:05 UTC",
+    "homepage": "https://github.com/iGenius-Srl/Seca",
+    "gh_url": "https://github.com/iGenius-Srl/Seca.git",
+    "gh_updated": "2017-05-26 13:38:41 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "net.igenius.seca",
+    "man_version": "1.0.1"
   }
 ]

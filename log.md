@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2017-05-31 12:01:01 UTC
+Updated 2017-05-31 14:01:19 UTC
 
 Total plugins: 352
 
@@ -10,6 +10,8 @@ Total plugins: 352
 [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) manifest.json contains extra commas
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
+
+**[sureskumar/Looper](https://github.com/sureskumar/Looper) missing manifest.json**
 
 [AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) manifest.json contains extra commas
 

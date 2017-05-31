@@ -135,7 +135,10 @@
     "gh_updated": "2017-05-22 14:47:22 UTC",
     "gh_stars": 141,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sureskumar.sketch.looper",
+    "man_version": "2.1.0",
+    "man_compatible_version": "40.0"
   },
   {
     "name": "LayerRenamer",

@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2017-05-31 08:01:11 UTC
+Updated 2017-05-31 09:01:05 UTC
 
-Total plugins: 351
+Total plugins: 352
 
 ## Problems
 **[Ashung/design-system](https://github.com/Ashung/design-system) has no repo**
@@ -110,8 +110,6 @@ Total plugins: 351
 **vmdanilov/ has no repo**
 
 [kylehickinson/Sketch-SF-UI-Font-Fixer](https://github.com/kylehickinson/Sketch-SF-UI-Font-Fixer) manifest.json contains extra commas
-
-**[auxdesigner/Sketch-to-VR](https://github.com/auxdesigner/Sketch-to-VR) missing manifest.json**
 
 **Atomic.io/ has no repo**
 

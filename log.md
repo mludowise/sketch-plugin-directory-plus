@@ -1,12 +1,10 @@
 # Plugin Metadata
 
-Updated 2017-06-01 13:01:06 UTC
+Updated 2017-06-01 14:01:31 UTC
 
-Total plugins: 352
+Total plugins: 351
 
 ## Problems
-**[Ashung/design-system](https://github.com/Ashung/design-system) has no repo**
-
 [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) manifest.json contains extra commas
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
@@ -64,8 +62,6 @@ Total plugins: 352
 [jamztang/MagicMirror](https://github.com/jamztang/MagicMirror) manifest.json contains extra commas
 
 [bunguu/SketchExportForRepliaPlugin](https://github.com/bunguu/SketchExportForRepliaPlugin) manifest.json contains extra commas
-
-[keremciu/sketch-use-fontawesome](https://github.com/keremciu/sketch-use-fontawesome) manifest.json contains extra commas
 
 [ozgurgunes/Sketch-Layer-Comps](https://github.com/ozgurgunes/Sketch-Layer-Comps) manifest.json contains extra commas
 

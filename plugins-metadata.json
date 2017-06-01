@@ -2122,7 +2122,7 @@
     "homepage": "https://github.com/keremciu/sketch-iconfont",
     "gh_url": "https://github.com/keremciu/sketch-iconfont.git",
     "gh_updated": "2017-04-28 10:29:40 UTC",
-    "gh_stars": 1234,
+    "gh_stars": 1235,
     "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "com.keremciu.sketch.iconfont",
@@ -3757,7 +3757,7 @@
     "gh_url": "https://github.com/wakatime/sketch-wakatime.git",
     "gh_updated": "2017-05-25 06:51:33 UTC",
     "gh_stars": 34,
-    "gh_issues": 3,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.wakatime.sketch.plugin",
     "man_version": "1.0.10"

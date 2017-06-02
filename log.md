@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2017-06-01 23:01:24 UTC
+Updated 2017-06-02 00:02:57 UTC
 
 Total plugins: 351
 
@@ -144,8 +144,6 @@ Total plugins: 351
 [maximedegreve/TinyFaces-Sketch-Plugin](https://github.com/maximedegreve/TinyFaces-Sketch-Plugin) manifest.json contains extra commas
 
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
-
-[interfacemarket/Egmont-plugin](https://github.com/interfacemarket/Egmont-plugin) manifest.json contains extra commas
 
 [finchalyzer/slinky](https://github.com/finchalyzer/slinky) manifest.json contains extra commas
 

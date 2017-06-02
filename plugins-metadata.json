@@ -93,7 +93,7 @@
     "gh_url": "https://github.com/zeroheight/zeroheight-sketch-plugin.git",
     "gh_updated": "2017-05-25 17:22:52 UTC",
     "gh_stars": 2,
-    "gh_issues": 1,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.zeroheight.sketch",
     "man_version": "1.5.3"
@@ -5087,7 +5087,7 @@
     "gh_url": "https://github.com/herrkris/sketch-dynamic-symbol-button.git",
     "gh_updated": "2017-05-24 13:46:04 UTC",
     "gh_stars": 42,
-    "gh_issues": 9,
+    "gh_issues": 11,
     "gh_branch": "master",
     "man_identifier": "dreier.kristof.rbs",
     "man_version": "2.0.0-beta.2",
@@ -5451,7 +5451,7 @@
     "gh_url": "https://github.com/bomberstudios/Cleanup-Useless-Groups.git",
     "gh_updated": "2017-05-25 15:23:59 UTC",
     "gh_stars": 46,
-    "gh_issues": 2,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.d2c66cff-a235-44dd-854e-2a7497e32c1b",
     "man_version": "1.1"

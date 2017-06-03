@@ -661,13 +661,13 @@
     "added": "2014-05-14 03:43:43 UTC",
     "homepage": "https://github.com/marcisme/sketch-preview",
     "gh_url": "https://github.com/marcisme/sketch-preview.git",
-    "gh_updated": "2016-11-05 19:32:44 UTC",
+    "gh_updated": "2017-06-03 00:59:37 UTC",
     "gh_stars": 556,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.marcisme.sketch-preview",
-    "man_version": "0.10.3",
-    "man_compatible_version": "3.8.3"
+    "man_version": "0.11.0",
+    "man_compatible_version": "45"
   },
   {
     "name": "sketch-commands",

@@ -1,11 +1,13 @@
 # Plugin Metadata
 
-Updated 2017-06-04 14:24:04 UTC
+Updated 2017-06-04 15:28:01 UTC
 
 Total plugins: 351
 
 ## Problems
 [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) manifest.json contains extra commas
+
+[3raxton/foreignipsum](https://github.com/3raxton/foreignipsum) manifest.json contains extra commas
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
 

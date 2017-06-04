@@ -91,12 +91,12 @@
     "homepage": "https://zeroheight.com",
     "added": "2017-04-11 17:00:45 UTC",
     "gh_url": "https://github.com/zeroheight/zeroheight-sketch-plugin.git",
-    "gh_updated": "2017-06-03 09:32:59 UTC",
+    "gh_updated": "2017-06-04 20:26:37 UTC",
     "gh_stars": 2,
-    "gh_issues": 2,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.zeroheight.sketch",
-    "man_version": "1.5.3"
+    "man_version": "1.5.4"
   },
   {
     "name": "foreignipsum",
@@ -142,7 +142,7 @@
     "homepage": "https://github.com/sureskumar/Looper",
     "gh_url": "https://github.com/sureskumar/Looper.git",
     "gh_updated": "2017-06-04 17:59:36 UTC",
-    "gh_stars": 159,
+    "gh_stars": 160,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.sureskumar.sketch.looper",

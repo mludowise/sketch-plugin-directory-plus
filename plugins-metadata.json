@@ -141,12 +141,12 @@
     "added": "2017-04-02 18:13:08 UTC",
     "homepage": "https://github.com/sureskumar/Looper",
     "gh_url": "https://github.com/sureskumar/Looper.git",
-    "gh_updated": "2017-05-22 14:47:22 UTC",
+    "gh_updated": "2017-06-04 05:56:07 UTC",
     "gh_stars": 156,
-    "gh_issues": 2,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.sureskumar.sketch.looper",
-    "man_version": "2.1.0",
+    "man_version": "2.2.0",
     "man_compatible_version": "40.0"
   },
   {

@@ -2645,12 +2645,12 @@
     "added": "2015-10-19 20:17:59 UTC",
     "homepage": "https://github.com/truthlabs/sketch-unlock-all-layers",
     "gh_url": "https://github.com/truthlabs/sketch-unlock-all-layers.git",
-    "gh_updated": "2017-06-02 22:00:30 UTC",
+    "gh_updated": "2017-06-05 22:45:57 UTC",
     "gh_stars": 30,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.truthlabs.unlockalllayers",
-    "man_version": "2.1"
+    "man_version": "2.2"
   },
   {
     "name": "sketch-any-icon-fetcher",

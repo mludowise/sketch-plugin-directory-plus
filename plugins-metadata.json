@@ -59,12 +59,13 @@
     "homepage": "https://github.com/ediathome/WordCloud",
     "added": "2017-05-01 16:02:06 UTC",
     "gh_url": "https://github.com/ediathome/WordCloud.git",
-    "gh_updated": "2017-06-04 08:57:01 UTC",
+    "gh_updated": "2017-06-06 16:09:13 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "de.vt-learn.wordcloud",
-    "man_version": "0.1.0"
+    "man_version": "0.2.0",
+    "man_compatible_version": "43.2"
   },
   {
     "name": "chromatic-sketch",
@@ -2133,7 +2134,7 @@
     "gh_url": "https://github.com/keremciu/sketch-iconfont.git",
     "gh_updated": "2017-04-28 10:29:40 UTC",
     "gh_stars": 1245,
-    "gh_issues": 9,
+    "gh_issues": 10,
     "gh_branch": "master",
     "man_identifier": "com.keremciu.sketch.iconfont",
     "man_version": "4.5.1"
@@ -2495,12 +2496,12 @@
     "added": "2015-09-24 19:15:42 UTC",
     "homepage": "https://github.com/andrewfiorillo/sketch-palettes",
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
-    "gh_updated": "2017-05-21 19:08:29 UTC",
+    "gh_updated": "2017-06-06 16:00:44 UTC",
     "gh_stars": 1499,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
-    "man_version": "2.0",
+    "man_version": "2.10",
     "man_compatible_version": "39"
   },
   {
@@ -5235,7 +5236,7 @@
     "gh_url": "https://github.com/DWilliames/PDF-export-sketch-plugin.git",
     "gh_updated": "2017-03-21 09:17:09 UTC",
     "gh_stars": 27,
-    "gh_issues": 3,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch.pdf-export",
     "man_version": "1.2.1",
@@ -5744,7 +5745,7 @@
     "added": "2017-05-23 09:01:27 UTC",
     "homepage": "https://github.com/Carlosarturo28/Appalette",
     "gh_url": "https://github.com/Carlosarturo28/Appalette.git",
-    "gh_updated": "2017-06-01 20:15:52 UTC",
+    "gh_updated": "2017-06-06 15:41:29 UTC",
     "gh_stars": 11,
     "gh_issues": 0,
     "gh_branch": "master",

@@ -1,5 +1,22 @@
 [
   {
+    "name": "Reselect",
+    "owner": "mfouquet",
+    "author": "Michael Fouquet",
+    "title": "Reselect",
+    "description": "Reselect allows you to restore a previous selection or save selections for later use (even after you close the document).",
+    "homepage": "http://www.reselect.co",
+    "added": "2017-06-06 07:03:04 UTC",
+    "gh_url": "https://github.com/mfouquet/Reselect.git",
+    "gh_updated": "2017-06-05 22:32:52 UTC",
+    "gh_stars": 15,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.mfouquet.sketch.reselect",
+    "man_version": "2.0.0",
+    "man_compatible_version": "4.1"
+  },
+  {
     "name": "design-systems",
     "owner": "Ashung",
     "author": "Ashung Hung",
@@ -746,7 +763,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2017-05-13 01:34:18 UTC",
-    "gh_stars": 4704,
+    "gh_stars": 4705,
     "gh_issues": 77,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",

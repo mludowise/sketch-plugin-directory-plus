@@ -764,7 +764,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2017-05-13 01:34:18 UTC",
-    "gh_stars": 4706,
+    "gh_stars": 4707,
     "gh_issues": 77,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -780,7 +780,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-05-15 19:22:31 UTC",
-    "gh_stars": 3876,
+    "gh_stars": 3877,
     "gh_issues": 28,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -1616,12 +1616,18 @@
     "icon": "https://raw.githubusercontent.com/preciousforever/sketch-data-populator/master/Sketch%20Data%20Populator.sketchplugin/Contents/Resources/icon.png"
   },
   {
+    "name": "sketch-aspect-ratio",
     "owner": "preciousforever",
     "author": "precious design studio",
     "title": "Sketch Aspect Ratio",
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
+    "added": "2017-06-07 09:02:28 UTC",
     "homepage": "https://github.com/preciousforever/sketch-aspect-ratio",
-    "added": "2017-01-09 14:28:43 UTC"
+    "gh_url": "https://github.com/preciousforever/sketch-aspect-ratio.git",
+    "gh_updated": "2017-01-13 13:43:56 UTC",
+    "gh_stars": 10,
+    "gh_issues": 1,
+    "gh_branch": "master"
   },
   {
     "name": "sketch-tiles",
@@ -2599,7 +2605,7 @@
     "gh_url": "https://github.com/bshorta/date-generator-sketch.git",
     "gh_updated": "2017-03-02 19:07:37 UTC",
     "gh_stars": 11,
-    "gh_issues": 2,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "cc.bernardo",
     "man_version": "0.1.1",
@@ -5768,5 +5774,21 @@
     "gh_branch": "master",
     "man_identifier": "net.igenius.seca",
     "man_version": "1.0.1"
+  },
+  {
+    "name": "sync-to-slides",
+    "owner": "websiddu",
+    "author": "Siddhartha",
+    "title": "Sync To Slides",
+    "description": "Sync to Slides is a Sketch plugin that will help you upload your artboards to Google Slides directly without an export step",
+    "homepage": "https://websiddu.github.io/sync-to-slides/",
+    "added": "2017-06-07 09:02:28 UTC",
+    "gh_url": "https://github.com/websiddu/sync-to-slides.git",
+    "gh_updated": "2017-06-07 07:21:02 UTC",
+    "gh_stars": 33,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.google.sketch.synctoslides",
+    "man_version": "2.2"
   }
 ]

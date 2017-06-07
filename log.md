@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2017-06-07 08:09:46 UTC
+Updated 2017-06-07 09:02:28 UTC
 
-Total plugins: 352
+Total plugins: 353
 
 ## Problems
 [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) manifest.json contains extra commas
@@ -47,7 +47,7 @@ Total plugins: 352
 
 [preciousforever/sketch-bounding-boxer](https://github.com/preciousforever/sketch-bounding-boxer) manifest.json contains extra commas
 
-**preciousforever/ has no repo**
+**[preciousforever/sketch-aspect-ratio](https://github.com/preciousforever/sketch-aspect-ratio) missing manifest.json**
 
 [kumo/sketch-tiles](https://github.com/kumo/sketch-tiles) manifest.json contains extra commas
 

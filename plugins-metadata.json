@@ -1471,12 +1471,12 @@
     "added": "2015-02-09 16:26:22 UTC",
     "homepage": "https://github.com/PEZ/SketchDistributor",
     "gh_url": "https://github.com/PEZ/SketchDistributor.git",
-    "gh_updated": "2017-02-18 12:35:26 UTC",
+    "gh_updated": "2017-06-08 11:45:53 UTC",
     "gh_stars": 212,
-    "gh_issues": 4,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.betterthantomorrow.sketch.distributor",
-    "man_version": "1.0.4c"
+    "man_version": "1.1"
   },
   {
     "name": "sketch-storyboard",

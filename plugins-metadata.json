@@ -765,7 +765,7 @@
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2017-05-13 01:34:18 UTC",
     "gh_stars": 4709,
-    "gh_issues": 77,
+    "gh_issues": 79,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.6.3"
@@ -5604,7 +5604,7 @@
     "added": "2017-05-02 08:01:49 UTC",
     "gh_url": "https://github.com/mludowise/Sketch-Plugin-Manager.git",
     "gh_updated": "2017-05-24 18:51:45 UTC",
-    "gh_stars": 54,
+    "gh_stars": 55,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.mludowise.sketch-plugin-manager",

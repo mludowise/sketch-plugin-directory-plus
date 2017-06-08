@@ -3864,12 +3864,12 @@
     "added": "2016-06-27 10:02:54 UTC",
     "homepage": "https://github.com/kylehickinson/Sketch-SF-UI-Font-Fixer",
     "gh_url": "https://github.com/kylehickinson/Sketch-SF-UI-Font-Fixer.git",
-    "gh_updated": "2017-06-02 13:38:05 UTC",
+    "gh_updated": "2017-06-08 03:51:18 UTC",
     "gh_stars": 321,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.kylehickinson.sf-fix-fonts",
-    "man_version": "1.0"
+    "man_version": "1.1"
   },
   {
     "name": "sketch-repeat",

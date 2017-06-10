@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2017-06-10 17:01:32 UTC
+Updated 2017-06-10 18:01:18 UTC
 
-Total plugins: 353
+Total plugins: 354
 
 ## Problems
 [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) manifest.json contains extra commas

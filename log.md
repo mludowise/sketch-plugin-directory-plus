@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2017-06-10 15:01:54 UTC
+Updated 2017-06-10 16:01:54 UTC
 
 Total plugins: 353
 
@@ -136,8 +136,6 @@ Total plugins: 353
 **[amin-nas/Sketch-to-Clickthrough-HTML](https://github.com/amin-nas/Sketch-to-Clickthrough-HTML) manifest.json is missing identifier**
 
 [exevil/Sketch-Export-Text](https://github.com/exevil/Sketch-Export-Text) manifest.json contains extra commas
-
-**[cshdllr/Notes](https://github.com/cshdllr/Notes) manifest.json is missing identifier**
 
 [devinmancuso/sketch-rtl](https://github.com/devinmancuso/sketch-rtl) manifest.json contains extra commas
 

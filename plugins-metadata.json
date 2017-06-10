@@ -27,7 +27,7 @@
     "gh_url": "https://github.com/Ashung/design-systems.git",
     "gh_updated": "2017-06-05 06:42:13 UTC",
     "gh_stars": 3,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.design_systems",
     "man_version": "3.0",
@@ -3643,7 +3643,7 @@
     "gh_url": "https://github.com/joclin/arrowfy.git",
     "gh_updated": "2017-05-19 20:43:00 UTC",
     "gh_stars": 74,
-    "gh_issues": 4,
+    "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.jocelynlin.sketch.arrowfy",
     "man_version": "1.1"

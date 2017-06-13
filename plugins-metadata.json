@@ -804,12 +804,12 @@
     "added": "2014-05-18 14:11:20 UTC",
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
-    "gh_updated": "2017-06-13 18:26:55 UTC",
+    "gh_updated": "2017-06-13 18:33:10 UTC",
     "gh_stars": 3888,
     "gh_issues": 27,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
-    "man_version": "1.1"
+    "man_version": "1.0"
   },
   {
     "name": "sandros-sketch-plugins",
@@ -3356,7 +3356,7 @@
     "homepage": "https://github.com/andrewfiorillo/sketch-artboards-to-pdf",
     "gh_url": "https://github.com/andrewfiorillo/sketch-artboards-to-pdf.git",
     "gh_updated": "2017-04-12 16:07:31 UTC",
-    "gh_stars": 131,
+    "gh_stars": 132,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-artboards-to-pdf",

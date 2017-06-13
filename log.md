@@ -1,10 +1,12 @@
 # Plugin Metadata
 
-Updated 2017-06-13 07:01:30 UTC
+Updated 2017-06-13 08:01:38 UTC
 
-Total plugins: 354
+Total plugins: 355
 
 ## Problems
+**[sureskumar/super-shpaes](https://github.com/sureskumar/super-shpaes) has no repo**
+
 [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) manifest.json contains extra commas
 
 [3raxton/foreignipsum](https://github.com/3raxton/foreignipsum) manifest.json contains extra commas

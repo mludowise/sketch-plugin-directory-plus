@@ -173,7 +173,7 @@
     "title": "Looper",
     "description": "Looper helps automate duplication of groups and layers. One can control properties like Rotate, Scale and Opacity while duplicating. This powerful combination enables artists and designers to create interesting geometric and organic patterns.",
     "added": "2017-04-02 18:13:08 UTC",
-    "homepage": "https://github.com/sureskumar/Looper",
+    "homepage": "http://www.sureskumar.com/looper/",
     "gh_url": "https://github.com/sureskumar/Looper.git",
     "gh_updated": "2017-06-05 04:37:12 UTC",
     "gh_stars": 163,
@@ -5162,7 +5162,7 @@
     "gh_url": "https://github.com/PeachScript/sketch-plugin-monster.git",
     "gh_updated": "2017-06-12 10:37:05 UTC",
     "gh_stars": 59,
-    "gh_issues": 10,
+    "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.peachscript.pluginMonster",
     "man_version": "0.2.0"

@@ -5397,7 +5397,7 @@
     "owner": "demersdesigns",
     "author": "Paul Demers",
     "title": "Batch Create Symbols",
-    "description": "A Sketch plugin to count: characters, words, whitespace, and paragraphs",
+    "description": "A plugin for Sketch to convert selected layers to individual symbols.",
     "added": "2017-03-31 17:44:01 UTC",
     "homepage": "https://github.com/demersdesigns/sketch-batch-create-symbols",
     "gh_url": "https://github.com/demersdesigns/sketch-batch-create-symbols.git",

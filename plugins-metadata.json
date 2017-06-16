@@ -250,7 +250,7 @@
     "homepage": "https://github.com/mludowise/Sketch-HTML-Export",
     "gh_url": "https://github.com/mludowise/Sketch-HTML-Export.git",
     "gh_updated": "2017-06-14 00:57:36 UTC",
-    "gh_stars": 14,
+    "gh_stars": 15,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.mludowise.htmlexport",
@@ -5169,12 +5169,12 @@
     "added": "2017-02-20 14:12:05 UTC",
     "homepage": "https://github.com/PeachScript/sketch-plugin-monster",
     "gh_url": "https://github.com/PeachScript/sketch-plugin-monster.git",
-    "gh_updated": "2017-06-16 13:19:24 UTC",
+    "gh_updated": "2017-06-16 17:04:05 UTC",
     "gh_stars": 62,
     "gh_issues": 11,
     "gh_branch": "master",
     "man_identifier": "com.peachscript.pluginMonster",
-    "man_version": "0.2.0"
+    "man_version": "0.3.0"
   },
   {
     "name": "RandomColors",

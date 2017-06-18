@@ -805,7 +805,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-06-13 18:33:10 UTC",
-    "gh_stars": 3894,
+    "gh_stars": 3895,
     "gh_issues": 28,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -2762,7 +2762,7 @@
     "gh_url": "https://github.com/arshad/Sketch-Sass-Colors.git",
     "gh_updated": "2016-12-15 06:46:23 UTC",
     "gh_stars": 61,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "io.arshad.sketch-sass-colors",
     "man_version": "1.2"

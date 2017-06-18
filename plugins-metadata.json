@@ -1632,7 +1632,7 @@
     "homepage": "https://github.com/preciousforever/sketch-data-populator",
     "gh_url": "https://github.com/preciousforever/sketch-data-populator.git",
     "gh_updated": "2017-06-14 06:41:07 UTC",
-    "gh_stars": 1298,
+    "gh_stars": 1299,
     "gh_issues": 16,
     "gh_branch": "master",
     "man_identifier": "com.precious-forever.sketch.datapopulator2",
@@ -1680,12 +1680,12 @@
     "added": "2015-06-10 20:27:31 UTC",
     "homepage": "https://github.com/ozzik/swap-styles",
     "gh_url": "https://github.com/ozzik/swap-styles.git",
-    "gh_updated": "2016-10-13 17:17:26 UTC",
+    "gh_updated": "2017-06-18 16:47:08 UTC",
     "gh_stars": 117,
-    "gh_issues": 3,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "co.ozzik.swapstyles",
-    "man_version": "1.0.3"
+    "man_version": "1.0.4"
   },
   {
     "name": "swap-elements",
@@ -4480,12 +4480,12 @@
     "added": "2016-09-27 08:02:44 UTC",
     "homepage": "https://github.com/ozzik/Slicer",
     "gh_url": "https://github.com/ozzik/Slicer.git",
-    "gh_updated": "2017-01-15 20:41:13 UTC",
+    "gh_updated": "2017-06-18 16:57:32 UTC",
     "gh_stars": 211,
-    "gh_issues": 7,
+    "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "co.ozzik.slicer",
-    "man_version": "0.4.3"
+    "man_version": "0.4.4"
   },
   {
     "name": "symbol-organizer",
@@ -4594,12 +4594,12 @@
     "added": "2016-10-17 08:10:14 UTC",
     "homepage": "https://github.com/ozzik/push-and-shove",
     "gh_url": "https://github.com/ozzik/push-and-shove.git",
-    "gh_updated": "2017-03-14 06:12:15 UTC",
+    "gh_updated": "2017-06-18 16:54:01 UTC",
     "gh_stars": 31,
-    "gh_issues": 3,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "co.ozzik.pushandshove",
-    "man_version": "1.2.1"
+    "man_version": "1.2.2"
   },
   {
     "name": "QuickColor",

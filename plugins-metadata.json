@@ -17,13 +17,21 @@
     "man_compatible_version": "40.0"
   },
   {
-    "name": "super-shpaes",
+    "name": "super-shapes",
     "owner": "sureskumar",
     "author": "Sures Kumar",
     "title": "Super Shapes",
     "description": "Generate complex organic super-shapes using super formula.",
     "homepage": "https://github.com/sureskumar/super-shapes",
-    "added": "2017-06-13 08:01:38 UTC"
+    "added": "2017-06-21 16:02:10 UTC",
+    "gh_url": "https://github.com/sureskumar/super-shapes.git",
+    "gh_updated": "2017-06-20 09:21:46 UTC",
+    "gh_stars": 12,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.sureskumar.supershapes",
+    "man_version": "1.0.0",
+    "man_compatible_version": "40.0"
   },
   {
     "name": "symbol-spacer-sketch-plugin",
@@ -36,7 +44,7 @@
     "gh_url": "https://github.com/novemberfiveco/symbol-spacer-sketch-plugin.git",
     "gh_updated": "2017-06-12 15:24:53 UTC",
     "gh_stars": 19,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "be.novemberfive.symbol-spacer",
     "man_compatible_version": "3"
@@ -284,7 +292,7 @@
     "homepage": "https://github.com/markhorgan/click-thru-prototype",
     "gh_url": "https://github.com/markhorgan/click-thru-prototype.git",
     "gh_updated": "2017-06-09 09:22:25 UTC",
-    "gh_stars": 252,
+    "gh_stars": 253,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.markhorgan.sketch.clickThruPrototype",
@@ -3226,7 +3234,7 @@
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2017-05-25 07:55:35 UTC",
     "gh_stars": 1865,
-    "gh_issues": 19,
+    "gh_issues": 20,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
     "man_compatible_version": "3",

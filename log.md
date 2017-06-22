@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2017-06-22 15:02:02 UTC
+Updated 2017-06-22 16:09:43 UTC
 
 Total plugins: 357
 
@@ -143,7 +143,7 @@ Total plugins: 357
 
 [maximedegreve/TinyFaces-Sketch-Plugin](https://github.com/maximedegreve/TinyFaces-Sketch-Plugin) manifest.json contains extra commas
 
-**[mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) missing manifest.json**
+[mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
 
 [finchalyzer/slinky](https://github.com/finchalyzer/slinky) manifest.json contains extra commas
 

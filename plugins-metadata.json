@@ -5509,12 +5509,12 @@
     "added": "2017-04-06 17:47:31 UTC",
     "homepage": "http://rezamahmoudi.ir",
     "gh_url": "https://github.com/Rezaaa/english-and-persian-lorem-ipsum.git",
-    "gh_updated": "2017-04-06 13:45:26 UTC",
+    "gh_updated": "2017-06-22 09:50:58 UTC",
     "gh_stars": 10,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.reza.lorem",
-    "man_version": "3.0"
+    "man_version": "3.1"
   },
   {
     "name": "Cleanup-Useless-Groups",

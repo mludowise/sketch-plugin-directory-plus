@@ -3530,7 +3530,7 @@
     "homepage": "http://AnimateMate.com",
     "gh_url": "https://github.com/Creatide/AnimateMate.git",
     "gh_updated": "2017-05-24 17:12:40 UTC",
-    "gh_stars": 1043,
+    "gh_stars": 1044,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.creatide.sketch.animatemate",
@@ -5014,7 +5014,7 @@
     "homepage": "https://github.com/eddiesigner/sketch-map-generator",
     "gh_url": "https://github.com/eddiesigner/sketch-map-generator.git",
     "gh_updated": "2017-06-21 21:30:49 UTC",
-    "gh_stars": 209,
+    "gh_stars": 211,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "io.eduardogomez.sketch.map-generator",
@@ -5840,7 +5840,7 @@
     "gh_url": "https://github.com/websiddu/sync-to-slides.git",
     "gh_updated": "2017-06-08 05:11:37 UTC",
     "gh_stars": 70,
-    "gh_issues": 6,
+    "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.google.sketch.synctoslides",
     "man_version": "2.2"
@@ -5859,6 +5859,22 @@
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.examples.search-text",
+    "man_version": "1.0"
+  },
+  {
+    "name": "sketch-show-layer-info",
+    "owner": "MrPeak",
+    "author": "捻捻转儿",
+    "title": "Sketch Show Layer Info",
+    "description": "Show selected layer's ObjectID, Class and ID. It is of great use for plugin development or file parsing.",
+    "added": "2017-06-23 23:09:04 UTC",
+    "homepage": "https://github.com/MrPeak/sketch-show-layer-info",
+    "gh_url": "https://github.com/MrPeak/sketch-show-layer-info.git",
+    "gh_updated": "2017-06-23 17:50:27 UTC",
+    "gh_stars": 1,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.plugins.show-layer-info",
     "man_version": "1.0"
   }
 ]

@@ -3235,7 +3235,7 @@
     "homepage": "https://mathieudutour.github.io/git-sketch-plugin",
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2017-05-25 07:55:35 UTC",
-    "gh_stars": 1870,
+    "gh_stars": 1871,
     "gh_issues": 20,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
@@ -5757,12 +5757,12 @@
     "added": "2017-05-18 08:01:28 UTC",
     "homepage": "https://github.com/joshdjuric/Skatter",
     "gh_url": "https://github.com/joshdjuric/Skatter.git",
-    "gh_updated": "2017-05-11 13:30:12 UTC",
+    "gh_updated": "2017-06-23 11:00:37 UTC",
     "gh_stars": 23,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.Skatter",
-    "man_version": "1.0.3"
+    "man_version": "1.0.4"
   },
   {
     "name": "Freeman-FinChart-SketchPlugin",

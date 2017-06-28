@@ -2199,12 +2199,12 @@
     "added": "2015-09-12 20:26:51 UTC",
     "homepage": "https://github.com/keremciu/sketch-iconfont",
     "gh_url": "https://github.com/keremciu/sketch-iconfont.git",
-    "gh_updated": "2017-04-28 10:29:40 UTC",
+    "gh_updated": "2017-06-28 20:48:40 UTC",
     "gh_stars": 1274,
-    "gh_issues": 12,
+    "gh_issues": 10,
     "gh_branch": "master",
     "man_identifier": "com.keremciu.sketch.iconfont",
-    "man_version": "4.5.1"
+    "man_version": "4.5.3"
   },
   {
     "name": "Handy-Tools",
@@ -3244,7 +3244,7 @@
     "homepage": "https://mathieudutour.github.io/git-sketch-plugin",
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2017-05-25 07:55:35 UTC",
-    "gh_stars": 1877,
+    "gh_stars": 1878,
     "gh_issues": 17,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
@@ -5008,7 +5008,7 @@
     "gh_url": "https://github.com/Tallwave/sketch-spellcheck-all-layers.git",
     "gh_updated": "2017-04-02 22:46:38 UTC",
     "gh_stars": 39,
-    "gh_issues": 4,
+    "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.ethology-co.spellcheckwholepage",
     "man_version": "1.1"

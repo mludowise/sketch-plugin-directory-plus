@@ -1,5 +1,14 @@
 [
   {
+    "name": "canvasflip_sketch_sync",
+    "owner": "canvasflip",
+    "author": "CanvasFlip",
+    "title": "CanvasFlip",
+    "description": "Sync and generate specs from sketch artboards to CanvasFlip.",
+    "homepage": "https://canvasflip.com/",
+    "added": "2017-06-28 14:01:57 UTC"
+  },
+  {
     "name": "palette-stripes",
     "owner": "sureskumar",
     "author": "Sures Kumar",
@@ -9,7 +18,7 @@
     "added": "2017-06-20 08:01:30 UTC",
     "gh_url": "https://github.com/sureskumar/palette-stripes.git",
     "gh_updated": "2017-06-23 04:21:44 UTC",
-    "gh_stars": 6,
+    "gh_stars": 7,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.sureskumar.palettestripes",
@@ -93,12 +102,12 @@
     "homepage": "https://launchpad.animaapp.com",
     "added": "2017-05-10 09:01:22 UTC",
     "gh_url": "https://github.com/AnimaApp/Launchpad.git",
-    "gh_updated": "2017-06-15 22:25:07 UTC",
+    "gh_updated": "2017-06-28 14:00:27 UTC",
     "gh_stars": 1,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.animaapp.stc-sketch-plugin",
-    "man_version": "0.8.1",
+    "man_version": "0.8.2",
     "man_compatible_version": "41"
   },
   {
@@ -211,7 +220,7 @@
     "homepage": "http://www.sureskumar.com/looper/",
     "gh_url": "https://github.com/sureskumar/Looper.git",
     "gh_updated": "2017-06-22 14:23:33 UTC",
-    "gh_stars": 212,
+    "gh_stars": 213,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.sureskumar.sketch.looper",
@@ -4523,12 +4532,12 @@
     "added": "2016-09-28 14:25:23 UTC",
     "homepage": "https://github.com/sonburn/symbol-organizer",
     "gh_url": "https://github.com/sonburn/symbol-organizer.git",
-    "gh_updated": "2017-05-24 18:54:14 UTC",
-    "gh_stars": 265,
+    "gh_updated": "2017-06-28 13:34:18 UTC",
+    "gh_stars": 266,
     "gh_issues": 13,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.44673736-18ee-470e-b22a-f17fbb378238",
-    "man_version": "11.0",
+    "man_version": "11.3",
     "icon": "https://raw.githubusercontent.com/sonburn/symbol-organizer/master/Symbol%20Organizer.sketchplugin/Contents/Resources/icon.png"
   },
   {

@@ -841,7 +841,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-06-30 14:43:33 UTC",
-    "gh_stars": 3911,
+    "gh_stars": 3912,
     "gh_issues": 31,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -1172,7 +1172,7 @@
     "gh_url": "https://github.com/tadija/AEIconizer.git",
     "gh_updated": "2017-06-07 22:58:20 UTC",
     "gh_stars": 345,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "net.tadija.sketch.AEIconizer",
     "man_version": "2.3.0"

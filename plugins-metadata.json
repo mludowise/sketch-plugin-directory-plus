@@ -840,12 +840,12 @@
     "added": "2014-05-18 14:11:20 UTC",
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
-    "gh_updated": "2017-06-13 18:33:10 UTC",
+    "gh_updated": "2017-06-30 14:43:33 UTC",
     "gh_stars": 3911,
     "gh_issues": 31,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
-    "man_version": "1.0"
+    "man_version": "1.1"
   },
   {
     "name": "sandros-sketch-plugins",
@@ -2200,7 +2200,7 @@
     "homepage": "https://github.com/keremciu/sketch-iconfont",
     "gh_url": "https://github.com/keremciu/sketch-iconfont.git",
     "gh_updated": "2017-06-28 20:48:40 UTC",
-    "gh_stars": 1277,
+    "gh_stars": 1278,
     "gh_issues": 11,
     "gh_branch": "master",
     "man_identifier": "com.keremciu.sketch.iconfont",
@@ -5489,7 +5489,7 @@
     "homepage": "https://github.com/finchalyzer/slinky",
     "gh_url": "https://github.com/finchalyzer/slinky.git",
     "gh_updated": "2017-06-29 14:14:10 UTC",
-    "gh_stars": 371,
+    "gh_stars": 372,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.slinky-plugin",
@@ -5902,5 +5902,14 @@
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.aakolpakov.sketch-numbering-machine",
     "man_version": "0.3"
+  },
+  {
+    "name": "RealtimeBoard-plugin-for-Sketch",
+    "owner": "RealtimeBoard",
+    "author": "RealtimeBoard",
+    "title": "RealtimeBoard plugin for Sketch",
+    "description": "Add, share and discuss your Sketch artboards with the team in RealtimeBoard. The plugin allow to sync the artboards with the boards in one click",
+    "homepage": "https://github.com/RealtimeBoard/sketch_plugin",
+    "added": "2017-06-30 15:01:52 UTC"
   }
 ]

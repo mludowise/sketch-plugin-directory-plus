@@ -1766,7 +1766,7 @@
     "gh_url": "https://github.com/tudou527/marketch.git",
     "gh_updated": "2017-01-06 16:55:02 UTC",
     "gh_stars": 2053,
-    "gh_issues": 37,
+    "gh_issues": 38,
     "gh_branch": "master",
     "man_identifier": "com.marketch.cosa.98908c77-3d38-48fa-8c7c-1bb465f67eb8",
     "man_version": "1.0.22"
@@ -2099,7 +2099,7 @@
     "added": "2015-08-05 03:01:56 UTC",
     "gh_url": "https://github.com/MagicSketch/MagicMirror.git",
     "gh_updated": "2017-02-14 08:15:34 UTC",
-    "gh_stars": 410,
+    "gh_stars": 409,
     "gh_issues": 19,
     "gh_branch": "master",
     "man_identifier": "design.magicmirror",
@@ -5605,7 +5605,7 @@
     "gh_url": "https://github.com/kenmoore/sketch-arrange-artboards.git",
     "gh_updated": "2017-06-28 15:25:45 UTC",
     "gh_stars": 44,
-    "gh_issues": 2,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.kenmoore.sketch.arrangeartboards",
     "man_version": "1.1"

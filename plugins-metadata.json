@@ -2497,12 +2497,12 @@
     "added": "2015-09-16 10:31:57 UTC",
     "homepage": "https://github.com/mscodemonkey/Sketch-Find-And-Replace",
     "gh_url": "https://github.com/mscodemonkey/Sketch-Find-And-Replace.git",
-    "gh_updated": "2017-05-17 05:51:06 UTC",
+    "gh_updated": "2017-07-02 23:35:16 UTC",
     "gh_stars": 418,
-    "gh_issues": 26,
+    "gh_issues": 24,
     "gh_branch": "master",
     "man_identifier": "com.martinsteven.sketch-find-and-replace",
-    "man_version": "1.13",
+    "man_version": "1.2",
     "man_compatible_version": "3.03"
   },
   {

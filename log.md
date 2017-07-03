@@ -1,10 +1,12 @@
 # Plugin Metadata
 
-Updated 2017-07-03 13:02:17 UTC
+Updated 2017-07-03 14:02:46 UTC
 
-Total plugins: 361
+Total plugins: 362
 
 ## Problems
+[weixin/WeSketch](https://github.com/weixin/WeSketch) manifest.json contains extra commas
+
 **[canvasflip/canvasflip_sketch_sync](https://github.com/canvasflip/canvasflip_sketch_sync) has no repo**
 
 [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) manifest.json contains extra commas

@@ -842,7 +842,7 @@
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-06-30 14:43:33 UTC",
     "gh_stars": 3911,
-    "gh_issues": 32,
+    "gh_issues": 31,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
     "man_version": "1.1"
@@ -1668,7 +1668,7 @@
     "homepage": "https://github.com/preciousforever/sketch-data-populator",
     "gh_url": "https://github.com/preciousforever/sketch-data-populator.git",
     "gh_updated": "2017-06-19 20:05:29 UTC",
-    "gh_stars": 1307,
+    "gh_stars": 1308,
     "gh_issues": 12,
     "gh_branch": "master",
     "man_identifier": "com.precious-forever.sketch.datapopulator2",

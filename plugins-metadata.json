@@ -18,8 +18,8 @@
     "added": "2017-07-03 14:02:46 UTC",
     "gh_url": "https://github.com/weixin/WeSketch.git",
     "gh_updated": "2017-07-05 09:55:39 UTC",
-    "gh_stars": 691,
-    "gh_issues": 8,
+    "gh_stars": 705,
+    "gh_issues": 10,
     "gh_branch": "master",
     "man_identifier": "cn.wechat",
     "man_version": "1.0.0",
@@ -346,7 +346,7 @@
     "added": "2016-12-30 12:11:40 UTC",
     "gh_url": "https://github.com/AnimaApp/Auto-Layout.git",
     "gh_updated": "2017-06-28 14:24:12 UTC",
-    "gh_stars": 454,
+    "gh_stars": 455,
     "gh_issues": 31,
     "gh_branch": "master",
     "man_identifier": "com.animaapp.stc-sketch-plugin",
@@ -567,10 +567,7 @@
     "gh_updated": "2017-07-04 21:17:23 UTC",
     "gh_stars": 19,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.einancunlu.sketch-plugins.flatten",
-    "man_version": "1.6",
-    "man_compatible_version": "4.4"
+    "gh_branch": "master"
   },
   {
     "name": "Disconnect-for-Sketch",
@@ -2523,7 +2520,7 @@
     "added": "2015-09-16 10:31:57 UTC",
     "homepage": "https://github.com/thierryc/Sketch-Find-And-Replace",
     "gh_url": "https://github.com/thierryc/Sketch-Find-And-Replace.git",
-    "gh_updated": "2017-07-05 01:06:58 UTC",
+    "gh_updated": "2017-07-05 12:49:07 UTC",
     "gh_stars": 421,
     "gh_issues": 6,
     "gh_branch": "master",
@@ -3416,7 +3413,16 @@
     "author": "Andrew Fiorillo",
     "title": "Artboards to PDF",
     "description": "Sketch plugin to export artboards to PDF slideshow, from either the current page or from all pages",
-    "added": "2016-02-16 20:54:50 UTC"
+    "added": "2016-02-16 20:54:50 UTC",
+    "homepage": "https://github.com/andrewfiorillo/sketch-artboards-to-pdf",
+    "gh_url": "https://github.com/andrewfiorillo/sketch-artboards-to-pdf.git",
+    "gh_updated": "2017-04-12 16:07:31 UTC",
+    "gh_stars": 137,
+    "gh_issues": 6,
+    "gh_branch": "master",
+    "man_identifier": "com.andrewfiorillo.sketch.sketch-artboards-to-pdf",
+    "man_version": "1.1",
+    "man_compatible_version": "3"
   },
   {
     "name": "Sketch-Base64-PNG-Export",

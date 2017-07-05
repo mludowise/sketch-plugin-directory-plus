@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2017-07-05 13:01:09 UTC
+Updated 2017-07-05 14:01:11 UTC
 
 Total plugins: 363
 
@@ -28,8 +28,6 @@ Total plugins: 363
 [herrhelms/social-artboards-sketch](https://github.com/herrhelms/social-artboards-sketch) manifest.json contains extra commas
 
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
-
-**[einancunlu/Flatten-Plugin-for-Sketch](https://github.com/einancunlu/Flatten-Plugin-for-Sketch) missing manifest.json**
 
 [thetylerwolf/sketch-data-studio](https://github.com/thetylerwolf/sketch-data-studio) manifest.json contains extra commas
 
@@ -82,6 +80,8 @@ Total plugins: 363
 [eivindbohler/Sketch-All-Caps](https://github.com/eivindbohler/Sketch-All-Caps) manifest.json contains extra commas
 
 [stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers) manifest.json contains extra commas
+
+[bouchenoiremarc/Sketch-Constraints](https://github.com/bouchenoiremarc/Sketch-Constraints) manifest.json contains extra commas
 
 [jessebilsten/Sketch-TitleCase](https://github.com/jessebilsten/Sketch-TitleCase) manifest.json contains extra commas
 

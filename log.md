@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2017-07-06 18:01:38 UTC
+Updated 2017-07-06 19:01:50 UTC
 
 Total plugins: 363
 
@@ -168,4 +168,6 @@ Total plugins: 363
 [canisminor1990/sketch-move-half-pixel](https://github.com/canisminor1990/sketch-move-half-pixel) manifest.json contains extra commas
 
 **[RealtimeBoard/RealtimeBoard-plugin-for-Sketch](https://github.com/RealtimeBoard/RealtimeBoard-plugin-for-Sketch) has no repo**
+
+**[ImageOptim/sketch-plugin](https://github.com/ImageOptim/sketch-plugin) missing manifest.json**
 

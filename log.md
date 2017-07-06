@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2017-07-06 07:02:26 UTC
+Updated 2017-07-06 08:02:02 UTC
 
 Total plugins: 363
 
@@ -28,6 +28,8 @@ Total plugins: 363
 [herrhelms/social-artboards-sketch](https://github.com/herrhelms/social-artboards-sketch) manifest.json contains extra commas
 
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
+
+[einancunlu/Flatten-Plugin-for-Sketch](https://github.com/einancunlu/Flatten-Plugin-for-Sketch) manifest.json is invalid
 
 [thetylerwolf/sketch-data-studio](https://github.com/thetylerwolf/sketch-data-studio) manifest.json contains extra commas
 

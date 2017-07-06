@@ -18,7 +18,7 @@
     "added": "2017-07-03 14:02:46 UTC",
     "gh_url": "https://github.com/weixin/WeSketch.git",
     "gh_updated": "2017-07-06 13:39:21 UTC",
-    "gh_stars": 1082,
+    "gh_stars": 1087,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "cn.wechat",
@@ -2223,7 +2223,7 @@
     "homepage": "https://github.com/keremciu/sketch-iconfont",
     "gh_url": "https://github.com/keremciu/sketch-iconfont.git",
     "gh_updated": "2017-06-28 20:48:40 UTC",
-    "gh_stars": 1286,
+    "gh_stars": 1287,
     "gh_issues": 11,
     "gh_branch": "master",
     "man_identifier": "com.keremciu.sketch.iconfont",
@@ -2460,22 +2460,6 @@
     "gh_branch": "master",
     "man_identifier": "com.alejandromp.sketch.colortheme",
     "man_version": "0.1"
-  },
-  {
-    "name": "Sketch-Motion",
-    "owner": "nwallen",
-    "author": "Nicholas Wallen",
-    "title": "Sketch Motion",
-    "description": "Plugin to create motion designs in Sketch",
-    "added": "2015-09-04 09:20:18 UTC",
-    "homepage": "https://github.com/nwallen/Sketch-Motion",
-    "gh_url": "https://github.com/nwallen/Sketch-Motion.git",
-    "gh_updated": "2015-08-12 00:50:33 UTC",
-    "gh_stars": 25,
-    "gh_issues": 9,
-    "gh_branch": "master",
-    "man_identifier": "com.nicholaswallen.sketchplugins.motion",
-    "man_version": "0.1.0"
   },
   {
     "name": "Sketch-All-Caps",
@@ -4559,7 +4543,7 @@
     "homepage": "https://github.com/sonburn/symbol-organizer",
     "gh_url": "https://github.com/sonburn/symbol-organizer.git",
     "gh_updated": "2017-06-29 15:03:06 UTC",
-    "gh_stars": 276,
+    "gh_stars": 277,
     "gh_issues": 13,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.44673736-18ee-470e-b22a-f17fbb378238",
@@ -5032,12 +5016,12 @@
     "added": "2016-12-16 18:55:33 UTC",
     "homepage": "https://github.com/Tallwave/sketch-spellcheck-all-layers",
     "gh_url": "https://github.com/Tallwave/sketch-spellcheck-all-layers.git",
-    "gh_updated": "2017-04-02 22:46:38 UTC",
+    "gh_updated": "2017-07-06 18:07:21 UTC",
     "gh_stars": 39,
-    "gh_issues": 7,
+    "gh_issues": 5,
     "gh_branch": "master",
-    "man_identifier": "com.ethology-co.spellcheckwholepage",
-    "man_version": "1.1"
+    "man_identifier": "com.tallwave.spellcheckwholepage",
+    "man_version": "1.2.0"
   },
   {
     "name": "sketch-map-generator",
@@ -5936,5 +5920,19 @@
     "description": "Add, share and discuss your Sketch artboards with the team in RealtimeBoard. The plugin allow to sync the artboards with the boards in one click",
     "homepage": "https://github.com/RealtimeBoard/sketch_plugin",
     "added": "2017-06-30 15:01:52 UTC"
+  },
+  {
+    "name": "sketch-plugin",
+    "owner": "ImageOptim",
+    "author": "ImageOptim",
+    "title": "ImageOptim Sketch Plugin",
+    "description": "ImageOptim plugin for the Sketch app",
+    "added": "2017-07-06 19:01:50 UTC",
+    "homepage": "https://imageoptim.com/mac",
+    "gh_url": "https://github.com/ImageOptim/Sketch-plugin.git",
+    "gh_updated": "2017-05-11 21:51:31 UTC",
+    "gh_stars": 23,
+    "gh_issues": 2,
+    "gh_branch": "master"
   }
 ]

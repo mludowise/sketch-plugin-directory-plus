@@ -18,7 +18,7 @@
     "added": "2017-07-03 14:02:46 UTC",
     "gh_url": "https://github.com/weixin/WeSketch.git",
     "gh_updated": "2017-07-06 13:39:21 UTC",
-    "gh_stars": 1071,
+    "gh_stars": 1082,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "cn.wechat",
@@ -566,7 +566,7 @@
     "gh_url": "https://github.com/einancunlu/Flatten-Plugin-for-Sketch.git",
     "gh_updated": "2017-07-06 07:51:22 UTC",
     "gh_stars": 19,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master"
   },
   {
@@ -2605,7 +2605,7 @@
     "homepage": "https://github.com/bouchenoiremarc/Sketch-Constraints",
     "gh_url": "https://github.com/bouchenoiremarc/Sketch-Constraints.git",
     "gh_updated": "2017-07-05 14:06:30 UTC",
-    "gh_stars": 1276,
+    "gh_stars": 1277,
     "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "com.bouchenoiremarc.sketch-constraints",

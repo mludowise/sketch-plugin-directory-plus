@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2017-07-07 10:01:42 UTC
+Updated 2017-07-07 11:01:44 UTC
 
-Total plugins: 363
+Total plugins: 362
 
 ## Problems
 **[alanfraneo/NeoPreview](https://github.com/alanfraneo/NeoPreview) has no repo**
@@ -74,8 +74,6 @@ Total plugins: 363
 [ozgurgunes/Sketch-Layer-Comps](https://github.com/ozgurgunes/Sketch-Layer-Comps) manifest.json contains extra commas
 
 [Charimon/iosViews](https://github.com/Charimon/iosViews) manifest.json contains extra commas
-
-[alexito4/Sketch-Color-Theme-Plugin](https://github.com/alexito4/Sketch-Color-Theme-Plugin) manifest.json contains extra commas
 
 [eivindbohler/Sketch-All-Caps](https://github.com/eivindbohler/Sketch-All-Caps) manifest.json contains extra commas
 

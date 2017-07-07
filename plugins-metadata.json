@@ -18,7 +18,7 @@
     "added": "2017-07-03 14:02:46 UTC",
     "gh_url": "https://github.com/weixin/WeSketch.git",
     "gh_updated": "2017-07-06 13:39:21 UTC",
-    "gh_stars": 1176,
+    "gh_stars": 1186,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "cn.wechat",
@@ -5019,12 +5019,12 @@
     "added": "2016-12-16 18:55:33 UTC",
     "homepage": "https://github.com/Tallwave/sketch-spellcheck-all-layers",
     "gh_url": "https://github.com/Tallwave/sketch-spellcheck-all-layers.git",
-    "gh_updated": "2017-07-06 18:07:21 UTC",
+    "gh_updated": "2017-07-07 05:57:02 UTC",
     "gh_stars": 40,
-    "gh_issues": 5,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.tallwave.spellcheckwholepage",
-    "man_version": "1.2.0"
+    "man_version": "1.2.2"
   },
   {
     "name": "sketch-map-generator",

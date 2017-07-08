@@ -36,7 +36,7 @@
     "added": "2017-07-03 14:02:46 UTC",
     "gh_url": "https://github.com/weixin/WeSketch.git",
     "gh_updated": "2017-07-07 17:05:54 UTC",
-    "gh_stars": 1319,
+    "gh_stars": 1321,
     "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "cn.wechat",
@@ -5354,12 +5354,12 @@
     "added": "2017-03-15 10:07:31 UTC",
     "homepage": "https://github.com/lucaorio/sketch-styles-generator",
     "gh_url": "https://github.com/lucaorio/sketch-styles-generator.git",
-    "gh_updated": "2017-03-15 16:00:55 UTC",
+    "gh_updated": "2017-07-08 04:50:54 UTC",
     "gh_stars": 195,
-    "gh_issues": 3,
+    "gh_issues": 2,
     "gh_branch": "master",
-    "man_identifier": "com.example.sketch.bb02ff74-b75f-4814-9c3c-e7cf0697d60a",
-    "man_version": "1.2"
+    "man_identifier": "com.sketch.styles.generator",
+    "man_compatible_version": "3"
   },
   {
     "name": "stacker",

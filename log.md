@@ -1,15 +1,13 @@
 # Plugin Metadata
 
-Updated 2017-07-10 09:02:02 UTC
+Updated 2017-07-10 10:02:05 UTC
 
 Total plugins: 361
 
 ## Problems
-**[alanfraneo/NeoPreview](https://github.com/alanfraneo/NeoPreview) has no repo**
-
 [weixin/WeSketch](https://github.com/weixin/WeSketch) manifest.json contains extra commas
 
-**[canvasflip/canvasflip_sketch_sync](https://github.com/canvasflip/canvasflip_sketch_sync) has no repo**
+**/ has no repo**
 
 [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) manifest.json contains extra commas
 
@@ -160,8 +158,6 @@ Total plugins: 361
 [partyka1/Fontily](https://github.com/partyka1/Fontily) manifest.json contains extra commas
 
 [canisminor1990/sketch-move-half-pixel](https://github.com/canisminor1990/sketch-move-half-pixel) manifest.json contains extra commas
-
-**[RealtimeBoard/RealtimeBoard-plugin-for-Sketch](https://github.com/RealtimeBoard/RealtimeBoard-plugin-for-Sketch) has no repo**
 
 **[ImageOptim/sketch-plugin](https://github.com/ImageOptim/sketch-plugin) missing manifest.json**
 

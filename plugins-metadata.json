@@ -18,13 +18,20 @@
     "icon": "https://raw.githubusercontent.com/sureskumar/single-border/master/Single-Border.sketchplugin/Contents/Resources/icon.png"
   },
   {
-    "name": "NeoPreview",
+    "name": "sketch-neo-preview",
     "owner": "alanfraneo",
     "author": "Alan Francis",
     "title": "NeoPreview",
     "description": "A plugin to create HTML based preview and gallery straight from sketch artboards",
+    "added": "2017-07-10 10:02:05 UTC",
     "homepage": "https://github.com/alanfraneo/sketch-neo-preview",
-    "added": "2017-07-04 10:02:12 UTC"
+    "gh_url": "https://github.com/alanfraneo/sketch-neo-preview.git",
+    "gh_updated": "2017-07-04 14:47:12 UTC",
+    "gh_stars": 1,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.neo.preview",
+    "man_version": "1.2"
   },
   {
     "name": "WeSketch",
@@ -36,7 +43,7 @@
     "added": "2017-07-03 14:02:46 UTC",
     "gh_url": "https://github.com/weixin/WeSketch.git",
     "gh_updated": "2017-07-10 08:35:07 UTC",
-    "gh_stars": 1472,
+    "gh_stars": 1486,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "cn.wechat",
@@ -44,13 +51,12 @@
     "icon": "https://raw.githubusercontent.com/weixin/WeSketch/master/WeSketch.sketchplugin/Contents/Resources/icon.png"
   },
   {
-    "name": "canvasflip_sketch_sync",
-    "owner": "canvasflip",
+    "owner": null,
     "author": "CanvasFlip",
     "title": "CanvasFlip",
     "description": "Sync and generate specs from sketch artboards to CanvasFlip.",
     "homepage": "https://canvasflip.com/",
-    "added": "2017-06-28 14:01:57 UTC"
+    "added": "2017-07-10 10:02:05 UTC"
   },
   {
     "name": "palette-stripes",
@@ -869,7 +875,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2017-07-08 02:34:27 UTC",
-    "gh_stars": 4795,
+    "gh_stars": 4798,
     "gh_issues": 88,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -1612,10 +1618,7 @@
     "gh_updated": "2017-07-06 15:02:09 UTC",
     "gh_stars": 60,
     "gh_issues": 4,
-    "gh_branch": "master",
-    "man_identifier": "io.kolo.sketch.artboard-tools",
-    "man_version": "2.43.5",
-    "man_compatible_version": "43"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Unlinker",
@@ -1712,7 +1715,7 @@
     "homepage": "https://github.com/preciousforever/sketch-data-populator",
     "gh_url": "https://github.com/preciousforever/sketch-data-populator.git",
     "gh_updated": "2017-06-19 20:05:29 UTC",
-    "gh_stars": 1311,
+    "gh_stars": 1312,
     "gh_issues": 13,
     "gh_branch": "master",
     "man_identifier": "com.precious-forever.sketch.datapopulator2",
@@ -2143,7 +2146,7 @@
     "added": "2015-08-05 03:01:56 UTC",
     "gh_url": "https://github.com/MagicSketch/MagicMirror.git",
     "gh_updated": "2017-02-14 08:15:34 UTC",
-    "gh_stars": 413,
+    "gh_stars": 414,
     "gh_issues": 19,
     "gh_branch": "master",
     "man_identifier": "design.magicmirror",
@@ -2544,7 +2547,7 @@
     "homepage": "https://github.com/andrewfiorillo/sketch-palettes",
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
     "gh_updated": "2017-06-06 16:00:44 UTC",
-    "gh_stars": 1528,
+    "gh_stars": 1529,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
@@ -2928,7 +2931,7 @@
     "homepage": "https://github.com/margusholland/Comma",
     "gh_url": "https://github.com/margusholland/Comma.git",
     "gh_updated": "2017-06-29 13:56:07 UTC",
-    "gh_stars": 134,
+    "gh_stars": 135,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.margusholland.commafucker",
@@ -3832,7 +3835,7 @@
     "gh_url": "https://github.com/romashamin/compo-sketch.git",
     "gh_updated": "2017-07-08 16:33:46 UTC",
     "gh_stars": 405,
-    "gh_issues": 7,
+    "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.github.romashamin.compo-sketch",
     "man_version": "1.6",
@@ -5885,13 +5888,21 @@
     "man_version": "0.3"
   },
   {
-    "name": "RealtimeBoard-plugin-for-Sketch",
+    "name": "sketch_plugin",
     "owner": "RealtimeBoard",
     "author": "RealtimeBoard",
     "title": "RealtimeBoard plugin for Sketch",
     "description": "Add, share and discuss your Sketch artboards with the team in RealtimeBoard. The plugin allow to sync the artboards with the boards in one click",
     "homepage": "https://github.com/RealtimeBoard/sketch_plugin",
-    "added": "2017-06-30 15:01:52 UTC"
+    "added": "2017-07-10 10:02:05 UTC",
+    "gh_url": "https://github.com/RealtimeBoard/sketch_plugin.git",
+    "gh_updated": "2017-06-30 19:32:38 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.realtimeboard.sketch.plugin",
+    "man_version": "1.0.0",
+    "icon": "https://raw.githubusercontent.com/RealtimeBoard/sketch_plugin/master/RealtimeBoard.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "sketch-plugin",

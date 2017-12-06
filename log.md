@@ -1,11 +1,23 @@
 # Plugin Metadata
 
-Updated 2017-07-10 10:02:05 UTC
+Updated 2017-12-06 19:27:46 UTC
 
-Total plugins: 361
+Total plugins: 418
 
 ## Problems
-[weixin/WeSketch](https://github.com/weixin/WeSketch) manifest.json contains extra commas
+**[Yummygum/SketchCleaner](https://github.com/Yummygum/SketchCleaner) has no repo**
+
+**[Matthew Kaufer/Smudge](https://github.com/Matthew Kaufer/Smudge) has no repo**
+
+**[Udi Gindi/sendTo](https://github.com/Udi Gindi/sendTo) has no repo**
+
+**[Trev Wolft/Loose!](https://github.com/Trev Wolft/Loose!) has no repo**
+
+**[AnimaApp/Font Buddy](https://github.com/AnimaApp/Font Buddy) has no repo**
+
+[LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) manifest.json contains extra commas
+
+[awkward/Alembic](https://github.com/awkward/Alembic) manifest.json contains extra commas
 
 **/ has no repo**
 
@@ -34,6 +46,8 @@ Total plugins: 361
 **[sebj/Select-By-Name](https://github.com/sebj/Select-By-Name) manifest.json is missing identifier**
 
 [marcisme/sketch-preview](https://github.com/marcisme/sketch-preview) manifest.json contains extra commas
+
+**[rodi01/RenameIt](https://github.com/rodi01/RenameIt) manifest.json is missing identifier**
 
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
 
@@ -78,8 +92,6 @@ Total plugins: 361
 [bouchenoiremarc/Sketch-Constraints](https://github.com/bouchenoiremarc/Sketch-Constraints) manifest.json contains extra commas
 
 [jessebilsten/Sketch-TitleCase](https://github.com/jessebilsten/Sketch-TitleCase) manifest.json contains extra commas
-
-[axmsv/sharpen-images-sketch](https://github.com/axmsv/sharpen-images-sketch) manifest.json contains extra commas
 
 [JohnCoates/CSSketch](https://github.com/JohnCoates/CSSketch) manifest.json contains extra commas
 
@@ -141,8 +153,6 @@ Total plugins: 361
 
 [devinmancuso/sketch-rtl](https://github.com/devinmancuso/sketch-rtl) manifest.json contains extra commas
 
-[pberrecloth/fitter-sketch-plugin](https://github.com/pberrecloth/fitter-sketch-plugin) manifest.json contains extra commas
-
 [maximedegreve/TinyFaces-Sketch-Plugin](https://github.com/maximedegreve/TinyFaces-Sketch-Plugin) manifest.json contains extra commas
 
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
@@ -160,4 +170,44 @@ Total plugins: 361
 [canisminor1990/sketch-move-half-pixel](https://github.com/canisminor1990/sketch-move-half-pixel) manifest.json contains extra commas
 
 **[ImageOptim/sketch-plugin](https://github.com/ImageOptim/sketch-plugin) missing manifest.json**
+
+[MattCowBoy/giancartboard](https://github.com/MattCowBoy/giancartboard) manifest.json contains extra commas
+
+[stevenfabre/Gifmock-for-Sketch](https://github.com/stevenfabre/Gifmock-for-Sketch) manifest.json contains extra commas
+
+**[Iconscout/logodrop](https://github.com/Iconscout/logodrop) manifest.json is missing identifier**
+
+[Reinvently/moodboards-sketch-plugin](https://github.com/Reinvently/moodboards-sketch-plugin) manifest.json contains extra commas
+
+**[iconscout/icondrop](https://github.com/iconscout/icondrop) manifest.json is missing identifier**
+
+**Smartling/ has no repo**
+
+**lstore.graphics/ has no repo**
+
+**[d4rekanguok/sketch-slicer](https://github.com/d4rekanguok/sketch-slicer) manifest.json is missing identifier**
+
+**[awkward/sketch-palette-generator](https://github.com/awkward/sketch-palette-generator) manifest.json is missing identifier**
+
+**/ has no repo**
+
+**[mcansh/squash-sketchplugin](https://github.com/mcansh/squash-sketchplugin) manifest.json is missing identifier**
+
+**[mcansh/sketch-find-all-instances-of-symbol](https://github.com/mcansh/sketch-find-all-instances-of-symbol) manifest.json is missing identifier**
+
+[Myrronth/symbol-and-artboard-organizer](https://github.com/Myrronth/symbol-and-artboard-organizer) manifest.json contains extra commas
+
+**/ has no repo**
+
+**/ has no repo**
+
+[pranusarna94/Swappr](https://github.com/pranusarna94/Swappr) manifest.json contains extra commas
+
+**[heytitle/latex-sketch-plugin](https://github.com/heytitle/latex-sketch-plugin) manifest.json is missing identifier**
+
+**[the gif.me team/sketch-gifme-plugin](https://github.com/the gif.me team/sketch-gifme-plugin) has no repo**
+
+**[danielguillan/sketch-syntax-highlighter](https://github.com/danielguillan/sketch-syntax-highlighter) manifest.json is missing identifier**
+
+**[skpm/sketch-dev-tools](https://github.com/skpm/sketch-dev-tools) manifest.json is missing identifier**
 

@@ -3593,7 +3593,7 @@
     "homepage": "http://AnimateMate.com",
     "gh_url": "https://github.com/Creatide/AnimateMate.git",
     "gh_updated": "2017-07-14 05:21:52 UTC",
-    "gh_stars": 1149,
+    "gh_stars": 1150,
     "gh_issues": 12,
     "gh_branch": "master",
     "man_identifier": "com.creatide.sketch.animatemate",
@@ -6101,7 +6101,7 @@
     "gh_url": "https://github.com/websiddu/sketch-material.git",
     "gh_updated": "2017-12-06 10:39:16 UTC",
     "gh_stars": 629,
-    "gh_issues": 29,
+    "gh_issues": 26,
     "gh_branch": "master",
     "man_identifier": "com.websiddu.sketch.material",
     "man_version": "0.1.10"

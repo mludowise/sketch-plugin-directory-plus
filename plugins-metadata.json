@@ -1483,12 +1483,12 @@
     "homepage": "https://zeplin.io",
     "added": "2014-11-10 08:30:49 UTC",
     "gh_url": "https://github.com/zeplin/zeplin-sketch-plugin.git",
-    "gh_updated": "2017-10-11 18:59:43 UTC",
+    "gh_updated": "2017-12-08 00:40:48 UTC",
     "gh_stars": 121,
-    "gh_issues": 7,
+    "gh_issues": 6,
     "gh_branch": "develop",
     "man_identifier": "io.zeplin.sketch-plugin",
-    "man_version": "1.6.1"
+    "man_version": "1.6.2"
   },
   {
     "name": "smartboards",
@@ -4933,7 +4933,7 @@
     "homepage": "https://github.com/philsinatra/Sketch-Color-Vars",
     "gh_url": "https://github.com/philsinatra/Sketch-Color-Vars.git",
     "gh_updated": "2017-07-07 13:03:28 UTC",
-    "gh_stars": 30,
+    "gh_stars": 29,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.sketch.sketch-color-vars",

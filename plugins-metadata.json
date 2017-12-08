@@ -1483,12 +1483,12 @@
     "homepage": "https://zeplin.io",
     "added": "2014-11-10 08:30:49 UTC",
     "gh_url": "https://github.com/zeplin/zeplin-sketch-plugin.git",
-    "gh_updated": "2017-12-08 00:40:48 UTC",
+    "gh_updated": "2017-12-08 19:24:56 UTC",
     "gh_stars": 121,
     "gh_issues": 6,
     "gh_branch": "develop",
     "man_identifier": "io.zeplin.sketch-plugin",
-    "man_version": "1.6.2"
+    "man_version": "1.6.3"
   },
   {
     "name": "smartboards",
@@ -6101,7 +6101,7 @@
     "gh_url": "https://github.com/websiddu/sketch-material.git",
     "gh_updated": "2017-12-06 10:39:16 UTC",
     "gh_stars": 631,
-    "gh_issues": 26,
+    "gh_issues": 27,
     "gh_branch": "master",
     "man_identifier": "com.websiddu.sketch.material",
     "man_version": "0.1.10"

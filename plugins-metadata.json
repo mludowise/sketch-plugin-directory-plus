@@ -6219,12 +6219,12 @@
     "added": "2017-08-04 11:09:34 UTC",
     "homepage": "https://github.com/oodesign/merge-duplicate-symbols",
     "gh_url": "https://github.com/oodesign/merge-duplicate-symbols.git",
-    "gh_updated": "2017-08-31 09:51:53 UTC",
+    "gh_updated": "2017-12-09 00:44:35 UTC",
     "gh_stars": 109,
-    "gh_issues": 4,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.8f55e971-28b8-4d86-bc10-729e8a4e4dfc",
-    "man_version": "2.1.0",
+    "man_version": "3.0.0",
     "icon": "https://raw.githubusercontent.com/oodesign/merge-duplicate-symbols/master/MergeDuplicateSymbols.sketchplugin/Contents/Resources/icon.png"
   },
   {

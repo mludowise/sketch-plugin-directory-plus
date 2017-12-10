@@ -3298,7 +3298,7 @@
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2017-10-17 08:22:39 UTC",
     "gh_stars": 2040,
-    "gh_issues": 23,
+    "gh_issues": 22,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
     "man_compatible_version": "3",
@@ -5266,7 +5266,7 @@
     "gh_url": "https://github.com/PeachScript/sketch-plugin-monster.git",
     "gh_updated": "2017-07-31 06:33:02 UTC",
     "gh_stars": 87,
-    "gh_issues": 7,
+    "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.peachscript.pluginMonster",
     "man_version": "0.3.1"

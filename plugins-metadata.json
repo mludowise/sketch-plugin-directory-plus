@@ -6779,5 +6779,31 @@
     "man_identifier": "com.pravdomil.FixSketchTrackpadSpeed",
     "man_version": "0.0.13",
     "man_compatible_version": "40"
+  },
+  {
+    "name": "sketch-wcag",
+    "owner": "bryanberger",
+    "author": "Bryan Berger",
+    "title": "Sketch WCAG",
+    "description": "A Sketch plugin that lets you contrast test your entire color palette against the WCAG guidelines all at once",
+    "homepage": "https://github.com/bryanberger/sketch-wcag",
+    "added": "2017-12-11 21:16:38 UTC",
+    "gh_url": "https://github.com/bryanberger/sketch-wcag.git",
+    "gh_updated": "2017-12-11 20:22:37 UTC",
+    "gh_stars": 3,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.bryanberger.sketch-wcag",
+    "man_version": "1.0.3",
+    "man_compatible_version": "3"
+  },
+  {
+    "name": "caravel-design",
+    "owner": "CaravelDesign",
+    "author": "CaravelDesign",
+    "title": "Caravel",
+    "description": "Export your artboards directly to Caravel projects.",
+    "homepage": "https://github.com/CaravelDesign/caravel.sketchplugin",
+    "added": "2017-12-11 21:16:38 UTC"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "name": "Sketch Icons",
+    "owner": "AMoreaux",
+    "author": "Valentin Chrétien, Antoine Moreaux",
+    "title": "Sketch Icons",
+    "description": "Sketch plugin that allows you to import a set of icons and automatically apply a color mask.",
+    "homepage": "https://github.com/AMoreaux/Sketch-Icons",
+    "added": "2017-12-12 15:20:32 UTC"
+  },
+  {
     "name": "SketchCleaner",
     "owner": "Yummygum",
     "author": "Yummygum",
@@ -3298,7 +3307,7 @@
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2017-10-17 08:22:39 UTC",
     "gh_stars": 2040,
-    "gh_issues": 23,
+    "gh_issues": 22,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
     "man_compatible_version": "3",
@@ -3413,7 +3422,7 @@
     "homepage": "http://lorenzwoehr.com/",
     "gh_url": "https://github.com/lorenzwoehr/Golden-Ratio-Line-Height-Sketch-Plugin.git",
     "gh_updated": "2016-11-02 15:31:17 UTC",
-    "gh_stars": 106,
+    "gh_stars": 107,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.lorenzwoehr.goldenlineheight",

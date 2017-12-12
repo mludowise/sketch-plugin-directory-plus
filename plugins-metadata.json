@@ -3234,7 +3234,7 @@
     "gh_url": "https://github.com/lewishowles/sketch-replace-colour.git",
     "gh_updated": "2017-05-06 21:08:58 UTC",
     "gh_stars": 115,
-    "gh_issues": 4,
+    "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.sketch-replace-colour",
     "man_version": "2.1.2"
@@ -6773,7 +6773,7 @@
     "homepage": "https://pravdomil.com",
     "gh_url": "https://github.com/pravdomil/FixSketchTrackpadSpeed.git",
     "gh_updated": "2017-12-10 00:16:32 UTC",
-    "gh_stars": 1,
+    "gh_stars": 2,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.pravdomil.FixSketchTrackpadSpeed",

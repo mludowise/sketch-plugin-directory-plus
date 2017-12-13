@@ -3355,13 +3355,13 @@
     "added": "2016-01-26 16:18:28 UTC",
     "homepage": "https://github.com/nefaurk/select-parent-artboards",
     "gh_url": "https://github.com/nefaurk/select-parent-artboards.git",
-    "gh_updated": "2017-06-29 01:56:44 UTC",
+    "gh_updated": "2017-12-13 19:09:57 UTC",
     "gh_stars": 52,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.nefaurk.sketch-plugins.selectParentArtboards",
-    "man_version": "1.1",
-    "man_compatible_version": "45"
+    "man_version": "1.2",
+    "man_compatible_version": "48.1"
   },
   {
     "name": "Sketch-Copy-Paste-Shadows",

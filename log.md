@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2017-12-14 17:02:30 UTC
+Updated 2017-12-14 18:10:30 UTC
 
 Total plugins: 421
 
@@ -48,8 +48,6 @@ Total plugins: 421
 **[sebj/Select-By-Name](https://github.com/sebj/Select-By-Name) manifest.json is missing identifier**
 
 [marcisme/sketch-preview](https://github.com/marcisme/sketch-preview) manifest.json contains extra commas
-
-**[rodi01/RenameIt](https://github.com/rodi01/RenameIt) manifest.json is missing identifier**
 
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
 

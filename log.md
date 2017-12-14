@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2017-12-14 18:10:30 UTC
+Updated 2017-12-14 19:02:22 UTC
 
 Total plugins: 421
 
@@ -101,7 +101,15 @@ Total plugins: 421
 
 [AntonioJMartinez/sketch-ImageAverageColor](https://github.com/AntonioJMartinez/sketch-ImageAverageColor) manifest.json contains extra commas
 
-[ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
+**[lewishowles/sketch-replace-colour](https://github.com/lewishowles/sketch-replace-colour) has no repo**
+
+**[design4use/gb-sketch-segmentcircle](https://github.com/design4use/gb-sketch-segmentcircle) missing manifest.json**
+
+**[ryanjohnson-me/Sketch-Copy-Paste-Shadows](https://github.com/ryanjohnson-me/Sketch-Copy-Paste-Shadows) has no repo**
+
+**[lorenzwoehr/Golden-Ratio-Line-Height-Sketch-Plugin](https://github.com/lorenzwoehr/Golden-Ratio-Line-Height-Sketch-Plugin) has no repo**
+
+**[andrewfiorillo/sketch-artboards-to-pdf](https://github.com/andrewfiorillo/sketch-artboards-to-pdf) missing manifest.json**
 
 [LaloMrtnz/Prism](https://github.com/LaloMrtnz/Prism) manifest.json contains extra commas
 

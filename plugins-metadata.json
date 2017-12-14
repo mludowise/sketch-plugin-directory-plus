@@ -309,7 +309,7 @@
     "homepage": "https://github.com/petterheterjag/chromatic-sketch",
     "gh_url": "https://github.com/petterheterjag/chromatic-sketch.git",
     "gh_updated": "2017-11-23 20:19:56 UTC",
-    "gh_stars": 261,
+    "gh_stars": 262,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.plugins.chromatic-sketch",
@@ -3239,7 +3239,15 @@
     "author": "Lewis Howles",
     "title": "Replace Colour",
     "description": "Replace all fill or text colours matching the selected layer",
-    "added": "2016-01-12 16:22:46 UTC"
+    "added": "2016-01-12 16:22:46 UTC",
+    "homepage": "https://github.com/lewishowles/sketch-replace-colour",
+    "gh_url": "https://github.com/lewishowles/sketch-replace-colour.git",
+    "gh_updated": "2017-05-06 21:08:58 UTC",
+    "gh_stars": 115,
+    "gh_issues": 5,
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.sketch-replace-colour",
+    "man_version": "2.1.2"
   },
   {
     "name": "sketch-distribute-layers",
@@ -3250,7 +3258,7 @@
     "added": "2016-01-13 15:33:10 UTC",
     "homepage": "https://github.com/wonderbit/sketch-distribute-layers",
     "gh_url": "https://github.com/wonderbit/sketch-distribute-layers.git",
-    "gh_updated": "2016-01-26 15:45:55 UTC",
+    "gh_updated": "2016-01-26 15:45:52 UTC",
     "gh_stars": 4,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -3266,7 +3274,7 @@
     "added": "2016-01-14 08:45:27 UTC",
     "homepage": "https://github.com/lewishowles/sketch-bound-with-box",
     "gh_url": "https://github.com/lewishowles/sketch-bound-with-box.git",
-    "gh_updated": "2017-05-06 21:08:25 UTC",
+    "gh_updated": "2017-05-06 21:08:23 UTC",
     "gh_stars": 35,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -3285,7 +3293,9 @@
     "gh_updated": "2017-10-11 18:17:12 UTC",
     "gh_stars": 333,
     "gh_issues": 3,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.7ee74bdc-1af8-4b23-bfc8-f051f8c64992",
+    "man_version": "1.2"
   },
   {
     "name": "git-sketch-plugin",
@@ -3313,10 +3323,13 @@
     "added": "2016-01-25 09:22:53 UTC",
     "homepage": "https://github.com/design4use/gb-sketch-segmentcircle",
     "gh_url": "https://github.com/design4use/gb-sketch-segmentcircle.git",
-    "gh_updated": "2016-11-29 06:55:01 UTC",
+    "gh_updated": "2016-11-29 06:54:54 UTC",
     "gh_stars": 686,
     "gh_issues": 10,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.germanbauer.gb-segmented_circle",
+    "man_version": "2.03",
+    "man_compatible_version": "3.4"
   },
   {
     "name": "qordoba-for-sketch",
@@ -3357,7 +3370,15 @@
     "author": "Ryan Johnson",
     "title": "Copy & Paste Shadows",
     "description": "Copy & paste only shadow styles from layers without others styles getting in the way.",
-    "added": "2016-02-02 09:46:05 UTC"
+    "added": "2016-02-02 09:46:05 UTC",
+    "homepage": "https://github.com/ryanjohnson-me/Sketch-Copy-Paste-Shadows",
+    "gh_url": "https://github.com/ryanjohnson-me/Sketch-Copy-Paste-Shadows.git",
+    "gh_updated": "2017-04-16 01:19:18 UTC",
+    "gh_stars": 26,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.copy-paste-shadows",
+    "man_version": "0.3"
   },
   {
     "name": "Sketch-Mobile-Sizes",
@@ -3398,7 +3419,15 @@
     "author": "Lorenz Wöhr",
     "title": "Golden Ratio Line Height",
     "description": "Optimize your typography based on font size, line-height and width.",
-    "added": "2016-02-12 09:04:57 UTC"
+    "added": "2016-02-12 09:04:57 UTC",
+    "homepage": "http://lorenzwoehr.com/",
+    "gh_url": "https://github.com/lorenzwoehr/Golden-Ratio-Line-Height-Sketch-Plugin.git",
+    "gh_updated": "2016-11-02 15:31:17 UTC",
+    "gh_stars": 107,
+    "gh_issues": 2,
+    "gh_branch": "master",
+    "man_identifier": "com.lorenzwoehr.goldenlineheight",
+    "man_version": "2.0"
   },
   {
     "name": "sketch-dynamic-button-3.5",
@@ -3429,7 +3458,10 @@
     "gh_updated": "2017-10-10 17:06:16 UTC",
     "gh_stars": 181,
     "gh_issues": 10,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.andrewfiorillo.sketch.sketch-artboards-to-pdf",
+    "man_version": "1.2",
+    "man_compatible_version": "3"
   },
   {
     "name": "Sketch-Base64-PNG-Export",
@@ -3443,7 +3475,9 @@
     "gh_updated": "2017-05-14 16:23:12 UTC",
     "gh_stars": 49,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.e13b26b9-79fe-4be0-8d5b-816323eaf8ff",
+    "man_version": "0.1.2"
   },
   {
     "name": "sketch-proportional-replicator",
@@ -3474,7 +3508,9 @@
     "gh_updated": "2017-05-19 20:35:46 UTC",
     "gh_stars": 52,
     "gh_issues": 4,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "io.mack.sketch.style-drop",
+    "man_version": "1.0.2"
   },
   {
     "name": "SketchPlugins",
@@ -6764,7 +6800,7 @@
     "added": "2017-12-11 21:16:38 UTC",
     "gh_url": "https://github.com/bryanberger/sketch-wcag.git",
     "gh_updated": "2017-12-13 02:43:49 UTC",
-    "gh_stars": 5,
+    "gh_stars": 6,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.bryanberger.sketch-wcag",

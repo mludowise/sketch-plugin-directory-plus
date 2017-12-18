@@ -114,12 +114,12 @@
     "homepage": "https://alembicforsketch.com",
     "added": "2017-09-12 21:02:26 UTC",
     "gh_url": "https://github.com/awkward/Alembic.git",
-    "gh_updated": "2017-12-16 09:45:23 UTC",
+    "gh_updated": "2017-12-18 10:56:25 UTC",
     "gh_stars": 449,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "co.awkward.alembic",
-    "man_version": "1.0.1"
+    "man_version": "1.1"
   },
   {
     "name": "single-border",

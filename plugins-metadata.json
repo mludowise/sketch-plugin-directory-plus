@@ -1840,13 +1840,13 @@
     "added": "2015-05-23 11:12:03 UTC",
     "homepage": "https://github.com/preciousforever/sketch-data-populator",
     "gh_url": "https://github.com/preciousforever/sketch-data-populator.git",
-    "gh_updated": "2017-12-16 20:24:27 UTC",
+    "gh_updated": "2017-12-20 14:52:37 UTC",
     "gh_stars": 1367,
     "gh_issues": 26,
     "gh_branch": "master",
     "man_identifier": "com.precious-forever.sketch.datapopulator2",
-    "man_version": "2.2.1",
-    "man_compatible_version": "47",
+    "man_version": "2.2.2",
+    "man_compatible_version": "48",
     "icon": "https://raw.githubusercontent.com/preciousforever/sketch-data-populator/master/Sketch%20Data%20Populator.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -6582,8 +6582,8 @@
     "added": "2017-11-02 10:40:48 UTC",
     "gh_url": "https://github.com/danielguillan/sketch-syntax-highlighter.git",
     "gh_updated": "2017-11-03 23:10:23 UTC",
-    "gh_stars": 32,
-    "gh_issues": 2,
+    "gh_stars": 33,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },

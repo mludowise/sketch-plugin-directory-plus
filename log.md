@@ -1,10 +1,12 @@
 # Plugin Metadata
 
-Updated 2017-12-25 18:08:45 UTC
+Updated 2017-12-25 19:12:46 UTC
 
-Total plugins: 422
+Total plugins: 424
 
 ## Problems
+**[Crank Software Inc./Storyboard Export](https://github.com/Crank Software Inc./Storyboard Export) has no repo**
+
 **[AMoreaux/Sketch Icons](https://github.com/AMoreaux/Sketch Icons) has no repo**
 
 **[Yummygum/SketchCleaner](https://github.com/Yummygum/SketchCleaner) has no repo**
@@ -212,4 +214,6 @@ Total plugins: 422
 **[skpm/sketch-dev-tools](https://github.com/skpm/sketch-dev-tools) manifest.json is missing identifier**
 
 **[CaravelDesign/caravel-design](https://github.com/CaravelDesign/caravel-design) has no repo**
+
+**/i-want-apple-system-font has no repo**
 

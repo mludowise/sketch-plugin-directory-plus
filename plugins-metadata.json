@@ -1,5 +1,14 @@
 [
   {
+    "name": "Storyboard Export",
+    "owner": "Crank Software Inc.",
+    "author": "Crank Software Inc.",
+    "title": "Export Sketch designs to load into Storyboard Suite",
+    "description": "Export Sketch based designs to be used within Crank Software's Storyboard Suite",
+    "homepage": "https://github.com/cranksoftwaredev/SketchPlugins",
+    "added": "2017-12-25 19:12:46 UTC"
+  },
+  {
     "name": "Sketch Icons",
     "owner": "AMoreaux",
     "author": "Valentin Chrétien, Antoine Moreaux",
@@ -4285,7 +4294,7 @@
     "homepage": "http://www.textstyl.es/",
     "gh_url": "https://github.com/nilshoenson/shared-text-styles.git",
     "gh_updated": "2017-12-19 15:13:25 UTC",
-    "gh_stars": 202,
+    "gh_stars": 203,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.nilshoenson.sketch.shared-text-styles",
@@ -6833,5 +6842,14 @@
     "man_identifier": "moveToLibrary.plugin",
     "man_version": "1.1",
     "icon": "https://raw.githubusercontent.com/ahmedmigo/Move-to-library-sketchplugin/master/move-to-library.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "name": "i-want-apple-system-font",
+    "owner": null,
+    "author": "usagimaru",
+    "title": "I Want Apple System Font",
+    "description": "A Sketch plugin for applying Apple system font to text layers. (For Japanese designers.)",
+    "homepage": "https://github.com/usagimaru/Sketch-AppleSystemFont-Plugin",
+    "added": "2017-12-25 19:12:46 UTC"
   }
 ]

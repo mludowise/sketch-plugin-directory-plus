@@ -1022,7 +1022,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
-    "gh_stars": 4111,
+    "gh_stars": 4112,
     "gh_issues": 35,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -6851,5 +6851,14 @@
     "description": "A Sketch plugin for applying Apple system font to text layers. (For Japanese designers.)",
     "homepage": "https://github.com/usagimaru/Sketch-AppleSystemFont-Plugin",
     "added": "2017-12-25 19:12:46 UTC"
+  },
+  {
+    "name": "Clipboard2TilledFill",
+    "owner": null,
+    "author": "midiway",
+    "title": "Clipboard to Tilled Fill",
+    "description": "Allows you to copy a image file from Finder (PNG, JPG) and set it as tilled fill of selected shape(s).",
+    "homepage": "https://github.com/midiway/Clipboard2TilledFill",
+    "added": "2017-12-27 11:24:12 UTC"
   }
 ]

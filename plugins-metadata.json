@@ -1,5 +1,14 @@
 [
   {
+    "name": "Bootstrap Helpers",
+    "owner": "Konstantin Demblin",
+    "author": "Konstantin Demblin",
+    "title": "Bootstrap Helpers",
+    "description": "A plugin to help working with bootstrap grids and grids in general. It allows to create (Bootstrap) grids and align and de-/increase width of layers accordingly.",
+    "homepage": "https://github.com/konki-vienna/sketch-bootstrap-helpers",
+    "added": "2017-12-28 18:20:33 UTC"
+  },
+  {
     "name": "Storyboard Export",
     "owner": "Crank Software Inc.",
     "author": "Crank Software Inc.",
@@ -5085,7 +5094,7 @@
     "homepage": "https://github.com/Tallwave/sketch-spellcheck-all-layers",
     "gh_url": "https://github.com/Tallwave/sketch-spellcheck-all-layers.git",
     "gh_updated": "2017-07-28 05:55:44 UTC",
-    "gh_stars": 59,
+    "gh_stars": 60,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.tallwave.spellcheckwholepage",
@@ -5567,7 +5576,7 @@
     "homepage": "https://github.com/finchalyzer/slinky",
     "gh_url": "https://github.com/finchalyzer/slinky.git",
     "gh_updated": "2017-12-04 14:27:29 UTC",
-    "gh_stars": 474,
+    "gh_stars": 475,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.slinky-plugin",

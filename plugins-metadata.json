@@ -1023,7 +1023,7 @@
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
     "gh_stars": 4113,
-    "gh_issues": 35,
+    "gh_issues": 36,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
     "man_version": "1.2"
@@ -3612,7 +3612,7 @@
     "homepage": "http://AnimateMate.com",
     "gh_url": "https://github.com/Creatide/AnimateMate.git",
     "gh_updated": "2017-07-14 05:21:52 UTC",
-    "gh_stars": 1158,
+    "gh_stars": 1159,
     "gh_issues": 12,
     "gh_branch": "master",
     "man_identifier": "com.creatide.sketch.animatemate",

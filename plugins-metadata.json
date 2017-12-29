@@ -5110,7 +5110,7 @@
     "homepage": "https://github.com/eddiesigner/sketch-map-generator",
     "gh_url": "https://github.com/eddiesigner/sketch-map-generator.git",
     "gh_updated": "2017-12-07 12:11:59 UTC",
-    "gh_stars": 537,
+    "gh_stars": 538,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "io.craftbot.sketch.map-generator",
@@ -6576,7 +6576,7 @@
     "added": "2017-10-30 22:04:52 UTC",
     "gh_url": "https://github.com/heytitle/latex-sketch-plugin.git",
     "gh_updated": "2017-10-30 23:43:51 UTC",
-    "gh_stars": 13,
+    "gh_stars": 14,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_compatible_version": "3"

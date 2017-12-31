@@ -3852,7 +3852,7 @@
     "homepage": "https://github.com/BohemianCoding/svgo-compressor",
     "gh_url": "https://github.com/BohemianCoding/svgo-compressor.git",
     "gh_updated": "2017-11-06 10:19:50 UTC",
-    "gh_stars": 756,
+    "gh_stars": 757,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.plugins.svgo-compressor",
@@ -6017,7 +6017,7 @@
     "homepage": "https://imageoptim.com/mac",
     "gh_url": "https://github.com/ImageOptim/Sketch-plugin.git",
     "gh_updated": "2017-05-11 21:51:31 UTC",
-    "gh_stars": 82,
+    "gh_stars": 83,
     "gh_issues": 3,
     "gh_branch": "master"
   },

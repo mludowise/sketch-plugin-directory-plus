@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-01-04 11:20:53 UTC
+Updated 2018-01-04 12:26:15 UTC
 
 Total plugins: 426
 
@@ -8,8 +8,6 @@ Total plugins: 426
 **[Konstantin Demblin/Bootstrap Helpers](https://github.com/Konstantin Demblin/Bootstrap Helpers) has no repo**
 
 **[Crank Software Inc./Storyboard Export](https://github.com/Crank Software Inc./Storyboard Export) has no repo**
-
-**[AMoreaux/Sketch Icons](https://github.com/AMoreaux/Sketch Icons) has no repo**
 
 **[Yummygum/SketchCleaner](https://github.com/Yummygum/SketchCleaner) has no repo**
 

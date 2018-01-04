@@ -18,15 +18,6 @@
     "added": "2017-12-25 19:12:46 UTC"
   },
   {
-    "name": "Sketch Icons",
-    "owner": "AMoreaux",
-    "author": "Valentin Chrétien, Antoine Moreaux",
-    "title": "Sketch Icons",
-    "description": "Sketch plugin that allows you to import a set of icons and automatically apply a color mask.",
-    "homepage": "https://github.com/AMoreaux/Sketch-Icons",
-    "added": "2017-12-12 15:20:32 UTC"
-  },
-  {
     "name": "SketchCleaner",
     "owner": "Yummygum",
     "author": "Yummygum",
@@ -1724,7 +1715,7 @@
     "homepage": "https://github.com/PEZ/SketchDistributor",
     "gh_url": "https://github.com/PEZ/SketchDistributor.git",
     "gh_updated": "2017-06-08 11:45:53 UTC",
-    "gh_stars": 266,
+    "gh_stars": 267,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.betterthantomorrow.sketch.distributor",
@@ -4304,7 +4295,7 @@
     "gh_url": "https://github.com/nilshoenson/shared-text-styles.git",
     "gh_updated": "2017-12-19 15:13:25 UTC",
     "gh_stars": 208,
-    "gh_issues": 7,
+    "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.nilshoenson.sketch.shared-text-styles",
     "man_version": "1.5.2",
@@ -6869,5 +6860,22 @@
     "description": "Allows you to copy a image file from Finder (PNG, JPG) and set it as tilled fill of selected shape(s).",
     "homepage": "https://github.com/midiway/Clipboard2TilledFill",
     "added": "2017-12-27 11:24:12 UTC"
+  },
+  {
+    "name": "Sketch-Icons",
+    "owner": "AMoreaux",
+    "author": "AMoreaux",
+    "title": "Sketch-Icons",
+    "description": "Import your icons, apply a color mask and create a dynamic icons library.",
+    "homepage": "https://github.com/AMoreaux/Sketch-Icons",
+    "added": "2018-01-04 12:26:15 UTC",
+    "gh_url": "https://github.com/AMoreaux/Sketch-Icons.git",
+    "gh_updated": "2018-01-03 15:08:58 UTC",
+    "gh_stars": 46,
+    "gh_issues": 2,
+    "gh_branch": "master",
+    "man_identifier": "com.amoreaux.sketch-icons",
+    "man_version": "3.0.10",
+    "man_compatible_version": "47"
   }
 ]

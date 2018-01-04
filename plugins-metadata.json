@@ -3095,12 +3095,12 @@
     "added": "2015-11-26 11:11:02 UTC",
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
-    "gh_updated": "2017-12-11 11:54:32 UTC",
+    "gh_updated": "2018-01-04 03:03:34 UTC",
     "gh_stars": 262,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
-    "man_version": "48.1.20171211",
+    "man_version": "48.2.20180104",
     "man_compatible_version": "40"
   },
   {
@@ -4155,7 +4155,7 @@
     "homepage": "https://github.com/cute/SketchI18N",
     "gh_url": "https://github.com/cute/SketchI18N.git",
     "gh_updated": "2017-11-02 15:43:52 UTC",
-    "gh_stars": 647,
+    "gh_stars": 648,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.liguangming.sketch-i18n",

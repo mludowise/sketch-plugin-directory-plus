@@ -1,5 +1,14 @@
 [
   {
+    "name": "FontRapid",
+    "owner": "FontRapid Team",
+    "author": "FontRapid Team",
+    "title": "FontRapid",
+    "description": "FontRapid is a free Sketch plugin, helps designers create professional OpenType fonts with ease directly in Sketch app. The output font can be used for print, web and mobile, and sold to anyone with no limit (both free and commercial use).",
+    "homepage": "https://fontrapid.com",
+    "added": "2018-01-11 10:10:17 UTC"
+  },
+  {
     "name": "Bootstrap Helpers",
     "owner": "Konstantin Demblin",
     "author": "Konstantin Demblin",
@@ -1799,7 +1808,7 @@
     "homepage": "https://github.com/abynim/UserFlows",
     "gh_url": "https://github.com/abynim/UserFlows.git",
     "gh_updated": "2017-12-06 18:44:28 UTC",
-    "gh_stars": 1224,
+    "gh_stars": 1225,
     "gh_issues": 45,
     "gh_branch": "v2",
     "man_identifier": "com.abynim.sketchplugins.userflows",
@@ -2366,7 +2375,7 @@
     "homepage": "https://github.com/keremciu/sketch-iconfont",
     "gh_url": "https://github.com/keremciu/sketch-iconfont.git",
     "gh_updated": "2017-12-07 00:42:31 UTC",
-    "gh_stars": 1523,
+    "gh_stars": 1525,
     "gh_issues": 14,
     "gh_branch": "master",
     "man_identifier": "com.keremciu.sketch.iconfont",
@@ -2636,7 +2645,7 @@
     "homepage": "https://github.com/andrewfiorillo/sketch-palettes",
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
     "gh_updated": "2017-10-18 16:07:37 UTC",
-    "gh_stars": 1739,
+    "gh_stars": 1740,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
@@ -4376,12 +4385,12 @@
     "added": "2016-08-23 08:40:18 UTC",
     "homepage": "https://github.com/Ashung/Android_Res_Export",
     "gh_url": "https://github.com/Ashung/Android_Res_Export.git",
-    "gh_updated": "2018-01-10 03:56:14 UTC",
+    "gh_updated": "2018-01-11 09:44:59 UTC",
     "gh_stars": 97,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.android_res_export",
-    "man_version": "2.3.7",
+    "man_version": "2.3.8",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/Ashung/Android_Res_Export/master/Android_Res_Export.sketchplugin/Contents/Resources/icon.png"
   },
@@ -6119,8 +6128,8 @@
     "homepage": "https://websiddu.github.io/sketch-material",
     "gh_url": "https://github.com/websiddu/sketch-material.git",
     "gh_updated": "2017-12-13 07:41:42 UTC",
-    "gh_stars": 640,
-    "gh_issues": 24,
+    "gh_stars": 641,
+    "gh_issues": 25,
     "gh_branch": "master",
     "man_identifier": "com.websiddu.sketch.material",
     "man_version": "0.1.13"
@@ -6170,14 +6179,6 @@
     "gh_stars": 103,
     "gh_issues": 0,
     "gh_branch": "master"
-  },
-  {
-    "name": "sketch-plugin-lists.design",
-    "owner": "rebelliard",
-    "author": "Rafael E. Belliard",
-    "title": "Lists.design",
-    "description": "Populate text layers with realistic data from Lists.design",
-    "added": "2017-07-31 08:23:27 UTC"
   },
   {
     "owner": "Smartling",
@@ -6863,7 +6864,7 @@
     "added": "2018-01-04 12:26:15 UTC",
     "gh_url": "https://github.com/AMoreaux/Sketch-Icons.git",
     "gh_updated": "2018-01-10 15:27:31 UTC",
-    "gh_stars": 52,
+    "gh_stars": 55,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.amoreaux.sketch-icons",

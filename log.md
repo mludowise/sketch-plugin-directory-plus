@@ -1,10 +1,12 @@
 # Plugin Metadata
 
-Updated 2018-01-11 09:03:06 UTC
+Updated 2018-01-11 10:10:17 UTC
 
 Total plugins: 426
 
 ## Problems
+**[FontRapid Team/FontRapid](https://github.com/FontRapid Team/FontRapid) has no repo**
+
 **[Konstantin Demblin/Bootstrap Helpers](https://github.com/Konstantin Demblin/Bootstrap Helpers) has no repo**
 
 **[Crank Software Inc./Storyboard Export](https://github.com/Crank Software Inc./Storyboard Export) has no repo**
@@ -182,8 +184,6 @@ Total plugins: 426
 [Reinvently/moodboards-sketch-plugin](https://github.com/Reinvently/moodboards-sketch-plugin) manifest.json contains extra commas
 
 **[iconscout/icondrop](https://github.com/iconscout/icondrop) manifest.json is missing identifier**
-
-**[rebelliard/sketch-plugin-lists.design](https://github.com/rebelliard/sketch-plugin-lists.design) has no repo**
 
 **Smartling/ has no repo**
 

@@ -6000,7 +6000,7 @@
     "added": "2017-07-10 10:02:05 UTC",
     "gh_url": "https://github.com/RealtimeBoard/sketch_plugin.git",
     "gh_updated": "2017-11-30 08:38:25 UTC",
-    "gh_stars": 19,
+    "gh_stars": 20,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.realtimeboard.sketch.plugin",
@@ -6561,7 +6561,7 @@
     "gh_url": "https://github.com/heytitle/latex-sketch-plugin.git",
     "gh_updated": "2017-10-30 23:43:51 UTC",
     "gh_stars": 14,
-    "gh_issues": 2,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },

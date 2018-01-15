@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-01-15 08:16:10 UTC
+Updated 2018-01-15 09:02:40 UTC
 
 Total plugins: 426
 
@@ -29,6 +29,8 @@ Total plugins: 426
 
 [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) manifest.json contains extra commas
 
+**[petterheterjag/chromatic-sketch](https://github.com/petterheterjag/chromatic-sketch) has no repo**
+
 [3raxton/foreignipsum](https://github.com/3raxton/foreignipsum) manifest.json contains extra commas
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
@@ -40,8 +42,6 @@ Total plugins: 426
 [emrerussia/sketch-clear-export-options](https://github.com/emrerussia/sketch-clear-export-options) manifest.json contains extra commas
 
 [herrhelms/radial-lines-sketch](https://github.com/herrhelms/radial-lines-sketch) manifest.json contains extra commas
-
-[herrhelms/social-artboards-sketch](https://github.com/herrhelms/social-artboards-sketch) manifest.json contains extra commas
 
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
 

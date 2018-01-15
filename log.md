@@ -1,12 +1,10 @@
 # Plugin Metadata
 
-Updated 2018-01-15 12:02:50 UTC
+Updated 2018-01-15 13:02:43 UTC
 
 Total plugins: 426
 
 ## Problems
-**[FontRapid Team/FontRapid](https://github.com/FontRapid Team/FontRapid) has no repo**
-
 **[Konstantin Demblin/Bootstrap Helpers](https://github.com/Konstantin Demblin/Bootstrap Helpers) has no repo**
 
 **[Crank Software Inc./Storyboard Export](https://github.com/Crank Software Inc./Storyboard Export) has no repo**
@@ -220,4 +218,6 @@ Total plugins: 426
 **/i-want-apple-system-font has no repo**
 
 **/Clipboard2TilledFill has no repo**
+
+**[FontRapid Team/FontRapid](https://github.com/FontRapid Team/FontRapid) has no repo**
 

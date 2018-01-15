@@ -1,14 +1,5 @@
 [
   {
-    "name": "FontRapid",
-    "owner": "FontRapid Team",
-    "author": "FontRapid Team",
-    "title": "FontRapid",
-    "description": "FontRapid is a free Sketch plugin, helps designers create professional OpenType fonts with ease directly in Sketch app. The output font can be used for print, web and mobile, and sold to anyone with no limit (both free and commercial use).",
-    "homepage": "https://fontrapid.com",
-    "added": "2018-01-11 10:10:17 UTC"
-  },
-  {
     "name": "Bootstrap Helpers",
     "owner": "Konstantin Demblin",
     "author": "Konstantin Demblin",
@@ -2158,7 +2149,7 @@
     "homepage": "https://github.com/abynim/sketchy-pies",
     "gh_url": "https://github.com/abynim/sketchy-pies.git",
     "gh_updated": "2016-11-13 04:10:04 UTC",
-    "gh_stars": 126,
+    "gh_stars": 127,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.abynim.plugins.sketchypies",
@@ -6864,11 +6855,20 @@
     "added": "2018-01-04 12:26:15 UTC",
     "gh_url": "https://github.com/AMoreaux/Sketch-Icons.git",
     "gh_updated": "2018-01-12 14:19:41 UTC",
-    "gh_stars": 276,
+    "gh_stars": 277,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.amoreaux.sketch-icons",
     "man_version": "3.0.14",
     "man_compatible_version": "47"
+  },
+  {
+    "name": "FontRapid",
+    "owner": "FontRapid Team",
+    "author": "FontRapid Team",
+    "title": "FontRapid",
+    "description": "FontRapid is a free Sketch plugin, helps designers create professional OpenType fonts with ease directly in Sketch app. The output font can be used for print, web and mobile, and sold to anyone with no limit (both free and commercial use).",
+    "homepage": "https://fontrapid.com",
+    "added": "2018-01-11 10:10:17 UTC"
   }
 ]

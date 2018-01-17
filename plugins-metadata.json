@@ -348,14 +348,7 @@
     "title": "zeroheight",
     "description": "Organise and share your design libraries using folders and get a living styleguide for free",
     "homepage": "https://zeroheight.com",
-    "added": "2017-04-11 17:00:45 UTC",
-    "gh_url": "https://github.com/zeroheight/zeroheight-sketch-plugin.git",
-    "gh_updated": "2017-08-17 17:03:14 UTC",
-    "gh_stars": 4,
-    "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.zeroheight.sketch",
-    "man_version": "1.5.5"
+    "added": "2017-04-11 17:00:45 UTC"
   },
   {
     "name": "foreignipsum",

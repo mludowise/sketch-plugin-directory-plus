@@ -2748,7 +2748,7 @@
     "gh_url": "https://github.com/wonderbit/sketch-select-similar-layers.git",
     "gh_updated": "2017-10-16 06:33:04 UTC",
     "gh_stars": 179,
-    "gh_issues": 13,
+    "gh_issues": 14,
     "gh_branch": "master",
     "man_identifier": "me.wessley.selectSimilarLayers",
     "man_version": "1.4"
@@ -5129,7 +5129,7 @@
     "gh_url": "https://github.com/bigxixi/Sketch2AE.git",
     "gh_updated": "2017-09-28 02:08:58 UTC",
     "gh_stars": 118,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.sketch.bigxixi.Sketch2AE",
     "man_version": "2.02"
@@ -6216,7 +6216,7 @@
     "homepage": "https://github.com/oodesign/merge-duplicate-symbols",
     "gh_url": "https://github.com/oodesign/merge-duplicate-symbols.git",
     "gh_updated": "2017-12-09 00:44:35 UTC",
-    "gh_stars": 123,
+    "gh_stars": 124,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.8f55e971-28b8-4d86-bc10-729e8a4e4dfc",

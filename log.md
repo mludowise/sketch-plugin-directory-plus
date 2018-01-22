@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-01-22 08:52:44 UTC
+Updated 2018-01-22 09:56:09 UTC
 
-Total plugins: 426
+Total plugins: 430
 
 ## Problems
 **[Konstantin Demblin/Bootstrap Helpers](https://github.com/Konstantin Demblin/Bootstrap Helpers) has no repo**
@@ -222,4 +222,8 @@ Total plugins: 426
 **/Clipboard2TilledFill has no repo**
 
 **[FontRapid Team/FontRapid](https://github.com/FontRapid Team/FontRapid) has no repo**
+
+**[ziven27/Sketch-topographic](https://github.com/ziven27/Sketch-topographic) manifest.json is missing identifier**
+
+[liawesomesaucer/StyleClip](https://github.com/liawesomesaucer/StyleClip) manifest.json contains extra commas
 

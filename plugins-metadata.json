@@ -3079,12 +3079,12 @@
     "added": "2015-11-26 11:11:02 UTC",
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
-    "gh_updated": "2018-01-05 01:50:37 UTC",
+    "gh_updated": "2018-01-23 02:16:43 UTC",
     "gh_stars": 278,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
-    "man_version": "48.2.20180104",
+    "man_version": "48.2.20180123",
     "man_compatible_version": "40"
   },
   {
@@ -5062,7 +5062,7 @@
     "homepage": "https://github.com/JJYing/Fake-Chinese-Name-for-Sketch",
     "gh_url": "https://github.com/JJYing/Fake-Chinese-Name-for-Sketch.git",
     "gh_updated": "2016-12-19 18:43:32 UTC",
-    "gh_stars": 101,
+    "gh_stars": 102,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.jjying.sketch.fake-chinese-name",

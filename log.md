@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-01-23 10:02:47 UTC
+Updated 2018-01-23 11:02:55 UTC
 
-Total plugins: 430
+Total plugins: 433
 
 ## Problems
 **[Konstantin Demblin/Bootstrap Helpers](https://github.com/Konstantin Demblin/Bootstrap Helpers) has no repo**
@@ -226,4 +226,8 @@ Total plugins: 430
 **[ziven27/Sketch-topographic](https://github.com/ziven27/Sketch-topographic) manifest.json is missing identifier**
 
 [liawesomesaucer/StyleClip](https://github.com/liawesomesaucer/StyleClip) manifest.json contains extra commas
+
+**[sergeydmitriev/HandyMenu-SketchPlugin](https://github.com/sergeydmitriev/HandyMenu-SketchPlugin) has no repo**
+
+**/ has no repo**
 

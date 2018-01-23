@@ -5722,12 +5722,12 @@
     "added": "2017-04-27 12:01:52 UTC",
     "homepage": "https://github.com/vconesa/justinmind-sketch",
     "gh_url": "https://github.com/vconesa/justinmind-sketch.git",
-    "gh_updated": "2018-01-22 17:33:09 UTC",
+    "gh_updated": "2018-01-23 18:53:32 UTC",
     "gh_stars": 5,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.justinmind.exporttojustinmind",
-    "man_version": "1.0.2"
+    "man_version": "1.0.3"
   },
   {
     "name": "Sketch-Plugin-Manager",
@@ -6849,7 +6849,7 @@
     "gh_url": "https://github.com/AMoreaux/Sketch-Icons.git",
     "gh_updated": "2018-01-17 15:28:24 UTC",
     "gh_stars": 398,
-    "gh_issues": 7,
+    "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "com.amoreaux.sketch-icons",
     "man_version": "3.0.14",

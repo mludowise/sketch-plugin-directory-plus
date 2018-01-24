@@ -1,21 +1,34 @@
 [
   {
-    "name": "Bootstrap Helpers",
-    "owner": "Konstantin Demblin",
+    "name": "sketch-bootstrap-helpers",
+    "owner": "konki-vienna",
     "author": "Konstantin Demblin",
     "title": "Bootstrap Helpers",
     "description": "A plugin to help working with bootstrap grids and grids in general. It allows to create (Bootstrap) grids and align and de-/increase width of layers accordingly.",
     "homepage": "https://github.com/konki-vienna/sketch-bootstrap-helpers",
-    "added": "2017-12-28 18:20:33 UTC"
+    "added": "2018-01-24 10:01:29 UTC",
+    "gh_url": "https://github.com/konki-vienna/sketch-bootstrap-helpers.git",
+    "gh_updated": "2017-12-28 08:58:26 UTC",
+    "gh_stars": 9,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "at.demblin.sketch-bootstrap-helpers",
+    "man_version": "0.1.1",
+    "man_compatible_version": "4.5"
   },
   {
-    "name": "Storyboard Export",
-    "owner": "Crank Software Inc.",
+    "name": "SketchPlugins",
+    "owner": "cranksoftwaredev",
     "author": "Crank Software Inc.",
-    "title": "Export Sketch designs to load into Storyboard Suite",
+    "title": "Storyboard Export",
     "description": "Export Sketch based designs to be used within Crank Software's Storyboard Suite",
     "homepage": "https://github.com/cranksoftwaredev/SketchPlugins",
-    "added": "2017-12-25 19:12:46 UTC"
+    "added": "2018-01-24 10:01:29 UTC",
+    "gh_url": "https://github.com/cranksoftwaredev/SketchPlugins.git",
+    "gh_updated": "2017-12-18 19:29:47 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master"
   },
   {
     "name": "SketchCleaner",
@@ -27,22 +40,36 @@
     "added": "2017-12-05 11:31:15 UTC"
   },
   {
-    "name": "Smudge",
-    "owner": "Matthew Kaufer",
+    "name": "smudge",
+    "owner": "mjkaufer",
     "author": "Matthew Kaufer",
     "title": "Smudge",
     "description": "Emulate blend functionality from Adobe Illustrator",
     "homepage": "https://github.com/mjkaufer/smudge",
-    "added": "2017-11-25 23:03:26 UTC"
+    "added": "2018-01-24 10:01:29 UTC",
+    "gh_url": "https://github.com/mjkaufer/Smudge.git",
+    "gh_updated": "2017-11-25 03:25:53 UTC",
+    "gh_stars": 2,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_version": "0.1.0",
+    "man_compatible_version": "3"
   },
   {
     "name": "sendTo",
-    "owner": "Udi Gindi",
+    "owner": "udi-gindi",
     "author": "Udi Gindi",
     "title": "sendTo",
     "description": "Export layer as email attachment",
     "homepage": "https://github.com/udi-gindi/sendTo",
-    "added": "2017-11-15 16:59:22 UTC"
+    "added": "2018-01-24 10:01:29 UTC",
+    "gh_url": "https://github.com/udi-gindi/sendTo.git",
+    "gh_updated": "2017-11-09 15:40:45 UTC",
+    "gh_stars": 2,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_version": "0.1.0",
+    "man_compatible_version": "3"
   },
   {
     "name": "indigo-sketch-plugin",
@@ -4797,7 +4824,7 @@
     "homepage": "https://github.com/pberrecloth/butter-sketch-plugin",
     "gh_url": "https://github.com/pberrecloth/butter-sketch-plugin.git",
     "gh_updated": "2017-10-25 18:15:20 UTC",
-    "gh_stars": 121,
+    "gh_stars": 122,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.butter.sketchplugin",
@@ -6848,7 +6875,7 @@
     "added": "2018-01-04 12:26:15 UTC",
     "gh_url": "https://github.com/AMoreaux/Sketch-Icons.git",
     "gh_updated": "2018-01-17 15:28:24 UTC",
-    "gh_stars": 404,
+    "gh_stars": 405,
     "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "com.amoreaux.sketch-icons",

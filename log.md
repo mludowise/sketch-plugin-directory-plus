@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-01-24 08:01:52 UTC
+Updated 2018-01-24 09:01:18 UTC
 
-Total plugins: 433
+Total plugins: 434
 
 ## Problems
 **[Konstantin Demblin/Bootstrap Helpers](https://github.com/Konstantin Demblin/Bootstrap Helpers) has no repo**
@@ -230,4 +230,6 @@ Total plugins: 433
 **[sergeydmitriev/HandyMenu-SketchPlugin](https://github.com/sergeydmitriev/HandyMenu-SketchPlugin) has no repo**
 
 **/ has no repo**
+
+**[fhuel/DeepSelect](https://github.com/fhuel/DeepSelect) manifest.json is missing identifier**
 

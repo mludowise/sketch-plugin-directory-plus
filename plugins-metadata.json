@@ -999,7 +999,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2017-12-06 12:27:46 UTC",
-    "gh_stars": 5326,
+    "gh_stars": 5327,
     "gh_issues": 139,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -1214,7 +1214,7 @@
     "gh_url": "https://github.com/turbobabr/duplicator.git",
     "gh_updated": "2017-09-15 11:28:09 UTC",
     "gh_stars": 308,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.turbobabr.sketch.duplicator",
     "man_version": "2.0.1",
@@ -6962,5 +6962,20 @@
     "description": "Version control for designers",
     "homepage": "https://plantapp.io",
     "added": "2018-01-23 11:02:55 UTC"
+  },
+  {
+    "name": "DeepSelect",
+    "owner": "fhuel",
+    "author": "fhuel",
+    "title": "DeepSelect",
+    "description": "A quick and easy way to select layers inside a group, filtering by layer type",
+    "homepage": "https://github.com/fhuel/DeepSelect",
+    "added": "2018-01-24 09:01:18 UTC",
+    "gh_url": "https://github.com/fhuel/DeepSelect.git",
+    "gh_updated": "2018-01-23 18:17:44 UTC",
+    "gh_stars": 1,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   }
 ]

@@ -1,19 +1,19 @@
 # Plugin Metadata
 
-Updated 2018-01-24 09:01:18 UTC
+Updated 2018-01-24 10:01:29 UTC
 
 Total plugins: 434
 
 ## Problems
-**[Konstantin Demblin/Bootstrap Helpers](https://github.com/Konstantin Demblin/Bootstrap Helpers) has no repo**
+[konki-vienna/sketch-bootstrap-helpers](https://github.com/konki-vienna/sketch-bootstrap-helpers) manifest.json contains extra commas
 
-**[Crank Software Inc./Storyboard Export](https://github.com/Crank Software Inc./Storyboard Export) has no repo**
+**[cranksoftwaredev/SketchPlugins](https://github.com/cranksoftwaredev/SketchPlugins) missing manifest.json**
 
 **[Yummygum/SketchCleaner](https://github.com/Yummygum/SketchCleaner) has no repo**
 
-**[Matthew Kaufer/Smudge](https://github.com/Matthew Kaufer/Smudge) has no repo**
+**[mjkaufer/smudge](https://github.com/mjkaufer/smudge) manifest.json is missing identifier**
 
-**[Udi Gindi/sendTo](https://github.com/Udi Gindi/sendTo) has no repo**
+**[udi-gindi/sendTo](https://github.com/udi-gindi/sendTo) manifest.json is missing identifier**
 
 **[Trev Wolft/Loose!](https://github.com/Trev Wolft/Loose!) has no repo**
 

@@ -1819,7 +1819,7 @@
     "homepage": "https://github.com/abynim/UserFlows",
     "gh_url": "https://github.com/abynim/UserFlows.git",
     "gh_updated": "2017-12-06 18:44:28 UTC",
-    "gh_stars": 1236,
+    "gh_stars": 1237,
     "gh_issues": 44,
     "gh_branch": "v2",
     "man_identifier": "com.abynim.sketchplugins.userflows",
@@ -7000,7 +7000,7 @@
     "added": "2018-01-24 09:01:18 UTC",
     "gh_url": "https://github.com/fhuel/DeepSelect.git",
     "gh_updated": "2018-01-24 13:01:53 UTC",
-    "gh_stars": 2,
+    "gh_stars": 3,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

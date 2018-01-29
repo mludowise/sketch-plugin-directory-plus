@@ -3108,7 +3108,7 @@
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
     "gh_updated": "2018-01-23 02:16:43 UTC",
     "gh_stars": 283,
-    "gh_issues": 3,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
     "man_version": "48.2.20180123",
@@ -6571,7 +6571,7 @@
     "added": "2017-10-30 22:04:52 UTC",
     "gh_url": "https://github.com/heytitle/latex-sketch-plugin.git",
     "gh_updated": "2017-10-30 23:43:51 UTC",
-    "gh_stars": 14,
+    "gh_stars": 15,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_compatible_version": "3"

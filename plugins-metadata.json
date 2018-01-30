@@ -1,5 +1,14 @@
 [
   {
+    "name": "Shutterstock",
+    "owner": "Shutterstock",
+    "author": "Shutterstock, Inc.",
+    "title": "Shutterstock",
+    "description": "Access Shutterstock's stunning images without leaving your workspace.",
+    "homepage": "https://www.shutterstock.com/special/sketchplugin",
+    "added": "2018-01-30 16:02:06 UTC"
+  },
+  {
     "name": "sketch-bootstrap-helpers",
     "owner": "konki-vienna",
     "author": "Konstantin Demblin",
@@ -1819,7 +1828,7 @@
     "homepage": "https://github.com/abynim/UserFlows",
     "gh_url": "https://github.com/abynim/UserFlows.git",
     "gh_updated": "2017-12-06 18:44:28 UTC",
-    "gh_stars": 1240,
+    "gh_stars": 1241,
     "gh_issues": 44,
     "gh_branch": "v2",
     "man_identifier": "com.abynim.sketchplugins.userflows",
@@ -3353,7 +3362,7 @@
     "homepage": "https://github.com/design4use/gb-sketch-segmentcircle",
     "gh_url": "https://github.com/design4use/gb-sketch-segmentcircle.git",
     "gh_updated": "2016-11-29 06:54:54 UTC",
-    "gh_stars": 689,
+    "gh_stars": 688,
     "gh_issues": 12,
     "gh_branch": "master",
     "man_identifier": "com.germanbauer.gb-segmented_circle",
@@ -3632,7 +3641,7 @@
     "homepage": "http://AnimateMate.com",
     "gh_url": "https://github.com/Creatide/AnimateMate.git",
     "gh_updated": "2017-07-14 05:21:52 UTC",
-    "gh_stars": 1174,
+    "gh_stars": 1175,
     "gh_issues": 12,
     "gh_branch": "master",
     "man_identifier": "com.creatide.sketch.animatemate",
@@ -5848,12 +5857,12 @@
     "added": "2017-05-17 10:01:12 UTC",
     "homepage": "https://github.com/FrancisVega/sketch-copy-paste-layout-settings",
     "gh_url": "https://github.com/FrancisVega/sketch-copy-paste-layout-settings.git",
-    "gh_updated": "2017-10-17 11:33:04 UTC",
+    "gh_updated": "2018-01-30 15:31:11 UTC",
     "gh_stars": 17,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.layoutsettings",
-    "man_version": "0.7",
+    "man_version": "0.8",
     "man_compatible_version": "4.3"
   },
   {

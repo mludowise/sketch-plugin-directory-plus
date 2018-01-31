@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-01-31 09:02:05 UTC
+Updated 2018-01-31 10:02:09 UTC
 
-Total plugins: 435
+Total plugins: 436
 
 ## Problems
 **[Shutterstock/Shutterstock](https://github.com/Shutterstock/Shutterstock) has no repo**
@@ -234,4 +234,6 @@ Total plugins: 435
 **/ has no repo**
 
 **[fhuel/DeepSelect](https://github.com/fhuel/DeepSelect) manifest.json is missing identifier**
+
+**[PEZ/SketchSeparateShapes](https://github.com/PEZ/SketchSeparateShapes) manifest.json is missing identifier**
 

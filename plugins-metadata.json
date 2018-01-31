@@ -4540,7 +4540,7 @@
     "added": "2016-09-13 13:54:43 UTC",
     "homepage": "https://github.com/exevil/sketch-grid-master",
     "gh_url": "https://github.com/exevil/sketch-grid-master.git",
-    "gh_updated": "2018-01-30 23:14:22 UTC",
+    "gh_updated": "2018-01-31 09:43:02 UTC",
     "gh_stars": 53,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -6738,7 +6738,7 @@
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2018-01-29 14:45:44 UTC",
     "gh_stars": 44,
-    "gh_issues": 9,
+    "gh_issues": 10,
     "gh_branch": "master",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/skpm/sketch-dev-tools/master/dev-tools.sketchplugin/Contents/Resources/icon.png"
@@ -7011,6 +7011,21 @@
     "gh_updated": "2018-01-24 13:01:53 UTC",
     "gh_stars": 7,
     "gh_issues": 1,
+    "gh_branch": "master",
+    "man_compatible_version": "3"
+  },
+  {
+    "name": "SketchSeparateShapes",
+    "owner": "PEZ",
+    "author": "Peter Strömberg",
+    "title": "SketchSeparateShapes",
+    "description": "A Sketch-app plugin that does a ”boolean” separate operation on two selected shapes. Like divide in Pathfinder in Adobe Illustrator.",
+    "added": "2018-01-31 10:02:09 UTC",
+    "homepage": "https://github.com/PEZ/SketchSeparateShapes",
+    "gh_url": "https://github.com/PEZ/SketchSeparateShapes.git",
+    "gh_updated": "2018-01-30 19:43:47 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"
   }

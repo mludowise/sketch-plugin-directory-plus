@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-01-31 00:02:59 UTC
+Updated 2018-01-31 01:02:07 UTC
 
 Total plugins: 435
 
@@ -107,6 +107,8 @@ Total plugins: 435
 
 [AntonioJMartinez/sketch-ImageAverageColor](https://github.com/AntonioJMartinez/sketch-ImageAverageColor) manifest.json contains extra commas
 
+**[jawayang/Sketch-Base64-PNG-Export](https://github.com/jawayang/Sketch-Base64-PNG-Export) missing manifest.json**
+
 [ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
 
 [LaloMrtnz/Prism](https://github.com/LaloMrtnz/Prism) manifest.json contains extra commas
@@ -114,6 +116,8 @@ Total plugins: 435
 [nahitheper/SwiftColorPalette](https://github.com/nahitheper/SwiftColorPalette) manifest.json contains extra commas
 
 **SketchRunner/ has no repo**
+
+**[wuwa/sketch-copy-to-all](https://github.com/wuwa/sketch-copy-to-all) missing manifest.json**
 
 [lessthanzero/Formr](https://github.com/lessthanzero/Formr) manifest.json contains extra commas
 

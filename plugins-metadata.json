@@ -2799,7 +2799,7 @@
     "homepage": "https://github.com/JohnCoates/CSSketch",
     "gh_url": "https://github.com/JohnCoates/CSSketch.git",
     "gh_updated": "2017-07-26 22:42:15 UTC",
-    "gh_stars": 1882,
+    "gh_stars": 1881,
     "gh_issues": 45,
     "gh_branch": "master",
     "man_identifier": "com.johncoates.CSSketch",
@@ -3082,7 +3082,7 @@
     "added": "2015-11-23 14:50:49 UTC",
     "homepage": "https://github.com/MaxChen/Watch-Icon",
     "gh_url": "https://github.com/MaxChen/Watch-Icon.git",
-    "gh_updated": "2015-11-18 23:56:52 UTC",
+    "gh_updated": "2015-11-18 23:56:43 UTC",
     "gh_stars": 13,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -3513,7 +3513,9 @@
     "gh_updated": "2017-05-14 16:23:12 UTC",
     "gh_stars": 49,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.e13b26b9-79fe-4be0-8d5b-816323eaf8ff",
+    "man_version": "0.1.2"
   },
   {
     "name": "sketch-proportional-replicator",
@@ -3698,7 +3700,9 @@
     "gh_updated": "2016-09-12 09:53:58 UTC",
     "gh_stars": 73,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.wuwacorp.sketch.copytoall",
+    "man_version": "1.0"
   },
   {
     "name": "Formr",
@@ -3868,7 +3872,7 @@
     "homepage": "https://github.com/BohemianCoding/svgo-compressor",
     "gh_url": "https://github.com/BohemianCoding/svgo-compressor.git",
     "gh_updated": "2017-11-06 10:19:50 UTC",
-    "gh_stars": 777,
+    "gh_stars": 778,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.plugins.svgo-compressor",
@@ -6955,7 +6959,7 @@
     "homepage": "https://github.com/liawesomesaucer/StyleClip",
     "gh_url": "https://github.com/liawesomesaucer/StyleClip.git",
     "gh_updated": "2018-01-30 18:26:01 UTC",
-    "gh_stars": 9,
+    "gh_stars": 10,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "style.clip",

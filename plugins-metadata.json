@@ -160,7 +160,7 @@
     "added": "2017-09-12 21:02:26 UTC",
     "gh_url": "https://github.com/awkward/Alembic.git",
     "gh_updated": "2017-12-18 10:56:25 UTC",
-    "gh_stars": 479,
+    "gh_stars": 480,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "co.awkward.alembic",
@@ -2293,7 +2293,7 @@
     "homepage": "https://github.com/matt-curtis/Sketch-Server",
     "gh_url": "https://github.com/matt-curtis/Sketch-Server.git",
     "gh_updated": "2016-02-22 15:26:09 UTC",
-    "gh_stars": 72,
+    "gh_stars": 71,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.matt-curtis.sketch.sketch-server",
@@ -3082,7 +3082,7 @@
     "added": "2015-11-23 14:50:49 UTC",
     "homepage": "https://github.com/MaxChen/Watch-Icon",
     "gh_url": "https://github.com/MaxChen/Watch-Icon.git",
-    "gh_updated": "2015-11-18 23:56:43 UTC",
+    "gh_updated": "2015-11-18 23:56:52 UTC",
     "gh_stars": 13,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -3513,9 +3513,7 @@
     "gh_updated": "2017-05-14 16:23:12 UTC",
     "gh_stars": 49,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.e13b26b9-79fe-4be0-8d5b-816323eaf8ff",
-    "man_version": "0.1.2"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-proportional-replicator",
@@ -3700,9 +3698,7 @@
     "gh_updated": "2016-09-12 09:53:58 UTC",
     "gh_stars": 73,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.wuwacorp.sketch.copytoall",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "Formr",
@@ -6149,7 +6145,7 @@
     "gh_url": "https://github.com/websiddu/sketch-material.git",
     "gh_updated": "2017-12-13 07:41:42 UTC",
     "gh_stars": 652,
-    "gh_issues": 25,
+    "gh_issues": 24,
     "gh_branch": "master",
     "man_identifier": "com.websiddu.sketch.material",
     "man_version": "0.1.13"
@@ -6984,7 +6980,7 @@
     "homepage": "https://github.com/pavelkuligin/chart",
     "gh_url": "https://github.com/pavelkuligin/chart.git",
     "gh_updated": "2018-01-30 08:25:58 UTC",
-    "gh_stars": 226,
+    "gh_stars": 227,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.examples.chart",

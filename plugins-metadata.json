@@ -6738,7 +6738,7 @@
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2018-01-29 14:45:44 UTC",
     "gh_stars": 44,
-    "gh_issues": 11,
+    "gh_issues": 10,
     "gh_branch": "master",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/skpm/sketch-dev-tools/master/dev-tools.sketchplugin/Contents/Resources/icon.png"
@@ -6984,7 +6984,7 @@
     "homepage": "https://github.com/pavelkuligin/chart",
     "gh_url": "https://github.com/pavelkuligin/chart.git",
     "gh_updated": "2018-01-30 08:25:58 UTC",
-    "gh_stars": 235,
+    "gh_stars": 236,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.examples.chart",

@@ -3232,7 +3232,7 @@
     "added": "2016-01-02 11:33:31 UTC",
     "gh_url": "https://github.com/timurnurutdinov/Framer-Inventory-for-Sketch.git",
     "gh_updated": "2017-10-22 20:38:18 UTC",
-    "gh_stars": 284,
+    "gh_stars": 285,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.addleimb.framer-inventory",
@@ -7038,12 +7038,12 @@
     "added": "2018-01-31 11:02:09 UTC",
     "homepage": "https://github.com/FrancisVega/Sketch-Copy-Layers-Styles",
     "gh_url": "https://github.com/FrancisVega/Sketch-Copy-Layers-Styles.git",
-    "gh_updated": "2018-02-02 16:39:58 UTC",
+    "gh_updated": "2018-02-04 09:17:19 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.copystyles",
-    "man_version": "0.5",
+    "man_version": "0.6",
     "man_compatible_version": "48.2"
   },
   {

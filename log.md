@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-02-04 17:01:43 UTC
+Updated 2018-02-04 18:02:03 UTC
 
 Total plugins: 439
 
@@ -234,8 +234,6 @@ Total plugins: 439
 **/ has no repo**
 
 **[fhuel/DeepSelect](https://github.com/fhuel/DeepSelect) manifest.json is missing identifier**
-
-**[PEZ/SketchSeparateShapes](https://github.com/PEZ/SketchSeparateShapes) manifest.json is missing identifier**
 
 **[reqfire/sketch-user-flows](https://github.com/reqfire/sketch-user-flows) missing manifest.json**
 

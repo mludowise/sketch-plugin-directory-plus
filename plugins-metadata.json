@@ -7067,8 +7067,8 @@
     "homepage": "https://github.com/reqfire/sketch-user-flows",
     "gh_url": "https://github.com/reqfire/sketch-user-flows.git",
     "gh_updated": "2018-02-02 02:58:23 UTC",
-    "gh_stars": 1,
-    "gh_issues": 0,
+    "gh_stars": 2,
+    "gh_issues": 1,
     "gh_branch": "master"
   },
   {
@@ -7081,7 +7081,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-02-03 01:17:24 UTC",
-    "gh_stars": 86,
+    "gh_stars": 87,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",

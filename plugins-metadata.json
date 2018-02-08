@@ -5769,7 +5769,7 @@
     "gh_url": "https://github.com/vconesa/justinmind-sketch.git",
     "gh_updated": "2018-01-23 18:53:32 UTC",
     "gh_stars": 5,
-    "gh_issues": 5,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.justinmind.exporttojustinmind",
     "man_version": "1.0.3"
@@ -6993,7 +6993,7 @@
     "homepage": "https://github.com/pavelkuligin/chart",
     "gh_url": "https://github.com/pavelkuligin/chart.git",
     "gh_updated": "2018-02-04 12:00:19 UTC",
-    "gh_stars": 361,
+    "gh_stars": 362,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.examples.chart",

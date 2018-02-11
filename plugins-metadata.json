@@ -7032,12 +7032,12 @@
     "added": "2018-01-31 10:02:09 UTC",
     "homepage": "https://github.com/PEZ/SketchSeparateShapes",
     "gh_url": "https://github.com/PEZ/SketchSeparateShapes.git",
-    "gh_updated": "2018-02-11 11:55:54 UTC",
+    "gh_updated": "2018-02-11 12:08:13 UTC",
     "gh_stars": 14,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.betterthantomorrow.sketch.separate",
-    "man_version": "1.2.2",
+    "man_version": "1.2.3",
     "man_compatible_version": "3"
   },
   {

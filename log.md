@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-02-12 15:01:43 UTC
+Updated 2018-02-12 16:02:06 UTC
 
 Total plugins: 442
 
@@ -172,6 +172,8 @@ Total plugins: 442
 [Rezaaa/english-and-persian-lorem-ipsum](https://github.com/Rezaaa/english-and-persian-lorem-ipsum) manifest.json contains extra commas
 
 [poyi/CopyColor](https://github.com/poyi/CopyColor) manifest.json contains extra commas
+
+**[perrysmotors/copy-framer-code](https://github.com/perrysmotors/copy-framer-code) missing manifest.json**
 
 [youwenliang/Table-of-Contents](https://github.com/youwenliang/Table-of-Contents) manifest.json contains extra commas
 

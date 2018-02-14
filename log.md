@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-02-14 17:01:56 UTC
+Updated 2018-02-14 18:01:47 UTC
 
 Total plugins: 442
 
@@ -148,8 +148,6 @@ Total plugins: 442
 [marianomike/sketch-duplicatesymbol](https://github.com/marianomike/sketch-duplicatesymbol) manifest.json contains extra commas
 
 [marisaroque/sketch-markup-listify](https://github.com/marisaroque/sketch-markup-listify) manifest.json contains extra commas
-
-**[fliptopbox/random-ipsom](https://github.com/fliptopbox/random-ipsom) has no repo**
 
 [exevil/sketch-rename-instances](https://github.com/exevil/sketch-rename-instances) manifest.json contains extra commas
 

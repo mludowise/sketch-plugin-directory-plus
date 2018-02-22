@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-02-22 11:01:40 UTC
+Updated 2018-02-22 12:01:24 UTC
 
-Total plugins: 442
+Total plugins: 443
 
 ## Problems
 **[sureskumar/SketchIsometric](https://github.com/sureskumar/SketchIsometric) has no repo**
@@ -240,4 +240,6 @@ Total plugins: 442
 **[fhuel/DeepSelect](https://github.com/fhuel/DeepSelect) manifest.json is missing identifier**
 
 **[reqfire/sketch-user-flows](https://github.com/reqfire/sketch-user-flows) missing manifest.json**
+
+[kupe517/sketch-split-shape](https://github.com/kupe517/sketch-split-shape) manifest.json contains extra commas
 

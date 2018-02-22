@@ -7090,7 +7090,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-02-18 06:27:38 UTC",
-    "gh_stars": 649,
+    "gh_stars": 651,
     "gh_issues": 19,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",
@@ -7114,5 +7114,21 @@
     "man_version": "0.4.2",
     "man_compatible_version": "48.2",
     "icon": "https://raw.githubusercontent.com/sigtm/sketch-style-libraries/master/sketch-style-libraries.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "name": "sketch-split-shape",
+    "owner": "kupe517",
+    "author": "kupe517",
+    "title": "Sketch Split Shape",
+    "description": "Sketch plugin to split up a rectangle evenly by a user generated value",
+    "added": "2018-02-22 12:01:24 UTC",
+    "homepage": "https://github.com/kupe517/sketch-split-shape",
+    "gh_url": "https://github.com/kupe517/sketch-split-shape.git",
+    "gh_updated": "2018-02-22 06:31:13 UTC",
+    "gh_stars": 51,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "https://github.com/kupe517/sketch-split-shape",
+    "man_version": "2.0"
   }
 ]

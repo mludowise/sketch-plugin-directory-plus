@@ -5446,12 +5446,12 @@
     "added": "2017-03-12 17:02:05 UTC",
     "homepage": "https://github.com/DWilliames/nudge-resize-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/nudge-resize-sketch-plugin.git",
-    "gh_updated": "2017-06-04 11:43:49 UTC",
+    "gh_updated": "2018-02-25 04:33:29 UTC",
     "gh_stars": 13,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.nudge-resize-sketch-plugin",
-    "man_version": "1.0",
+    "man_version": "1.1",
     "man_compatible_version": "39"
   },
   {

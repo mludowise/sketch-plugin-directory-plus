@@ -514,7 +514,7 @@
     "homepage": "https://github.com/mludowise/Sketch-HTML-Export",
     "gh_url": "https://github.com/mludowise/Sketch-HTML-Export.git",
     "gh_updated": "2017-07-07 18:49:33 UTC",
-    "gh_stars": 72,
+    "gh_stars": 73,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.mludowise.htmlexport",
@@ -1054,7 +1054,7 @@
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-03-01 07:08:54 UTC",
     "gh_stars": 5402,
-    "gh_issues": 144,
+    "gh_issues": 145,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.7.2"

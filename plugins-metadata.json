@@ -1054,7 +1054,7 @@
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-03-01 07:08:54 UTC",
     "gh_stars": 5401,
-    "gh_issues": 146,
+    "gh_issues": 145,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.7.2"
@@ -5792,12 +5792,12 @@
     "homepage": "https://mludowise.github.io/Sketch-Plugin-Manager",
     "added": "2017-05-02 08:01:49 UTC",
     "gh_url": "https://github.com/mludowise/Sketch-Plugin-Manager.git",
-    "gh_updated": "2018-02-06 17:20:15 UTC",
+    "gh_updated": "2018-03-02 00:02:25 UTC",
     "gh_stars": 223,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.mludowise.sketch-plugin-manager",
-    "man_version": "1.7",
+    "man_version": "1.8",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/mludowise/Sketch-Plugin-Manager/master/sketch-plugin-manager.sketchplugin/Contents/Resources/icon.png"
   },
@@ -6288,7 +6288,7 @@
     "homepage": "https://github.com/bunnieabc/Blender",
     "gh_url": "https://github.com/bunnieabc/Blender.git",
     "gh_updated": "2017-08-16 04:27:43 UTC",
-    "gh_stars": 310,
+    "gh_stars": 309,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.bunnieabc.blender",
@@ -7076,10 +7076,12 @@
     "added": "2018-02-02 10:01:38 UTC",
     "homepage": "https://www.reqfire.com/sketch-user-flows",
     "gh_url": "https://github.com/reqfire/sketch-user-flows.git",
-    "gh_updated": "2018-02-26 23:19:47 UTC",
+    "gh_updated": "2018-03-01 23:40:03 UTC",
     "gh_stars": 8,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "plugin",
+    "man_version": "1.0.1",
+    "man_compatible_version": "3"
   },
   {
     "name": "paddy-sketch-plugin",

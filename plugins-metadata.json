@@ -1069,7 +1069,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
-    "gh_stars": 4163,
+    "gh_stars": 4164,
     "gh_issues": 37,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -3626,7 +3626,7 @@
     "homepage": "https://github.com/ment-mx/Prism",
     "gh_url": "https://github.com/ment-mx/Prism.git",
     "gh_updated": "2018-02-19 18:27:43 UTC",
-    "gh_stars": 886,
+    "gh_stars": 887,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.ment.sketch.prism",
@@ -7145,6 +7145,22 @@
     "added": "2018-02-23 16:02:29 UTC"
   },
   {
+    "name": "HandyMenu-SketchPlugin",
+    "owner": "sergeishere",
+    "author": "Sergey Dmitriev",
+    "title": "HandyMenu",
+    "description": "Quick access to Sketch App plugins through contextual menu",
+    "added": "2018-03-02 12:01:30 UTC",
+    "homepage": "https://github.com/sergeishere/HandyMenu-SketchPlugin",
+    "gh_url": "https://github.com/sergeishere/HandyMenu-SketchPlugin.git",
+    "gh_updated": "2018-02-18 20:20:05 UTC",
+    "gh_stars": 21,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.sergeishere.plugins.handymenu",
+    "man_version": "3"
+  },
+  {
     "name": "sketch-fast-text-transfer",
     "owner": "jbentzen",
     "author": "Jesper Bentzen",
@@ -7169,5 +7185,22 @@
     "description": "Remove extra padding on multiple layers or artboards with ease.",
     "homepage": "https://github.com/wescraig/SnipSnap",
     "added": "2018-03-01 10:01:45 UTC"
+  },
+  {
+    "name": "Sketch-Smart-Style-Switcher",
+    "owner": "FrancisVega",
+    "author": "Francis",
+    "title": "Sketch Smart Style Switcher",
+    "description": "Switch to an existing test style if attributes matches.",
+    "added": "2018-03-02 12:01:30 UTC",
+    "homepage": "https://github.com/FrancisVega/Sketch-Smart-Style-Switcher",
+    "gh_url": "https://github.com/FrancisVega/Sketch-Smart-Style-Switcher.git",
+    "gh_updated": "2018-03-02 09:38:18 UTC",
+    "gh_stars": 1,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "sketch.smart-style-switcher",
+    "man_version": "1.0",
+    "man_compatible_version": "49"
   }
 ]

@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-03-02 11:02:00 UTC
+Updated 2018-03-02 12:01:30 UTC
 
-Total plugins: 446
+Total plugins: 448
 
 ## Problems
 **[sureskumar/SketchIsometric](https://github.com/sureskumar/SketchIsometric) has no repo**
@@ -244,6 +244,8 @@ Total plugins: 446
 [kupe517/sketch-split-shape](https://github.com/kupe517/sketch-split-shape) manifest.json contains extra commas
 
 **[MengTo/Angle-Sketch-Plugin](https://github.com/MengTo/Angle-Sketch-Plugin) has no repo**
+
+[sergeishere/HandyMenu-SketchPlugin](https://github.com/sergeishere/HandyMenu-SketchPlugin) manifest.json contains extra commas
 
 **[wescraig/SnipSnap-Plugin](https://github.com/wescraig/SnipSnap-Plugin) has no repo**
 

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-03-05 17:01:35 UTC
+Updated 2018-03-05 18:02:33 UTC
 
 Total plugins: 450
 
@@ -140,6 +140,8 @@ Total plugins: 450
 [cute/SketchI18N](https://github.com/cute/SketchI18N) manifest.json contains extra commas
 
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
+
+**[ErikFontanel/sketch-toggle-constrain-proportions](https://github.com/ErikFontanel/sketch-toggle-constrain-proportions) missing manifest.json**
 
 [marianomike/sketch-exportsymbols](https://github.com/marianomike/sketch-exportsymbols) manifest.json contains extra commas
 

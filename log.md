@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-03-05 09:01:44 UTC
+Updated 2018-03-05 10:01:33 UTC
 
-Total plugins: 448
+Total plugins: 450
 
 ## Problems
 **[sureskumar/SketchIsometric](https://github.com/sureskumar/SketchIsometric) has no repo**
@@ -221,6 +221,8 @@ Total plugins: 448
 
 **[skpm/sketch-dev-tools](https://github.com/skpm/sketch-dev-tools) manifest.json is missing identifier**
 
+**[zhongerxin/PinLog](https://github.com/zhongerxin/PinLog) missing manifest.json**
+
 **[CaravelDesign/caravel-design](https://github.com/CaravelDesign/caravel-design) has no repo**
 
 **/i-want-apple-system-font has no repo**
@@ -248,4 +250,6 @@ Total plugins: 448
 [sergeishere/HandyMenu-SketchPlugin](https://github.com/sergeishere/HandyMenu-SketchPlugin) manifest.json contains extra commas
 
 **[wescraig/SnipSnap-Plugin](https://github.com/wescraig/SnipSnap-Plugin) has no repo**
+
+**[zcallan/sketch-bacon-ipsum](https://github.com/zcallan/sketch-bacon-ipsum) manifest.json is missing identifier**
 

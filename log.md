@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-03-05 10:01:33 UTC
+Updated 2018-03-05 11:01:32 UTC
 
 Total plugins: 450
 
@@ -220,8 +220,6 @@ Total plugins: 450
 **[danielguillan/sketch-syntax-highlighter](https://github.com/danielguillan/sketch-syntax-highlighter) manifest.json is missing identifier**
 
 **[skpm/sketch-dev-tools](https://github.com/skpm/sketch-dev-tools) manifest.json is missing identifier**
-
-**[zhongerxin/PinLog](https://github.com/zhongerxin/PinLog) missing manifest.json**
 
 **[CaravelDesign/caravel-design](https://github.com/CaravelDesign/caravel-design) has no repo**
 

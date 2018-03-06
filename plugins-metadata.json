@@ -2413,7 +2413,7 @@
     "homepage": "https://github.com/keremciu/sketch-iconfont",
     "gh_url": "https://github.com/keremciu/sketch-iconfont.git",
     "gh_updated": "2017-12-07 00:42:31 UTC",
-    "gh_stars": 1599,
+    "gh_stars": 1600,
     "gh_issues": 17,
     "gh_branch": "master",
     "man_identifier": "com.keremciu.sketch.iconfont",
@@ -4931,13 +4931,14 @@
     "added": "2016-11-17 08:48:09 UTC",
     "homepage": "https://canisminor.cc/blog/20170912183252_select",
     "gh_url": "https://github.com/canisminor1990/sketch-select.git",
-    "gh_updated": "2017-08-10 14:01:43 UTC",
+    "gh_updated": "2018-03-06 11:18:18 UTC",
     "gh_stars": 78,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "cm.sketch.select",
-    "man_version": "2.0.0",
-    "man_compatible_version": "3"
+    "man_version": "3.0.0",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/canisminor1990/sketch-select/master/plugin.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "Sketch-Color-Contrast-Analyzer",

@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-03-08 22:01:13 UTC
+Updated 2018-03-08 23:01:04 UTC
 
-Total plugins: 451
+Total plugins: 455
 
 ## Problems
 **[sureskumar/SketchIsometric](https://github.com/sureskumar/SketchIsometric) has no repo**
@@ -247,5 +247,11 @@ Total plugins: 451
 
 **[wescraig/SnipSnap-Plugin](https://github.com/wescraig/SnipSnap-Plugin) has no repo**
 
+**[wescraig/Transpose-Plugin](https://github.com/wescraig/Transpose-Plugin) has no repo**
+
 **[zcallan/sketch-bacon-ipsum](https://github.com/zcallan/sketch-bacon-ipsum) manifest.json is missing identifier**
+
+**[tankxu/SVG-Insert](https://github.com/tankxu/SVG-Insert) manifest.json is missing identifier**
+
+**/ has no repo**
 

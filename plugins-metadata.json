@@ -2096,9 +2096,7 @@
     "gh_updated": "2016-08-09 16:28:30 UTC",
     "gh_stars": 5,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.chibatching.select_all_slices",
-    "man_version": "2.1"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch3-ColorSwitch",
@@ -3382,7 +3380,10 @@
     "gh_updated": "2016-11-29 06:54:54 UTC",
     "gh_stars": 695,
     "gh_issues": 12,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.germanbauer.gb-segmented_circle",
+    "man_version": "2.03",
+    "man_compatible_version": "3.4"
   },
   {
     "name": "qordoba-for-sketch",
@@ -5788,7 +5789,7 @@
     "added": "2017-05-02 08:01:49 UTC",
     "gh_url": "https://github.com/mludowise/Sketch-Plugin-Manager.git",
     "gh_updated": "2018-03-02 00:02:25 UTC",
-    "gh_stars": 226,
+    "gh_stars": 227,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.mludowise.sketch-plugin-manager",
@@ -7037,7 +7038,7 @@
     "homepage": "https://github.com/PEZ/SketchSeparateShapes",
     "gh_url": "https://github.com/PEZ/SketchSeparateShapes.git",
     "gh_updated": "2018-02-11 12:08:13 UTC",
-    "gh_stars": 55,
+    "gh_stars": 56,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.betterthantomorrow.sketch.separate",
@@ -7087,8 +7088,8 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-03-07 22:43:23 UTC",
-    "gh_stars": 859,
-    "gh_issues": 29,
+    "gh_stars": 866,
+    "gh_issues": 28,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",
     "man_version": "1.0.6",

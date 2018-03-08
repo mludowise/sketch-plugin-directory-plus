@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-03-08 08:02:44 UTC
+Updated 2018-03-08 09:01:25 UTC
 
 Total plugins: 451
 
@@ -111,6 +111,8 @@ Total plugins: 451
 
 [AntonioJMartinez/sketch-ImageAverageColor](https://github.com/AntonioJMartinez/sketch-ImageAverageColor) manifest.json contains extra commas
 
+**[design4use/gb-sketch-segmentcircle](https://github.com/design4use/gb-sketch-segmentcircle) missing manifest.json**
+
 [ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
 
 [LaloMrtnz/Prism](https://github.com/LaloMrtnz/Prism) manifest.json contains extra commas
@@ -138,6 +140,8 @@ Total plugins: 451
 **PixelCut/ has no repo**
 
 [cute/SketchI18N](https://github.com/cute/SketchI18N) manifest.json contains extra commas
+
+**[hoai265/Language-Sketch-Plugin](https://github.com/hoai265/Language-Sketch-Plugin) missing manifest.json**
 
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
 

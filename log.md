@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-03-08 14:40:47 UTC
+Updated 2018-03-08 15:45:08 UTC
 
 Total plugins: 451
 
@@ -242,8 +242,6 @@ Total plugins: 451
 **[reqfire/sketch-user-flows](https://github.com/reqfire/sketch-user-flows) manifest.json is missing identifier**
 
 [kupe517/sketch-split-shape](https://github.com/kupe517/sketch-split-shape) manifest.json contains extra commas
-
-**[MengTo/Angle-Sketch-Plugin](https://github.com/MengTo/Angle-Sketch-Plugin) has no repo**
 
 [sergeishere/HandyMenu-SketchPlugin](https://github.com/sergeishere/HandyMenu-SketchPlugin) manifest.json contains extra commas
 

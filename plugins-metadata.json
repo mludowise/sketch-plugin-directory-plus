@@ -7260,13 +7260,14 @@
     "homepage": "https://github.com/KevinGutowski/NudgeRTL",
     "added": "2018-03-06 19:01:27 UTC",
     "gh_url": "https://github.com/KevinGutowski/NudgeRTL.git",
-    "gh_updated": "2018-03-06 06:22:46 UTC",
+    "gh_updated": "2018-03-10 01:23:45 UTC",
     "gh_stars": 3,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.kevingutowski.nudgefromRTL",
     "man_version": "0.0.3",
-    "man_compatible_version": "3"
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/KevinGutowski/NudgeRTL/master/nudgefromrtl.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "SVG-Insert",

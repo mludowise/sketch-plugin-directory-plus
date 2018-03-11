@@ -6756,7 +6756,7 @@
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2018-03-07 16:14:49 UTC",
-    "gh_stars": 58,
+    "gh_stars": 59,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_compatible_version": "3"
@@ -7092,7 +7092,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-03-07 22:43:23 UTC",
-    "gh_stars": 1021,
+    "gh_stars": 1022,
     "gh_issues": 25,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",

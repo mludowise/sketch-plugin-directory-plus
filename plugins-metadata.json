@@ -3593,12 +3593,12 @@
     "added": "2016-03-04 17:41:10 UTC",
     "homepage": "https://www.youtube.com/watch?v=Q1-nnDs73lk",
     "gh_url": "https://github.com/arshad/Sketch-Navigator.git",
-    "gh_updated": "2017-02-28 05:20:54 UTC",
+    "gh_updated": "2018-03-12 12:39:19 UTC",
     "gh_stars": 160,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "io.arshad.sketch-navigator",
-    "man_version": "1.1"
+    "man_compatible_version": "3"
   },
   {
     "name": "Sketch-Divider",
@@ -6166,7 +6166,7 @@
     "homepage": "https://websiddu.github.io/sketch-material",
     "gh_url": "https://github.com/websiddu/sketch-material.git",
     "gh_updated": "2018-02-24 10:55:16 UTC",
-    "gh_stars": 689,
+    "gh_stars": 690,
     "gh_issues": 26,
     "gh_branch": "master",
     "man_identifier": "com.websiddu.sketch.material",
@@ -6601,7 +6601,7 @@
     "added": "2017-10-30 22:04:52 UTC",
     "gh_url": "https://github.com/heytitle/latex-sketch-plugin.git",
     "gh_updated": "2017-10-30 23:43:51 UTC",
-    "gh_stars": 19,
+    "gh_stars": 20,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_compatible_version": "3"
@@ -7094,7 +7094,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-03-07 22:43:23 UTC",
-    "gh_stars": 1040,
+    "gh_stars": 1042,
     "gh_issues": 26,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",

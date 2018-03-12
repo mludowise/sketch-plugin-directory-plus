@@ -1,10 +1,12 @@
 # Plugin Metadata
 
-Updated 2018-03-12 15:03:01 UTC
+Updated 2018-03-12 16:02:56 UTC
 
-Total plugins: 456
+Total plugins: 457
 
 ## Problems
+**[amimagid/SketchSymbolLegend](https://github.com/amimagid/SketchSymbolLegend) has no repo**
+
 **[sureskumar/SketchIsometric](https://github.com/sureskumar/SketchIsometric) has no repo**
 
 **[markhorgan/protowire](https://github.com/markhorgan/protowire) has no repo**

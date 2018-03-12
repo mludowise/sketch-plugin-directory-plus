@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-03-12 08:00:50 UTC
+Updated 2018-03-12 09:02:27 UTC
 
-Total plugins: 455
+Total plugins: 456
 
 ## Problems
 **[sureskumar/SketchIsometric](https://github.com/sureskumar/SketchIsometric) has no repo**
@@ -254,4 +254,6 @@ Total plugins: 455
 **[tankxu/SVG-Insert](https://github.com/tankxu/SVG-Insert) manifest.json is missing identifier**
 
 **/ has no repo**
+
+**[juliussohn/sketch-textbox-fit-content](https://github.com/juliussohn/sketch-textbox-fit-content) manifest.json is missing identifier**
 

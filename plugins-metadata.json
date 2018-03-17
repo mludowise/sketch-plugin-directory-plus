@@ -2574,12 +2574,12 @@
     "added": "2015-09-04 09:15:01 UTC",
     "homepage": "https://github.com/abynim/BaseAlign",
     "gh_url": "https://github.com/abynim/BaseAlign.git",
-    "gh_updated": "2018-03-16 14:03:45 UTC",
+    "gh_updated": "2018-03-17 00:56:14 UTC",
     "gh_stars": 59,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.silverux.sketchplugins.basealign",
-    "man_version": "1.0",
+    "man_version": "1.1",
     "icon": "https://raw.githubusercontent.com/abynim/BaseAlign/master/BaseAlign.sketchplugin/Contents/Resources/icon.png"
   },
   {

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-03-20 15:02:44 UTC
+Updated 2018-03-20 16:02:22 UTC
 
 Total plugins: 457
 
@@ -62,8 +62,6 @@ Total plugins: 457
 [marcisme/sketch-preview](https://github.com/marcisme/sketch-preview) manifest.json contains extra commas
 
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
-
-**[littlebusters/Sketch-Exchanger](https://github.com/littlebusters/Sketch-Exchanger) missing manifest.json**
 
 [getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) manifest.json contains extra commas
 

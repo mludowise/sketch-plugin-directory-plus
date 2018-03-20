@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-03-20 14:01:07 UTC
+Updated 2018-03-20 15:02:44 UTC
 
 Total plugins: 457
 
@@ -41,7 +41,9 @@ Total plugins: 457
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
 
-[AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) manifest.json is invalid
+[AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) manifest.json contains extra commas
+
+[AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) and [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) use the same manifest identifier, __com.animaapp.stc-sketch-plugin__
 
 [emrerussia/sketch-clear-export-options](https://github.com/emrerussia/sketch-clear-export-options) manifest.json contains extra commas
 
@@ -60,6 +62,8 @@ Total plugins: 457
 [marcisme/sketch-preview](https://github.com/marcisme/sketch-preview) manifest.json contains extra commas
 
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
+
+**[littlebusters/Sketch-Exchanger](https://github.com/littlebusters/Sketch-Exchanger) missing manifest.json**
 
 [getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) manifest.json contains extra commas
 

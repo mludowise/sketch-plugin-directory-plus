@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-03-20 17:02:08 UTC
+Updated 2018-03-20 18:00:54 UTC
 
 Total plugins: 458
 
@@ -17,7 +17,7 @@ Total plugins: 458
 
 [konki-vienna/sketch-bootstrap-helpers](https://github.com/konki-vienna/sketch-bootstrap-helpers) manifest.json contains extra commas
 
-**[cranksoftwaredev/SketchPlugins](https://github.com/cranksoftwaredev/SketchPlugins) has no repo**
+**[cranksoftwaredev/SketchPlugins](https://github.com/cranksoftwaredev/SketchPlugins) missing manifest.json**
 
 **[Yummygum/SketchCleaner](https://github.com/Yummygum/SketchCleaner) has no repo**
 

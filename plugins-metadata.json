@@ -68,7 +68,12 @@
     "title": "Storyboard Export",
     "description": "Export Sketch based designs to be used within Crank Software's Storyboard Suite",
     "homepage": "https://github.com/cranksoftwaredev/SketchPlugins",
-    "added": "2018-01-24 10:01:29 UTC"
+    "added": "2018-01-24 10:01:29 UTC",
+    "gh_url": "https://github.com/cranksoftwaredev/SketchPlugins.git",
+    "gh_updated": "2017-12-18 19:29:47 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master"
   },
   {
     "name": "SketchCleaner",
@@ -1033,7 +1038,7 @@
     "added": "2014-05-14 03:43:43 UTC",
     "gh_url": "https://github.com/rodi01/RenameIt.git",
     "gh_updated": "2018-02-27 17:58:00 UTC",
-    "gh_stars": 1018,
+    "gh_stars": 1019,
     "gh_issues": 10,
     "gh_branch": "master",
     "man_identifier": "com.taptap.ninja.rename-it",
@@ -1298,7 +1303,7 @@
     "homepage": "https://github.com/GeertWille/sketch-export-assets",
     "gh_url": "https://github.com/GeertWille/sketch-export-assets.git",
     "gh_updated": "2017-03-15 11:58:43 UTC",
-    "gh_stars": 435,
+    "gh_stars": 436,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.geertwille.sketch.export-assets",

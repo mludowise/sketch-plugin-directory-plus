@@ -3678,7 +3678,7 @@
     "homepage": "http://AnimateMate.com",
     "gh_url": "https://github.com/Creatide/AnimateMate.git",
     "gh_updated": "2017-07-14 05:21:52 UTC",
-    "gh_stars": 1209,
+    "gh_stars": 1210,
     "gh_issues": 13,
     "gh_branch": "master",
     "man_identifier": "com.creatide.sketch.animatemate",
@@ -3910,7 +3910,7 @@
     "gh_url": "https://github.com/BohemianCoding/svgo-compressor.git",
     "gh_updated": "2018-03-19 22:46:28 UTC",
     "gh_stars": 799,
-    "gh_issues": 8,
+    "gh_issues": 9,
     "gh_branch": "develop",
     "man_identifier": "com.sketchapp.plugins.svgo-compressor",
     "man_compatible_version": "3.8"

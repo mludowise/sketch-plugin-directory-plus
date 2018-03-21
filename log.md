@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-03-21 14:01:45 UTC
+Updated 2018-03-21 15:01:51 UTC
 
 Total plugins: 458
 
@@ -126,8 +126,6 @@ Total plugins: 458
 [lessthanzero/Formr](https://github.com/lessthanzero/Formr) manifest.json contains extra commas
 
 [stackdevelopment/sketch-pixel-cleanup](https://github.com/stackdevelopment/sketch-pixel-cleanup) manifest.json contains extra commas
-
-**[jaimeeee/sketchplugin-objc-color](https://github.com/jaimeeee/sketchplugin-objc-color) has no repo**
 
 **opencolor-tools/ has no repo**
 

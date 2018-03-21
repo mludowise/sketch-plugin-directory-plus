@@ -5717,7 +5717,10 @@
     "gh_updated": "2017-06-15 13:20:45 UTC",
     "gh_stars": 48,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "bootstrap.grid",
+    "man_version": "1.0",
+    "icon": "https://raw.githubusercontent.com/De-La-Vega/BootstrapGrid/master/Bootstrap%20grid.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "texts_translate",
@@ -7340,7 +7343,7 @@
     "added": "2018-03-12 09:02:27 UTC",
     "gh_url": "https://github.com/juliussohn/sketch-textbox-fit-content.git",
     "gh_updated": "2018-03-09 11:17:33 UTC",
-    "gh_stars": 14,
+    "gh_stars": 15,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_version": "1.1.0",

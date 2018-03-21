@@ -1320,7 +1320,7 @@
     "homepage": "https://github.com/getflourish/Sketch-Color-Contrast-Analyser",
     "gh_url": "https://github.com/getflourish/Sketch-Color-Contrast-Analyser.git",
     "gh_updated": "2018-02-22 08:09:16 UTC",
-    "gh_stars": 585,
+    "gh_stars": 586,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.getflourish.sketch.colorcontrastanalyser",
@@ -2820,7 +2820,7 @@
     "homepage": "https://github.com/wonderbit/sketch-select-similar-layers",
     "gh_url": "https://github.com/wonderbit/sketch-select-similar-layers.git",
     "gh_updated": "2017-10-16 06:33:04 UTC",
-    "gh_stars": 192,
+    "gh_stars": 193,
     "gh_issues": 14,
     "gh_branch": "master",
     "man_identifier": "me.wessley.selectSimilarLayers",
@@ -6695,7 +6695,9 @@
     "gh_updated": "2017-11-04 15:24:43 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.2bfef64a-829d-4273-98d5-8e7f5a2db177",
+    "man_version": "1.0"
   },
   {
     "name": "sketch-style-master",
@@ -7111,7 +7113,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-03-18 04:24:02 UTC",
-    "gh_stars": 1216,
+    "gh_stars": 1219,
     "gh_issues": 28,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",

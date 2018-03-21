@@ -1865,7 +1865,7 @@
     "homepage": "https://github.com/abynim/UserFlows",
     "gh_url": "https://github.com/abynim/UserFlows.git",
     "gh_updated": "2018-03-07 11:41:08 UTC",
-    "gh_stars": 1271,
+    "gh_stars": 1270,
     "gh_issues": 45,
     "gh_branch": "v2",
     "man_identifier": "com.abynim.sketchplugins.userflows",
@@ -2215,7 +2215,7 @@
     "homepage": "https://github.com/abynim/sketchy-pies",
     "gh_url": "https://github.com/abynim/sketchy-pies.git",
     "gh_updated": "2016-11-13 04:10:04 UTC",
-    "gh_stars": 144,
+    "gh_stars": 145,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.abynim.plugins.sketchypies",
@@ -6695,9 +6695,7 @@
     "gh_updated": "2017-11-04 15:24:43 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.2bfef64a-829d-4273-98d5-8e7f5a2db177",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-style-master",
@@ -7113,7 +7111,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-03-18 04:24:02 UTC",
-    "gh_stars": 1215,
+    "gh_stars": 1216,
     "gh_issues": 28,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",

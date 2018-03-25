@@ -1453,7 +1453,7 @@
     "homepage": "https://github.com/ichord/sketch-divine-proportions",
     "gh_url": "https://github.com/ichord/sketch-divine-proportions.git",
     "gh_updated": "2017-08-02 17:15:04 UTC",
-    "gh_stars": 122,
+    "gh_stars": 123,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.ichord.sketch.divine-proportions",
@@ -3531,7 +3531,7 @@
     "homepage": "https://github.com/andrewfiorillo/sketch-artboards-to-pdf",
     "gh_url": "https://github.com/andrewfiorillo/sketch-artboards-to-pdf.git",
     "gh_updated": "2017-10-10 17:06:16 UTC",
-    "gh_stars": 201,
+    "gh_stars": 202,
     "gh_issues": 11,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-artboards-to-pdf",
@@ -5318,7 +5318,10 @@
     "gh_updated": "2017-08-30 11:43:08 UTC",
     "gh_stars": 66,
     "gh_issues": 11,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "dreier.kristof.rbs",
+    "man_version": "2.0.0-beta.3",
+    "man_compatible_version": "3.5"
   },
   {
     "name": "sketch-image-replaste",

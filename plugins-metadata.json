@@ -5318,10 +5318,7 @@
     "gh_updated": "2017-08-30 11:43:08 UTC",
     "gh_stars": 66,
     "gh_issues": 11,
-    "gh_branch": "master",
-    "man_identifier": "dreier.kristof.rbs",
-    "man_version": "2.0.0-beta.3",
-    "man_compatible_version": "3.5"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-image-replaste",

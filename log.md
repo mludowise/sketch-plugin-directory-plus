@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-03-27 12:02:25 UTC
+Updated 2018-03-27 13:02:43 UTC
 
 Total plugins: 459
 
@@ -181,8 +181,6 @@ Total plugins: 459
 
 [partyka1/Fontily](https://github.com/partyka1/Fontily) manifest.json contains extra commas
 
-[canisminor1990/sketch-move-half-pixel](https://github.com/canisminor1990/sketch-move-half-pixel) manifest.json contains extra commas
-
 **[ImageOptim/sketch-plugin](https://github.com/ImageOptim/sketch-plugin) missing manifest.json**
 
 [MattCowBoy/giancartboard](https://github.com/MattCowBoy/giancartboard) manifest.json contains extra commas
@@ -243,7 +241,7 @@ Total plugins: 459
 
 **[fhuel/DeepSelect](https://github.com/fhuel/DeepSelect) manifest.json is missing identifier**
 
-**[reqfire/sketch-user-flows](https://github.com/reqfire/sketch-user-flows) manifest.json is missing identifier**
+**[reqfire/sketch-user-flows](https://github.com/reqfire/sketch-user-flows) missing manifest.json**
 
 [kupe517/sketch-split-shape](https://github.com/kupe517/sketch-split-shape) manifest.json contains extra commas
 

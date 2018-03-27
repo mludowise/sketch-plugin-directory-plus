@@ -1038,7 +1038,7 @@
     "added": "2014-05-14 03:43:43 UTC",
     "gh_url": "https://github.com/rodi01/RenameIt.git",
     "gh_updated": "2018-03-20 18:53:40 UTC",
-    "gh_stars": 1025,
+    "gh_stars": 1026,
     "gh_issues": 10,
     "gh_branch": "master",
     "man_identifier": "com.taptap.ninja.rename-it",
@@ -1072,7 +1072,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-03-02 05:27:39 UTC",
-    "gh_stars": 5469,
+    "gh_stars": 5470,
     "gh_issues": 155,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -2013,7 +2013,7 @@
     "added": "2015-07-08 12:27:44 UTC",
     "gh_url": "https://github.com/tudou527/marketch.git",
     "gh_updated": "2018-03-23 18:03:04 UTC",
-    "gh_stars": 2485,
+    "gh_stars": 2487,
     "gh_issues": 47,
     "gh_branch": "master",
     "man_identifier": "com.marketch.cosa.98908c77-3d38-48fa-8c7c-1bb465f67eb8",
@@ -2432,7 +2432,7 @@
     "homepage": "https://github.com/keremciu/sketch-iconfont",
     "gh_url": "https://github.com/keremciu/sketch-iconfont.git",
     "gh_updated": "2017-12-07 00:42:31 UTC",
-    "gh_stars": 1619,
+    "gh_stars": 1620,
     "gh_issues": 17,
     "gh_branch": "master",
     "man_identifier": "com.keremciu.sketch.iconfont",
@@ -5946,7 +5946,9 @@
     "gh_updated": "2017-08-07 07:22:49 UTC",
     "gh_stars": 15,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "cm.sketch.movehalfpixel",
+    "man_version": "1.1"
   },
   {
     "name": "Appalette",
@@ -5991,7 +5993,7 @@
     "added": "2017-06-07 09:02:28 UTC",
     "gh_url": "https://github.com/websiddu/sync-to-slides.git",
     "gh_updated": "2017-06-08 05:11:37 UTC",
-    "gh_stars": 110,
+    "gh_stars": 111,
     "gh_issues": 15,
     "gh_branch": "master",
     "man_identifier": "com.google.sketch.synctoslides",
@@ -6726,7 +6728,10 @@
     "gh_updated": "2017-11-03 21:25:38 UTC",
     "gh_stars": 10,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.aparajita.groupie",
+    "man_version": "1.0.0",
+    "man_compatible_version": "3"
   },
   {
     "name": "p5-sketchplugin",
@@ -6772,7 +6777,7 @@
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2018-03-07 16:14:49 UTC",
-    "gh_stars": 65,
+    "gh_stars": 64,
     "gh_issues": 10,
     "gh_branch": "master",
     "man_compatible_version": "3"
@@ -7018,7 +7023,7 @@
     "homepage": "https://github.com/pavelkuligin/chart",
     "gh_url": "https://github.com/pavelkuligin/chart.git",
     "gh_updated": "2018-02-26 09:20:01 UTC",
-    "gh_stars": 620,
+    "gh_stars": 621,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.examples.chart",
@@ -7094,7 +7099,9 @@
     "gh_updated": "2018-03-01 23:40:03 UTC",
     "gh_stars": 10,
     "gh_issues": 0,
-    "gh_branch": "plugin"
+    "gh_branch": "plugin",
+    "man_version": "1.0.1",
+    "man_compatible_version": "3"
   },
   {
     "name": "paddy-sketch-plugin",

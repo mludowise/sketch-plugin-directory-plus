@@ -5634,7 +5634,7 @@
     "gh_url": "https://github.com/finchalyzer/slinky.git",
     "gh_updated": "2017-12-04 14:27:29 UTC",
     "gh_stars": 516,
-    "gh_issues": 8,
+    "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.slinky-plugin",
     "man_version": "0.1.5"
@@ -7113,7 +7113,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-03-18 04:24:02 UTC",
-    "gh_stars": 1292,
+    "gh_stars": 1293,
     "gh_issues": 32,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",

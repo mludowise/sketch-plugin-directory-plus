@@ -163,7 +163,11 @@
     "gh_updated": "2017-09-18 05:07:23 UTC",
     "gh_stars": 14,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sureskumar.sketchplay",
+    "man_version": "1.0.0",
+    "man_compatible_version": "40.0",
+    "icon": "https://raw.githubusercontent.com/sureskumar/Sketch-Play/master/Sketch-Play.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "Chain",
@@ -6164,7 +6168,7 @@
     "gh_url": "https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin.git",
     "gh_updated": "2017-11-23 11:59:57 UTC",
     "gh_stars": 113,
-    "gh_issues": 4,
+    "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugins.google-sheets-content-sync",
     "man_version": "1.2",

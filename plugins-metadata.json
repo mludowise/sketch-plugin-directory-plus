@@ -163,11 +163,7 @@
     "gh_updated": "2017-09-18 05:07:23 UTC",
     "gh_stars": 14,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.sureskumar.sketchplay",
-    "man_version": "1.0.0",
-    "man_compatible_version": "40.0",
-    "icon": "https://raw.githubusercontent.com/sureskumar/Sketch-Play/master/Sketch-Play.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "Chain",
@@ -5550,7 +5546,7 @@
     "homepage": "https://github.com/richgong/sketch-lorem-ipsum-2017",
     "gh_url": "https://github.com/richgong/sketch-lorem-ipsum-2017.git",
     "gh_updated": "2017-12-08 22:40:24 UTC",
-    "gh_stars": 18,
+    "gh_stars": 19,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.baylaunch.lorem",
@@ -6709,7 +6705,7 @@
     "homepage": "https://github.com/aparajita/sketch-style-master",
     "gh_url": "https://github.com/aparajita/sketch-style-master.git",
     "gh_updated": "2018-03-29 14:25:24 UTC",
-    "gh_stars": 74,
+    "gh_stars": 75,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.aparajita.style-master",

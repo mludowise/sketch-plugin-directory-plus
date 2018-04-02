@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-04-02 20:03:01 UTC
+Updated 2018-04-02 21:01:58 UTC
 
 Total plugins: 463
 
@@ -16,6 +16,8 @@ Total plugins: 463
 **[Shutterstock/Shutterstock](https://github.com/Shutterstock/Shutterstock) has no repo**
 
 [konki-vienna/sketch-bootstrap-helpers](https://github.com/konki-vienna/sketch-bootstrap-helpers) manifest.json contains extra commas
+
+**[cranksoftwaredev/SketchPlugins](https://github.com/cranksoftwaredev/SketchPlugins) missing manifest.json**
 
 **[Yummygum/SketchCleaner](https://github.com/Yummygum/SketchCleaner) has no repo**
 

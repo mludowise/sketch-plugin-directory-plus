@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-04-02 18:01:42 UTC
+Updated 2018-04-02 19:02:48 UTC
 
 Total plugins: 463
 
@@ -17,7 +17,7 @@ Total plugins: 463
 
 [konki-vienna/sketch-bootstrap-helpers](https://github.com/konki-vienna/sketch-bootstrap-helpers) manifest.json contains extra commas
 
-**[cranksoftwaredev/SketchPlugins](https://github.com/cranksoftwaredev/SketchPlugins) missing manifest.json**
+**[cranksoftwaredev/SketchPlugins](https://github.com/cranksoftwaredev/SketchPlugins) has no repo**
 
 **[Yummygum/SketchCleaner](https://github.com/Yummygum/SketchCleaner) has no repo**
 
@@ -68,8 +68,6 @@ Total plugins: 463
 [getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) manifest.json contains extra commas
 
 [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/Sketch-Set-Line-Height-Plugin) manifest.json contains extra commas
-
-**[getflourish/Sketch-Style-Inventory](https://github.com/getflourish/Sketch-Style-Inventory) missing manifest.json**
 
 [ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) manifest.json contains extra commas
 

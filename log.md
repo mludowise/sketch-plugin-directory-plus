@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-04-02 14:02:56 UTC
+Updated 2018-04-02 15:02:34 UTC
 
 Total plugins: 463
 
@@ -31,13 +31,13 @@ Total plugins: 463
 
 [LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) manifest.json contains extra commas
 
-**[awkward/Alembic](https://github.com/awkward/Alembic) missing manifest.json**
+[awkward/Alembic](https://github.com/awkward/Alembic) manifest.json contains extra commas
 
 **/ has no repo**
 
-**[sureskumar/palette-stripes](https://github.com/sureskumar/palette-stripes) missing manifest.json**
-
 [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) manifest.json contains extra commas
+
+**[petterheterjag/chromatic-sketch](https://github.com/petterheterjag/chromatic-sketch) missing manifest.json**
 
 **[zeroheight/zeroheight-sketch-plugin](https://github.com/zeroheight/zeroheight-sketch-plugin) has no repo**
 

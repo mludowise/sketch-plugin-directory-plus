@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-04-02 15:02:34 UTC
+Updated 2018-04-02 16:02:48 UTC
 
 Total plugins: 463
 
@@ -36,8 +36,6 @@ Total plugins: 463
 **/ has no repo**
 
 [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) manifest.json contains extra commas
-
-**[petterheterjag/chromatic-sketch](https://github.com/petterheterjag/chromatic-sketch) missing manifest.json**
 
 **[zeroheight/zeroheight-sketch-plugin](https://github.com/zeroheight/zeroheight-sketch-plugin) has no repo**
 

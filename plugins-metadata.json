@@ -198,7 +198,9 @@
     "gh_updated": "2017-12-18 10:56:25 UTC",
     "gh_stars": 501,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "co.awkward.alembic",
+    "man_version": "1.1"
   },
   {
     "name": "single-border",
@@ -272,6 +274,9 @@
     "gh_stars": 16,
     "gh_issues": 0,
     "gh_branch": "master",
+    "man_identifier": "com.sureskumar.palettestripes",
+    "man_version": "1.0.0",
+    "man_compatible_version": "40.0",
     "icon": "https://raw.githubusercontent.com/sureskumar/palette-stripes/master/Palette-Stripes.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -387,10 +392,7 @@
     "gh_updated": "2017-11-23 20:19:56 UTC",
     "gh_stars": 303,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.sketchapp.plugins.chromatic-sketch",
-    "man_version": "2.0.0",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "stark-sketch-plugin",
@@ -403,7 +405,7 @@
     "gh_url": "https://github.com/stark-contrast/stark-sketch-plugin.git",
     "gh_updated": "2017-12-05 21:54:35 UTC",
     "gh_stars": 393,
-    "gh_issues": 7,
+    "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "com.mfouquet.sketch.stark",
     "man_version": "1.6"
@@ -2697,7 +2699,7 @@
     "homepage": "https://github.com/andrewfiorillo/sketch-palettes",
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
     "gh_updated": "2018-03-26 00:32:16 UTC",
-    "gh_stars": 1835,
+    "gh_stars": 1836,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
@@ -7108,7 +7110,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-03-18 04:24:02 UTC",
-    "gh_stars": 1306,
+    "gh_stars": 1307,
     "gh_issues": 31,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-04-04 22:02:25 UTC
+Updated 2018-04-04 23:02:14 UTC
 
 Total plugins: 464
 
@@ -244,8 +244,6 @@ Total plugins: 464
 **[reqfire/sketch-user-flows](https://github.com/reqfire/sketch-user-flows) manifest.json is missing identifier**
 
 [kupe517/sketch-split-shape](https://github.com/kupe517/sketch-split-shape) manifest.json contains extra commas
-
-[sergeishere/HandyMenu-SketchPlugin](https://github.com/sergeishere/HandyMenu-SketchPlugin) manifest.json contains extra commas
 
 **[wescraig/SnipSnap-Plugin](https://github.com/wescraig/SnipSnap-Plugin) has no repo**
 

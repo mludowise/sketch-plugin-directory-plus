@@ -4359,7 +4359,7 @@
     "homepage": "http://www.textstyl.es/",
     "gh_url": "https://github.com/nilshoenson/shared-text-styles.git",
     "gh_updated": "2018-02-06 20:32:25 UTC",
-    "gh_stars": 248,
+    "gh_stars": 249,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.nilshoenson.sketch.shared-text-styles",
@@ -6948,11 +6948,11 @@
     "homepage": "https://github.com/ziven27/Sketch-topographic",
     "added": "2018-01-22 09:56:09 UTC",
     "gh_url": "https://github.com/ziven27/Sketch-topographic.git",
-    "gh_updated": "2018-01-22 04:45:38 UTC",
+    "gh_updated": "2018-04-04 06:57:32 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
     "gh_branch": "master",
-    "man_version": "1.1",
+    "man_version": "2.3.0",
     "man_compatible_version": "3"
   },
   {

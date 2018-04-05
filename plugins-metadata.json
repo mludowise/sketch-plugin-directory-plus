@@ -533,7 +533,7 @@
     "homepage": "https://github.com/mludowise/Sketch-HTML-Export",
     "gh_url": "https://github.com/mludowise/Sketch-HTML-Export.git",
     "gh_updated": "2017-07-07 18:49:33 UTC",
-    "gh_stars": 84,
+    "gh_stars": 85,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.mludowise.htmlexport",
@@ -2013,7 +2013,7 @@
     "added": "2015-07-08 12:27:44 UTC",
     "gh_url": "https://github.com/tudou527/marketch.git",
     "gh_updated": "2018-03-23 18:03:04 UTC",
-    "gh_stars": 2508,
+    "gh_stars": 2509,
     "gh_issues": 47,
     "gh_branch": "master",
     "man_identifier": "com.marketch.cosa.98908c77-3d38-48fa-8c7c-1bb465f67eb8",
@@ -4034,7 +4034,9 @@
     "gh_updated": "2016-06-19 23:35:38 UTC",
     "gh_stars": 12,
     "gh_issues": 3,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.a4c609d0-2127-4e05-bca7-3cb212e89f06",
+    "man_version": "1.0"
   },
   {
     "name": "States",
@@ -4454,7 +4456,16 @@
     "author": "Mike Mariano",
     "title": "Export Symbols",
     "description": "Sketch Plugins",
-    "added": "2016-08-30 10:10:30 UTC"
+    "added": "2016-08-30 10:10:30 UTC",
+    "homepage": "https://github.com/marianomike/sketch-exportsymbols",
+    "gh_url": "https://github.com/marianomike/sketch-exportsymbols.git",
+    "gh_updated": "2016-08-28 06:32:21 UTC",
+    "gh_stars": 17,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.marianomike.sketch-plugin",
+    "man_version": "1.0",
+    "man_compatible_version": "3.5"
   },
   {
     "name": "Sketch-Quick-Presentation",
@@ -4482,7 +4493,7 @@
     "added": "2016-09-02 10:28:25 UTC",
     "homepage": "https://github.com/KivyGogh/Coffee-Slice",
     "gh_url": "https://github.com/KivyGogh/Coffee-Slice.git",
-    "gh_updated": "2017-05-03 08:56:10 UTC",
+    "gh_updated": "2017-05-03 08:56:11 UTC",
     "gh_stars": 81,
     "gh_issues": 2,
     "gh_branch": "master",
@@ -4805,16 +4816,7 @@
     "author": "Celyn Xie",
     "title": "Sketch Guides",
     "description": "Add Guides to edges and midpoints at once.",
-    "added": "2016-10-21 09:19:11 UTC",
-    "homepage": "https://github.com/luvmex/Sketch-Guides",
-    "gh_url": "https://github.com/luvmex/Sketch-Guides.git",
-    "gh_updated": "2017-08-11 12:12:49 UTC",
-    "gh_stars": 72,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.celynxie.sketchguides",
-    "man_version": "2.4.2",
-    "man_compatible_version": "42"
+    "added": "2016-10-21 09:19:11 UTC"
   },
   {
     "name": "sketch-designdoc",
@@ -5439,11 +5441,7 @@
     "gh_updated": "2017-07-12 03:28:44 UTC",
     "gh_stars": 122,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.davidwilliames.sketch.pdf-export",
-    "man_version": "2.1",
-    "man_compatible_version": "39",
-    "icon": "https://raw.githubusercontent.com/DWilliames/PDF-export-sketch-plugin/master/PDF%20Export.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "nudge-resize-sketch-plugin",
@@ -5618,7 +5616,15 @@
     "author": "Finch.io",
     "title": "Slinky",
     "description": "Export your Sketch designs as HTML email templates",
-    "added": "2017-04-04 10:35:38 UTC"
+    "added": "2017-04-04 10:35:38 UTC",
+    "homepage": "https://github.com/finchalyzer/slinky",
+    "gh_url": "https://github.com/finchalyzer/slinky.git",
+    "gh_updated": "2017-12-04 14:27:29 UTC",
+    "gh_stars": 517,
+    "gh_issues": 9,
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.slinky-plugin",
+    "man_version": "0.1.5"
   },
   {
     "name": "sketch-flip-size",

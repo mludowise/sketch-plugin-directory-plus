@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-04-05 04:02:17 UTC
+Updated 2018-04-05 05:01:13 UTC
 
 Total plugins: 464
 
@@ -107,7 +107,7 @@ Total plugins: 464
 
 [JohnCoates/CSSketch](https://github.com/JohnCoates/CSSketch) manifest.json contains extra commas
 
-[sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
+**[sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) has no repo**
 
 [swiadek/pixel-perfecter-sketch-plugin](https://github.com/swiadek/pixel-perfecter-sketch-plugin) manifest.json contains extra commas
 
@@ -153,7 +153,7 @@ Total plugins: 464
 
 [exevil/sketch-rename-instances](https://github.com/exevil/sketch-rename-instances) manifest.json contains extra commas
 
-**[luvmex/Sketch-Guides](https://github.com/luvmex/Sketch-Guides) has no repo**
+[luvmex/Sketch-Guides](https://github.com/luvmex/Sketch-Guides) manifest.json contains extra commas
 
 [pberrecloth/rotator-sketch-plugin](https://github.com/pberrecloth/rotator-sketch-plugin) manifest.json contains extra commas
 

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-04-05 03:02:36 UTC
+Updated 2018-04-05 04:02:17 UTC
 
 Total plugins: 464
 
@@ -133,8 +133,6 @@ Total plugins: 464
 
 **vmdanilov/ has no repo**
 
-**[mendyismyname/ImageExtractorSketch](https://github.com/mendyismyname/ImageExtractorSketch) missing manifest.json**
-
 [kylehickinson/Sketch-SF-UI-Font-Fixer](https://github.com/kylehickinson/Sketch-SF-UI-Font-Fixer) manifest.json contains extra commas
 
 **Atomic.io/ has no repo**
@@ -145,7 +143,7 @@ Total plugins: 464
 
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
 
-**[marianomike/sketch-exportsymbols](https://github.com/marianomike/sketch-exportsymbols) has no repo**
+[marianomike/sketch-exportsymbols](https://github.com/marianomike/sketch-exportsymbols) manifest.json contains extra commas
 
 [marianomike/sketch-organizesymbols](https://github.com/marianomike/sketch-organizesymbols) manifest.json contains extra commas
 
@@ -155,7 +153,7 @@ Total plugins: 464
 
 [exevil/sketch-rename-instances](https://github.com/exevil/sketch-rename-instances) manifest.json contains extra commas
 
-[luvmex/Sketch-Guides](https://github.com/luvmex/Sketch-Guides) manifest.json contains extra commas
+**[luvmex/Sketch-Guides](https://github.com/luvmex/Sketch-Guides) has no repo**
 
 [pberrecloth/rotator-sketch-plugin](https://github.com/pberrecloth/rotator-sketch-plugin) manifest.json contains extra commas
 
@@ -171,7 +169,7 @@ Total plugins: 464
 
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
 
-**[finchalyzer/slinky](https://github.com/finchalyzer/slinky) has no repo**
+[finchalyzer/slinky](https://github.com/finchalyzer/slinky) manifest.json contains extra commas
 
 [Rezaaa/english-and-persian-lorem-ipsum](https://github.com/Rezaaa/english-and-persian-lorem-ipsum) manifest.json contains extra commas
 

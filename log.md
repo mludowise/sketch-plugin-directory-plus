@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-04-05 01:00:42 UTC
+Updated 2018-04-05 02:02:02 UTC
 
 Total plugins: 464
 
@@ -35,8 +35,6 @@ Total plugins: 464
 
 **/ has no repo**
 
-**[mfouquet/Reselect](https://github.com/mfouquet/Reselect) has no repo**
-
 [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) manifest.json contains extra commas
 
 **[zeroheight/zeroheight-sketch-plugin](https://github.com/zeroheight/zeroheight-sketch-plugin) has no repo**
@@ -54,8 +52,6 @@ Total plugins: 464
 [herrhelms/social-artboards-sketch](https://github.com/herrhelms/social-artboards-sketch) manifest.json contains extra commas
 
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
-
-**[einancunlu/Checkpoints-Plugin-for-Sketch](https://github.com/einancunlu/Checkpoints-Plugin-for-Sketch) missing manifest.json**
 
 [thetylerwolf/sketch-data-studio](https://github.com/thetylerwolf/sketch-data-studio) manifest.json contains extra commas
 
@@ -121,8 +117,6 @@ Total plugins: 464
 
 [LaloMrtnz/Prism](https://github.com/LaloMrtnz/Prism) manifest.json contains extra commas
 
-**[jclappiway/sketch-to-trello](https://github.com/jclappiway/sketch-to-trello) missing manifest.json**
-
 [nahitheper/SwiftColorPalette](https://github.com/nahitheper/SwiftColorPalette) manifest.json contains extra commas
 
 **SketchRunner/ has no repo**
@@ -139,6 +133,8 @@ Total plugins: 464
 
 **vmdanilov/ has no repo**
 
+**[mendyismyname/ImageExtractorSketch](https://github.com/mendyismyname/ImageExtractorSketch) missing manifest.json**
+
 [kylehickinson/Sketch-SF-UI-Font-Fixer](https://github.com/kylehickinson/Sketch-SF-UI-Font-Fixer) manifest.json contains extra commas
 
 **Atomic.io/ has no repo**
@@ -148,6 +144,8 @@ Total plugins: 464
 [cute/SketchI18N](https://github.com/cute/SketchI18N) manifest.json contains extra commas
 
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
+
+**[ErikFontanel/sketch-toggle-constrain-proportions](https://github.com/ErikFontanel/sketch-toggle-constrain-proportions) missing manifest.json**
 
 [marianomike/sketch-exportsymbols](https://github.com/marianomike/sketch-exportsymbols) manifest.json contains extra commas
 

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-04-05 02:02:02 UTC
+Updated 2018-04-05 03:02:36 UTC
 
 Total plugins: 464
 
@@ -145,9 +145,7 @@ Total plugins: 464
 
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
 
-**[ErikFontanel/sketch-toggle-constrain-proportions](https://github.com/ErikFontanel/sketch-toggle-constrain-proportions) missing manifest.json**
-
-[marianomike/sketch-exportsymbols](https://github.com/marianomike/sketch-exportsymbols) manifest.json contains extra commas
+**[marianomike/sketch-exportsymbols](https://github.com/marianomike/sketch-exportsymbols) has no repo**
 
 [marianomike/sketch-organizesymbols](https://github.com/marianomike/sketch-organizesymbols) manifest.json contains extra commas
 
@@ -173,7 +171,7 @@ Total plugins: 464
 
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
 
-[finchalyzer/slinky](https://github.com/finchalyzer/slinky) manifest.json contains extra commas
+**[finchalyzer/slinky](https://github.com/finchalyzer/slinky) has no repo**
 
 [Rezaaa/english-and-persian-lorem-ipsum](https://github.com/Rezaaa/english-and-persian-lorem-ipsum) manifest.json contains extra commas
 

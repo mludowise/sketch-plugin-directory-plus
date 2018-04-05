@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-04-05 00:02:25 UTC
+Updated 2018-04-05 01:00:42 UTC
 
 Total plugins: 464
 
@@ -35,6 +35,8 @@ Total plugins: 464
 
 **/ has no repo**
 
+**[mfouquet/Reselect](https://github.com/mfouquet/Reselect) has no repo**
+
 [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) manifest.json contains extra commas
 
 **[zeroheight/zeroheight-sketch-plugin](https://github.com/zeroheight/zeroheight-sketch-plugin) has no repo**
@@ -52,6 +54,8 @@ Total plugins: 464
 [herrhelms/social-artboards-sketch](https://github.com/herrhelms/social-artboards-sketch) manifest.json contains extra commas
 
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
+
+**[einancunlu/Checkpoints-Plugin-for-Sketch](https://github.com/einancunlu/Checkpoints-Plugin-for-Sketch) missing manifest.json**
 
 [thetylerwolf/sketch-data-studio](https://github.com/thetylerwolf/sketch-data-studio) manifest.json contains extra commas
 
@@ -116,6 +120,8 @@ Total plugins: 464
 [ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
 
 [LaloMrtnz/Prism](https://github.com/LaloMrtnz/Prism) manifest.json contains extra commas
+
+**[jclappiway/sketch-to-trello](https://github.com/jclappiway/sketch-to-trello) missing manifest.json**
 
 [nahitheper/SwiftColorPalette](https://github.com/nahitheper/SwiftColorPalette) manifest.json contains extra commas
 

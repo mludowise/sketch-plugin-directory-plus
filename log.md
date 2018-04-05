@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-04-05 05:01:13 UTC
+Updated 2018-04-05 06:00:27 UTC
 
 Total plugins: 464
 
@@ -81,8 +81,6 @@ Total plugins: 464
 
 [kumo/sketch-tiles](https://github.com/kumo/sketch-tiles) manifest.json contains extra commas
 
-[ozzik/swap-styles](https://github.com/ozzik/swap-styles) manifest.json contains extra commas
-
 [tudou527/marketch](https://github.com/tudou527/marketch) manifest.json contains extra commas
 
 [nolastan/charts.sketchplugin](https://github.com/nolastan/charts.sketchplugin) manifest.json contains extra commas
@@ -107,7 +105,7 @@ Total plugins: 464
 
 [JohnCoates/CSSketch](https://github.com/JohnCoates/CSSketch) manifest.json contains extra commas
 
-**[sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) has no repo**
+[sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 
 [swiadek/pixel-perfecter-sketch-plugin](https://github.com/swiadek/pixel-perfecter-sketch-plugin) manifest.json contains extra commas
 

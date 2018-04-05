@@ -805,7 +805,10 @@
     "gh_updated": "2016-04-10 12:09:36 UTC",
     "gh_stars": 35,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.einancunlu.sketch-plugins.disconnect",
+    "man_version": "1.3",
+    "man_compatible_version": "3.4"
   },
   {
     "name": "Sketch-State-Switch-Master",
@@ -985,7 +988,7 @@
     "homepage": "https://github.com/marcisme/sketch-preview",
     "gh_url": "https://github.com/marcisme/sketch-preview.git",
     "gh_updated": "2018-03-18 16:35:19 UTC",
-    "gh_stars": 590,
+    "gh_stars": 591,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.marcisme.sketch-preview",

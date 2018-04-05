@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-04-05 06:00:27 UTC
+Updated 2018-04-05 07:00:19 UTC
 
 Total plugins: 464
 
@@ -80,6 +80,8 @@ Total plugins: 464
 **[preciousforever/sketch-aspect-ratio](https://github.com/preciousforever/sketch-aspect-ratio) missing manifest.json**
 
 [kumo/sketch-tiles](https://github.com/kumo/sketch-tiles) manifest.json contains extra commas
+
+[ozzik/swap-styles](https://github.com/ozzik/swap-styles) manifest.json contains extra commas
 
 [tudou527/marketch](https://github.com/tudou527/marketch) manifest.json contains extra commas
 

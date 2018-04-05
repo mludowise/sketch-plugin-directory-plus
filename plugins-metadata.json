@@ -2415,7 +2415,7 @@
     "homepage": "https://github.com/romannurik/Sketch-ArtboardTricks",
     "gh_url": "https://github.com/romannurik/Sketch-ArtboardTricks.git",
     "gh_updated": "2018-03-31 18:27:59 UTC",
-    "gh_stars": 254,
+    "gh_stars": 255,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.artboardtricks",
@@ -2947,16 +2947,7 @@
     "author": "Denis Sudilkovsky",
     "title": "Toggle NoPrint",
     "description": "Toggle Visibility of 'NoPrint' layers in Sketch",
-    "added": "2015-10-19 21:09:43 UTC",
-    "homepage": "https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin",
-    "gh_url": "https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin.git",
-    "gh_updated": "2015-07-20 12:02:37 UTC",
-    "gh_stars": 1,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.toggle-noprint",
-    "man_version": "1.2",
-    "man_compatible_version": "3"
+    "added": "2015-10-19 21:09:43 UTC"
   },
   {
     "name": "sketch-json-parser",
@@ -3019,7 +3010,7 @@
     "homepage": "https://github.com/swiadek/pixel-perfecter-sketch-plugin",
     "gh_url": "https://github.com/swiadek/pixel-perfecter-sketch-plugin.git",
     "gh_updated": "2017-08-21 00:41:15 UTC",
-    "gh_stars": 234,
+    "gh_stars": 235,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.swiadek.sketch.pixel-perfecter",
@@ -4360,7 +4351,7 @@
     "gh_url": "https://github.com/nilshoenson/shared-text-styles.git",
     "gh_updated": "2018-02-06 20:32:25 UTC",
     "gh_stars": 250,
-    "gh_issues": 7,
+    "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "com.nilshoenson.sketch.shared-text-styles",
     "man_version": "1.6.3",
@@ -4493,7 +4484,7 @@
     "added": "2016-09-02 10:28:25 UTC",
     "homepage": "https://github.com/KivyGogh/Coffee-Slice",
     "gh_url": "https://github.com/KivyGogh/Coffee-Slice.git",
-    "gh_updated": "2017-05-03 08:56:11 UTC",
+    "gh_updated": "2017-05-03 08:56:10 UTC",
     "gh_stars": 81,
     "gh_issues": 2,
     "gh_branch": "master",
@@ -4816,7 +4807,16 @@
     "author": "Celyn Xie",
     "title": "Sketch Guides",
     "description": "Add Guides to edges and midpoints at once.",
-    "added": "2016-10-21 09:19:11 UTC"
+    "added": "2016-10-21 09:19:11 UTC",
+    "homepage": "https://github.com/luvmex/Sketch-Guides",
+    "gh_url": "https://github.com/luvmex/Sketch-Guides.git",
+    "gh_updated": "2017-08-11 12:12:49 UTC",
+    "gh_stars": 72,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.celynxie.sketchguides",
+    "man_version": "2.4.2",
+    "man_compatible_version": "42"
   },
   {
     "name": "sketch-designdoc",
@@ -5441,7 +5441,11 @@
     "gh_updated": "2017-07-12 03:28:44 UTC",
     "gh_stars": 122,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.davidwilliames.sketch.pdf-export",
+    "man_version": "2.1",
+    "man_compatible_version": "39",
+    "icon": "https://raw.githubusercontent.com/DWilliames/PDF-export-sketch-plugin/master/PDF%20Export.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "nudge-resize-sketch-plugin",
@@ -5899,7 +5903,7 @@
     "homepage": "https://github.com/joshdjuric/Skatter",
     "gh_url": "https://github.com/joshdjuric/Skatter.git",
     "gh_updated": "2018-01-10 17:00:37 UTC",
-    "gh_stars": 83,
+    "gh_stars": 84,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.Skatter",
@@ -6263,10 +6267,7 @@
     "gh_updated": "2017-12-11 08:20:14 UTC",
     "gh_stars": 29,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.instance-locator",
-    "man_version": "0.1.5",
-    "icon": "https://raw.githubusercontent.com/d4rekanguok/instance-locator/master/InstanceLocator.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "merge-duplicate-symbols",
@@ -6698,10 +6699,7 @@
     "gh_updated": "2018-03-29 14:25:24 UTC",
     "gh_stars": 77,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.aparajita.style-master",
-    "man_version": "1.0.0",
-    "man_compatible_version": "4"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-groupie",
@@ -6798,10 +6796,7 @@
     "gh_updated": "2018-01-13 15:33:42 UTC",
     "gh_stars": 32,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "io.craftbot.sketch.translate-me",
-    "man_version": "0.1.1",
-    "man_compatible_version": "4"
+    "gh_branch": "master"
   },
   {
     "name": "PinLog",
@@ -7100,7 +7095,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-03-18 04:24:02 UTC",
-    "gh_stars": 1335,
+    "gh_stars": 1336,
     "gh_issues": 32,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",

@@ -1072,7 +1072,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-03-02 05:27:39 UTC",
-    "gh_stars": 5500,
+    "gh_stars": 5501,
     "gh_issues": 157,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -4195,7 +4195,9 @@
     "gh_updated": "2017-07-07 14:05:55 UTC",
     "gh_stars": 224,
     "gh_issues": 3,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "cc.ukn.font-finder",
+    "man_version": "1.2"
   },
   {
     "name": "SketchI18N",
@@ -4406,7 +4408,10 @@
     "gh_updated": "2017-07-03 18:08:12 UTC",
     "gh_stars": 7,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.toggleconstrainproportions",
+    "man_version": "1.2",
+    "man_compatible_version": "45"
   },
   {
     "name": "select-children",
@@ -4449,16 +4454,7 @@
     "author": "Mike Mariano",
     "title": "Export Symbols",
     "description": "Sketch Plugins",
-    "added": "2016-08-30 10:10:30 UTC",
-    "homepage": "https://github.com/marianomike/sketch-exportsymbols",
-    "gh_url": "https://github.com/marianomike/sketch-exportsymbols.git",
-    "gh_updated": "2016-08-28 06:32:21 UTC",
-    "gh_stars": 17,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.marianomike.sketch-plugin",
-    "man_version": "1.0",
-    "man_compatible_version": "3.5"
+    "added": "2016-08-30 10:10:30 UTC"
   },
   {
     "name": "Sketch-Quick-Presentation",
@@ -5622,15 +5618,7 @@
     "author": "Finch.io",
     "title": "Slinky",
     "description": "Export your Sketch designs as HTML email templates",
-    "added": "2017-04-04 10:35:38 UTC",
-    "homepage": "https://github.com/finchalyzer/slinky",
-    "gh_url": "https://github.com/finchalyzer/slinky.git",
-    "gh_updated": "2017-12-04 14:27:29 UTC",
-    "gh_stars": 517,
-    "gh_issues": 9,
-    "gh_branch": "master",
-    "man_identifier": "com.sketchapp.slinky-plugin",
-    "man_version": "0.1.5"
+    "added": "2017-04-04 10:35:38 UTC"
   },
   {
     "name": "sketch-flip-size",

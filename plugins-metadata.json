@@ -319,15 +319,7 @@
     "title": "Reselect",
     "description": "Reselect allows you to restore a previous selection or save selections for later use (even after you close the document).",
     "homepage": "http://www.reselect.co",
-    "added": "2017-06-06 07:03:04 UTC",
-    "gh_url": "https://github.com/mfouquet/Reselect.git",
-    "gh_updated": "2017-06-16 20:10:47 UTC",
-    "gh_stars": 17,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.mfouquet.sketch.reselect",
-    "man_version": "2.0.0",
-    "man_compatible_version": "4.1"
+    "added": "2017-06-06 07:03:04 UTC"
   },
   {
     "name": "design-systems",
@@ -771,10 +763,7 @@
     "gh_updated": "2017-06-25 08:10:21 UTC",
     "gh_stars": 57,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.einancunlu.sketch-plugins.checkpoints",
-    "man_version": "1.2",
-    "man_compatible_version": "3.5"
+    "gh_branch": "master"
   },
   {
     "name": "Flatten-Plugin-for-Sketch",
@@ -2868,7 +2857,7 @@
     "added": "2015-10-19 20:17:59 UTC",
     "homepage": "https://github.com/truthlabs/sketch-unlock-all-layers",
     "gh_url": "https://github.com/truthlabs/sketch-unlock-all-layers.git",
-    "gh_updated": "2017-06-08 19:27:57 UTC",
+    "gh_updated": "2017-06-08 19:34:26 UTC",
     "gh_stars": 41,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -3697,9 +3686,7 @@
     "gh_updated": "2016-05-13 13:56:55 UTC",
     "gh_stars": 40,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "com.appiway.trello-sketch-plugin",
-    "man_version": "0.26"
+    "gh_branch": "master"
   },
   {
     "name": "SwiftColorPalette",
@@ -5151,7 +5138,7 @@
     "homepage": "https://github.com/Tallwave/sketch-spellcheck-all-layers",
     "gh_url": "https://github.com/Tallwave/sketch-spellcheck-all-layers.git",
     "gh_updated": "2017-07-28 05:55:44 UTC",
-    "gh_stars": 76,
+    "gh_stars": 77,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.tallwave.spellcheckwholepage",

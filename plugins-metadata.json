@@ -407,7 +407,7 @@
     "added": "2017-04-21 18:02:00 UTC",
     "gh_url": "https://github.com/stark-contrast/stark-sketch-plugin.git",
     "gh_updated": "2017-12-05 21:54:35 UTC",
-    "gh_stars": 396,
+    "gh_stars": 397,
     "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "com.mfouquet.sketch.stark",
@@ -1072,7 +1072,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-03-02 05:27:39 UTC",
-    "gh_stars": 5501,
+    "gh_stars": 5502,
     "gh_issues": 157,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -1967,7 +1967,9 @@
     "gh_updated": "2017-06-18 16:47:08 UTC",
     "gh_stars": 134,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "co.ozzik.swapstyles",
+    "man_version": "1.0.4"
   },
   {
     "name": "swap-elements",
@@ -7111,9 +7113,13 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-03-18 04:24:02 UTC",
-    "gh_stars": 1338,
+    "gh_stars": 1339,
     "gh_issues": 32,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.davidwilliames.sketch-plugin.paddy",
+    "man_version": "1.0.7",
+    "man_compatible_version": "47",
+    "icon": "https://raw.githubusercontent.com/DWilliames/paddy-sketch-plugin/master/Paddy.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "sketch-style-libraries",

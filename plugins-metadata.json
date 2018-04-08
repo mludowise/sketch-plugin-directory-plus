@@ -3876,7 +3876,7 @@
     "homepage": "http://magicsketch.io/presenter",
     "gh_url": "https://github.com/MagicSketch/MagicPresenter.git",
     "gh_updated": "2017-10-24 10:59:47 UTC",
-    "gh_stars": 64,
+    "gh_stars": 65,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "design.magicmirror.presenter",
@@ -7182,12 +7182,12 @@
     "added": "2018-03-02 12:01:30 UTC",
     "homepage": "https://github.com/sergeishere/HandyMenu-SketchPlugin",
     "gh_url": "https://github.com/sergeishere/HandyMenu-SketchPlugin.git",
-    "gh_updated": "2018-04-04 22:44:47 UTC",
+    "gh_updated": "2018-04-08 01:53:56 UTC",
     "gh_stars": 31,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.sergeishere.plugins.handymenu",
-    "man_version": "4"
+    "man_version": "4.1"
   },
   {
     "name": "sketch-fast-text-transfer",

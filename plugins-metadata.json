@@ -1,5 +1,22 @@
 [
   {
+    "name": "sketch-reverse",
+    "owner": "lucaorio",
+    "author": "Luca Orio",
+    "title": "Sketch Reverse",
+    "description": "Reverse the position or depth of selected elements.",
+    "homepage": "https://github.com/lucaorio/sketch-reverse",
+    "added": "2018-04-09 14:02:10 UTC",
+    "gh_url": "https://github.com/lucaorio/sketch-reverse.git",
+    "gh_updated": "2018-04-06 18:51:16 UTC",
+    "gh_stars": 2,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.sketch.reverse",
+    "man_version": "1.0.1",
+    "man_compatible_version": "3"
+  },
+  {
     "name": "Timeline",
     "owner": "Anima Team",
     "author": "Anima Team",
@@ -2013,7 +2030,7 @@
     "added": "2015-07-08 12:27:44 UTC",
     "gh_url": "https://github.com/tudou527/marketch.git",
     "gh_updated": "2018-03-23 18:03:04 UTC",
-    "gh_stars": 2511,
+    "gh_stars": 2512,
     "gh_issues": 47,
     "gh_branch": "master",
     "man_identifier": "com.marketch.cosa.98908c77-3d38-48fa-8c7c-1bb465f67eb8",
@@ -3909,7 +3926,7 @@
     "added": "2016-05-31 15:16:43 UTC",
     "gh_url": "https://github.com/BohemianCoding/svgo-compressor.git",
     "gh_updated": "2018-03-19 22:46:28 UTC",
-    "gh_stars": 812,
+    "gh_stars": 813,
     "gh_issues": 11,
     "gh_branch": "develop",
     "man_identifier": "com.sketchapp.plugins.svgo-compressor",
@@ -5513,8 +5530,8 @@
     "author": "Luca Orio",
     "title": "Sketch Styles Generator",
     "description": "Generate hundreds of Sketch Shared Styles in a matter of seconds.",
-    "added": "2017-03-15 10:07:31 UTC",
     "homepage": "https://github.com/lucaorio/sketch-styles-generator",
+    "added": "2017-03-15 10:07:31 UTC",
     "gh_url": "https://github.com/lucaorio/sketch-styles-generator.git",
     "gh_updated": "2018-04-06 01:04:09 UTC",
     "gh_stars": 299,
@@ -6433,8 +6450,8 @@
     "author": "Luca Orio",
     "title": "Sketch Resize",
     "description": "Resize (not scale) multiple layers at once via shortcut.",
-    "added": "2017-09-17 08:55:10 UTC",
     "homepage": "https://github.com/lucaorio/sketch-resize",
+    "added": "2017-09-17 08:55:10 UTC",
     "gh_url": "https://github.com/lucaorio/sketch-resize.git",
     "gh_updated": "2018-04-06 00:58:35 UTC",
     "gh_stars": 36,
@@ -7437,5 +7454,21 @@
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"
+  },
+  {
+    "owner": null,
+    "author": "Jaer Pollux",
+    "title": "Symbols Manager",
+    "description": "A fast and easy way to manage all your symbols. No more hassle with long and complex symbols name, or renaming tons of symbols because you misspelled a folder name.",
+    "homepage": "https://gumroad.com/l/sketch-symbols-manager",
+    "added": "2018-04-09 14:02:10 UTC"
+  },
+  {
+    "owner": null,
+    "author": "Jaer Pollux",
+    "title": "Text Styles Manager",
+    "description": "A fast and easy way to manage all your Text Styles. No more hassle with long and complex names, or renaming tons of styles because you misspelled a folder name.",
+    "homepage": "https://gum.co/sketch-text-styles-manager",
+    "added": "2018-04-09 14:02:10 UTC"
   }
 ]

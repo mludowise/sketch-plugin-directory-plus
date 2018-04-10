@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-04-10 09:02:57 UTC
+Updated 2018-04-10 10:02:45 UTC
 
 Total plugins: 467
 
@@ -112,6 +112,8 @@ Total plugins: 467
 [swiadek/pixel-perfecter-sketch-plugin](https://github.com/swiadek/pixel-perfecter-sketch-plugin) manifest.json contains extra commas
 
 [AntonioJMartinez/sketch-ImageAverageColor](https://github.com/AntonioJMartinez/sketch-ImageAverageColor) manifest.json contains extra commas
+
+**[mathieudutour/git-sketch-plugin](https://github.com/mathieudutour/git-sketch-plugin) has no repo**
 
 [ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
 

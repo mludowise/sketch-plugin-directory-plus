@@ -6905,7 +6905,7 @@
     "homepage": "https://github.com/ahmedmigo/Move-to-library-sketchplugin",
     "gh_url": "https://github.com/ahmedmigo/Move-to-library-sketchplugin.git",
     "gh_updated": "2018-04-06 09:19:06 UTC",
-    "gh_stars": 58,
+    "gh_stars": 64,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "moveToLibrary.plugin",
@@ -7130,7 +7130,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-03-18 04:24:02 UTC",
-    "gh_stars": 1393,
+    "gh_stars": 1396,
     "gh_issues": 35,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",
@@ -7480,12 +7480,13 @@
     "added": "2018-04-10 11:02:33 UTC",
     "homepage": "https://github.com/oodesign/icon-tools",
     "gh_url": "https://github.com/oodesign/icon-tools.git",
-    "gh_updated": "2018-04-11 14:54:14 UTC",
+    "gh_updated": "2018-04-11 15:22:23 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.0a887f2f-c79f-4316-b19f-ca74b889bbc8",
-    "man_version": "1.0.5",
+    "man_version": "1.0.6",
+    "man_compatible_version": "48",
     "icon": "https://raw.githubusercontent.com/oodesign/icon-tools/master/Icon%20tools.sketchplugin/Contents/Resources/icon.png"
   }
 ]

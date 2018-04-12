@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-04-12 21:00:21 UTC
+Updated 2018-04-12 22:01:09 UTC
 
 Total plugins: 468
 
@@ -79,37 +79,21 @@ Total plugins: 468
 
 **[preciousforever/sketch-aspect-ratio](https://github.com/preciousforever/sketch-aspect-ratio) missing manifest.json**
 
-**[kumo/sketch-tiles](https://github.com/kumo/sketch-tiles) has no repo**
+[kumo/sketch-tiles](https://github.com/kumo/sketch-tiles) manifest.json contains extra commas
 
 [ozzik/swap-styles](https://github.com/ozzik/swap-styles) manifest.json contains extra commas
-
-**[interacthings/swap-elements](https://github.com/interacthings/swap-elements) has no repo**
 
 [tudou527/marketch](https://github.com/tudou527/marketch) manifest.json contains extra commas
 
 [nolastan/charts.sketchplugin](https://github.com/nolastan/charts.sketchplugin) manifest.json contains extra commas
 
-**[abynim/Xport](https://github.com/abynim/Xport) has no repo**
-
-**[FrancisVega/ZEN-Sketch](https://github.com/FrancisVega/ZEN-Sketch) has no repo**
-
 [soutaro/Align-text-baseline-sketch-plugin](https://github.com/soutaro/Align-text-baseline-sketch-plugin) manifest.json contains extra commas
 
-**[matt-curtis/Archetype](https://github.com/matt-curtis/Archetype) has no repo**
+[hamidp/sketchtextsourcer](https://github.com/hamidp/sketchtextsourcer) manifest.json contains extra commas
 
-**[nerthase/TrimArtboard](https://github.com/nerthase/TrimArtboard) has no repo**
-
-**[uetchy/Sketch-StickyGrid](https://github.com/uetchy/Sketch-StickyGrid) missing manifest.json**
-
-**[hamidp/sketchtextsourcer](https://github.com/hamidp/sketchtextsourcer) has no repo**
-
-**[jamztang/MagicMirror](https://github.com/jamztang/MagicMirror) has no repo**
+[jamztang/MagicMirror](https://github.com/jamztang/MagicMirror) manifest.json contains extra commas
 
 [bunguu/SketchExportForRepliaPlugin](https://github.com/bunguu/SketchExportForRepliaPlugin) manifest.json contains extra commas
-
-**[keremciu/sketch-select-invisible-layers](https://github.com/keremciu/sketch-select-invisible-layers) has no repo**
-
-**[webpatch/Handy-Tools](https://github.com/webpatch/Handy-Tools) missing manifest.json**
 
 [ozgurgunes/Sketch-Layer-Comps](https://github.com/ozgurgunes/Sketch-Layer-Comps) manifest.json contains extra commas
 

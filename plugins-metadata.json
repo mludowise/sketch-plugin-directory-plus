@@ -6237,7 +6237,9 @@
     "gh_updated": "2017-05-25 15:13:45 UTC",
     "gh_stars": 44,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.doubco.sketch.align-artboards",
+    "man_version": "1.0"
   },
   {
     "name": "icondrop",

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-04-12 15:01:44 UTC
+Updated 2018-04-12 16:02:45 UTC
 
 Total plugins: 468
 
@@ -190,8 +190,6 @@ Total plugins: 468
 **[Iconscout/logodrop](https://github.com/Iconscout/logodrop) manifest.json is missing identifier**
 
 [Reinvently/moodboards-sketch-plugin](https://github.com/Reinvently/moodboards-sketch-plugin) manifest.json contains extra commas
-
-**[doubco/sketchplugin-align-artboards](https://github.com/doubco/sketchplugin-align-artboards) missing manifest.json**
 
 **[iconscout/icondrop](https://github.com/iconscout/icondrop) manifest.json is missing identifier**
 

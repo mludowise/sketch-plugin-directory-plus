@@ -1386,10 +1386,13 @@
     "added": "2014-09-05 09:33:46 UTC",
     "homepage": "https://github.com/getflourish/Sketch-Style-Inventory",
     "gh_url": "https://github.com/getflourish/Sketch-Style-Inventory.git",
-    "gh_updated": "2018-04-12 17:47:35 UTC",
+    "gh_updated": "2018-04-12 18:30:00 UTC",
     "gh_stars": 1778,
     "gh_issues": 30,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.getflourish.sketch.styleinventory",
+    "man_version": "1.5.0",
+    "man_compatible_version": "4.9"
   },
   {
     "name": "ArtboardZoom",
@@ -4079,7 +4082,7 @@
     "homepage": "https://github.com/kylehickinson/Sketch-SF-UI-Font-Fixer",
     "gh_url": "https://github.com/kylehickinson/Sketch-SF-UI-Font-Fixer.git",
     "gh_updated": "2017-06-08 03:51:18 UTC",
-    "gh_stars": 432,
+    "gh_stars": 433,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.kylehickinson.sf-fix-fonts",
@@ -7127,7 +7130,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-03-18 04:24:02 UTC",
-    "gh_stars": 1403,
+    "gh_stars": 1405,
     "gh_issues": 35,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",

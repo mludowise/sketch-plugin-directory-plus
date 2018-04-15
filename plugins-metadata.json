@@ -6905,7 +6905,7 @@
     "homepage": "https://github.com/ahmedmigo/Move-to-library-sketchplugin",
     "gh_url": "https://github.com/ahmedmigo/Move-to-library-sketchplugin.git",
     "gh_updated": "2018-04-06 09:19:06 UTC",
-    "gh_stars": 82,
+    "gh_stars": 83,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "moveToLibrary.plugin",
@@ -7514,7 +7514,7 @@
     "added": "2018-04-14 18:01:16 UTC",
     "gh_url": "https://github.com/mathieudutour/rough-sketch.git",
     "gh_updated": "2018-04-14 19:36:45 UTC",
-    "gh_stars": 3,
+    "gh_stars": 4,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_compatible_version": "3"

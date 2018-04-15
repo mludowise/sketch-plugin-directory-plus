@@ -4691,7 +4691,7 @@
     "homepage": "https://github.com/sonburn/symbol-organizer",
     "gh_url": "https://github.com/sonburn/symbol-organizer.git",
     "gh_updated": "2018-02-15 14:55:27 UTC",
-    "gh_stars": 539,
+    "gh_stars": 540,
     "gh_issues": 12,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-organizer",
@@ -7515,7 +7515,7 @@
     "gh_url": "https://github.com/mathieudutour/rough-sketch.git",
     "gh_updated": "2018-04-15 11:08:52 UTC",
     "gh_stars": 6,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_compatible_version": "3"
   }

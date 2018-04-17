@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-04-17 12:01:38 UTC
+Updated 2018-04-17 13:02:06 UTC
 
 Total plugins: 470
 
@@ -240,8 +240,6 @@ Total plugins: 470
 **/ has no repo**
 
 **[fhuel/DeepSelect](https://github.com/fhuel/DeepSelect) manifest.json is missing identifier**
-
-**[reqfire/sketch-user-flows](https://github.com/reqfire/sketch-user-flows) manifest.json is missing identifier**
 
 [kupe517/sketch-split-shape](https://github.com/kupe517/sketch-split-shape) manifest.json contains extra commas
 

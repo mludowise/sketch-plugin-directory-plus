@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-04-23 09:01:44 UTC
+Updated 2018-04-23 10:02:26 UTC
 
 Total plugins: 471
 
@@ -268,8 +268,6 @@ Total plugins: 471
 **/ has no repo**
 
 **/ has no repo**
-
-**[lukasoppermann/browser-preview](https://github.com/lukasoppermann/browser-preview) manifest.json is missing identifier**
 
 **[mathieudutour/rough-sketch](https://github.com/mathieudutour/rough-sketch) manifest.json is missing identifier**
 

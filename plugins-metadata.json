@@ -2030,7 +2030,7 @@
     "added": "2015-07-08 12:27:44 UTC",
     "gh_url": "https://github.com/tudou527/marketch.git",
     "gh_updated": "2018-03-23 18:03:04 UTC",
-    "gh_stars": 2528,
+    "gh_stars": 2529,
     "gh_issues": 48,
     "gh_branch": "master",
     "man_identifier": "com.marketch.cosa.98908c77-3d38-48fa-8c7c-1bb465f67eb8",
@@ -7514,11 +7514,12 @@
     "homepage": "https://github.com/lukasoppermann/browser-preview",
     "added": "2018-04-13 17:01:56 UTC",
     "gh_url": "https://github.com/lukasoppermann/browser-preview.git",
-    "gh_updated": "2018-04-20 15:54:30 UTC",
+    "gh_updated": "2018-04-23 08:42:21 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
     "gh_branch": "master",
-    "man_version": "2.0.2",
+    "man_identifier": "com.lukasoppermann.sketch.browser-preview",
+    "man_version": "2.0.3",
     "man_compatible_version": "3"
   },
   {

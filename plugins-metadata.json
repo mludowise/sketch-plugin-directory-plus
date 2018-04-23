@@ -1387,7 +1387,7 @@
     "homepage": "https://github.com/getflourish/Sketch-Style-Inventory",
     "gh_url": "https://github.com/getflourish/Sketch-Style-Inventory.git",
     "gh_updated": "2018-04-14 11:55:42 UTC",
-    "gh_stars": 1785,
+    "gh_stars": 1786,
     "gh_issues": 24,
     "gh_branch": "master",
     "man_identifier": "com.getflourish.sketch.styleinventory",
@@ -2668,12 +2668,11 @@
     "added": "2015-09-21 18:39:39 UTC",
     "homepage": "https://github.com/shakemno/sketch-replace-images",
     "gh_url": "https://github.com/shakemno/sketch-replace-images.git",
-    "gh_updated": "2018-04-23 14:19:57 UTC",
+    "gh_updated": "2018-04-23 16:48:35 UTC",
     "gh_stars": 28,
     "gh_issues": 0,
     "gh_branch": "master",
-    "man_identifier": "de.shakemno.sketch-replace-images",
-    "man_version": "0.5.0",
+    "man_version": "0.5.1",
     "man_compatible_version": "3"
   },
   {
@@ -4394,7 +4393,7 @@
     "gh_url": "https://github.com/gotomedia/Sketch-PageNumbers.git",
     "gh_updated": "2017-03-07 22:49:49 UTC",
     "gh_stars": 22,
-    "gh_issues": 3,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.gotomedia.pagenumbers",
     "man_version": "0.3"

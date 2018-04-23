@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-04-23 22:01:13 UTC
+Updated 2018-04-23 23:02:34 UTC
 
-Total plugins: 471
+Total plugins: 476
 
 ## Problems
 **[Anima Team/Timeline](https://github.com/Anima Team/Timeline) has no repo**
@@ -272,4 +272,8 @@ Total plugins: 471
 **/ has no repo**
 
 **[mathieudutour/rough-sketch](https://github.com/mathieudutour/rough-sketch) manifest.json is missing identifier**
+
+**[fruitfrills/polyglot](https://github.com/fruitfrills/polyglot) manifest.json is missing identifier**
+
+**[alex-matt/sketch-lightwire-plugin](https://github.com/alex-matt/sketch-lightwire-plugin) manifest.json is missing identifier**
 

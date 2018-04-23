@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-04-23 16:02:38 UTC
+Updated 2018-04-23 17:01:36 UTC
 
 Total plugins: 471
 
@@ -98,6 +98,8 @@ Total plugins: 471
 [ozgurgunes/Sketch-Layer-Comps](https://github.com/ozgurgunes/Sketch-Layer-Comps) manifest.json contains extra commas
 
 [Charimon/iosViews](https://github.com/Charimon/iosViews) manifest.json contains extra commas
+
+**[shakemno/sketch-replace-images](https://github.com/shakemno/sketch-replace-images) manifest.json is missing identifier**
 
 [stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers) manifest.json contains extra commas
 

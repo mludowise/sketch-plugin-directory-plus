@@ -4375,7 +4375,7 @@
     "homepage": "http://www.textstyl.es/",
     "gh_url": "https://github.com/nilshoenson/shared-text-styles.git",
     "gh_updated": "2018-02-06 20:32:25 UTC",
-    "gh_stars": 255,
+    "gh_stars": 256,
     "gh_issues": 10,
     "gh_branch": "master",
     "man_identifier": "com.nilshoenson.sketch.shared-text-styles",
@@ -4689,12 +4689,12 @@
     "added": "2016-09-28 14:25:23 UTC",
     "homepage": "https://github.com/sonburn/symbol-organizer",
     "gh_url": "https://github.com/sonburn/symbol-organizer.git",
-    "gh_updated": "2018-02-15 14:55:27 UTC",
+    "gh_updated": "2018-04-24 22:04:12 UTC",
     "gh_stars": 545,
     "gh_issues": 12,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-organizer",
-    "man_version": "14.4",
+    "man_version": "14.5",
     "icon": "https://raw.githubusercontent.com/sonburn/symbol-organizer/master/Symbol%20Organizer.sketchplugin/Contents/Resources/icon.png"
   },
   {

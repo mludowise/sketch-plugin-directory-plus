@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-04-24 13:01:57 UTC
+Updated 2018-04-24 14:02:29 UTC
 
 Total plugins: 476
 
@@ -146,6 +146,8 @@ Total plugins: 476
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
 
 [marianomike/sketch-exportsymbols](https://github.com/marianomike/sketch-exportsymbols) manifest.json contains extra commas
+
+**[timothywhalin/Sketch-Quick-Presentation](https://github.com/timothywhalin/Sketch-Quick-Presentation) missing manifest.json**
 
 [marianomike/sketch-organizesymbols](https://github.com/marianomike/sketch-organizesymbols) manifest.json contains extra commas
 

@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-04-25 22:01:22 UTC
+Updated 2018-04-25 23:02:08 UTC
 
-Total plugins: 478
+Total plugins: 479
 
 ## Problems
 **[Anima Team/Timeline](https://github.com/Anima Team/Timeline) has no repo**
@@ -278,4 +278,6 @@ Total plugins: 478
 **[alex-matt/sketch-lightwire-plugin](https://github.com/alex-matt/sketch-lightwire-plugin) manifest.json is missing identifier**
 
 **[qruzz/InterUI-Character-Spacing](https://github.com/qruzz/InterUI-Character-Spacing) manifest.json is missing identifier**
+
+[abnamrocoesd/chromata](https://github.com/abnamrocoesd/chromata) manifest.json contains extra commas
 

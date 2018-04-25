@@ -567,7 +567,7 @@
     "homepage": "https://github.com/markhorgan/click-thru-prototype",
     "gh_url": "https://github.com/markhorgan/click-thru-prototype.git",
     "gh_updated": "2017-10-11 12:52:06 UTC",
-    "gh_stars": 311,
+    "gh_stars": 312,
     "gh_issues": 10,
     "gh_branch": "master",
     "man_identifier": "com.markhorgan.sketch.clickThruPrototype",
@@ -7652,5 +7652,22 @@
     "man_version": "1.0.0",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/qruzz/InterUI-Character-Spacing/master/plugin.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "name": "chromata",
+    "owner": "abnamrocoesd",
+    "author": "Vladimir Ionița",
+    "title": "Chromata",
+    "description": "Find rogue colors",
+    "homepage": "https://github.com/abnamrocoesd/Chromata",
+    "added": "2018-04-25 23:02:08 UTC",
+    "gh_url": "https://github.com/abnamrocoesd/Chromata.git",
+    "gh_updated": "2018-04-25 21:48:37 UTC",
+    "gh_stars": 2,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "vladimirionita.chromata",
+    "man_version": "0.1",
+    "icon": "https://raw.githubusercontent.com/abnamrocoesd/chromata/master/chromata.sketchplugin/Contents/Resources/icon.png"
   }
 ]

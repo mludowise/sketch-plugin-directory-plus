@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-04 08:02:32 UTC
+Updated 2018-05-04 09:01:36 UTC
 
 Total plugins: 480
 
@@ -278,8 +278,6 @@ Total plugins: 480
 **[alex-matt/sketch-lightwire-plugin](https://github.com/alex-matt/sketch-lightwire-plugin) manifest.json is missing identifier**
 
 **[qruzz/InterUI-Character-Spacing](https://github.com/qruzz/InterUI-Character-Spacing) manifest.json is missing identifier**
-
-[abnamrocoesd/chromata](https://github.com/abnamrocoesd/chromata) manifest.json contains extra commas
 
 **[Hui Zheng/Bonsai](https://github.com/Hui Zheng/Bonsai) has no repo**
 

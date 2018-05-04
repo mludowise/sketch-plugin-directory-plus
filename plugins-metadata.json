@@ -4050,7 +4050,7 @@
     "gh_url": "https://github.com/mendyismyname/ImageExtractorSketch.git",
     "gh_updated": "2016-06-19 23:35:38 UTC",
     "gh_stars": 13,
-    "gh_issues": 3,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.a4c609d0-2127-4e05-bca7-3cb212e89f06",
     "man_version": "1.0"
@@ -4772,7 +4772,7 @@
     "homepage": "https://github.com/work4blue/sketch-app-asset-export",
     "gh_url": "https://github.com/work4blue/sketch-app-asset-export.git",
     "gh_updated": "2017-02-14 14:01:23 UTC",
-    "gh_stars": 91,
+    "gh_stars": 92,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "cn.bluedrum.sketch-app-aasset-export",
@@ -7039,13 +7039,14 @@
     "added": "2018-01-23 11:02:55 UTC",
     "homepage": "https://github.com/pavelkuligin/chart",
     "gh_url": "https://github.com/pavelkuligin/chart.git",
-    "gh_updated": "2018-04-03 11:20:27 UTC",
+    "gh_updated": "2018-05-04 07:14:34 UTC",
     "gh_stars": 679,
-    "gh_issues": 6,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.examples.chart",
-    "man_version": "2.9",
-    "man_compatible_version": "48.2"
+    "man_version": "3.0.0",
+    "man_compatible_version": "49.2",
+    "icon": "https://raw.githubusercontent.com/pavelkuligin/chart/master/Chart.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "owner": null,

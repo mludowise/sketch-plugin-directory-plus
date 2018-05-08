@@ -6236,7 +6236,7 @@
     "homepage": "https://websiddu.github.io/sketch-material",
     "gh_url": "https://github.com/websiddu/sketch-material.git",
     "gh_updated": "2018-03-13 16:37:08 UTC",
-    "gh_stars": 721,
+    "gh_stars": 723,
     "gh_issues": 26,
     "gh_branch": "master",
     "man_identifier": "com.websiddu.sketch.material",
@@ -7395,7 +7395,7 @@
     "added": "2018-03-12 09:02:27 UTC",
     "gh_url": "https://github.com/juliussohn/sketch-textbox-fit-content.git",
     "gh_updated": "2018-03-21 15:40:18 UTC",
-    "gh_stars": 27,
+    "gh_stars": 28,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_version": "1.3.0",
@@ -7781,7 +7781,7 @@
     "homepage": "https://github.com/romannurik/Sketch-Stickers",
     "added": "2018-05-07 10:02:23 UTC",
     "gh_url": "https://github.com/romannurik/Sketch-Stickers.git",
-    "gh_updated": "2018-05-05 02:51:19 UTC",
+    "gh_updated": "2018-05-08 21:11:00 UTC",
     "gh_stars": 39,
     "gh_issues": 2,
     "gh_branch": "master",
@@ -7789,5 +7789,13 @@
     "man_version": "0.1.1",
     "man_compatible_version": "49",
     "icon": "https://raw.githubusercontent.com/romannurik/Sketch-Stickers/master/Stickers.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "owner": null,
+    "author": "Google",
+    "title": "Material Plugin",
+    "description": "Create, customize, and share your own Material theme. Includes Material Theme Editor, plus upload and sync to Gallery.",
+    "homepage": "https://material.io/tools/theme-editor",
+    "added": "2018-05-08 22:00:45 UTC"
   }
 ]

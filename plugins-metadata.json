@@ -6591,12 +6591,12 @@
     "added": "2017-10-19 09:26:21 UTC",
     "homepage": "https://github.com/sonburn/symbol-instance-sheet",
     "gh_url": "https://github.com/sonburn/symbol-instance-sheet.git",
-    "gh_updated": "2018-05-10 22:25:15 UTC",
+    "gh_updated": "2018-05-11 19:47:45 UTC",
     "gh_stars": 24,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-instance-sheet",
-    "man_version": "0.6",
+    "man_version": "0.7",
     "icon": "https://raw.githubusercontent.com/sonburn/symbol-instance-sheet/master/Symbol%20Instance%20Sheet.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -7612,7 +7612,7 @@
     "added": "2018-04-23 23:02:34 UTC",
     "gh_url": "https://github.com/alex-matt/sketch-lightwire-plugin.git",
     "gh_updated": "2018-04-27 13:41:42 UTC",
-    "gh_stars": 17,
+    "gh_stars": 18,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_compatible_version": "3"

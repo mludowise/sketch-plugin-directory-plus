@@ -1306,7 +1306,7 @@
     "gh_url": "https://github.com/tadija/AEFlowchart.git",
     "gh_updated": "2017-12-10 12:18:06 UTC",
     "gh_stars": 364,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "net.tadija.sketch.AEFlowchart",
     "man_version": "2.2.2"
@@ -1337,7 +1337,7 @@
     "homepage": "https://github.com/turbobabr/duplicator",
     "gh_url": "https://github.com/turbobabr/duplicator.git",
     "gh_updated": "2018-03-16 07:39:33 UTC",
-    "gh_stars": 323,
+    "gh_stars": 324,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.turbobabr.sketch.duplicator",
@@ -1967,7 +1967,7 @@
     "homepage": "https://github.com/preciousforever/sketch-data-populator",
     "gh_url": "https://github.com/preciousforever/sketch-data-populator.git",
     "gh_updated": "2017-12-22 14:06:26 UTC",
-    "gh_stars": 1426,
+    "gh_stars": 1427,
     "gh_issues": 29,
     "gh_branch": "master",
     "man_identifier": "com.precious-forever.sketch.datapopulator2",
@@ -6824,7 +6824,7 @@
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2018-04-25 09:03:16 UTC",
-    "gh_stars": 79,
+    "gh_stars": 80,
     "gh_issues": 10,
     "gh_branch": "master",
     "man_compatible_version": "50"
@@ -7660,13 +7660,13 @@
     "added": "2018-04-24 16:02:24 UTC",
     "homepage": "https://github.com/perrysmotors/reset-image-aspect-ratio",
     "gh_url": "https://github.com/perrysmotors/reset-image-aspect-ratio.git",
-    "gh_updated": "2018-04-26 09:31:36 UTC",
+    "gh_updated": "2018-05-11 22:58:23 UTC",
     "gh_stars": 2,
     "gh_issues": 0,
     "gh_branch": "master",
-    "man_identifier": "com.gilesperry.reset-image-aspect-ratio",
-    "man_version": "1.0",
-    "man_compatible_version": "49"
+    "man_version": "2.0.0",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/perrysmotors/reset-image-aspect-ratio/master/ResetImageAspectRatio.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "InterUI-Character-Spacing",

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-11 22:00:46 UTC
+Updated 2018-05-11 23:00:58 UTC
 
 Total plugins: 488
 
@@ -278,6 +278,8 @@ Total plugins: 488
 **[fruitfrills/polyglot](https://github.com/fruitfrills/polyglot) manifest.json is missing identifier**
 
 **[alex-matt/sketch-lightwire-plugin](https://github.com/alex-matt/sketch-lightwire-plugin) manifest.json is missing identifier**
+
+**[perrysmotors/reset-image-aspect-ratio](https://github.com/perrysmotors/reset-image-aspect-ratio) manifest.json is missing identifier**
 
 **[qruzz/InterUI-Character-Spacing](https://github.com/qruzz/InterUI-Character-Spacing) manifest.json is missing identifier**
 

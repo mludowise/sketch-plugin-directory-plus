@@ -1766,7 +1766,7 @@
     "added": "2015-01-22 09:53:53 UTC",
     "homepage": "https://github.com/delighted/sketch-pull-to-center",
     "gh_url": "https://github.com/delighted/sketch-pull-to-center.git",
-    "gh_updated": "2018-05-12 14:57:15 UTC",
+    "gh_updated": "2018-05-12 20:08:10 UTC",
     "gh_stars": 20,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -1783,12 +1783,13 @@
     "added": "2015-01-26 04:29:57 UTC",
     "homepage": "https://github.com/delighted/sketch-scale-all-in-place",
     "gh_url": "https://github.com/delighted/sketch-scale-all-in-place.git",
-    "gh_updated": "2017-06-20 21:56:25 UTC",
+    "gh_updated": "2018-05-12 20:54:01 UTC",
     "gh_stars": 33,
-    "gh_issues": 6,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.delighted.scale-all-in-place",
-    "man_version": "2.0.0"
+    "man_version": "3.0.0",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-upload-to-cloudapp",
@@ -2829,7 +2830,7 @@
     "added": "2015-10-13 15:36:35 UTC",
     "homepage": "https://github.com/delighted/sketch-duplicate-to-new-artboard",
     "gh_url": "https://github.com/delighted/sketch-duplicate-to-new-artboard.git",
-    "gh_updated": "2018-05-05 00:10:02 UTC",
+    "gh_updated": "2018-05-12 20:06:36 UTC",
     "gh_stars": 8,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -6548,15 +6549,7 @@
     "title": "emmet-sketch",
     "description": "Sketch Plugin to use emmet in Sketch",
     "homepage": "https://github.com/lifeiscontent/emmet-sketch",
-    "added": "2017-10-16 08:11:52 UTC",
-    "gh_url": "https://github.com/lifeiscontent/emmet-sketch.git",
-    "gh_updated": "2017-10-12 16:22:36 UTC",
-    "gh_stars": 0,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.github.lifeiscontent.emmet",
-    "man_version": "1.1.0",
-    "man_compatible_version": "3"
+    "added": "2017-10-16 08:11:52 UTC"
   },
   {
     "name": "library-symbol-replacer",

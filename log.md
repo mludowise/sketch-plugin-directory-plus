@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-12 05:01:35 UTC
+Updated 2018-05-12 06:02:25 UTC
 
 Total plugins: 488
 
@@ -172,8 +172,6 @@ Total plugins: 488
 [maximedegreve/TinyFaces-Sketch-Plugin](https://github.com/maximedegreve/TinyFaces-Sketch-Plugin) manifest.json contains extra commas
 
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
-
-**[freeauto/sketch-lorem-ipsum-2017](https://github.com/freeauto/sketch-lorem-ipsum-2017) missing manifest.json**
 
 [finchalyzer/slinky](https://github.com/finchalyzer/slinky) manifest.json contains extra commas
 

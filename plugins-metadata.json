@@ -1304,12 +1304,12 @@
     "added": "2014-09-25 10:47:52 UTC",
     "homepage": "https://github.com/tadija/AEFlowchart",
     "gh_url": "https://github.com/tadija/AEFlowchart.git",
-    "gh_updated": "2017-12-10 12:18:06 UTC",
+    "gh_updated": "2018-05-12 18:58:37 UTC",
     "gh_stars": 364,
-    "gh_issues": 2,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "net.tadija.sketch.AEFlowchart",
-    "man_version": "2.2.2"
+    "man_version": "2.2.3"
   },
   {
     "name": "SketchSplitDivide",

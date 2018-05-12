@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-12 20:01:26 UTC
+Updated 2018-05-12 21:00:28 UTC
 
 Total plugins: 488
 
@@ -212,6 +212,8 @@ Total plugins: 488
 **[mcansh/sketch-find-all-instances-of-symbol](https://github.com/mcansh/sketch-find-all-instances-of-symbol) manifest.json is missing identifier**
 
 [Myrronth/symbol-and-artboard-organizer](https://github.com/Myrronth/symbol-and-artboard-organizer) manifest.json contains extra commas
+
+**[lifeiscontent/emmet-sketch](https://github.com/lifeiscontent/emmet-sketch) has no repo**
 
 **/ has no repo**
 

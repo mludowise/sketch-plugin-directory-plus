@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-14 15:01:04 UTC
+Updated 2018-05-14 16:00:48 UTC
 
 Total plugins: 488
 
@@ -34,6 +34,8 @@ Total plugins: 488
 [awkward/Alembic](https://github.com/awkward/Alembic) manifest.json contains extra commas
 
 **/ has no repo**
+
+**[mfouquet/Reselect](https://github.com/mfouquet/Reselect) missing manifest.json**
 
 [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) manifest.json contains extra commas
 

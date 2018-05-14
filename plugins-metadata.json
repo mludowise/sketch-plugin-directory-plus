@@ -374,10 +374,7 @@
     "gh_updated": "2017-06-16 20:10:47 UTC",
     "gh_stars": 17,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.mfouquet.sketch.reselect",
-    "man_version": "2.0.0",
-    "man_compatible_version": "4.1"
+    "gh_branch": "master"
   },
   {
     "name": "design-systems",
@@ -1970,7 +1967,7 @@
     "homepage": "https://github.com/preciousforever/sketch-data-populator",
     "gh_url": "https://github.com/preciousforever/sketch-data-populator.git",
     "gh_updated": "2017-12-22 14:06:26 UTC",
-    "gh_stars": 1426,
+    "gh_stars": 1427,
     "gh_issues": 29,
     "gh_branch": "master",
     "man_identifier": "com.precious-forever.sketch.datapopulator2",
@@ -2798,7 +2795,7 @@
     "homepage": "https://github.com/romashamin/sort-me-sketch",
     "gh_url": "https://github.com/romashamin/sort-me-sketch.git",
     "gh_updated": "2017-08-01 12:05:02 UTC",
-    "gh_stars": 484,
+    "gh_stars": 485,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.github.romashamin.sort-me-sketch",
@@ -7573,7 +7570,7 @@
     "homepage": "https://github.com/fruitfrills/polyglot",
     "added": "2018-04-23 23:02:34 UTC",
     "gh_url": "https://github.com/fruitfrills/polyglot.git",
-    "gh_updated": "2018-04-23 08:03:24 UTC",
+    "gh_updated": "2018-05-14 15:50:28 UTC",
     "gh_stars": 4,
     "gh_issues": 0,
     "gh_branch": "master",

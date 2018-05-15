@@ -6620,12 +6620,12 @@
     "added": "2017-10-19 09:26:53 UTC",
     "homepage": "https://github.com/sonburn/symbol-swapper",
     "gh_url": "https://github.com/sonburn/symbol-swapper.git",
-    "gh_updated": "2018-05-10 23:04:19 UTC",
+    "gh_updated": "2018-05-15 01:40:50 UTC",
     "gh_stars": 62,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-swapper",
-    "man_version": "0.10",
+    "man_version": "0.11",
     "icon": "https://raw.githubusercontent.com/sonburn/symbol-swapper/master/Symbol%20Swapper.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -7607,7 +7607,7 @@
     "added": "2018-04-23 23:02:34 UTC",
     "gh_url": "https://github.com/alex-matt/sketch-lightwire-plugin.git",
     "gh_updated": "2018-04-27 13:41:42 UTC",
-    "gh_stars": 34,
+    "gh_stars": 36,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_compatible_version": "3"

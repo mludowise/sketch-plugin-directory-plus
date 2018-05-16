@@ -3888,13 +3888,13 @@
     "added": "2016-05-02 19:04:07 UTC",
     "homepage": "https://github.com/joclin/arrowfy",
     "gh_url": "https://github.com/joclin/arrowfy.git",
-    "gh_updated": "2017-08-30 06:43:00 UTC",
+    "gh_updated": "2018-05-16 21:54:53 UTC",
     "gh_stars": 94,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.jocelynlin.sketch.arrowfy",
-    "man_version": "2.0",
-    "man_compatible_version": "46.2"
+    "man_version": "2.1",
+    "man_compatible_version": "50"
   },
   {
     "name": "sketch-adjust-button-shape",
@@ -4787,7 +4787,7 @@
     "gh_url": "https://github.com/bigxixi/Font-Packer.git",
     "gh_updated": "2018-03-15 09:13:30 UTC",
     "gh_stars": 226,
-    "gh_issues": 4,
+    "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.sketch.bigxixi.FontPacker",
     "man_version": "1.21"
@@ -7774,7 +7774,7 @@
     "added": "2018-05-07 10:02:23 UTC",
     "gh_url": "https://github.com/romannurik/Sketch-Stickers.git",
     "gh_updated": "2018-05-14 19:28:55 UTC",
-    "gh_stars": 52,
+    "gh_stars": 53,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.stickers",

@@ -5399,12 +5399,12 @@
     "added": "2017-02-20 14:12:05 UTC",
     "homepage": "https://github.com/PeachScript/sketch-plugin-monster",
     "gh_url": "https://github.com/PeachScript/sketch-plugin-monster.git",
-    "gh_updated": "2017-12-13 12:48:36 UTC",
+    "gh_updated": "2018-05-17 10:15:01 UTC",
     "gh_stars": 98,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.peachscript.pluginMonster",
-    "man_version": "0.3.1"
+    "man_compatible_version": "3"
   },
   {
     "name": "RandomColors",
@@ -7176,7 +7176,7 @@
     "gh_url": "https://github.com/sigtm/sketch-style-libraries.git",
     "gh_updated": "2018-05-16 07:38:16 UTC",
     "gh_stars": 82,
-    "gh_issues": 7,
+    "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "io.sigurd.sketch.sketch-style-libraries",
     "man_version": "2.0.3",
@@ -7816,7 +7816,7 @@
     "gh_url": "https://github.com/andex/ColorBrightness.git",
     "gh_updated": "2018-05-16 17:53:37 UTC",
     "gh_stars": 2,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_version": "0.3.0",
     "man_compatible_version": "3",

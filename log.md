@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-05-17 07:01:39 UTC
+Updated 2018-05-17 08:02:49 UTC
 
-Total plugins: 488
+Total plugins: 490
 
 ## Problems
 **[Anima Team/Timeline](https://github.com/Anima Team/Timeline) has no repo**
@@ -294,4 +294,8 @@ Total plugins: 488
 **[perrysmotors/photo-grid](https://github.com/perrysmotors/photo-grid) manifest.json is missing identifier**
 
 **/ has no repo**
+
+**[futantan/sketch-style-to-react-native](https://github.com/futantan/sketch-style-to-react-native) manifest.json is missing identifier**
+
+**[andex/ColorBrightness](https://github.com/andex/ColorBrightness) manifest.json is missing identifier**
 

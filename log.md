@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-21 09:00:36 UTC
+Updated 2018-05-21 10:01:22 UTC
 
 Total plugins: 490
 
@@ -30,8 +30,6 @@ Total plugins: 490
 **[AnimaApp/Font Buddy](https://github.com/AnimaApp/Font Buddy) has no repo**
 
 [LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) manifest.json contains extra commas
-
-[awkward/Alembic](https://github.com/awkward/Alembic) manifest.json contains extra commas
 
 **/ has no repo**
 

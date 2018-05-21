@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-21 10:01:22 UTC
+Updated 2018-05-21 11:00:34 UTC
 
 Total plugins: 490
 
@@ -102,8 +102,6 @@ Total plugins: 490
 **[shakemno/sketch-replace-images](https://github.com/shakemno/sketch-replace-images) manifest.json is missing identifier**
 
 [stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers) manifest.json contains extra commas
-
-[bouchenoiremarc/Sketch-Constraints](https://github.com/bouchenoiremarc/Sketch-Constraints) manifest.json contains extra commas
 
 [jessebilsten/Sketch-TitleCase](https://github.com/jessebilsten/Sketch-TitleCase) manifest.json contains extra commas
 

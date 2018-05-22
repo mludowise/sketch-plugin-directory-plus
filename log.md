@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-05-22 10:01:17 UTC
+Updated 2018-05-22 11:01:37 UTC
 
-Total plugins: 490
+Total plugins: 492
 
 ## Problems
 **[Anima Team/Timeline](https://github.com/Anima Team/Timeline) has no repo**
@@ -294,4 +294,6 @@ Total plugins: 490
 **[futantan/sketch-style-to-react-native](https://github.com/futantan/sketch-style-to-react-native) manifest.json is missing identifier**
 
 **[andex/ColorBrightness](https://github.com/andex/ColorBrightness) manifest.json is missing identifier**
+
+**[kd-co/charapara-sketch-extension](https://github.com/kd-co/charapara-sketch-extension) manifest.json is missing identifier**
 

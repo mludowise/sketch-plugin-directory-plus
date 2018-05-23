@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-23 03:01:21 UTC
+Updated 2018-05-23 04:01:18 UTC
 
 Total plugins: 492
 
@@ -65,15 +65,9 @@ Total plugins: 492
 
 [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/Sketch-Set-Line-Height-Plugin) manifest.json contains extra commas
 
-**[ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) missing manifest.json**
+[ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) manifest.json contains extra commas
 
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
-
-**[t32k/material-design-color-palette](https://github.com/t32k/material-design-color-palette) missing manifest.json**
-
-**[kenmoore/Sketch-Relabel-Button](https://github.com/kenmoore/Sketch-Relabel-Button) missing manifest.json**
-
-**[delighted/sketch-pull-to-center](https://github.com/delighted/sketch-pull-to-center) has no repo**
 
 [getflourish/Sketch-Mate](https://github.com/getflourish/Sketch-Mate) manifest.json contains extra commas
 
@@ -93,13 +87,9 @@ Total plugins: 492
 
 [nolastan/charts.sketchplugin](https://github.com/nolastan/charts.sketchplugin) manifest.json contains extra commas
 
-**[tokuda109/SwitchArtboard.sketchplugin](https://github.com/tokuda109/SwitchArtboard.sketchplugin) has no repo**
-
 [soutaro/Align-text-baseline-sketch-plugin](https://github.com/soutaro/Align-text-baseline-sketch-plugin) manifest.json contains extra commas
 
 [hamidp/sketchtextsourcer](https://github.com/hamidp/sketchtextsourcer) manifest.json contains extra commas
-
-**[matt-curtis/Sketch-Server](https://github.com/matt-curtis/Sketch-Server) missing manifest.json**
 
 [jamztang/MagicMirror](https://github.com/jamztang/MagicMirror) manifest.json contains extra commas
 
@@ -122,8 +112,6 @@ Total plugins: 492
 [swiadek/pixel-perfecter-sketch-plugin](https://github.com/swiadek/pixel-perfecter-sketch-plugin) manifest.json contains extra commas
 
 [AntonioJMartinez/sketch-ImageAverageColor](https://github.com/AntonioJMartinez/sketch-ImageAverageColor) manifest.json contains extra commas
-
-**[AleLudovici/sketch-proportional-replicator](https://github.com/AleLudovici/sketch-proportional-replicator) has no repo**
 
 [ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
 
@@ -153,8 +141,6 @@ Total plugins: 492
 
 [cute/SketchI18N](https://github.com/cute/SketchI18N) manifest.json contains extra commas
 
-**[peterwooley/get-margins](https://github.com/peterwooley/get-margins) has no repo**
-
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
 
 [marianomike/sketch-exportsymbols](https://github.com/marianomike/sketch-exportsymbols) manifest.json contains extra commas
@@ -183,7 +169,7 @@ Total plugins: 492
 
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
 
-**[DWilliames/PDF-export-sketch-plugin](https://github.com/DWilliames/PDF-export-sketch-plugin) has no repo**
+[finchalyzer/slinky](https://github.com/finchalyzer/slinky) manifest.json contains extra commas
 
 [Rezaaa/english-and-persian-lorem-ipsum](https://github.com/Rezaaa/english-and-persian-lorem-ipsum) manifest.json contains extra commas
 
@@ -237,7 +223,7 @@ Total plugins: 492
 
 **[danielguillan/sketch-syntax-highlighter](https://github.com/danielguillan/sketch-syntax-highlighter) manifest.json is missing identifier**
 
-**[skpm/sketch-dev-tools](https://github.com/skpm/sketch-dev-tools) has no repo**
+**[skpm/sketch-dev-tools](https://github.com/skpm/sketch-dev-tools) manifest.json is missing identifier**
 
 **[CaravelDesign/caravel-design](https://github.com/CaravelDesign/caravel-design) has no repo**
 

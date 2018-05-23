@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-23 11:01:21 UTC
+Updated 2018-05-23 12:01:40 UTC
 
 Total plugins: 492
 
@@ -65,7 +65,7 @@ Total plugins: 492
 
 [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/Sketch-Set-Line-Height-Plugin) manifest.json contains extra commas
 
-[ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) manifest.json contains extra commas
+**[ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) manifest.json is missing identifier**
 
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
 

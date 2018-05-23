@@ -193,7 +193,7 @@
     "homepage": "http://sureskumar.com/sketchplay/",
     "added": "2017-09-27 10:13:58 UTC",
     "gh_url": "https://github.com/sureskumar/sketch-play.git",
-    "gh_updated": "2017-09-18 05:07:23 UTC",
+    "gh_updated": "2017-09-18 05:07:28 UTC",
     "gh_stars": 14,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -856,10 +856,7 @@
     "gh_updated": "2016-04-10 12:09:36 UTC",
     "gh_stars": 35,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.einancunlu.sketch-plugins.disconnect",
-    "man_version": "1.3",
-    "man_compatible_version": "3.4"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-State-Switch-Master",
@@ -1407,9 +1404,7 @@
     "gh_updated": "2017-09-28 14:11:50 UTC",
     "gh_stars": 97,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.sketchapp.plugin.Swap-Fill-Border",
-    "man_version": "2.2"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Style-Inventory",
@@ -1522,9 +1517,7 @@
     "gh_updated": "2018-05-23 00:42:15 UTC",
     "gh_stars": 20,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "remove.all.guides",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "AlignTo",
@@ -1668,7 +1661,7 @@
     "added": "2014-12-03 20:48:25 UTC",
     "homepage": "https://github.com/nickstamas/Sketch-Better-Android-Export",
     "gh_url": "https://github.com/nickstamas/Sketch-Better-Android-Export.git",
-    "gh_updated": "2017-01-25 18:30:04 UTC",
+    "gh_updated": "2017-01-25 18:30:11 UTC",
     "gh_stars": 56,
     "gh_issues": 5,
     "gh_branch": "master",
@@ -1753,9 +1746,7 @@
     "gh_updated": "2017-07-12 00:33:43 UTC",
     "gh_stars": 320,
     "gh_issues": 12,
-    "gh_branch": "master",
-    "man_identifier": "com.kenmoore.sketch.relabelbutton",
-    "man_version": "1.7"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-pull-to-center",
@@ -2077,9 +2068,7 @@
     "gh_updated": "2015-10-26 01:08:50 UTC",
     "gh_stars": 4,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.github.nolastan.charts",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "SwitchArtboard.sketchplugin",
@@ -2124,7 +2113,7 @@
     "added": "2015-07-09 07:00:36 UTC",
     "homepage": "https://github.com/hrescak/Sketch-Flex-Layout",
     "gh_url": "https://github.com/hrescak/Sketch-Flex-Layout.git",
-    "gh_updated": "2016-09-25 17:00:13 UTC",
+    "gh_updated": "2017-04-04 06:44:38 UTC",
     "gh_stars": 1752,
     "gh_issues": 15,
     "gh_branch": "master",
@@ -2191,13 +2180,10 @@
     "added": "2015-07-14 17:34:42 UTC",
     "homepage": "https://github.com/abynim/Xport",
     "gh_url": "https://github.com/abynim/Xport.git",
-    "gh_updated": "2016-11-22 13:08:15 UTC",
+    "gh_updated": "2016-11-22 13:08:26 UTC",
     "gh_stars": 52,
     "gh_issues": 4,
     "gh_branch": "master",
-    "man_identifier": "com.silverux.sketchplugins.xport",
-    "man_version": "1.0",
-    "man_compatible_version": "4.0",
     "icon": "https://raw.githubusercontent.com/abynim/Xport/master/Xport.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -2212,10 +2198,7 @@
     "gh_updated": "2018-04-09 07:52:37 UTC",
     "gh_stars": 9,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.zen",
-    "man_version": "1.1",
-    "man_compatible_version": "3.4.4"
+    "gh_branch": "master"
   },
   {
     "name": "Align-text-baseline-sketch-plugin",
@@ -2746,7 +2729,7 @@
     "homepage": "https://github.com/andrewfiorillo/sketch-palettes",
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
     "gh_updated": "2018-03-26 00:32:16 UTC",
-    "gh_stars": 1896,
+    "gh_stars": 1897,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
@@ -2961,7 +2944,7 @@
     "added": "2015-10-19 20:54:12 UTC",
     "homepage": "https://github.com/tomorrowkey/sketch3-mosaic-plugin",
     "gh_url": "https://github.com/tomorrowkey/sketch3-mosaic-plugin.git",
-    "gh_updated": "2015-09-19 06:13:46 UTC",
+    "gh_updated": "2015-09-19 06:14:09 UTC",
     "gh_stars": 14,
     "gh_issues": 2,
     "gh_branch": "master",
@@ -3041,16 +3024,7 @@
     "author": "Henryk Wollik",
     "title": "Sketch Text Tools",
     "description": "Sketch App Typography Plugin for working with font metrics, aligning text-layers and building typographic systems.",
-    "added": "2015-10-26 07:23:55 UTC",
-    "homepage": "https://github.com/automat/sketch-text-tools",
-    "gh_url": "https://github.com/automat/sketch-text-tools.git",
-    "gh_updated": "2017-04-16 13:35:37 UTC",
-    "gh_stars": 145,
-    "gh_issues": 5,
-    "gh_branch": "master",
-    "man_identifier": "io.shifted.text-tools",
-    "man_version": "0.1.1",
-    "man_compatible_version": "3"
+    "added": "2015-10-26 07:23:55 UTC"
   },
   {
     "name": "pixel-perfecter-sketch-plugin",
@@ -3474,16 +3448,7 @@
     "author": "Nefaur Khandker",
     "title": "Select Parent Artboards",
     "description": "A Sketch plugin that selects the parent artboards of the current selection",
-    "added": "2016-01-26 16:18:28 UTC",
-    "homepage": "https://github.com/nefaurk/select-parent-artboards",
-    "gh_url": "https://github.com/nefaurk/select-parent-artboards.git",
-    "gh_updated": "2017-12-13 19:09:57 UTC",
-    "gh_stars": 52,
-    "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "com.nefaurk.sketch-plugins.selectParentArtboards",
-    "man_version": "1.2",
-    "man_compatible_version": "48.1"
+    "added": "2016-01-26 16:18:28 UTC"
   },
   {
     "name": "Sketch-Copy-Paste-Shadows",
@@ -3590,15 +3555,7 @@
     "author": "james yang",
     "title": "Base64 PNG Export",
     "description": "sketch plugin for Export Data URI",
-    "added": "2016-03-01 12:08:07 UTC",
-    "homepage": "https://github.com/jawayang/Sketch-Base64-PNG-Export",
-    "gh_url": "https://github.com/jawayang/Sketch-Base64-PNG-Export.git",
-    "gh_updated": "2017-05-14 16:23:12 UTC",
-    "gh_stars": 49,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.e13b26b9-79fe-4be0-8d5b-816323eaf8ff",
-    "man_version": "0.1.2"
+    "added": "2016-03-01 12:08:07 UTC"
   },
   {
     "name": "sketch-proportional-replicator",
@@ -3609,7 +3566,7 @@
     "added": "2016-03-01 12:09:11 UTC",
     "homepage": "https://github.com/AleLudovici/sketch-proportional-replicator",
     "gh_url": "https://github.com/AleLudovici/sketch-proportional-replicator.git",
-    "gh_updated": "2016-03-01 20:08:37 UTC",
+    "gh_updated": "2016-03-01 20:12:28 UTC",
     "gh_stars": 9,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -3629,9 +3586,7 @@
     "gh_updated": "2017-05-19 20:35:46 UTC",
     "gh_stars": 53,
     "gh_issues": 4,
-    "gh_branch": "master",
-    "man_identifier": "io.mack.sketch.style-drop",
-    "man_version": "1.0.2"
+    "gh_branch": "master"
   },
   {
     "name": "SketchPlugins",
@@ -3846,7 +3801,7 @@
     "added": "2016-04-22 09:46:04 UTC",
     "homepage": "https://github.com/levinmejia/sketch-shopify-data-populator",
     "gh_url": "https://github.com/levinmejia/sketch-shopify-data-populator.git",
-    "gh_updated": "2016-02-02 17:08:19 UTC",
+    "gh_updated": "2016-02-02 17:08:23 UTC",
     "gh_stars": 49,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -4259,10 +4214,7 @@
     "gh_updated": "2018-05-11 07:48:38 UTC",
     "gh_stars": 804,
     "gh_issues": 12,
-    "gh_branch": "master",
-    "man_identifier": "com.liguangming.sketch-i18n",
-    "man_version": "1.1.7",
-    "man_compatible_version": "3.3"
+    "gh_branch": "master"
   },
   {
     "name": "Language-Sketch-Plugin",
@@ -4276,9 +4228,7 @@
     "gh_updated": "2017-04-14 03:43:18 UTC",
     "gh_stars": 24,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "com.hoainguyen.sketch.d8f0dcf3-8e12-4f1d-988c-e2f0da9ad29d",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "Paster",
@@ -4407,10 +4357,7 @@
     "gh_updated": "2018-05-22 20:17:52 UTC",
     "gh_stars": 263,
     "gh_issues": 4,
-    "gh_branch": "master",
-    "man_identifier": "com.nilshoenson.sketch.shared-text-styles",
-    "man_version": "1.7.2",
-    "man_compatible_version": "40"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-PageNumbers",
@@ -5595,15 +5542,7 @@
     "author": "Richard Gong",
     "title": "Sketch Lorem Ipsum 2017",
     "description": "A Sketch plugin to generate \"lorem ipsum\" text.",
-    "added": "2017-03-21 08:56:40 UTC",
-    "homepage": "https://github.com/richgong/sketch-lorem-ipsum-2017",
-    "gh_url": "https://github.com/richgong/sketch-lorem-ipsum-2017.git",
-    "gh_updated": "2017-12-08 22:40:24 UTC",
-    "gh_stars": 20,
-    "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.baylaunch.lorem",
-    "man_version": "1.0"
+    "added": "2017-03-21 08:56:40 UTC"
   },
   {
     "name": "sketch-count-text",
@@ -6022,15 +5961,7 @@
     "author": "iGenius",
     "title": "Seca",
     "description": "Your friendly Sketch slicing helper for symbols",
-    "added": "2017-05-31 09:01:05 UTC",
-    "homepage": "https://github.com/iGenius-Srl/Seca",
-    "gh_url": "https://github.com/iGenius-Srl/Seca.git",
-    "gh_updated": "2017-06-12 07:53:51 UTC",
-    "gh_stars": 2,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "net.igenius.seca",
-    "man_version": "1.0.2"
+    "added": "2017-05-31 09:01:05 UTC"
   },
   {
     "name": "sync-to-slides",
@@ -6086,15 +6017,7 @@
     "author": "Andrey Kolpakov",
     "title": "Numbering Machine",
     "description": "Sketch plugin to generate IDs or Numbers for documents and export to PDF. Useful if you need to generate thousands pages with same template but with different IDs.",
-    "added": "2017-06-29 11:01:52 UTC",
-    "homepage": "https://github.com/akolpakov/sketch-numbering-machine",
-    "gh_url": "https://github.com/akolpakov/sketch-numbering-machine.git",
-    "gh_updated": "2017-06-09 13:07:11 UTC",
-    "gh_stars": 9,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.sketchapp.aakolpakov.sketch-numbering-machine",
-    "man_version": "0.3"
+    "added": "2017-06-29 11:01:52 UTC"
   },
   {
     "name": "sketch_plugin",
@@ -6105,7 +6028,7 @@
     "homepage": "https://github.com/RealtimeBoard/sketch_plugin",
     "added": "2017-07-10 10:02:05 UTC",
     "gh_url": "https://github.com/RealtimeBoard/sketch_plugin.git",
-    "gh_updated": "2017-11-30 08:38:25 UTC",
+    "gh_updated": "2017-11-30 08:44:05 UTC",
     "gh_stars": 23,
     "gh_issues": 3,
     "gh_branch": "master",
@@ -6133,15 +6056,7 @@
     "author": "Matthias Martin",
     "title": "Images Reinvented",
     "description": "A better way to use images in Sketch.",
-    "added": "2017-07-10 11:25:15 UTC",
-    "homepage": "https://github.com/roydigerhund/Images-Reinvented",
-    "gh_url": "https://github.com/roydigerhund/Images-Reinvented.git",
-    "gh_updated": "2017-08-22 22:01:50 UTC",
-    "gh_stars": 27,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "de.matzemachtdesign.sketch.imagesreinvented",
-    "man_version": "1.0.1"
+    "added": "2017-07-10 11:25:15 UTC"
   },
   {
     "name": "giancartboard",
@@ -6753,10 +6668,7 @@
     "gh_updated": "2018-05-19 20:08:23 UTC",
     "gh_stars": 93,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.aparajita.style-master",
-    "man_version": "1.0.1",
-    "man_compatible_version": "4"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-groupie",
@@ -7066,7 +6978,7 @@
     "homepage": "https://github.com/pavelkuligin/chart",
     "gh_url": "https://github.com/pavelkuligin/chart.git",
     "gh_updated": "2018-05-21 14:10:10 UTC",
-    "gh_stars": 702,
+    "gh_stars": 703,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.examples.chart",
@@ -7633,16 +7545,7 @@
     "author": "Giles Perry",
     "title": "Format Symbol Names",
     "description": "A Sketch plugin to nicely format the names of all artboards or symbol masters on the current page",
-    "added": "2018-04-23 23:02:34 UTC",
-    "homepage": "https://github.com/perrysmotors/format-symbol-names",
-    "gh_url": "https://github.com/perrysmotors/format-symbol-names.git",
-    "gh_updated": "2018-04-26 09:30:37 UTC",
-    "gh_stars": 3,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.gilesperry.format-symbol-names",
-    "man_version": "1.0",
-    "man_compatible_version": "49"
+    "added": "2018-04-23 23:02:34 UTC"
   },
   {
     "name": "reset-image-aspect-ratio",
@@ -7849,9 +7752,6 @@
     "gh_updated": "2018-05-20 10:54:27 UTC",
     "gh_stars": 2,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.seancoker.sketch.drake",
-    "man_version": "1.0.0",
-    "man_compatible_version": "50"
+    "gh_branch": "master"
   }
 ]

@@ -1522,7 +1522,9 @@
     "gh_updated": "2018-05-23 00:42:15 UTC",
     "gh_stars": 20,
     "gh_issues": 3,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "remove.all.guides",
+    "man_version": "1.0"
   },
   {
     "name": "AlignTo",
@@ -1702,7 +1704,10 @@
     "gh_updated": "2017-02-06 02:26:35 UTC",
     "gh_stars": 528,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "me.t32k.material-design-color-palette",
+    "man_version": "4.0.0",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-randomSize",
@@ -1748,7 +1753,9 @@
     "gh_updated": "2017-07-12 00:33:43 UTC",
     "gh_stars": 320,
     "gh_issues": 12,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.kenmoore.sketch.relabelbutton",
+    "man_version": "1.7"
   },
   {
     "name": "sketch-pull-to-center",
@@ -1756,7 +1763,16 @@
     "author": "Delighted Inc.",
     "title": "Pull to Center",
     "description": "Pull to center: Move selected shapes or layers toward center of artboard.",
-    "added": "2015-01-22 09:53:53 UTC"
+    "added": "2015-01-22 09:53:53 UTC",
+    "homepage": "https://github.com/delighted/sketch-pull-to-center",
+    "gh_url": "https://github.com/delighted/sketch-pull-to-center.git",
+    "gh_updated": "2018-05-22 20:57:49 UTC",
+    "gh_stars": 20,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.delighted.pull-to-center",
+    "man_version": "3.0.2",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-scale-all-in-place",
@@ -1821,7 +1837,9 @@
     "gh_updated": "2018-02-06 14:56:16 UTC",
     "gh_stars": 298,
     "gh_issues": 4,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.betterthantomorrow.sketch.distributor",
+    "man_version": "1.1.1"
   },
   {
     "name": "sketch-storyboard",
@@ -1883,7 +1901,7 @@
     "added": "2015-04-17 09:47:01 UTC",
     "homepage": "https://github.com/kumo/sketch-mail-merge",
     "gh_url": "https://github.com/kumo/sketch-mail-merge.git",
-    "gh_updated": "2018-05-11 09:01:49 UTC",
+    "gh_updated": "2018-05-11 08:57:09 UTC",
     "gh_stars": 53,
     "gh_issues": 6,
     "gh_branch": "master",
@@ -2069,7 +2087,16 @@
     "author": "Tsuyoshi Tokuda",
     "title": "Switch Artboard",
     "description": "Sketch 3 plugin to quickly switch between artboards.",
-    "added": "2015-07-08 15:40:37 UTC"
+    "added": "2015-07-08 15:40:37 UTC",
+    "homepage": "https://github.com/tokuda109/SwitchArtboard.sketchplugin",
+    "gh_url": "https://github.com/tokuda109/SwitchArtboard.sketchplugin.git",
+    "gh_updated": "2015-05-10 11:17:42 UTC",
+    "gh_stars": 3,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "jp.tokuda109.sketch.switch-artboard",
+    "man_version": "1.0.2",
+    "man_compatible_version": "3"
   },
   {
     "name": "IconSlate-sketchplugin",
@@ -2351,7 +2378,10 @@
     "gh_updated": "2016-02-22 15:26:09 UTC",
     "gh_stars": 71,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.matt-curtis.sketch.sketch-server",
+    "man_version": "1.6.3",
+    "man_compatible_version": "3"
   },
   {
     "name": "MagicMirror",
@@ -3250,7 +3280,7 @@
     "added": "2015-12-16 17:27:25 UTC",
     "homepage": "https://github.com/kang-chen/sketch-export-generator",
     "gh_url": "https://github.com/kang-chen/sketch-export-generator.git",
-    "gh_updated": "2018-01-23 21:43:32 UTC",
+    "gh_updated": "2018-01-23 21:43:24 UTC",
     "gh_stars": 81,
     "gh_issues": 3,
     "gh_branch": "master",
@@ -3576,7 +3606,16 @@
     "author": "Alessandro Ludovici",
     "title": "Proportional Replicator",
     "description": "This plugin for Sketch takes the selected layer and create new rectangles with sizes proportional to it.",
-    "added": "2016-03-01 12:09:11 UTC"
+    "added": "2016-03-01 12:09:11 UTC",
+    "homepage": "https://github.com/AleLudovici/sketch-proportional-replicator",
+    "gh_url": "https://github.com/AleLudovici/sketch-proportional-replicator.git",
+    "gh_updated": "2016-03-01 20:08:37 UTC",
+    "gh_stars": 9,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.aleludovici.sketch.prop-replicator",
+    "man_version": "1.1",
+    "man_compatible_version": "3"
   },
   {
     "name": "styledrop",
@@ -4330,7 +4369,15 @@
     "author": "Peter Wooley",
     "title": "Get Margins",
     "description": "Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.",
-    "added": "2016-08-05 20:01:10 UTC"
+    "added": "2016-08-05 20:01:10 UTC",
+    "homepage": "https://github.com/peterwooley/get-margins",
+    "gh_url": "https://github.com/peterwooley/get-margins.git",
+    "gh_updated": "2016-08-05 18:19:22 UTC",
+    "gh_stars": 6,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.peterwooley.get-margins",
+    "man_version": "1.0.0"
   },
   {
     "name": "sketch-paginate",
@@ -5446,7 +5493,17 @@
     "author": "David Williames",
     "title": "📕 PDF Export",
     "description": "Export all pages, current page or selected artboards into a PDF — based on a range of settings",
-    "added": "2017-03-12 17:02:05 UTC"
+    "added": "2017-03-12 17:02:05 UTC",
+    "homepage": "https://github.com/DWilliames/PDF-export-sketch-plugin",
+    "gh_url": "https://github.com/DWilliames/PDF-export-sketch-plugin.git",
+    "gh_updated": "2017-07-12 03:28:44 UTC",
+    "gh_stars": 138,
+    "gh_issues": 3,
+    "gh_branch": "master",
+    "man_identifier": "com.davidwilliames.sketch.pdf-export",
+    "man_version": "2.1",
+    "man_compatible_version": "39",
+    "icon": "https://raw.githubusercontent.com/DWilliames/PDF-export-sketch-plugin/master/PDF%20Export.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "nudge-resize-sketch-plugin",
@@ -5627,7 +5684,9 @@
     "gh_updated": "2017-12-04 14:27:29 UTC",
     "gh_stars": 529,
     "gh_issues": 14,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.slinky-plugin",
+    "man_version": "0.1.5"
   },
   {
     "name": "sketch-flip-size",
@@ -6708,7 +6767,7 @@
     "added": "2017-11-07 20:36:56 UTC",
     "homepage": "https://github.com/aparajita/sketch-groupie",
     "gh_url": "https://github.com/aparajita/sketch-groupie.git",
-    "gh_updated": "2017-11-07 17:18:25 UTC",
+    "gh_updated": "2017-11-03 21:25:38 UTC",
     "gh_stars": 10,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -6726,7 +6785,7 @@
     "homepage": "http://www.jacopocolo.com/p5sketchplugin/",
     "gh_url": "https://github.com/jacopocolo/p5-sketchplugin.git",
     "gh_updated": "2018-05-14 09:24:59 UTC",
-    "gh_stars": 166,
+    "gh_stars": 167,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.jacopocolo.sketch.p5",
@@ -6757,7 +6816,13 @@
     "title": "Sketch DevTools",
     "description": "See your plugin logs, inspect the state of Sketch documents, explore actions, and more",
     "homepage": "https://github.com/skpm/sketch-dev-tools",
-    "added": "2017-11-17 19:16:56 UTC"
+    "added": "2017-11-17 19:16:56 UTC",
+    "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
+    "gh_updated": "2018-04-25 09:03:16 UTC",
+    "gh_stars": 82,
+    "gh_issues": 10,
+    "gh_branch": "master",
+    "man_compatible_version": "50"
   },
   {
     "name": "sketch-align-to-grid",
@@ -7003,7 +7068,11 @@
     "gh_updated": "2018-05-21 14:10:10 UTC",
     "gh_stars": 703,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.examples.chart",
+    "man_version": "3.2.0",
+    "man_compatible_version": "50.0",
+    "icon": "https://raw.githubusercontent.com/pavelkuligin/chart/master/Chart.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "owner": null,
@@ -7088,7 +7157,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-04-30 21:01:44 UTC",
-    "gh_stars": 1678,
+    "gh_stars": 1680,
     "gh_issues": 46,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",
@@ -7240,7 +7309,7 @@
     "homepage": "https://github.com/Hito01/artboards-explorer",
     "added": "2018-03-05 10:01:33 UTC",
     "gh_url": "https://github.com/Hito01/artboards-explorer.git",
-    "gh_updated": "2018-03-03 16:25:14 UTC",
+    "gh_updated": "2018-03-03 16:25:08 UTC",
     "gh_stars": 3,
     "gh_issues": 0,
     "gh_branch": "master",

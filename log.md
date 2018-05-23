@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-23 01:01:43 UTC
+Updated 2018-05-23 02:00:20 UTC
 
 Total plugins: 492
 
@@ -51,6 +51,8 @@ Total plugins: 492
 
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
 
+**[einancunlu/Disconnect-for-Sketch](https://github.com/einancunlu/Disconnect-for-Sketch) missing manifest.json**
+
 [thetylerwolf/sketch-data-studio](https://github.com/thetylerwolf/sketch-data-studio) manifest.json contains extra commas
 
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
@@ -65,7 +67,7 @@ Total plugins: 492
 
 [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/Sketch-Set-Line-Height-Plugin) manifest.json contains extra commas
 
-[ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) manifest.json contains extra commas
+**[ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) missing manifest.json**
 
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
 
@@ -85,7 +87,9 @@ Total plugins: 492
 
 [tudou527/marketch](https://github.com/tudou527/marketch) manifest.json contains extra commas
 
-[nolastan/charts.sketchplugin](https://github.com/nolastan/charts.sketchplugin) manifest.json contains extra commas
+**[abynim/Xport](https://github.com/abynim/Xport) missing manifest.json**
+
+**[FrancisVega/ZEN-Sketch](https://github.com/FrancisVega/ZEN-Sketch) missing manifest.json**
 
 [soutaro/Align-text-baseline-sketch-plugin](https://github.com/soutaro/Align-text-baseline-sketch-plugin) manifest.json contains extra commas
 
@@ -109,11 +113,17 @@ Total plugins: 492
 
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 
+**[automat/sketch-text-tools](https://github.com/automat/sketch-text-tools) has no repo**
+
 [swiadek/pixel-perfecter-sketch-plugin](https://github.com/swiadek/pixel-perfecter-sketch-plugin) manifest.json contains extra commas
 
 [AntonioJMartinez/sketch-ImageAverageColor](https://github.com/AntonioJMartinez/sketch-ImageAverageColor) manifest.json contains extra commas
 
-[ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
+**[nefaurk/select-parent-artboards](https://github.com/nefaurk/select-parent-artboards) has no repo**
+
+**[jawayang/Sketch-Base64-PNG-Export](https://github.com/jawayang/Sketch-Base64-PNG-Export) has no repo**
+
+**[ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) missing manifest.json**
 
 [LaloMrtnz/Prism](https://github.com/LaloMrtnz/Prism) manifest.json contains extra commas
 
@@ -139,7 +149,7 @@ Total plugins: 492
 
 **PixelCut/ has no repo**
 
-[cute/SketchI18N](https://github.com/cute/SketchI18N) manifest.json contains extra commas
+**[cute/SketchI18N](https://github.com/cute/SketchI18N) missing manifest.json**
 
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
 
@@ -169,6 +179,8 @@ Total plugins: 492
 
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
 
+**[freeauto/sketch-lorem-ipsum-2017](https://github.com/freeauto/sketch-lorem-ipsum-2017) has no repo**
+
 [finchalyzer/slinky](https://github.com/finchalyzer/slinky) manifest.json contains extra commas
 
 [Rezaaa/english-and-persian-lorem-ipsum](https://github.com/Rezaaa/english-and-persian-lorem-ipsum) manifest.json contains extra commas
@@ -181,7 +193,13 @@ Total plugins: 492
 
 [canisminor1990/sketch-move-half-pixel](https://github.com/canisminor1990/sketch-move-half-pixel) manifest.json contains extra commas
 
+**[iGenius-Srl/Seca](https://github.com/iGenius-Srl/Seca) has no repo**
+
+**[akolpakov/sketch-numbering-machine](https://github.com/akolpakov/sketch-numbering-machine) has no repo**
+
 **[ImageOptim/sketch-plugin](https://github.com/ImageOptim/sketch-plugin) missing manifest.json**
+
+**[roydigerhund/Images-Reinvented](https://github.com/roydigerhund/Images-Reinvented) has no repo**
 
 [MattCowBoy/giancartboard](https://github.com/MattCowBoy/giancartboard) manifest.json contains extra commas
 
@@ -222,6 +240,8 @@ Total plugins: 492
 **[the gif.me team/sketch-gifme-plugin](https://github.com/the gif.me team/sketch-gifme-plugin) has no repo**
 
 **[danielguillan/sketch-syntax-highlighter](https://github.com/danielguillan/sketch-syntax-highlighter) manifest.json is missing identifier**
+
+**[aparajita/sketch-style-master](https://github.com/aparajita/sketch-style-master) missing manifest.json**
 
 **[skpm/sketch-dev-tools](https://github.com/skpm/sketch-dev-tools) manifest.json is missing identifier**
 
@@ -277,6 +297,8 @@ Total plugins: 492
 
 **[alex-matt/sketch-lightwire-plugin](https://github.com/alex-matt/sketch-lightwire-plugin) manifest.json is missing identifier**
 
+**[perrysmotors/format-symbol-names](https://github.com/perrysmotors/format-symbol-names) has no repo**
+
 **[perrysmotors/reset-image-aspect-ratio](https://github.com/perrysmotors/reset-image-aspect-ratio) manifest.json is missing identifier**
 
 **[qruzz/InterUI-Character-Spacing](https://github.com/qruzz/InterUI-Character-Spacing) manifest.json is missing identifier**
@@ -296,4 +318,6 @@ Total plugins: 492
 **[andex/ColorBrightness](https://github.com/andex/ColorBrightness) manifest.json is missing identifier**
 
 **[kd-co/charapara-sketch-extension](https://github.com/kd-co/charapara-sketch-extension) manifest.json is missing identifier**
+
+**[okcoker/Drake-Sketch-Plugin](https://github.com/okcoker/Drake-Sketch-Plugin) missing manifest.json**
 

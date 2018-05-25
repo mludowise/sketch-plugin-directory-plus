@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-25 16:00:33 UTC
+Updated 2018-05-25 17:01:34 UTC
 
 Total plugins: 493
 
@@ -33,13 +33,15 @@ Total plugins: 493
 
 **/ has no repo**
 
-**[AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) has no repo**
+[AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) manifest.json contains extra commas
 
 **[zeroheight/zeroheight-sketch-plugin](https://github.com/zeroheight/zeroheight-sketch-plugin) has no repo**
 
 [3raxton/foreignipsum](https://github.com/3raxton/foreignipsum) manifest.json contains extra commas
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
+
+[AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) and [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) use the same manifest identifier, __com.animaapp.stc-sketch-plugin__
 
 [emrerussia/sketch-clear-export-options](https://github.com/emrerussia/sketch-clear-export-options) manifest.json contains extra commas
 

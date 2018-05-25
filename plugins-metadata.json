@@ -7424,12 +7424,12 @@
     "homepage": "https://github.com/golmakov/sketch-hyphenator",
     "added": "2018-03-31 15:02:37 UTC",
     "gh_url": "https://github.com/golmakov/sketch-hyphenator.git",
-    "gh_updated": "2018-04-01 11:27:37 UTC",
+    "gh_updated": "2018-05-25 04:10:00 UTC",
     "gh_stars": 2,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.golmakov.sketch-hyphenator",
-    "man_version": "0.1.1",
+    "man_version": "0.1.2",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/golmakov/sketch-hyphenator/master/sketch-hyphenator.sketchplugin/Contents/Resources/icon.png"
   },
@@ -7605,7 +7605,7 @@
     "gh_url": "https://github.com/alex-matt/sketch-lightwire-plugin.git",
     "gh_updated": "2018-04-27 13:41:42 UTC",
     "gh_stars": 58,
-    "gh_issues": 3,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },

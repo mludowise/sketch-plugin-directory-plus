@@ -404,15 +404,7 @@
     "title": "Launchpad",
     "description": "Export your Sketch design into HTML website.",
     "homepage": "https://launchpad.animaapp.com",
-    "added": "2017-05-10 09:01:22 UTC",
-    "gh_url": "https://github.com/AnimaApp/Launchpad.git",
-    "gh_updated": "2018-03-20 14:14:14 UTC",
-    "gh_stars": 7,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.animaapp.stc-sketch-plugin",
-    "man_version": "0.13.2",
-    "man_compatible_version": "49"
+    "added": "2017-05-10 09:01:22 UTC"
   },
   {
     "name": "WordCloud",
@@ -1434,7 +1426,15 @@
     "author": "Mikko Tapionlinna",
     "title": "Artboardzoom",
     "description": "\"Zoom\" to currently selected Artboard.",
-    "added": "2014-10-01 18:23:03 UTC"
+    "added": "2014-10-01 18:23:03 UTC",
+    "homepage": "https://github.com/Arkkimaagi/ArtboardZoom",
+    "gh_url": "https://github.com/Arkkimaagi/ArtboardZoom.git",
+    "gh_updated": "2018-01-02 07:47:16 UTC",
+    "gh_stars": 53,
+    "gh_issues": 3,
+    "gh_branch": "master",
+    "man_identifier": "com.github.arkkimaagi.artboardzoom",
+    "man_version": "1.2.3"
   },
   {
     "name": "Bookmark",
@@ -1514,7 +1514,8 @@
     "gh_updated": "2018-05-23 14:50:44 UTC",
     "gh_stars": 20,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   },
   {
     "name": "AlignTo",
@@ -1708,7 +1709,7 @@
     "added": "2015-01-02 22:02:19 UTC",
     "homepage": "https://github.com/longzheng/sketch-randomSize",
     "gh_url": "https://github.com/longzheng/sketch-randomSize.git",
-    "gh_updated": "2017-03-22 07:10:24 UTC",
+    "gh_updated": "2017-03-22 07:10:13 UTC",
     "gh_stars": 43,
     "gh_issues": 2,
     "gh_branch": "master",
@@ -2970,7 +2971,9 @@
     "gh_updated": "2016-12-15 06:46:23 UTC",
     "gh_stars": 69,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "io.arshad.sketch-sass-colors",
+    "man_version": "1.2"
   },
   {
     "name": "Toggle-NoPrint-Visibility-Sketch-Plugin",
@@ -4546,7 +4549,10 @@
     "gh_updated": "2016-09-02 18:07:35 UTC",
     "gh_stars": 37,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.marianomike.sketch-plugin.organize-symbols",
+    "man_version": "1.0",
+    "man_compatible_version": "3.5"
   },
   {
     "name": "sketch-duplicatesymbol",
@@ -4675,7 +4681,9 @@
     "gh_updated": "2017-04-12 09:51:11 UTC",
     "gh_stars": 19,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "cz.davidvesely.webalize",
+    "man_version": "1.2"
   },
   {
     "name": "slicer",
@@ -4917,7 +4925,10 @@
     "gh_updated": "2018-05-09 15:55:04 UTC",
     "gh_stars": 92,
     "gh_issues": 3,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sonburn.sketchplugins.symbol-instance-renamer",
+    "man_version": "2.6",
+    "icon": "https://raw.githubusercontent.com/sonburn/symbol-instance-renamer/master/Symbol%20Instance%20Renamer.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "Sketch-bootstrap-guides",
@@ -6602,7 +6613,7 @@
     "gh_url": "https://github.com/sonburn/symbol-swapper.git",
     "gh_updated": "2018-05-15 01:40:50 UTC",
     "gh_stars": 66,
-    "gh_issues": 3,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-swapper",
     "man_version": "0.11",
@@ -7189,7 +7200,7 @@
     "added": "2018-02-23 16:02:29 UTC",
     "gh_url": "https://github.com/MengTo/Angle-Sketch-Plugin.git",
     "gh_updated": "2018-05-22 22:40:13 UTC",
-    "gh_stars": 84,
+    "gh_stars": 85,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "io.designcode.Angle",

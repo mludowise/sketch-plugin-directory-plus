@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-25 15:01:39 UTC
+Updated 2018-05-25 16:00:33 UTC
 
 Total plugins: 493
 
@@ -33,15 +33,13 @@ Total plugins: 493
 
 **/ has no repo**
 
-[AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) manifest.json contains extra commas
+**[AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) has no repo**
 
 **[zeroheight/zeroheight-sketch-plugin](https://github.com/zeroheight/zeroheight-sketch-plugin) has no repo**
 
 [3raxton/foreignipsum](https://github.com/3raxton/foreignipsum) manifest.json contains extra commas
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
-
-[AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) and [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) use the same manifest identifier, __com.animaapp.stc-sketch-plugin__
 
 [emrerussia/sketch-clear-export-options](https://github.com/emrerussia/sketch-clear-export-options) manifest.json contains extra commas
 
@@ -65,7 +63,7 @@ Total plugins: 493
 
 [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/Sketch-Set-Line-Height-Plugin) manifest.json contains extra commas
 
-**[Arkkimaagi/ArtboardZoom](https://github.com/Arkkimaagi/ArtboardZoom) has no repo**
+**[ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) manifest.json is missing identifier**
 
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
 
@@ -144,6 +142,8 @@ Total plugins: 493
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
 
 [marianomike/sketch-exportsymbols](https://github.com/marianomike/sketch-exportsymbols) manifest.json contains extra commas
+
+[marianomike/sketch-organizesymbols](https://github.com/marianomike/sketch-organizesymbols) manifest.json contains extra commas
 
 [marianomike/sketch-duplicatesymbol](https://github.com/marianomike/sketch-duplicatesymbol) manifest.json contains extra commas
 

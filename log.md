@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-25 14:00:42 UTC
+Updated 2018-05-25 15:01:39 UTC
 
 Total plugins: 493
 
@@ -65,7 +65,7 @@ Total plugins: 493
 
 [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/Sketch-Set-Line-Height-Plugin) manifest.json contains extra commas
 
-**[ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) manifest.json is missing identifier**
+**[Arkkimaagi/ArtboardZoom](https://github.com/Arkkimaagi/ArtboardZoom) has no repo**
 
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
 
@@ -144,8 +144,6 @@ Total plugins: 493
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
 
 [marianomike/sketch-exportsymbols](https://github.com/marianomike/sketch-exportsymbols) manifest.json contains extra commas
-
-[marianomike/sketch-organizesymbols](https://github.com/marianomike/sketch-organizesymbols) manifest.json contains extra commas
 
 [marianomike/sketch-duplicatesymbol](https://github.com/marianomike/sketch-duplicatesymbol) manifest.json contains extra commas
 

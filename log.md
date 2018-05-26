@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-26 15:01:39 UTC
+Updated 2018-05-26 16:01:16 UTC
 
 Total plugins: 493
 
@@ -56,8 +56,6 @@ Total plugins: 493
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
 
 **[sebj/Select-By-Name](https://github.com/sebj/Select-By-Name) manifest.json is missing identifier**
-
-[marcisme/sketch-preview](https://github.com/marcisme/sketch-preview) manifest.json contains extra commas
 
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
 

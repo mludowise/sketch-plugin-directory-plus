@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-26 19:01:04 UTC
+Updated 2018-05-26 20:01:31 UTC
 
 Total plugins: 493
 
@@ -120,8 +120,6 @@ Total plugins: 493
 **SketchRunner/ has no repo**
 
 [lessthanzero/Formr](https://github.com/lessthanzero/Formr) manifest.json contains extra commas
-
-[stackdevelopment/sketch-pixel-cleanup](https://github.com/stackdevelopment/sketch-pixel-cleanup) manifest.json contains extra commas
 
 **opencolor-tools/ has no repo**
 

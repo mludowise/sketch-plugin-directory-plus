@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-26 16:01:16 UTC
+Updated 2018-05-26 17:01:38 UTC
 
 Total plugins: 493
 
@@ -232,8 +232,6 @@ Total plugins: 493
 **[FontRapid Team/FontRapid](https://github.com/FontRapid Team/FontRapid) has no repo**
 
 **[ziven27/Sketch-topographic](https://github.com/ziven27/Sketch-topographic) manifest.json is missing identifier**
-
-[liawesomesaucer/StyleClip](https://github.com/liawesomesaucer/StyleClip) manifest.json contains extra commas
 
 **[sergeydmitriev/HandyMenu-SketchPlugin](https://github.com/sergeydmitriev/HandyMenu-SketchPlugin) has no repo**
 

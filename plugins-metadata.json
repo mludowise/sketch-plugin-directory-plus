@@ -1089,7 +1089,7 @@
     "added": "2014-05-14 03:43:43 UTC",
     "gh_url": "https://github.com/rodi01/RenameIt.git",
     "gh_updated": "2018-04-27 21:14:45 UTC",
-    "gh_stars": 1082,
+    "gh_stars": 1083,
     "gh_issues": 14,
     "gh_branch": "master",
     "man_identifier": "com.taptap.ninja.rename-it",
@@ -6232,13 +6232,13 @@
     "added": "2017-07-17 19:09:38 UTC",
     "homepage": "https://websiddu.github.io/sketch-material",
     "gh_url": "https://github.com/websiddu/sketch-material.git",
-    "gh_updated": "2018-03-13 16:37:08 UTC",
+    "gh_updated": "2018-05-27 22:00:26 UTC",
     "gh_stars": 745,
     "gh_issues": 31,
     "gh_branch": "master",
     "man_identifier": "com.websiddu.sketch.material",
-    "man_version": "0.1.15",
-    "man_compatible_version": "49"
+    "man_version": "0.1.18",
+    "man_compatible_version": "50"
   },
   {
     "name": "sketch-number-artboards",

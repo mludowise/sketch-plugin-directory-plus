@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-27 09:01:50 UTC
+Updated 2018-05-27 10:02:01 UTC
 
 Total plugins: 493
 
@@ -152,8 +152,6 @@ Total plugins: 493
 [eaugustine/Sketch-Color-Contrast-Analyzer](https://github.com/eaugustine/Sketch-Color-Contrast-Analyzer) manifest.json contains extra commas
 
 **[amin-nas/Sketch-to-Clickthrough-HTML](https://github.com/amin-nas/Sketch-to-Clickthrough-HTML) manifest.json is missing identifier**
-
-[exevil/Sketch-Export-Text](https://github.com/exevil/Sketch-Export-Text) manifest.json contains extra commas
 
 [devinmancuso/sketch-rtl](https://github.com/devinmancuso/sketch-rtl) manifest.json contains extra commas
 

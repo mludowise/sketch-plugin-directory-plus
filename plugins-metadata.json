@@ -6232,12 +6232,12 @@
     "added": "2017-07-17 19:09:38 UTC",
     "homepage": "https://websiddu.github.io/sketch-material",
     "gh_url": "https://github.com/websiddu/sketch-material.git",
-    "gh_updated": "2018-05-27 22:00:26 UTC",
+    "gh_updated": "2018-05-27 22:38:16 UTC",
     "gh_stars": 745,
-    "gh_issues": 31,
+    "gh_issues": 21,
     "gh_branch": "master",
     "man_identifier": "com.websiddu.sketch.material",
-    "man_version": "0.1.18",
+    "man_version": "0.1.19",
     "man_compatible_version": "50"
   },
   {

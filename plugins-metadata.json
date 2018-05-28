@@ -1513,11 +1513,11 @@
   {
     "name": "RemoveAllGuides",
     "owner": "ichik",
-    "author": "ichik",
+    "author": "Vadim Mikhnov",
     "title": "Remove All Guides",
-    "description": "Remove all guides from the artboard with a shortcut.",
+    "description": "Removes all the guides from selected artboards.",
+    "homepage": "https://github.com/ichik/removeallguides",
     "added": "2016-02-02 06:37:02 UTC",
-    "homepage": "https://github.com/ichik/RemoveAllGuides",
     "gh_url": "https://github.com/ichik/RemoveAllGuides.git",
     "gh_updated": "2018-05-23 14:50:44 UTC",
     "gh_stars": 20,
@@ -1833,12 +1833,12 @@
     "added": "2015-02-09 16:26:22 UTC",
     "homepage": "https://github.com/PEZ/SketchDistributor",
     "gh_url": "https://github.com/PEZ/SketchDistributor.git",
-    "gh_updated": "2018-02-06 14:56:16 UTC",
+    "gh_updated": "2018-05-28 10:32:17 UTC",
     "gh_stars": 299,
-    "gh_issues": 5,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.betterthantomorrow.sketch.distributor",
-    "man_version": "1.1.1"
+    "man_version": "1.2.1"
   },
   {
     "name": "sketch-storyboard",
@@ -3045,7 +3045,7 @@
     "gh_url": "https://github.com/automat/sketch-text-tools.git",
     "gh_updated": "2017-04-16 13:35:37 UTC",
     "gh_stars": 147,
-    "gh_issues": 5,
+    "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "io.shifted.text-tools",
     "man_version": "0.1.1",
@@ -7869,5 +7869,38 @@
     "man_identifier": "com.example.sketch.4cbb6b0e-b9e1-4d02-9e36-876c63f54e0b",
     "man_version": "1.0",
     "icon": "https://raw.githubusercontent.com/levtolstoi/Nucleus/master/Nucleus.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "name": "sketch-easing-gradient",
+    "owner": "larsenwork",
+    "author": "larsenwork",
+    "title": "sketch-easing-gradients",
+    "description": "Supercharge your gradients in Sketch with no-linear color mix and custom color spaces",
+    "homepage": "https://github.com/larsenwork/sketch-easing-gradient",
+    "added": "2018-05-28 11:01:35 UTC",
+    "gh_url": "https://github.com/larsenwork/sketch-easing-gradient.git",
+    "gh_updated": "2018-05-27 19:14:30 UTC",
+    "gh_stars": 15,
+    "gh_issues": 2,
+    "gh_branch": "master",
+    "man_identifier": "com.larsenwork.sketch.easing-gradient",
+    "man_version": "0.4.0",
+    "man_compatible_version": "3"
+  },
+  {
+    "name": "Assistant",
+    "owner": "jordansinger",
+    "author": "Jordan Singer",
+    "title": "Assistant",
+    "description": "Talk to Sketch",
+    "added": "2018-05-28 11:01:35 UTC",
+    "homepage": "https://paint.design",
+    "gh_url": "https://github.com/jordansinger/Assistant.git",
+    "gh_updated": "2018-05-25 14:43:20 UTC",
+    "gh_stars": 7,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_version": "1.0.2",
+    "icon": "https://raw.githubusercontent.com/jordansinger/Assistant/master/Assistant.sketchplugin/Contents/Resources/icon.png"
   }
 ]

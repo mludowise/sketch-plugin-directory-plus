@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-28 05:01:47 UTC
+Updated 2018-05-28 06:02:06 UTC
 
 Total plugins: 493
 
@@ -196,8 +196,6 @@ Total plugins: 493
 **[mcansh/squash-sketchplugin](https://github.com/mcansh/squash-sketchplugin) manifest.json is missing identifier**
 
 **[mcansh/sketch-find-all-instances-of-symbol](https://github.com/mcansh/sketch-find-all-instances-of-symbol) manifest.json is missing identifier**
-
-[Myrronth/symbol-and-artboard-organizer](https://github.com/Myrronth/symbol-and-artboard-organizer) manifest.json contains extra commas
 
 **[lifeiscontent/emmet-sketch](https://github.com/lifeiscontent/emmet-sketch) has no repo**
 

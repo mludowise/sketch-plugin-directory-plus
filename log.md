@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-05-28 10:02:17 UTC
+Updated 2018-05-28 11:01:35 UTC
 
-Total plugins: 493
+Total plugins: 495
 
 ## Problems
 **[Anima Team/Timeline](https://github.com/Anima Team/Timeline) has no repo**
@@ -280,4 +280,6 @@ Total plugins: 493
 **[andex/ColorBrightness](https://github.com/andex/ColorBrightness) manifest.json is missing identifier**
 
 **[kd-co/charapara-sketch-extension](https://github.com/kd-co/charapara-sketch-extension) manifest.json is missing identifier**
+
+**[jordansinger/Assistant](https://github.com/jordansinger/Assistant) manifest.json is missing identifier**
 

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-28 07:02:47 UTC
+Updated 2018-05-28 08:01:59 UTC
 
 Total plugins: 493
 
@@ -14,8 +14,6 @@ Total plugins: 493
 **[markhorgan/protowire](https://github.com/markhorgan/protowire) has no repo**
 
 **[Shutterstock/Shutterstock](https://github.com/Shutterstock/Shutterstock) has no repo**
-
-[konki-vienna/sketch-bootstrap-helpers](https://github.com/konki-vienna/sketch-bootstrap-helpers) manifest.json contains extra commas
 
 **[cranksoftwaredev/SketchPlugins](https://github.com/cranksoftwaredev/SketchPlugins) missing manifest.json**
 

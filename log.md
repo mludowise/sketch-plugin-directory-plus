@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-29 13:00:27 UTC
+Updated 2018-05-29 14:00:25 UTC
 
 Total plugins: 496
 
@@ -35,7 +35,7 @@ Total plugins: 496
 
 **[zeroheight/zeroheight-sketch-plugin](https://github.com/zeroheight/zeroheight-sketch-plugin) has no repo**
 
-[3raxton/foreignipsum](https://github.com/3raxton/foreignipsum) manifest.json contains extra commas
+**[3raxton/foreignipsum](https://github.com/3raxton/foreignipsum) has no repo**
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
 

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-29 14:00:25 UTC
+Updated 2018-05-29 15:00:37 UTC
 
 Total plugins: 496
 
@@ -35,7 +35,7 @@ Total plugins: 496
 
 **[zeroheight/zeroheight-sketch-plugin](https://github.com/zeroheight/zeroheight-sketch-plugin) has no repo**
 
-**[3raxton/foreignipsum](https://github.com/3raxton/foreignipsum) has no repo**
+[3raxton/foreignipsum](https://github.com/3raxton/foreignipsum) manifest.json contains extra commas
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
 
@@ -46,8 +46,6 @@ Total plugins: 496
 [herrhelms/radial-lines-sketch](https://github.com/herrhelms/radial-lines-sketch) manifest.json contains extra commas
 
 [herrhelms/social-artboards-sketch](https://github.com/herrhelms/social-artboards-sketch) manifest.json contains extra commas
-
-[nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
 
 [thetylerwolf/sketch-data-studio](https://github.com/thetylerwolf/sketch-data-studio) manifest.json contains extra commas
 
@@ -97,6 +95,10 @@ Total plugins: 496
 
 [stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers) manifest.json contains extra commas
 
+**[bouchenoiremarc/Sketch-Constraints](https://github.com/bouchenoiremarc/Sketch-Constraints) missing manifest.json**
+
+**[bouchenoiremarc/Sketch-Maps](https://github.com/bouchenoiremarc/Sketch-Maps) missing manifest.json**
+
 [JohnCoates/CSSketch](https://github.com/JohnCoates/CSSketch) manifest.json contains extra commas
 
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
@@ -129,7 +131,7 @@ Total plugins: 496
 
 **PixelCut/ has no repo**
 
-[cute/SketchI18N](https://github.com/cute/SketchI18N) manifest.json contains extra commas
+**[cute/SketchI18N](https://github.com/cute/SketchI18N) missing manifest.json**
 
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
 
@@ -138,8 +140,6 @@ Total plugins: 496
 [marianomike/sketch-organizesymbols](https://github.com/marianomike/sketch-organizesymbols) manifest.json contains extra commas
 
 [marianomike/sketch-duplicatesymbol](https://github.com/marianomike/sketch-duplicatesymbol) manifest.json contains extra commas
-
-[marisaroque/sketch-markup-listify](https://github.com/marisaroque/sketch-markup-listify) manifest.json contains extra commas
 
 [luvmex/Sketch-Guides](https://github.com/luvmex/Sketch-Guides) manifest.json contains extra commas
 
@@ -165,6 +165,8 @@ Total plugins: 496
 
 [canisminor1990/sketch-move-half-pixel](https://github.com/canisminor1990/sketch-move-half-pixel) manifest.json contains extra commas
 
+**[MrPeak/sketch-show-layer-info](https://github.com/MrPeak/sketch-show-layer-info) has no repo**
+
 **[ImageOptim/sketch-plugin](https://github.com/ImageOptim/sketch-plugin) missing manifest.json**
 
 [MattCowBoy/giancartboard](https://github.com/MattCowBoy/giancartboard) manifest.json contains extra commas
@@ -187,9 +189,13 @@ Total plugins: 496
 
 **/ has no repo**
 
-**[mcansh/squash-sketchplugin](https://github.com/mcansh/squash-sketchplugin) manifest.json is missing identifier**
+**[mcansh/squash-sketchplugin](https://github.com/mcansh/squash-sketchplugin) missing manifest.json**
+
+**[atlassian/jira-cloud-for-sketch](https://github.com/atlassian/jira-cloud-for-sketch) missing manifest.json**
 
 **[mcansh/sketch-find-all-instances-of-symbol](https://github.com/mcansh/sketch-find-all-instances-of-symbol) manifest.json is missing identifier**
+
+**[sketch-symbol-importer/sketch-symbol-importer](https://github.com/sketch-symbol-importer/sketch-symbol-importer) has no repo**
 
 **[lifeiscontent/emmet-sketch](https://github.com/lifeiscontent/emmet-sketch) has no repo**
 

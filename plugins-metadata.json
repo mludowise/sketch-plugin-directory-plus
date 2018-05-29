@@ -458,7 +458,7 @@
     "added": "2017-04-21 18:02:00 UTC",
     "gh_url": "https://github.com/stark-contrast/stark-sketch-plugin.git",
     "gh_updated": "2017-12-05 21:54:35 UTC",
-    "gh_stars": 417,
+    "gh_stars": 418,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.mfouquet.sketch.stark",
@@ -772,7 +772,9 @@
     "gh_updated": "2017-05-02 16:37:54 UTC",
     "gh_stars": 351,
     "gh_issues": 6,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.github.nolastan.sync",
+    "man_version": "1.1"
   },
   {
     "name": "sketch-browser-preview",
@@ -1121,7 +1123,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-05-13 11:07:11 UTC",
-    "gh_stars": 5634,
+    "gh_stars": 5635,
     "gh_issues": 179,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -2762,7 +2764,9 @@
     "gh_updated": "2018-05-21 10:03:09 UTC",
     "gh_stars": 1307,
     "gh_issues": 8,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.bouchenoiremarc.sketch-constraints",
+    "man_version": "1.0.2"
   },
   {
     "name": "Sketch-Maps",
@@ -2776,7 +2780,9 @@
     "gh_updated": "2018-05-21 14:02:44 UTC",
     "gh_stars": 55,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.bouchenoiremarc.sketch-maps",
+    "man_version": "1.1.2"
   },
   {
     "name": "sort-me-sketch",
@@ -4252,7 +4258,10 @@
     "gh_updated": "2018-05-24 23:57:45 UTC",
     "gh_stars": 816,
     "gh_issues": 14,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.liguangming.sketch-i18n",
+    "man_version": "1.1.7",
+    "man_compatible_version": "3.3"
   },
   {
     "name": "Language-Sketch-Plugin",
@@ -5390,7 +5399,7 @@
     "gh_url": "https://github.com/PeachScript/sketch-plugin-monster.git",
     "gh_updated": "2018-05-28 16:19:40 UTC",
     "gh_stars": 100,
-    "gh_issues": 7,
+    "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "com.peachscript.pluginMonster",
     "man_compatible_version": "3"
@@ -6032,7 +6041,7 @@
     "added": "2017-06-07 09:02:28 UTC",
     "gh_url": "https://github.com/websiddu/sync-to-slides.git",
     "gh_updated": "2017-06-08 05:11:37 UTC",
-    "gh_stars": 115,
+    "gh_stars": 116,
     "gh_issues": 15,
     "gh_branch": "master",
     "man_identifier": "com.google.sketch.synctoslides",
@@ -6060,7 +6069,15 @@
     "author": "捻捻转儿",
     "title": "Sketch Show Layer Info",
     "description": "Show selected layer's ObjectID, Class and ID. It is of great use for plugin development or file parsing.",
-    "added": "2017-06-23 23:09:04 UTC"
+    "added": "2017-06-23 23:09:04 UTC",
+    "homepage": "https://github.com/MrPeak/sketch-show-layer-info",
+    "gh_url": "https://github.com/MrPeak/sketch-show-layer-info.git",
+    "gh_updated": "2017-06-23 17:50:27 UTC",
+    "gh_stars": 2,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.plugins.show-layer-info",
+    "man_version": "1.0"
   },
   {
     "name": "sketch-numbering-machine",
@@ -6422,6 +6439,7 @@
     "gh_stars": 2,
     "gh_issues": 0,
     "gh_branch": "master",
+    "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/mcansh/squash-sketchplugin/master/squash.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -6436,7 +6454,10 @@
     "gh_updated": "2017-10-09 06:05:47 UTC",
     "gh_stars": 33,
     "gh_issues": 11,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.atlassian.sketch.jira-plugin",
+    "man_version": "1.1.2",
+    "man_compatible_version": "3"
   },
   {
     "name": "Sketch-Title-Case",
@@ -6493,7 +6514,16 @@
     "author": "sketch-symbol-importer",
     "title": "Sketch Symbol Importer",
     "description": "Import symbols from on Sketch file into another. Maintains overrides and updates existing symbols in place.",
-    "added": "2017-09-27 10:37:55 UTC"
+    "added": "2017-09-27 10:37:55 UTC",
+    "homepage": "https://github.com/sketch-symbol-importer/sketch-symbol-importer",
+    "gh_url": "https://github.com/sketch-symbol-importer/sketch-symbol-importer.git",
+    "gh_updated": "2017-08-28 15:56:05 UTC",
+    "gh_stars": 5,
+    "gh_issues": 2,
+    "gh_branch": "master",
+    "man_identifier": "com.sketch-symbol-importer.sketch.sketch-symbol-importer",
+    "man_version": "1.0",
+    "man_compatible_version": "1"
   },
   {
     "name": "symbol-and-artboard-organizer",

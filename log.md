@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-30 06:02:42 UTC
+Updated 2018-05-30 07:02:45 UTC
 
 Total plugins: 496
 
@@ -87,8 +87,6 @@ Total plugins: 496
 
 [jamztang/MagicMirror](https://github.com/jamztang/MagicMirror) manifest.json contains extra commas
 
-[bunguu/SketchExportForRepliaPlugin](https://github.com/bunguu/SketchExportForRepliaPlugin) manifest.json contains extra commas
-
 [ozgurgunes/Sketch-Layer-Comps](https://github.com/ozgurgunes/Sketch-Layer-Comps) manifest.json contains extra commas
 
 [Charimon/iosViews](https://github.com/Charimon/iosViews) manifest.json contains extra commas
@@ -108,8 +106,6 @@ Total plugins: 496
 [ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
 
 [LaloMrtnz/Prism](https://github.com/LaloMrtnz/Prism) manifest.json contains extra commas
-
-[nahitheper/SwiftColorPalette](https://github.com/nahitheper/SwiftColorPalette) manifest.json contains extra commas
 
 **SketchRunner/ has no repo**
 

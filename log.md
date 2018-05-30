@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-30 17:01:39 UTC
+Updated 2018-05-30 18:00:56 UTC
 
 Total plugins: 497
 
@@ -48,8 +48,6 @@ Total plugins: 497
 [herrhelms/social-artboards-sketch](https://github.com/herrhelms/social-artboards-sketch) manifest.json contains extra commas
 
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
-
-[thetylerwolf/sketch-data-studio](https://github.com/thetylerwolf/sketch-data-studio) manifest.json contains extra commas
 
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
 

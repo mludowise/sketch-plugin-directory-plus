@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-05-30 08:01:57 UTC
+Updated 2018-05-30 09:02:54 UTC
 
 Total plugins: 496
 
@@ -88,8 +88,6 @@ Total plugins: 496
 [jamztang/MagicMirror](https://github.com/jamztang/MagicMirror) manifest.json contains extra commas
 
 [ozgurgunes/Sketch-Layer-Comps](https://github.com/ozgurgunes/Sketch-Layer-Comps) manifest.json contains extra commas
-
-[Charimon/iosViews](https://github.com/Charimon/iosViews) manifest.json contains extra commas
 
 **[shakemno/sketch-replace-images](https://github.com/shakemno/sketch-replace-images) manifest.json is missing identifier**
 

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-06-05 06:03:14 UTC
+Updated 2018-06-05 07:02:17 UTC
 
 Total plugins: 497
 
@@ -118,8 +118,6 @@ Total plugins: 497
 **Atomic.io/ has no repo**
 
 **PixelCut/ has no repo**
-
-[cute/SketchI18N](https://github.com/cute/SketchI18N) manifest.json contains extra commas
 
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
 

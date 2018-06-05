@@ -1123,8 +1123,8 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-05-13 11:07:11 UTC",
-    "gh_stars": 5665,
-    "gh_issues": 180,
+    "gh_stars": 5667,
+    "gh_issues": 181,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.7.5"
@@ -4256,7 +4256,7 @@
     "homepage": "https://github.com/cute/SketchI18N",
     "gh_url": "https://github.com/cute/SketchI18N.git",
     "gh_updated": "2018-06-05 06:20:55 UTC",
-    "gh_stars": 819,
+    "gh_stars": 820,
     "gh_issues": 12,
     "gh_branch": "master",
     "man_identifier": "com.liguangming.sketch-i18n",
@@ -6818,7 +6818,7 @@
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2018-04-25 09:03:16 UTC",
-    "gh_stars": 83,
+    "gh_stars": 84,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_compatible_version": "50"
@@ -7881,7 +7881,7 @@
     "gh_url": "https://github.com/larsenwork/sketch-easing-gradient.git",
     "gh_updated": "2018-06-04 06:48:44 UTC",
     "gh_stars": 149,
-    "gh_issues": 3,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.larsenwork.sketch.easing-gradient",
     "man_compatible_version": "3"

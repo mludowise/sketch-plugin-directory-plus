@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-06-07 09:03:13 UTC
+Updated 2018-06-07 10:03:09 UTC
 
 Total plugins: 497
 
@@ -192,6 +192,8 @@ Total plugins: 497
 **[skpm/sketch-dev-tools](https://github.com/skpm/sketch-dev-tools) manifest.json is missing identifier**
 
 **[CaravelDesign/caravel-design](https://github.com/CaravelDesign/caravel-design) has no repo**
+
+**[ahmedmigo/Move-to-library-sketchplugin](https://github.com/ahmedmigo/Move-to-library-sketchplugin) manifest.json is missing identifier**
 
 **/i-want-apple-system-font has no repo**
 

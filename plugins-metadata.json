@@ -1125,7 +1125,7 @@
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-05-13 11:07:11 UTC",
     "gh_stars": 5682,
-    "gh_issues": 183,
+    "gh_issues": 184,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.7.5"
@@ -4488,7 +4488,7 @@
     "homepage": "https://github.com/Ashung/Android_Res_Export",
     "gh_url": "https://github.com/Ashung/Android_Res_Export.git",
     "gh_updated": "2018-04-20 11:28:10 UTC",
-    "gh_stars": 144,
+    "gh_stars": 145,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.android_res_export",
@@ -6749,13 +6749,14 @@
     "added": "2017-11-07 09:18:05 UTC",
     "homepage": "https://github.com/aparajita/sketch-style-master",
     "gh_url": "https://github.com/aparajita/sketch-style-master.git",
-    "gh_updated": "2018-05-23 15:22:22 UTC",
+    "gh_updated": "2018-06-10 20:23:39 UTC",
     "gh_stars": 100,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.aparajita.style-master",
-    "man_version": "1.0.1",
-    "man_compatible_version": "4"
+    "man_version": "1.0.2",
+    "man_compatible_version": "4",
+    "icon": "https://raw.githubusercontent.com/aparajita/sketch-style-master/master/Style%20Master.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "sketch-groupie",

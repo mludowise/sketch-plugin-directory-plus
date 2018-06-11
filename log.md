@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-06-11 15:01:56 UTC
+Updated 2018-06-11 16:02:27 UTC
 
 Total plugins: 497
 
@@ -217,7 +217,7 @@ Total plugins: 497
 
 **[wescraig/Transpose-Plugin](https://github.com/wescraig/Transpose-Plugin) has no repo**
 
-**[zcallan/sketch-bacon-ipsum](https://github.com/zcallan/sketch-bacon-ipsum) manifest.json is missing identifier**
+**[zcallan/sketch-bacon-ipsum](https://github.com/zcallan/sketch-bacon-ipsum) has no repo**
 
 **[tankxu/SVG-Insert](https://github.com/tankxu/SVG-Insert) manifest.json is missing identifier**
 

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-06-12 10:01:41 UTC
+Updated 2018-06-12 11:01:46 UTC
 
 Total plugins: 497
 
@@ -120,6 +120,8 @@ Total plugins: 497
 **PixelCut/ has no repo**
 
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
+
+**[ErikFontanel/sketch-toggle-constrain-proportions](https://github.com/ErikFontanel/sketch-toggle-constrain-proportions) manifest.json is missing identifier**
 
 [marianomike/sketch-exportsymbols](https://github.com/marianomike/sketch-exportsymbols) manifest.json contains extra commas
 

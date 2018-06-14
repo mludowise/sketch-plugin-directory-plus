@@ -7923,12 +7923,12 @@
     "added": "2018-05-30 15:01:30 UTC",
     "homepage": "https://github.com/ahmedmigo/overrideit-sketchplugin",
     "gh_url": "https://github.com/ahmedmigo/overrideit-sketchplugin.git",
-    "gh_updated": "2018-06-14 12:15:36 UTC",
+    "gh_updated": "2018-06-14 15:05:05 UTC",
     "gh_stars": 39,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "overrideit.plugin",
-    "man_version": "0.1.5",
+    "man_version": "0.1.6",
     "man_compatible_version": "50",
     "icon": "https://raw.githubusercontent.com/ahmedmigo/overrideit-sketchplugin/master/overrideit.sketchplugin/Contents/Resources/icon.png"
   }

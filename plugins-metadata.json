@@ -7153,7 +7153,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-04-30 21:01:44 UTC",
-    "gh_stars": 1752,
+    "gh_stars": 1753,
     "gh_issues": 47,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",
@@ -7769,7 +7769,7 @@
     "gh_url": "https://github.com/romannurik/Sketch-Stickers.git",
     "gh_updated": "2018-06-12 02:50:47 UTC",
     "gh_stars": 87,
-    "gh_issues": 3,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.stickers",
     "man_compatible_version": "49"

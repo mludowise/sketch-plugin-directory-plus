@@ -2747,7 +2747,7 @@
     "homepage": "https://github.com/andrewfiorillo/sketch-palettes",
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
     "gh_updated": "2018-03-26 00:32:16 UTC",
-    "gh_stars": 1911,
+    "gh_stars": 1912,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
@@ -7875,7 +7875,7 @@
     "added": "2018-05-28 11:01:35 UTC",
     "gh_url": "https://github.com/larsenwork/sketch-easing-gradient.git",
     "gh_updated": "2018-06-14 20:15:48 UTC",
-    "gh_stars": 226,
+    "gh_stars": 228,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.larsenwork.sketch.easing-gradient",
@@ -7931,5 +7931,23 @@
     "man_version": "0.1.6",
     "man_compatible_version": "50",
     "icon": "https://raw.githubusercontent.com/ahmedmigo/overrideit-sketchplugin/master/overrideit.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "name": "Sketch-Plugin",
+    "owner": "WeTransfer",
+    "author": "WeTransfer",
+    "title": "WeTransfer",
+    "description": "Share artboards and pages via WeTransfer",
+    "added": "2018-06-15 08:02:52 UTC",
+    "homepage": "https://github.com/WeTransfer/Sketch-Plugin",
+    "gh_url": "https://github.com/WeTransfer/Sketch-Plugin.git",
+    "gh_updated": "2018-06-13 15:14:55 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.wetransfer.wetransfer-sketch",
+    "man_version": "1",
+    "man_compatible_version": "42",
+    "icon": "https://raw.githubusercontent.com/WeTransfer/Sketch-Plugin/master/wetransfer.sketchplugin/Contents/Resources/icon.png"
   }
 ]

@@ -33,49 +33,62 @@
     "man_compatible_version": "3"
   },
   {
-    "name": "Timeline",
-    "owner": "Anima Team",
+    "owner": null,
     "author": "Anima Team",
     "title": "Timeline",
     "description": "Create beautiful timeline animations and export GIF or MP4",
     "homepage": "https://timeline.animaapp.com",
-    "added": "2018-03-20 17:02:08 UTC"
+    "added": "2018-06-19 19:02:06 UTC"
   },
   {
-    "name": "SketchSymbolLegend",
-    "owner": "amimagid",
-    "author": "Ami Magid",
+    "name": "sketch-symbol-legend",
+    "owner": "wix-incubator",
+    "author": "WIX Incubator",
     "title": "Sketch Symbol Legend",
     "description": "Legend for your Sketch Symbols.",
     "homepage": "https://github.com/amimagid/sketch-symbol-legend",
-    "added": "2018-03-12 16:02:56 UTC"
+    "added": "2018-06-19 19:02:06 UTC",
+    "gh_url": "https://github.com/wix-incubator/sketch-symbol-legend.git",
+    "gh_updated": "2018-05-23 09:42:25 UTC",
+    "gh_stars": 4,
+    "gh_issues": 6,
+    "gh_branch": "master",
+    "man_identifier": "com.fed-infra.legend-plugin",
+    "man_version": "2.0.0"
   },
   {
-    "name": "SketchIsometric",
+    "name": "sketch-isometric",
     "owner": "sureskumar",
     "author": "Sures Kumar",
     "title": "Sketch Isometric",
     "description": "Generate Isometric views from Artboards and Rectangles.",
     "homepage": "https://github.com/sureskumar/sketch-isometric",
-    "added": "2018-02-12 12:01:54 UTC"
+    "added": "2018-06-19 19:02:06 UTC",
+    "gh_url": "https://github.com/sureskumar/sketch-isometric.git",
+    "gh_updated": "2018-05-12 05:45:26 UTC",
+    "gh_stars": 1353,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.sureskumar.sketchisometric",
+    "man_version": "2.1.0",
+    "man_compatible_version": "40.0",
+    "icon": "https://raw.githubusercontent.com/sureskumar/sketch-isometric/master/Sketch-Isometric.sketchplugin/Contents/Resources/icon.png"
   },
   {
-    "name": "protowire",
-    "owner": "markhorgan",
+    "owner": null,
     "author": "Mark Horgan",
     "title": "Protowire",
     "description": "Adds prototyping to Sketch including transitions between screens and layer animation.",
     "homepage": "https://protowire.com",
-    "added": "2018-02-05 14:02:32 UTC"
+    "added": "2018-06-19 19:02:06 UTC"
   },
   {
-    "name": "Shutterstock",
-    "owner": "Shutterstock",
+    "owner": null,
     "author": "Shutterstock, Inc.",
     "title": "Shutterstock",
     "description": "Access Shutterstock's stunning images without leaving your workspace.",
     "homepage": "https://www.shutterstock.com/special/sketchplugin",
-    "added": "2018-01-30 16:02:06 UTC"
+    "added": "2018-06-19 19:02:06 UTC"
   },
   {
     "name": "sketch-bootstrap-helpers",
@@ -109,13 +122,12 @@
     "gh_branch": "master"
   },
   {
-    "name": "SketchCleaner",
-    "owner": "Yummygum",
+    "owner": null,
     "author": "Yummygum",
     "title": "SketchCleaner",
     "description": "Sketch plugin that helps you get your design files as clean as a whistle.",
     "homepage": "http://www.sketchcleaner.com/",
-    "added": "2017-12-05 11:31:15 UTC"
+    "added": "2018-06-19 19:02:06 UTC"
   },
   {
     "name": "smudge",
@@ -167,22 +179,38 @@
     "man_compatible_version": "47.1"
   },
   {
-    "name": "Loose!",
-    "owner": "Trev Wolft",
+    "name": "loose-sketch-plugin",
+    "owner": "teeerevor",
     "author": "Trev Wolf",
     "title": "Loose!",
     "description": "Turn your lines into arrows",
+    "added": "2018-06-19 19:02:06 UTC",
     "homepage": "https://github.com/teeerevor/loose-sketch-plugin",
-    "added": "2017-10-26 07:38:58 UTC"
+    "gh_url": "https://github.com/teeerevor/loose-sketch-plugin.git",
+    "gh_updated": "2017-10-30 01:25:53 UTC",
+    "gh_stars": 16,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.teeerevor.sketch.loose",
+    "man_version": "1.0.2",
+    "man_compatible_version": "42"
   },
   {
-    "name": "Font Buddy",
+    "name": "FontBuddy",
     "owner": "AnimaApp",
     "author": "Anima Team",
     "title": "Font Buddy",
     "description": "Install missing fonts & free fonts directly from Sketch.",
-    "homepage": "https://github.com/AnimaApp/FontBuddy",
-    "added": "2017-10-09 20:19:12 UTC"
+    "added": "2018-06-19 19:02:06 UTC",
+    "homepage": "http://fontbuddy.co",
+    "gh_url": "https://github.com/AnimaApp/FontBuddy.git",
+    "gh_updated": "2018-02-28 14:04:59 UTC",
+    "gh_stars": 16,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.animaapp.fontbuddy",
+    "man_version": "1.0.3",
+    "man_compatible_version": "49"
   },
   {
     "name": "Sketch-Play",
@@ -465,13 +493,12 @@
     "man_version": "1.6"
   },
   {
-    "name": "zeroheight-sketch-plugin",
-    "owner": "zeroheight",
+    "owner": null,
     "author": "zeroheight",
     "title": "zeroheight",
     "description": "Organise and share your design libraries using folders and get a living styleguide for free",
     "homepage": "https://zeroheight.com",
-    "added": "2017-04-11 17:00:45 UTC"
+    "added": "2018-06-19 19:02:06 UTC"
   },
   {
     "name": "foreignipsum",
@@ -620,7 +647,7 @@
     "gh_url": "https://github.com/AnimaApp/Auto-Layout.git",
     "gh_updated": "2018-05-15 21:10:19 UTC",
     "gh_stars": 661,
-    "gh_issues": 53,
+    "gh_issues": 52,
     "gh_branch": "master",
     "man_identifier": "com.animaapp.stc-sketch-plugin",
     "man_version": "0.14.2",
@@ -1280,6 +1307,23 @@
     "man_identifier": "net.creative-tweet.exchanger",
     "man_version": "1.1.0",
     "man_compatible_version": "43"
+  },
+  {
+    "name": "Sketch-Font-Mixer",
+    "owner": "littlebusters",
+    "author": "littlebusters",
+    "title": "Font Mixer",
+    "description": "Plugin can apply other fonts for each character type of Text Layer.",
+    "homepage": "https://github.com/littlebusters/Sketch-Font-Mixer",
+    "added": "2018-06-19 19:02:06 UTC",
+    "gh_url": "https://github.com/littlebusters/Sketch-Font-Mixer.git",
+    "gh_updated": "2018-06-15 13:17:18 UTC",
+    "gh_stars": 6,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "net.creative-tweet.font-mixer",
+    "man_version": "0.6.8",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-dockpreview",
@@ -2025,14 +2069,6 @@
     "gh_branch": "master",
     "man_identifier": "co.ozzik.swapstyles",
     "man_version": "1.0.4"
-  },
-  {
-    "name": "swap-elements",
-    "owner": "interacthings",
-    "author": "interacthings",
-    "title": "Swap Elements",
-    "description": "Sketch plugin to swap positions of two elements.",
-    "added": "2015-06-12 22:01:31 UTC"
   },
   {
     "name": "Sketch-Make-Long-Shadow",
@@ -4208,12 +4244,12 @@
     "man_version": "1.0.0"
   },
   {
-    "owner": "PixelCut",
+    "owner": null,
     "author": "PixelCut",
     "title": "PaintCode Code Generator",
     "description": "Convert your Sketch drawings into Swift or Objective-C",
     "homepage": "https://www.paintcodeapp.com/sketch",
-    "added": "2016-07-21 15:25:59 UTC"
+    "added": "2018-06-19 19:02:06 UTC"
   },
   {
     "name": "Sketch-Focus",
@@ -6542,15 +6578,6 @@
     "man_compatible_version": "47"
   },
   {
-    "name": "emmet-sketch",
-    "owner": "lifeiscontent",
-    "author": "lifeiscontent",
-    "title": "emmet-sketch",
-    "description": "Sketch Plugin to use emmet in Sketch",
-    "homepage": "https://github.com/lifeiscontent/emmet-sketch",
-    "added": "2017-10-16 08:11:52 UTC"
-  },
-  {
     "name": "library-symbol-replacer",
     "owner": "zeroheight",
     "author": "zeroheight",
@@ -6667,12 +6694,18 @@
   },
   {
     "name": "sketch-gifme-plugin",
-    "owner": "the gif.me team",
+    "owner": "kannonboy",
     "author": "the gif.me team",
     "title": "gif.me",
     "description": "Add GIFs and videos to your Sketch files",
     "homepage": "http://www.sketchgif.me/",
-    "added": "2017-11-01 23:06:23 UTC"
+    "added": "2018-06-19 19:02:06 UTC",
+    "gh_url": "https://github.com/kannonboy/sketch-gifme-plugin.git",
+    "gh_updated": "2018-01-09 03:15:45 UTC",
+    "gh_stars": 217,
+    "gh_issues": 11,
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-syntax-highlighter",
@@ -6911,13 +6944,20 @@
     "icon": "https://raw.githubusercontent.com/bryanberger/sketch-wcag/master/sketch-wcag.sketchplugin/Contents/Resources/icon.png"
   },
   {
-    "name": "caravel-design",
+    "name": "caravel.sketchplugin",
     "owner": "CaravelDesign",
     "author": "CaravelDesign",
     "title": "Caravel",
     "description": "Export your artboards directly to Caravel projects.",
     "homepage": "https://github.com/CaravelDesign/caravel.sketchplugin",
-    "added": "2017-12-11 21:16:38 UTC"
+    "added": "2018-06-19 19:02:06 UTC",
+    "gh_url": "https://github.com/CaravelDesign/caravel.sketchplugin.git",
+    "gh_updated": "2018-06-11 13:58:17 UTC",
+    "gh_stars": 2,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.caravel.plugin.sketch.coco",
+    "man_version": "2.0.0"
   },
   {
     "name": "Move-to-library-sketchplugin",
@@ -6970,13 +7010,12 @@
     "man_compatible_version": "47"
   },
   {
-    "name": "FontRapid",
-    "owner": "FontRapid Team",
+    "owner": null,
     "author": "FontRapid Team",
     "title": "FontRapid",
     "description": "FontRapid is a free Sketch plugin, helps designers create professional OpenType fonts with ease directly in Sketch app. The output font can be used for print, web and mobile, and sold to anyone with no limit (both free and commercial use).",
     "homepage": "https://fontrapid.com",
-    "added": "2018-01-11 10:10:17 UTC"
+    "added": "2018-06-19 19:02:06 UTC"
   },
   {
     "name": "Sketch-topographic",
@@ -7045,12 +7084,19 @@
   },
   {
     "name": "HandyMenu-SketchPlugin",
-    "owner": "sergeydmitriev",
+    "owner": "sergeishere",
     "author": "Sergey Dmitriev",
     "title": "Handy Menu",
     "description": "Gives quick access to your plugins through context menu",
     "homepage": "https://github.com/sergeishere/HandyMenu-SketchPlugin",
-    "added": "2018-01-23 11:02:55 UTC"
+    "added": "2018-03-02 12:01:30 UTC",
+    "gh_url": "https://github.com/sergeishere/HandyMenu-SketchPlugin.git",
+    "gh_updated": "2018-04-19 14:24:41 UTC",
+    "gh_stars": 44,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.sergeishere.plugins.handymenu",
+    "man_version": "4.1"
   },
   {
     "name": "chart",
@@ -7247,22 +7293,36 @@
     "man_compatible_version": "46.0"
   },
   {
-    "name": "SnipSnap-Plugin",
+    "name": "SnipSnap",
     "owner": "wescraig",
     "author": "Wes Craig",
     "title": "SnipSnap",
     "description": "Remove extra padding on multiple layers or artboards with ease.",
     "homepage": "https://github.com/wescraig/SnipSnap",
-    "added": "2018-03-01 10:01:45 UTC"
+    "added": "2018-06-19 19:02:06 UTC",
+    "gh_url": "https://github.com/wescraig/SnipSnap.git",
+    "gh_updated": "2018-03-01 03:10:57 UTC",
+    "gh_stars": 4,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.wescraig.sketch.snipsnap",
+    "man_version": "1.0"
   },
   {
-    "name": "Transpose-Plugin",
+    "name": "Transpose",
     "owner": "wescraig",
     "author": "Wes Craig",
     "title": "Transpose",
     "description": "Transpose your selection and set pixel margins between elements.",
     "homepage": "https://github.com/wescraig/Transpose",
-    "added": "2018-03-08 23:01:04 UTC"
+    "added": "2018-06-19 19:02:06 UTC",
+    "gh_url": "https://github.com/wescraig/Transpose.git",
+    "gh_updated": "2018-03-08 05:08:50 UTC",
+    "gh_stars": 3,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.wescraig.sketch.transpose",
+    "man_version": "1.0"
   },
   {
     "name": "Sketch-Smart-Style-Switcher",
@@ -7405,12 +7465,12 @@
   },
   {
     "name": "autopdfexporter",
-    "owner": "KhY",
+    "owner": "Atim33",
     "author": "KhY",
     "title": "Auto PDF Exporter nSlicer",
     "description": "A Sketch Plugin to auto-export all '[S]' Prefix artboards to a single pdf.",
     "homepage": "https://github.com/Atim33/autopdfexporter-sketch-plugin/",
-    "added": "2018-03-31 15:02:37 UTC"
+    "added": "2018-06-19 19:02:06 UTC"
   },
   {
     "name": "sketch-hyphenator",
@@ -7692,13 +7752,20 @@
     "icon": "https://raw.githubusercontent.com/abnamrocoesd/chromata/master/chromata.sketchplugin/Contents/Resources/icon.png"
   },
   {
-    "name": "Bonsai",
-    "owner": "Hui Zheng",
+    "name": "bonsai-plugin",
+    "owner": "thechinesekid",
     "author": "Hui Zheng",
     "title": "Bonsai Standards",
     "description": "Update all the colors in an artboard to the latest Bonsai colors.",
     "homepage": "https://github.com/thechinesekid/bonsai-plugin",
-    "added": "2018-05-02 07:02:24 UTC"
+    "added": "2018-06-19 19:02:06 UTC",
+    "gh_url": "https://github.com/thechinesekid/bonsai-plugin.git",
+    "gh_updated": "2018-04-25 23:06:28 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "standards.plugin",
+    "man_version": "0.1"
   },
   {
     "name": "ggradient",
@@ -7734,12 +7801,12 @@
   },
   {
     "name": "pixelperfect",
-    "owner": "Mattias Eriksson",
+    "owner": "materik",
     "author": "Mattias Eriksson",
     "title": "Pixel Perfect",
     "description": "Plugin for Sketch for handling layout and sizing of layers automatically based on their names.",
     "homepage": "https://github.com/materik/sketchplugin-pixelperfect",
-    "added": "2018-05-04 17:01:56 UTC"
+    "added": "2018-06-19 19:02:06 UTC"
   },
   {
     "name": "photo-grid",
@@ -7933,6 +8000,36 @@
     "icon": "https://raw.githubusercontent.com/ahmedmigo/overrideit-sketchplugin/master/overrideit.sketchplugin/Contents/Resources/icon.png"
   },
   {
+    "name": "roller",
+    "owner": "toyboxsystems",
+    "author": "Jono Kolnik",
+    "title": "Roller by Toybox",
+    "description": "Roller is the first Linter for Designers. It works just like spell-check but within your Sketch files.",
+    "homepage": "https://github.com/toyboxsystems/roller",
+    "added": "2018-06-19 19:02:06 UTC",
+    "gh_url": "https://github.com/toyboxsystems/roller.git",
+    "gh_updated": "2018-06-14 17:59:17 UTC",
+    "gh_stars": 110,
+    "gh_issues": 2,
+    "gh_branch": "master",
+    "man_compatible_version": "3"
+  },
+  {
+    "name": "sketch-unsplasher",
+    "owner": "perrysmotors",
+    "author": "Giles Perry",
+    "title": "Unsplasher",
+    "description": "Fills shapes or symbols with images from Unsplash",
+    "homepage": "https://github.com/perrysmotors/sketch-unsplasher",
+    "added": "2018-06-19 19:02:06 UTC",
+    "gh_url": "https://github.com/perrysmotors/sketch-unsplasher.git",
+    "gh_updated": "2018-06-04 12:00:57 UTC",
+    "gh_stars": 25,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_compatible_version": "50"
+  },
+  {
     "name": "Sketch-Plugin",
     "owner": "WeTransfer",
     "author": "WeTransfer",
@@ -7954,7 +8051,7 @@
     "name": "sketch",
     "owner": "Frontify",
     "author": "Frontify",
-    "title": "frontify-plugin",
+    "title": "Frontify Plugin",
     "description": "Connecting your brand and design worlds",
     "homepage": "https://github.com/Frontify/sketch",
     "added": "2018-06-19 09:00:41 UTC",
@@ -7965,5 +8062,39 @@
     "gh_branch": "master",
     "man_identifier": "com.frontify.sketch-plugin",
     "man_compatible_version": "3"
+  },
+  {
+    "name": "AutoFixiOSTextLineHeight-Sketch-Plugin",
+    "owner": "youngxkk",
+    "author": "youngxkk",
+    "title": "AutoFixiOSTextLineHeight",
+    "description": "Auto Fix iOS Text Line Height, so that the font restoration degree of iOS design draft reaches 100%.",
+    "homepage": "https://github.com/youngxkk/AutoFixiOSTextLineHeight",
+    "added": "2018-06-19 19:02:06 UTC"
+  },
+  {
+    "name": "Align-and-resize-to-layout",
+    "owner": "KevinvBre",
+    "author": "Kevin",
+    "title": "Align and Resize To Layout",
+    "description": "Align and resize layers to your layout in Sketch",
+    "added": "2018-06-19 19:02:06 UTC",
+    "homepage": "https://github.com/KevinvBre/Align-and-resize-to-layout",
+    "gh_url": "https://github.com/KevinvBre/Align-and-resize-to-layout.git",
+    "gh_updated": "2018-06-18 18:01:56 UTC",
+    "gh_stars": 1,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "nl.kevinvanbreemaat.testplugin",
+    "man_version": "0.1",
+    "icon": "https://raw.githubusercontent.com/KevinvBre/Align-and-resize-to-layout/master/align%20and%20resize%20to%20layout.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "owner": null,
+    "author": "Joseph Mueller & Parth P",
+    "title": "Stackswell",
+    "description": "Sketch plugin to update type and symbols based on the artboard width.",
+    "homepage": "https://stackswell.io",
+    "added": "2018-06-19 19:02:06 UTC"
   }
 ]

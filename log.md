@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-06-19 21:02:17 UTC
+Updated 2018-06-19 22:02:27 UTC
 
-Total plugins: 503
+Total plugins: 492
 
 ## Problems
 **/ has no repo**
@@ -43,8 +43,6 @@ Total plugins: 503
 
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
 
-**[sebj/Select-By-Name](https://github.com/sebj/Select-By-Name) manifest.json is missing identifier**
-
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
 
 [getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) manifest.json contains extra commas
@@ -66,8 +64,6 @@ Total plugins: 503
 [ozzik/swap-styles](https://github.com/ozzik/swap-styles) manifest.json contains extra commas
 
 [tudou527/marketch](https://github.com/tudou527/marketch) manifest.json contains extra commas
-
-[nolastan/charts.sketchplugin](https://github.com/nolastan/charts.sketchplugin) manifest.json contains extra commas
 
 [soutaro/Align-text-baseline-sketch-plugin](https://github.com/soutaro/Align-text-baseline-sketch-plugin) manifest.json contains extra commas
 

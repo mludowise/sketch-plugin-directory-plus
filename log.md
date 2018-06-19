@@ -1,31 +1,23 @@
 # Plugin Metadata
 
-Updated 2018-06-19 18:02:22 UTC
+Updated 2018-06-19 19:02:06 UTC
 
-Total plugins: 499
+Total plugins: 503
 
 ## Problems
-**[Anima Team/Timeline](https://github.com/Anima Team/Timeline) has no repo**
+**/ has no repo**
 
-**[amimagid/SketchSymbolLegend](https://github.com/amimagid/SketchSymbolLegend) has no repo**
+**/ has no repo**
 
-**[sureskumar/SketchIsometric](https://github.com/sureskumar/SketchIsometric) has no repo**
-
-**[markhorgan/protowire](https://github.com/markhorgan/protowire) has no repo**
-
-**[Shutterstock/Shutterstock](https://github.com/Shutterstock/Shutterstock) has no repo**
+**/ has no repo**
 
 **[cranksoftwaredev/SketchPlugins](https://github.com/cranksoftwaredev/SketchPlugins) missing manifest.json**
 
-**[Yummygum/SketchCleaner](https://github.com/Yummygum/SketchCleaner) has no repo**
+**/ has no repo**
 
 **[mjkaufer/smudge](https://github.com/mjkaufer/smudge) manifest.json is missing identifier**
 
 **[udi-gindi/sendTo](https://github.com/udi-gindi/sendTo) manifest.json is missing identifier**
-
-**[Trev Wolft/Loose!](https://github.com/Trev Wolft/Loose!) has no repo**
-
-**[AnimaApp/Font Buddy](https://github.com/AnimaApp/Font Buddy) has no repo**
 
 [LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) manifest.json contains extra commas
 
@@ -33,7 +25,7 @@ Total plugins: 499
 
 [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) manifest.json contains extra commas
 
-**[zeroheight/zeroheight-sketch-plugin](https://github.com/zeroheight/zeroheight-sketch-plugin) has no repo**
+**/ has no repo**
 
 [3raxton/foreignipsum](https://github.com/3raxton/foreignipsum) manifest.json contains extra commas
 
@@ -72,8 +64,6 @@ Total plugins: 499
 [kumo/sketch-tiles](https://github.com/kumo/sketch-tiles) manifest.json contains extra commas
 
 [ozzik/swap-styles](https://github.com/ozzik/swap-styles) manifest.json contains extra commas
-
-**[interacthings/swap-elements](https://github.com/interacthings/swap-elements) has no repo**
 
 [tudou527/marketch](https://github.com/tudou527/marketch) manifest.json contains extra commas
 
@@ -117,7 +107,7 @@ Total plugins: 499
 
 **Atomic.io/ has no repo**
 
-**PixelCut/ has no repo**
+**/ has no repo**
 
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
 
@@ -177,8 +167,6 @@ Total plugins: 499
 
 **[mcansh/sketch-find-all-instances-of-symbol](https://github.com/mcansh/sketch-find-all-instances-of-symbol) manifest.json is missing identifier**
 
-**[lifeiscontent/emmet-sketch](https://github.com/lifeiscontent/emmet-sketch) has no repo**
-
 **/ has no repo**
 
 **/ has no repo**
@@ -187,13 +175,11 @@ Total plugins: 499
 
 **[heytitle/latex-sketch-plugin](https://github.com/heytitle/latex-sketch-plugin) manifest.json is missing identifier**
 
-**[the gif.me team/sketch-gifme-plugin](https://github.com/the gif.me team/sketch-gifme-plugin) has no repo**
+**[kannonboy/sketch-gifme-plugin](https://github.com/kannonboy/sketch-gifme-plugin) manifest.json is missing identifier**
 
 **[danielguillan/sketch-syntax-highlighter](https://github.com/danielguillan/sketch-syntax-highlighter) manifest.json is missing identifier**
 
 **[skpm/sketch-dev-tools](https://github.com/skpm/sketch-dev-tools) manifest.json is missing identifier**
-
-**[CaravelDesign/caravel-design](https://github.com/CaravelDesign/caravel-design) has no repo**
 
 **[ahmedmigo/Move-to-library-sketchplugin](https://github.com/ahmedmigo/Move-to-library-sketchplugin) manifest.json is missing identifier**
 
@@ -201,11 +187,9 @@ Total plugins: 499
 
 **/Clipboard2TilledFill has no repo**
 
-**[FontRapid Team/FontRapid](https://github.com/FontRapid Team/FontRapid) has no repo**
+**/ has no repo**
 
 **[ziven27/Sketch-topographic](https://github.com/ziven27/Sketch-topographic) manifest.json is missing identifier**
-
-**[sergeydmitriev/HandyMenu-SketchPlugin](https://github.com/sergeydmitriev/HandyMenu-SketchPlugin) has no repo**
 
 **/ has no repo**
 
@@ -215,9 +199,9 @@ Total plugins: 499
 
 [kupe517/sketch-split-shape](https://github.com/kupe517/sketch-split-shape) manifest.json contains extra commas
 
-**[wescraig/SnipSnap-Plugin](https://github.com/wescraig/SnipSnap-Plugin) has no repo**
+**[sergeishere/handymenu-sketchplugin](https://github.com/sergeishere/handymenu-sketchplugin) owner and name correspond to multiple plugins**
 
-**[wescraig/Transpose-Plugin](https://github.com/wescraig/Transpose-Plugin) has no repo**
+[sergeishere/HandyMenu-SketchPlugin](https://github.com/sergeishere/HandyMenu-SketchPlugin) and [sergeishere/HandyMenu-SketchPlugin](https://github.com/sergeishere/HandyMenu-SketchPlugin) use the same manifest identifier, __com.sergeishere.plugins.handymenu__
 
 **[zcallan/sketch-bacon-ipsum](https://github.com/zcallan/sketch-bacon-ipsum) manifest.json is missing identifier**
 
@@ -229,7 +213,7 @@ Total plugins: 499
 
 **[nichenqin/draw-and-render-sketch-plugin](https://github.com/nichenqin/draw-and-render-sketch-plugin) manifest.json is missing identifier**
 
-**[KhY/autopdfexporter](https://github.com/KhY/autopdfexporter) has no repo**
+**[Atim33/autopdfexporter](https://github.com/Atim33/autopdfexporter) has no repo**
 
 **[pranusarna94/Perfecto-](https://github.com/pranusarna94/Perfecto-) manifest.json is missing identifier**
 
@@ -249,11 +233,11 @@ Total plugins: 499
 
 **[qruzz/InterUI-Character-Spacing](https://github.com/qruzz/InterUI-Character-Spacing) manifest.json is missing identifier**
 
-**[Hui Zheng/Bonsai](https://github.com/Hui Zheng/Bonsai) has no repo**
+[thechinesekid/bonsai-plugin](https://github.com/thechinesekid/bonsai-plugin) manifest.json contains extra commas
 
 **[yued-fe/y-tools](https://github.com/yued-fe/y-tools) manifest.json is missing identifier**
 
-**[Mattias Eriksson/pixelperfect](https://github.com/Mattias Eriksson/pixelperfect) has no repo**
+**[materik/pixelperfect](https://github.com/materik/pixelperfect) has no repo**
 
 **[perrysmotors/photo-grid](https://github.com/perrysmotors/photo-grid) manifest.json is missing identifier**
 
@@ -266,4 +250,14 @@ Total plugins: 499
 **[kd-co/charapara-sketch-extension](https://github.com/kd-co/charapara-sketch-extension) manifest.json is missing identifier**
 
 **[jordansinger/Assistant](https://github.com/jordansinger/Assistant) manifest.json is missing identifier**
+
+**[toyboxsystems/roller](https://github.com/toyboxsystems/roller) manifest.json is missing identifier**
+
+**[perrysmotors/sketch-unsplasher](https://github.com/perrysmotors/sketch-unsplasher) manifest.json is missing identifier**
+
+**[youngxkk/AutoFixiOSTextLineHeight-Sketch-Plugin](https://github.com/youngxkk/AutoFixiOSTextLineHeight-Sketch-Plugin) has no repo**
+
+[KevinvBre/Align-and-resize-to-layout](https://github.com/KevinvBre/Align-and-resize-to-layout) manifest.json contains extra commas
+
+**/ has no repo**
 

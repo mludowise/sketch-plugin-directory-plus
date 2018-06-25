@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-06-25 09:01:44 UTC
+Updated 2018-06-25 10:02:46 UTC
 
-Total plugins: 492
+Total plugins: 494
 
 ## Problems
 **/ has no repo**
@@ -256,4 +256,8 @@ Total plugins: 492
 [KevinvBre/Align-and-resize-to-layout](https://github.com/KevinvBre/Align-and-resize-to-layout) manifest.json contains extra commas
 
 **/ has no repo**
+
+**[buames/typesettings-sketch-plugin](https://github.com/buames/typesettings-sketch-plugin) manifest.json is missing identifier**
+
+**[KevinGutowski/keyColor](https://github.com/KevinGutowski/keyColor) manifest.json is missing identifier**
 

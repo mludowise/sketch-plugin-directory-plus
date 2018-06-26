@@ -1082,7 +1082,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
-    "gh_stars": 4273,
+    "gh_stars": 4274,
     "gh_issues": 40,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -7921,7 +7921,7 @@
     "added": "2018-06-25 10:02:46 UTC",
     "gh_url": "https://github.com/buames/typesettings-sketch-plugin.git",
     "gh_updated": "2018-06-24 22:41:14 UTC",
-    "gh_stars": 1,
+    "gh_stars": 2,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

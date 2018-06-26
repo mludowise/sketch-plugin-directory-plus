@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-06-26 08:01:39 UTC
+Updated 2018-06-26 09:02:21 UTC
 
-Total plugins: 494
+Total plugins: 495
 
 ## Problems
 **/ has no repo**
@@ -260,4 +260,6 @@ Total plugins: 494
 **[buames/typesettings-sketch-plugin](https://github.com/buames/typesettings-sketch-plugin) manifest.json is missing identifier**
 
 **[KevinGutowski/keyColor](https://github.com/KevinGutowski/keyColor) manifest.json is missing identifier**
+
+**[jasondonnette/sketch-copy-as-react-component](https://github.com/jasondonnette/sketch-copy-as-react-component) manifest.json is missing identifier**
 

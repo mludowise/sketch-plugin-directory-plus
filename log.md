@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-06-28 07:02:21 UTC
+Updated 2018-06-28 08:02:20 UTC
 
 Total plugins: 496
 
@@ -58,8 +58,6 @@ Total plugins: 496
 [eivindbohler/Sketch-Unlinker](https://github.com/eivindbohler/Sketch-Unlinker) manifest.json contains extra commas
 
 **[preciousforever/sketch-aspect-ratio](https://github.com/preciousforever/sketch-aspect-ratio) missing manifest.json**
-
-[kumo/sketch-tiles](https://github.com/kumo/sketch-tiles) manifest.json contains extra commas
 
 [ozzik/swap-styles](https://github.com/ozzik/swap-styles) manifest.json contains extra commas
 

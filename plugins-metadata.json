@@ -4206,12 +4206,12 @@
     "added": "2017-03-22 12:51:18 UTC",
     "homepage": "https://github.com/contentsync/SketchContentSync",
     "gh_url": "https://github.com/contentsync/SketchContentSync.git",
-    "gh_updated": "2018-02-27 17:58:55 UTC",
+    "gh_updated": "2018-06-29 17:49:20 UTC",
     "gh_stars": 231,
-    "gh_issues": 9,
+    "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.syncify.sketch.contentsync",
-    "man_version": "4.0.0",
+    "man_version": "4.2",
     "man_compatible_version": "3.7"
   },
   {
@@ -7920,9 +7920,9 @@
     "homepage": "https://github.com/buames/typesettings-sketch-plugin",
     "added": "2018-06-25 10:02:46 UTC",
     "gh_url": "https://github.com/buames/typesettings-sketch-plugin.git",
-    "gh_updated": "2018-06-24 22:41:14 UTC",
+    "gh_updated": "2018-06-29 17:44:32 UTC",
     "gh_stars": 2,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },

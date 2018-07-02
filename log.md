@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-07-02 09:02:19 UTC
+Updated 2018-07-02 10:02:37 UTC
 
-Total plugins: 496
+Total plugins: 497
 
 ## Problems
 **/ has no repo**
@@ -262,4 +262,6 @@ Total plugins: 496
 **[jasondonnette/sketch-copy-as-react-component](https://github.com/jasondonnette/sketch-copy-as-react-component) manifest.json is missing identifier**
 
 **/ has no repo**
+
+**[ant-design/kitchen](https://github.com/ant-design/kitchen) missing manifest.json**
 

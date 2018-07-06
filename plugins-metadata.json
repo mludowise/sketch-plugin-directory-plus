@@ -6597,7 +6597,7 @@
     "gh_url": "https://github.com/aparajita/sketch-style-master.git",
     "gh_updated": "2018-06-10 20:23:39 UTC",
     "gh_stars": 110,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.aparajita.style-master",
     "man_version": "1.0.2",
@@ -7650,7 +7650,7 @@
     "gh_url": "https://github.com/romannurik/Sketch-Stickers.git",
     "gh_updated": "2018-06-26 04:04:57 UTC",
     "gh_stars": 96,
-    "gh_issues": 3,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.stickers",
     "man_compatible_version": "49"

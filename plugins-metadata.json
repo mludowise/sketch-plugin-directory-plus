@@ -5180,7 +5180,7 @@
     "homepage": "https://github.com/samlfsun/SketchSize",
     "gh_url": "https://github.com/samlfsun/SketchSize.git",
     "gh_updated": "2017-09-15 06:22:13 UTC",
-    "gh_stars": 39,
+    "gh_stars": 38,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.tencent.sketch.0ccd0daf-7e9c-4c57-83bb-09a089d551f4",
@@ -7757,7 +7757,7 @@
     "gh_url": "https://github.com/larsenwork/sketch-easing-gradient.git",
     "gh_updated": "2018-06-14 20:15:48 UTC",
     "gh_stars": 267,
-    "gh_issues": 5,
+    "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.larsenwork.sketch.easing-gradient",
     "man_compatible_version": "49"

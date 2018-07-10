@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-07-10 16:02:21 UTC
+Updated 2018-07-10 17:02:30 UTC
 
 Total plugins: 498
 
@@ -22,8 +22,6 @@ Total plugins: 498
 [LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) manifest.json contains extra commas
 
 **/ has no repo**
-
-[AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) manifest.json contains extra commas
 
 **/ has no repo**
 

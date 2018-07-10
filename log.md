@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-07-10 09:02:29 UTC
+Updated 2018-07-10 10:02:15 UTC
 
 Total plugins: 497
 
@@ -200,8 +200,6 @@ Total plugins: 497
 [sergeishere/HandyMenu-SketchPlugin](https://github.com/sergeishere/HandyMenu-SketchPlugin) and [sergeishere/HandyMenu-SketchPlugin](https://github.com/sergeishere/HandyMenu-SketchPlugin) use the same manifest identifier, __com.sergeishere.plugins.handymenu__
 
 **[zcallan/sketch-bacon-ipsum](https://github.com/zcallan/sketch-bacon-ipsum) manifest.json is missing identifier**
-
-**[tankxu/SVG-Insert](https://github.com/tankxu/SVG-Insert) manifest.json is missing identifier**
 
 **/ has no repo**
 

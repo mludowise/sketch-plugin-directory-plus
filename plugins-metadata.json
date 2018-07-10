@@ -3278,7 +3278,7 @@
     "homepage": "https://mathieudutour.github.io/git-sketch-plugin",
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2017-10-17 08:22:39 UTC",
-    "gh_stars": 2189,
+    "gh_stars": 2190,
     "gh_issues": 17,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
@@ -7980,5 +7980,22 @@
     "gh_stars": 21,
     "gh_issues": 2,
     "gh_branch": "master"
+  },
+  {
+    "name": "emoji-autocomplete-sketch-plugin",
+    "owner": "zeplin",
+    "author": "Zeplin",
+    "title": "Emoji Autocomplete Sketch Plugin",
+    "description": "While editing Sketch text layers, type “:” followed by the first few letters to autocomplete emojis. 🍒",
+    "added": "2018-07-10 15:02:10 UTC",
+    "homepage": "https://github.com/zeplin/emoji-autocomplete-sketch-plugin",
+    "gh_url": "https://github.com/zeplin/emoji-autocomplete-sketch-plugin.git",
+    "gh_updated": "2018-07-10 13:49:31 UTC",
+    "gh_stars": 5,
+    "gh_issues": 2,
+    "gh_branch": "develop",
+    "man_identifier": "io.zeplin.sketchPlugin.autocomplete",
+    "man_version": "0.1",
+    "man_compatible_version": "3"
   }
 ]

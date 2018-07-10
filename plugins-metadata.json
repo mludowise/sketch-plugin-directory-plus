@@ -1067,7 +1067,7 @@
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-05-13 11:07:11 UTC",
     "gh_stars": 5756,
-    "gh_issues": 188,
+    "gh_issues": 189,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.7.5"
@@ -7991,7 +7991,7 @@
     "homepage": "https://github.com/zeplin/emoji-autocomplete-sketch-plugin",
     "gh_url": "https://github.com/zeplin/emoji-autocomplete-sketch-plugin.git",
     "gh_updated": "2018-07-10 13:49:31 UTC",
-    "gh_stars": 15,
+    "gh_stars": 16,
     "gh_issues": 3,
     "gh_branch": "develop",
     "man_identifier": "io.zeplin.sketchPlugin.autocomplete",

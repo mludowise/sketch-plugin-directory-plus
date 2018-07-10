@@ -434,13 +434,13 @@
     "homepage": "https://launchpad.animaapp.com",
     "added": "2017-05-10 09:01:22 UTC",
     "gh_url": "https://github.com/AnimaApp/Launchpad.git",
-    "gh_updated": "2018-05-28 17:02:05 UTC",
+    "gh_updated": "2018-07-10 16:27:33 UTC",
     "gh_stars": 7,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.animaapp.stc-sketch-plugin",
-    "man_version": "0.13.2",
-    "man_compatible_version": "49"
+    "man_version": "2.0.5",
+    "man_compatible_version": "51"
   },
   {
     "name": "WordCloud",
@@ -644,12 +644,12 @@
     "homepage": "https://animaapp.github.io/Auto-Layout/",
     "added": "2016-12-30 12:11:40 UTC",
     "gh_url": "https://github.com/AnimaApp/Auto-Layout.git",
-    "gh_updated": "2018-05-15 21:10:19 UTC",
+    "gh_updated": "2018-07-10 16:26:05 UTC",
     "gh_stars": 671,
     "gh_issues": 53,
     "gh_branch": "master",
     "man_identifier": "com.animaapp.stc-sketch-plugin",
-    "man_version": "0.14.2",
+    "man_version": "2.0.5",
     "man_compatible_version": "51"
   },
   {
@@ -6532,7 +6532,7 @@
     "added": "2017-11-02 10:40:48 UTC",
     "gh_url": "https://github.com/danielguillan/sketch-syntax-highlighter.git",
     "gh_updated": "2017-11-03 23:10:23 UTC",
-    "gh_stars": 52,
+    "gh_stars": 53,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_compatible_version": "3"
@@ -7854,7 +7854,7 @@
     "homepage": "https://github.com/WeTransfer/Sketch-Plugin",
     "gh_url": "https://github.com/WeTransfer/Sketch-Plugin.git",
     "gh_updated": "2018-06-26 15:23:49 UTC",
-    "gh_stars": 4,
+    "gh_stars": 5,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.wetransfer.wetransfer-sketch",
@@ -7991,7 +7991,7 @@
     "homepage": "https://github.com/zeplin/emoji-autocomplete-sketch-plugin",
     "gh_url": "https://github.com/zeplin/emoji-autocomplete-sketch-plugin.git",
     "gh_updated": "2018-07-10 13:49:31 UTC",
-    "gh_stars": 12,
+    "gh_stars": 13,
     "gh_issues": 3,
     "gh_branch": "develop",
     "man_identifier": "io.zeplin.sketchPlugin.autocomplete",

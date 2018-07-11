@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-07-11 13:02:13 UTC
+Updated 2018-07-11 14:01:42 UTC
 
 Total plugins: 498
 
@@ -34,8 +34,6 @@ Total plugins: 498
 [emrerussia/sketch-clear-export-options](https://github.com/emrerussia/sketch-clear-export-options) manifest.json contains extra commas
 
 [herrhelms/radial-lines-sketch](https://github.com/herrhelms/radial-lines-sketch) manifest.json contains extra commas
-
-[herrhelms/social-artboards-sketch](https://github.com/herrhelms/social-artboards-sketch) manifest.json contains extra commas
 
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
 

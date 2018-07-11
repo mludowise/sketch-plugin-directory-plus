@@ -6666,7 +6666,7 @@
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2018-04-25 09:03:16 UTC",
-    "gh_stars": 94,
+    "gh_stars": 95,
     "gh_issues": 11,
     "gh_branch": "master",
     "man_compatible_version": "50"
@@ -6922,7 +6922,7 @@
     "homepage": "https://github.com/pavelkuligin/chart",
     "gh_url": "https://github.com/pavelkuligin/chart.git",
     "gh_updated": "2018-06-06 13:56:04 UTC",
-    "gh_stars": 759,
+    "gh_stars": 760,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.examples.chart",
@@ -7922,7 +7922,7 @@
     "added": "2018-06-25 10:02:46 UTC",
     "gh_url": "https://github.com/buames/typesettings-sketch-plugin.git",
     "gh_updated": "2018-07-04 17:28:18 UTC",
-    "gh_stars": 6,
+    "gh_stars": 7,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

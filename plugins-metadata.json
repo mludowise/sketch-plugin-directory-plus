@@ -2997,12 +2997,12 @@
     "added": "2015-11-18 18:40:45 UTC",
     "homepage": "https://github.com/frankko/Place-Linked-Bitmap",
     "gh_url": "https://github.com/frankko/Place-Linked-Bitmap.git",
-    "gh_updated": "2018-05-09 16:19:56 UTC",
+    "gh_updated": "2018-07-12 13:01:23 UTC",
     "gh_stars": 150,
-    "gh_issues": 5,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "io.kolo.sketch.place-linked-bitmap",
-    "man_version": "1.50.0",
+    "man_version": "1.51.0",
     "man_compatible_version": "48"
   },
   {

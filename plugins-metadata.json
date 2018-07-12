@@ -2948,7 +2948,7 @@
     "gh_url": "https://github.com/feb19/sketch-font-size-checker.git",
     "gh_updated": "2016-04-11 23:10:40 UTC",
     "gh_stars": 7,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "jp.feb19.sketch.font-size-checker",
     "man_version": "0.1"
@@ -7991,11 +7991,19 @@
     "homepage": "https://github.com/zeplin/emoji-autocomplete-sketch-plugin",
     "gh_url": "https://github.com/zeplin/emoji-autocomplete-sketch-plugin.git",
     "gh_updated": "2018-07-11 07:59:58 UTC",
-    "gh_stars": 38,
+    "gh_stars": 39,
     "gh_issues": 2,
     "gh_branch": "develop",
     "man_identifier": "io.zeplin.sketchPlugin.autocomplete",
     "man_version": "0.2",
     "man_compatible_version": "3"
+  },
+  {
+    "owner": null,
+    "author": "Cameron McEfee",
+    "title": "GuideGuide",
+    "description": "Quickly and easily create grids and manipulate guides with a consistent UI in Photoshop, Illustrator, and Sketch",
+    "homepage": "https://guideguide.me",
+    "added": "2018-07-12 20:01:48 UTC"
   }
 ]

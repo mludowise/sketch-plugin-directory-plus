@@ -7233,7 +7233,7 @@
     "gh_url": "https://github.com/romannurik/Sketch-FlowExporter.git",
     "gh_updated": "2018-06-30 02:53:44 UTC",
     "gh_stars": 60,
-    "gh_issues": 7,
+    "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.flowexporter",
     "man_compatible_version": "49"
@@ -7954,7 +7954,7 @@
     "added": "2018-06-26 09:02:21 UTC",
     "gh_url": "https://github.com/jasondonnette/sketch-copy-as-react-component.git",
     "gh_updated": "2018-06-28 03:48:02 UTC",
-    "gh_stars": 11,
+    "gh_stars": 12,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

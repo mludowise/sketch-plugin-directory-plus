@@ -1,10 +1,12 @@
 # Plugin Metadata
 
-Updated 2018-07-13 10:02:33 UTC
+Updated 2018-07-13 11:01:44 UTC
 
-Total plugins: 499
+Total plugins: 502
 
 ## Problems
+**[wwsun/fusion-cool](https://github.com/wwsun/fusion-cool) has no repo**
+
 **/ has no repo**
 
 **/ has no repo**
@@ -262,4 +264,6 @@ Total plugins: 499
 **[ant-design/kitchen](https://github.com/ant-design/kitchen) missing manifest.json**
 
 **/ has no repo**
+
+**[ziven27/Sketch-IconScope](https://github.com/ziven27/Sketch-IconScope) manifest.json is missing identifier**
 

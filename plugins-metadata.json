@@ -1,5 +1,14 @@
 [
   {
+    "name": "fusion-cool",
+    "owner": "wwsun",
+    "author": "wwsun",
+    "title": "FusionCool",
+    "description": "Plugin to using resources of Fusion Design.",
+    "homepage": "https://github.com/alibaba-fusion/cool",
+    "added": "2018-07-13 11:01:44 UTC"
+  },
+  {
     "name": "sketch-auto-translate",
     "owner": "symdesign",
     "author": "Friedrich Schultheiss",
@@ -2513,7 +2522,7 @@
     "homepage": "https://github.com/fhuel/Unsplash-It-Sketch",
     "gh_url": "https://github.com/fhuel/Unsplash-It-Sketch.git",
     "gh_updated": "2017-10-29 17:46:32 UTC",
-    "gh_stars": 422,
+    "gh_stars": 423,
     "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "com.manuelecapacci.unsplash-it-sketch",
@@ -4206,12 +4215,12 @@
     "added": "2017-03-22 12:51:18 UTC",
     "homepage": "https://github.com/contentsync/SketchContentSync",
     "gh_url": "https://github.com/contentsync/SketchContentSync.git",
-    "gh_updated": "2018-07-09 21:00:06 UTC",
+    "gh_updated": "2018-07-13 10:15:29 UTC",
     "gh_stars": 231,
-    "gh_issues": 7,
+    "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.syncify.sketch.contentsync",
-    "man_version": "4.2.2",
+    "man_version": "4.2.4",
     "man_compatible_version": "3.7"
   },
   {
@@ -4716,7 +4725,7 @@
     "gh_url": "https://github.com/luvmex/Sketch-Guides.git",
     "gh_updated": "2017-08-11 12:12:49 UTC",
     "gh_stars": 80,
-    "gh_issues": 3,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.celynxie.sketchguides",
     "man_version": "2.4.2",
@@ -7013,7 +7022,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-04-30 21:01:44 UTC",
-    "gh_stars": 1854,
+    "gh_stars": 1855,
     "gh_issues": 51,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",
@@ -7954,7 +7963,7 @@
     "added": "2018-06-26 09:02:21 UTC",
     "gh_url": "https://github.com/jasondonnette/sketch-copy-as-react-component.git",
     "gh_updated": "2018-06-28 03:48:02 UTC",
-    "gh_stars": 14,
+    "gh_stars": 15,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"
@@ -7999,11 +8008,44 @@
     "man_compatible_version": "3"
   },
   {
+    "name": "sketch-adjusttofit",
+    "owner": "andyault",
+    "author": "andyault",
+    "title": "adjustToFit",
+    "description": "A quick Sketch plugin to resize text layers, groups, and artboards to fit their content. Also supports nested resizing.",
+    "homepage": "https://github.com/andyault/sketch-adjusttofit",
+    "added": "2018-07-13 11:01:44 UTC",
+    "gh_url": "https://github.com/andyault/sketch-adjusttofit.git",
+    "gh_updated": "2018-07-12 20:03:03 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.andyault.adjusttofit",
+    "man_version": "1.0",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/andyault/sketch-adjusttofit/master/adjusttofit.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
     "owner": null,
     "author": "Cameron McEfee",
     "title": "GuideGuide",
     "description": "Quickly and easily create grids and manipulate guides with a consistent UI in Photoshop, Illustrator, and Sketch",
     "homepage": "https://guideguide.me",
     "added": "2018-07-12 20:01:48 UTC"
+  },
+  {
+    "name": "Sketch-IconScope",
+    "owner": "ziven27",
+    "author": "ziven27",
+    "title": "Sketch Iconscope",
+    "description": "Wrap the Icon with a square(4n) scope.",
+    "added": "2018-07-13 11:01:44 UTC",
+    "homepage": "https://github.com/ziven27/Sketch-IconScope",
+    "gh_url": "https://github.com/ziven27/Sketch-IconScope.git",
+    "gh_updated": "2018-07-10 10:42:39 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   }
 ]

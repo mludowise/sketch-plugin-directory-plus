@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-07-17 08:02:37 UTC
+Updated 2018-07-17 09:02:33 UTC
 
-Total plugins: 502
+Total plugins: 503
 
 ## Problems
 **[wwsun/fusion-cool](https://github.com/wwsun/fusion-cool) has no repo**
@@ -266,4 +266,6 @@ Total plugins: 502
 **/ has no repo**
 
 **[ziven27/Sketch-IconScope](https://github.com/ziven27/Sketch-IconScope) manifest.json is missing identifier**
+
+[MaxBazarov/exporter](https://github.com/MaxBazarov/exporter) manifest.json contains extra commas
 

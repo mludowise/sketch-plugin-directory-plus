@@ -1075,7 +1075,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-05-13 11:07:11 UTC",
-    "gh_stars": 5789,
+    "gh_stars": 5790,
     "gh_issues": 191,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -1143,10 +1143,7 @@
     "gh_updated": "2016-11-13 22:25:51 UTC",
     "gh_stars": 407,
     "gh_issues": 7,
-    "gh_branch": "develop",
-    "man_identifier": "com.sketchapp.tylergaw.day-player",
-    "man_version": "3.0.0",
-    "man_compatible_version": "41"
+    "gh_branch": "develop"
   },
   {
     "name": "JSON-to-Layers",
@@ -2169,7 +2166,7 @@
     "added": "2015-07-14 22:22:54 UTC",
     "homepage": "https://tpgrf.ru",
     "gh_url": "https://github.com/dezonik/Typograph.git",
-    "gh_updated": "2018-06-05 14:31:06 UTC",
+    "gh_updated": "2018-06-05 14:31:07 UTC",
     "gh_stars": 59,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -3439,10 +3436,7 @@
     "gh_updated": "2017-10-10 17:06:16 UTC",
     "gh_stars": 211,
     "gh_issues": 14,
-    "gh_branch": "master",
-    "man_identifier": "com.andrewfiorillo.sketch.sketch-artboards-to-pdf",
-    "man_version": "1.2",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Base64-PNG-Export",
@@ -4578,7 +4572,7 @@
     "homepage": "https://github.com/sonburn/symbol-organizer",
     "gh_url": "https://github.com/sonburn/symbol-organizer.git",
     "gh_updated": "2018-05-21 19:44:16 UTC",
-    "gh_stars": 596,
+    "gh_stars": 597,
     "gh_issues": 16,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-organizer",
@@ -7022,7 +7016,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-04-30 21:01:44 UTC",
-    "gh_stars": 1881,
+    "gh_stars": 1882,
     "gh_issues": 54,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",

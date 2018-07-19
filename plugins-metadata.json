@@ -1143,7 +1143,10 @@
     "gh_updated": "2016-11-13 22:25:51 UTC",
     "gh_stars": 407,
     "gh_issues": 7,
-    "gh_branch": "develop"
+    "gh_branch": "develop",
+    "man_identifier": "com.sketchapp.tylergaw.day-player",
+    "man_version": "3.0.0",
+    "man_compatible_version": "41"
   },
   {
     "name": "JSON-to-Layers",
@@ -2166,7 +2169,7 @@
     "added": "2015-07-14 22:22:54 UTC",
     "homepage": "https://tpgrf.ru",
     "gh_url": "https://github.com/dezonik/Typograph.git",
-    "gh_updated": "2018-06-05 14:31:07 UTC",
+    "gh_updated": "2018-06-05 14:31:06 UTC",
     "gh_stars": 59,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -3436,7 +3439,10 @@
     "gh_updated": "2017-10-10 17:06:16 UTC",
     "gh_stars": 211,
     "gh_issues": 14,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.andrewfiorillo.sketch.sketch-artboards-to-pdf",
+    "man_version": "1.2",
+    "man_compatible_version": "3"
   },
   {
     "name": "Sketch-Base64-PNG-Export",
@@ -7742,7 +7748,7 @@
     "homepage": "https://github.com/levtolstoi/Nucleus",
     "added": "2018-05-25 14:00:42 UTC",
     "gh_url": "https://github.com/levtolstoi/Nucleus.git",
-    "gh_updated": "2018-07-09 20:53:32 UTC",
+    "gh_updated": "2018-07-19 19:03:01 UTC",
     "gh_stars": 9,
     "gh_issues": 0,
     "gh_branch": "master",

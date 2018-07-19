@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-07-19 18:01:21 UTC
+Updated 2018-07-19 19:01:00 UTC
 
 Total plugins: 503
 
@@ -43,8 +43,6 @@ Total plugins: 503
 
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
 
-**[tylergaw/day-player](https://github.com/tylergaw/day-player) missing manifest.json**
-
 [getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) manifest.json contains extra commas
 
 [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/Sketch-Set-Line-Height-Plugin) manifest.json contains extra commas
@@ -80,8 +78,6 @@ Total plugins: 503
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 
 [AntonioJMartinez/sketch-ImageAverageColor](https://github.com/AntonioJMartinez/sketch-ImageAverageColor) manifest.json contains extra commas
-
-**[andrewfiorillo/sketch-artboards-to-pdf](https://github.com/andrewfiorillo/sketch-artboards-to-pdf) missing manifest.json**
 
 [ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
 

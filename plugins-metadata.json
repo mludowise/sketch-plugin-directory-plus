@@ -2689,7 +2689,7 @@
     "homepage": "https://github.com/delighted/sketch-duplicate-to-new-artboard",
     "gh_url": "https://github.com/delighted/sketch-duplicate-to-new-artboard.git",
     "gh_updated": "2018-05-12 21:08:08 UTC",
-    "gh_stars": 8,
+    "gh_stars": 9,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.delighted.duplicate-to-new-artboard",
@@ -6675,7 +6675,7 @@
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2018-07-16 12:43:13 UTC",
-    "gh_stars": 99,
+    "gh_stars": 100,
     "gh_issues": 12,
     "gh_branch": "master",
     "man_compatible_version": "50"

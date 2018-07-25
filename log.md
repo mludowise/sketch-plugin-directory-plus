@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-07-25 11:02:37 UTC
+Updated 2018-07-25 12:02:37 UTC
 
 Total plugins: 503
 
@@ -266,6 +266,4 @@ Total plugins: 503
 **/ has no repo**
 
 **[ziven27/Sketch-IconScope](https://github.com/ziven27/Sketch-IconScope) manifest.json is missing identifier**
-
-[MaxBazarov/exporter](https://github.com/MaxBazarov/exporter) manifest.json contains extra commas
 

@@ -5902,7 +5902,7 @@
     "gh_url": "https://github.com/websiddu/sync-to-slides.git",
     "gh_updated": "2017-06-08 05:11:37 UTC",
     "gh_stars": 119,
-    "gh_issues": 17,
+    "gh_issues": 18,
     "gh_branch": "master",
     "man_identifier": "com.google.sketch.synctoslides",
     "man_version": "2.2"
@@ -7041,7 +7041,7 @@
     "added": "2018-02-07 10:01:23 UTC",
     "gh_url": "https://github.com/sigtm/sketch-style-libraries.git",
     "gh_updated": "2018-07-17 19:16:08 UTC",
-    "gh_stars": 116,
+    "gh_stars": 117,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "io.sigurd.sketch.sketch-style-libraries",

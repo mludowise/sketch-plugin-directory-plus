@@ -3058,7 +3058,7 @@
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
     "gh_updated": "2018-07-20 12:22:30 UTC",
-    "gh_stars": 414,
+    "gh_stars": 415,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
@@ -5719,7 +5719,7 @@
     "added": "2017-05-02 08:01:49 UTC",
     "gh_url": "https://github.com/mludowise/Sketch-Plugin-Manager.git",
     "gh_updated": "2018-03-02 00:02:25 UTC",
-    "gh_stars": 251,
+    "gh_stars": 252,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.mludowise.sketch-plugin-manager",
@@ -8058,12 +8058,12 @@
     "added": "2018-07-17 09:02:33 UTC",
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
-    "gh_updated": "2018-07-26 16:23:33 UTC",
+    "gh_updated": "2018-07-27 12:04:17 UTC",
     "gh_stars": 11,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.cloudblue.sketch.exporter",
-    "man_version": "1.3.1",
+    "man_version": "1.3.2",
     "man_compatible_version": "3"
   }
 ]

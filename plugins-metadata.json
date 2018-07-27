@@ -1,5 +1,14 @@
 [
   {
+    "name": "blur_artboard",
+    "owner": "Duan",
+    "author": "Duan",
+    "title": "Blur Artboard",
+    "description": "Add blur effect to artboards for testing visual hierarchy easily in your design process.",
+    "homepage": "http://blur.duanjun.net",
+    "added": "2018-07-27 23:01:57 UTC"
+  },
+  {
     "name": "fusion-cool",
     "owner": "wwsun",
     "author": "wwsun",
@@ -6252,7 +6261,7 @@
     "owner": "terence55",
     "author": "Terence Wu",
     "title": "Map Creator for Sketch",
-    "description": "Plugin to create a static map(Baidu, MapBox) with custom options.",
+    "description": "Plugin to visually create static map(BaiduMap, MapBox, GoogleMap) with custom options",
     "homepage": "https://github.com/terence55/sketch-map-creator",
     "added": "2017-08-14 08:47:43 UTC",
     "gh_url": "https://github.com/terence55/sketch-map-creator.git",
@@ -6809,6 +6818,15 @@
     "added": "2017-12-25 19:12:46 UTC"
   },
   {
+    "name": "SketchTurbo",
+    "owner": null,
+    "author": "usagimaru",
+    "title": "SketchTurbo",
+    "description": "A plugin for Sketch that adjusts scroll speed on a canvas.",
+    "homepage": "https://github.com/usagimaru/SketchTurbo",
+    "added": "2018-07-27 23:01:57 UTC"
+  },
+  {
     "name": "Clipboard2TilledFill",
     "owner": null,
     "author": "midiway",
@@ -7242,7 +7260,7 @@
     "added": "2018-03-08 23:01:04 UTC",
     "gh_url": "https://github.com/romannurik/Sketch-FlowExporter.git",
     "gh_updated": "2018-07-21 02:37:16 UTC",
-    "gh_stars": 60,
+    "gh_stars": 61,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.flowexporter",
@@ -8065,5 +8083,39 @@
     "man_identifier": "com.cloudblue.sketch.exporter",
     "man_version": "1.3.2",
     "man_compatible_version": "3"
+  },
+  {
+    "name": "cracker9-sketch-plugin",
+    "owner": "Cracker9",
+    "author": "Cracker9",
+    "title": "Cracker9 Sketch Plugin",
+    "description": "cracker9 codesnippet sketch plugin",
+    "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
+    "added": "2018-07-27 23:01:57 UTC",
+    "gh_url": "https://github.com/Cracker9/cracker9-sketch-plugin.git",
+    "gh_updated": "2018-07-19 00:45:30 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.h9works.cracker9",
+    "man_version": "1.0",
+    "man_compatible_version": "3"
+  },
+  {
+    "name": "sketch-plugin-convert-to-grayscale",
+    "owner": "mheesakkers",
+    "author": "Misha",
+    "title": "Convert To Grayscale",
+    "description": "A simple Sketch plugin to convert selected shapes to grayscale colors",
+    "added": "2018-07-27 23:01:57 UTC",
+    "homepage": "https://github.com/mheesakkers/sketch-plugin-convert-to-grayscale",
+    "gh_url": "https://github.com/mheesakkers/sketch-plugin-convert-to-grayscale.git",
+    "gh_updated": "2018-07-25 19:26:10 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.mheesakkers.sketchplugins.converttograyscale",
+    "man_version": "1.0.0",
+    "icon": "https://raw.githubusercontent.com/mheesakkers/sketch-plugin-convert-to-grayscale/master/Convert%20To%20Grayscale.sketchplugin/Contents/Resources/icon.png"
   }
 ]

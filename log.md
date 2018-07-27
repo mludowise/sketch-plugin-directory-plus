@@ -1,10 +1,12 @@
 # Plugin Metadata
 
-Updated 2018-07-27 22:01:59 UTC
+Updated 2018-07-27 23:01:57 UTC
 
-Total plugins: 503
+Total plugins: 507
 
 ## Problems
+**[Duan/blur_artboard](https://github.com/Duan/blur_artboard) has no repo**
+
 **[wwsun/fusion-cool](https://github.com/wwsun/fusion-cool) has no repo**
 
 **/ has no repo**
@@ -178,6 +180,8 @@ Total plugins: 503
 **[ahmedmigo/Move-to-library-sketchplugin](https://github.com/ahmedmigo/Move-to-library-sketchplugin) manifest.json is missing identifier**
 
 **/i-want-apple-system-font has no repo**
+
+**/SketchTurbo has no repo**
 
 **/Clipboard2TilledFill has no repo**
 

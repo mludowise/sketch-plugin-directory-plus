@@ -1040,13 +1040,14 @@
     "homepage": "http://rodi01.github.io/RenameIt/",
     "added": "2014-05-14 03:43:43 UTC",
     "gh_url": "https://github.com/rodi01/RenameIt.git",
-    "gh_updated": "2018-04-27 21:10:49 UTC",
+    "gh_updated": "2018-07-27 16:53:15 UTC",
     "gh_stars": 1136,
     "gh_issues": 16,
     "gh_branch": "master",
     "man_identifier": "com.taptap.ninja.rename-it",
-    "man_version": "3.8.4-0",
-    "man_compatible_version": "3"
+    "man_version": "3.9.3",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/rodi01/RenameIt/master/Rename-It.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "Sketch-Layer-Tools",
@@ -6794,7 +6795,7 @@
     "gh_url": "https://github.com/ahmedmigo/Move-to-library-sketchplugin.git",
     "gh_updated": "2018-07-23 19:57:44 UTC",
     "gh_stars": 125,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "icon": "https://raw.githubusercontent.com/ahmedmigo/Move-to-library-sketchplugin/master/move-to-library.sketchplugin/Contents/Resources/icon.png"
   },

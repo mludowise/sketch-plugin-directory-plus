@@ -5001,7 +5001,7 @@
     "homepage": "https://github.com/devinmancuso/sketch-rtl",
     "gh_url": "https://github.com/devinmancuso/sketch-rtl.git",
     "gh_updated": "2018-05-28 23:37:32 UTC",
-    "gh_stars": 46,
+    "gh_stars": 47,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.devinmancuso.sketch-rtl-plugin",
@@ -6282,7 +6282,7 @@
     "homepage": "https://github.com/awkward/sketch-palette-generator",
     "gh_url": "https://github.com/awkward/sketch-palette-generator.git",
     "gh_updated": "2018-04-06 12:27:18 UTC",
-    "gh_stars": 119,
+    "gh_stars": 120,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

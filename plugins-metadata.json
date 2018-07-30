@@ -1714,7 +1714,9 @@
     "gh_updated": "2017-07-12 00:33:43 UTC",
     "gh_stars": 330,
     "gh_issues": 12,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.kenmoore.sketch.relabelbutton",
+    "man_version": "1.7"
   },
   {
     "name": "sketch-pull-to-center",
@@ -7039,7 +7041,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-07-29 14:11:54 UTC",
-    "gh_stars": 1906,
+    "gh_stars": 1907,
     "gh_issues": 57,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",
@@ -7832,7 +7834,7 @@
     "homepage": "https://github.com/ahmedmigo/overrideit-sketchplugin",
     "gh_url": "https://github.com/ahmedmigo/overrideit-sketchplugin.git",
     "gh_updated": "2018-06-22 16:05:45 UTC",
-    "gh_stars": 61,
+    "gh_stars": 62,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "overrideit.plugin",

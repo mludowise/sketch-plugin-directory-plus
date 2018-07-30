@@ -1101,7 +1101,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
-    "gh_stars": 4294,
+    "gh_stars": 4295,
     "gh_issues": 40,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -1714,9 +1714,7 @@
     "gh_updated": "2017-07-12 00:33:43 UTC",
     "gh_stars": 330,
     "gh_issues": 12,
-    "gh_branch": "master",
-    "man_identifier": "com.kenmoore.sketch.relabelbutton",
-    "man_version": "1.7"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-pull-to-center",

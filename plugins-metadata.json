@@ -6479,12 +6479,12 @@
     "added": "2017-10-19 09:26:53 UTC",
     "homepage": "https://github.com/sonburn/symbol-swapper",
     "gh_url": "https://github.com/sonburn/symbol-swapper.git",
-    "gh_updated": "2018-05-15 01:40:50 UTC",
+    "gh_updated": "2018-08-01 19:29:17 UTC",
     "gh_stars": 84,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-swapper",
-    "man_version": "0.11",
+    "man_version": "0.12",
     "icon": "https://raw.githubusercontent.com/sonburn/symbol-swapper/master/Symbol%20Swapper.sketchplugin/Contents/Resources/icon.png"
   },
   {

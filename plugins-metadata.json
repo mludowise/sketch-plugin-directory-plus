@@ -1400,7 +1400,7 @@
     "homepage": "https://github.com/getflourish/Sketch-Style-Inventory",
     "gh_url": "https://github.com/getflourish/Sketch-Style-Inventory.git",
     "gh_updated": "2018-04-14 11:55:42 UTC",
-    "gh_stars": 1817,
+    "gh_stars": 1818,
     "gh_issues": 26,
     "gh_branch": "master",
     "man_identifier": "com.getflourish.sketch.styleinventory",
@@ -8076,12 +8076,12 @@
     "added": "2018-07-17 09:02:33 UTC",
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
-    "gh_updated": "2018-07-31 23:17:21 UTC",
+    "gh_updated": "2018-08-01 11:55:22 UTC",
     "gh_stars": 12,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.cloudblue.sketch.exporter",
-    "man_version": "1.4.1",
+    "man_version": "1.4.2",
     "man_compatible_version": "3"
   },
   {

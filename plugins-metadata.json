@@ -7093,7 +7093,7 @@
     "added": "2018-02-23 16:02:29 UTC",
     "gh_url": "https://github.com/MengTo/Angle-Sketch-Plugin.git",
     "gh_updated": "2018-05-22 22:40:13 UTC",
-    "gh_stars": 104,
+    "gh_stars": 105,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "io.designcode.Angle",
@@ -8076,12 +8076,12 @@
     "added": "2018-07-17 09:02:33 UTC",
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
-    "gh_updated": "2018-07-31 14:44:55 UTC",
+    "gh_updated": "2018-07-31 23:17:21 UTC",
     "gh_stars": 12,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.cloudblue.sketch.exporter",
-    "man_version": "1.3.2",
+    "man_version": "1.4.1",
     "man_compatible_version": "3"
   },
   {

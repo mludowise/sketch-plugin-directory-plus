@@ -6462,12 +6462,12 @@
     "added": "2017-10-19 09:26:43 UTC",
     "homepage": "https://github.com/sonburn/symbol-instance-locator",
     "gh_url": "https://github.com/sonburn/symbol-instance-locator.git",
-    "gh_updated": "2018-07-20 19:51:42 UTC",
+    "gh_updated": "2018-08-01 17:31:05 UTC",
     "gh_stars": 80,
-    "gh_issues": 4,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-instance-locator",
-    "man_version": "1.11",
+    "man_version": "1.12",
     "icon": "https://raw.githubusercontent.com/sonburn/symbol-instance-locator/master/Symbol%20Instance%20Locator.sketchplugin/Contents/Resources/icon.png"
   },
   {

@@ -2949,7 +2949,7 @@
     "homepage": "https://github.com/matt-curtis/Fluid-for-Sketch",
     "gh_url": "https://github.com/matt-curtis/Fluid-for-Sketch.git",
     "gh_updated": "2017-07-03 22:20:25 UTC",
-    "gh_stars": 2438,
+    "gh_stars": 2439,
     "gh_issues": 35,
     "gh_branch": "master",
     "man_identifier": "com.matt-curtis.sketch.constraints",
@@ -7767,12 +7767,12 @@
     "homepage": "https://github.com/levtolstoi/Nucleus",
     "added": "2018-05-25 14:00:42 UTC",
     "gh_url": "https://github.com/levtolstoi/Nucleus.git",
-    "gh_updated": "2018-07-30 14:25:58 UTC",
+    "gh_updated": "2018-08-02 22:11:32 UTC",
     "gh_stars": 11,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.4cbb6b0e-b9e1-4d02-9e36-876c63f54e0b",
-    "man_version": "1.0.3",
+    "man_version": "1.0.4",
     "icon": "https://raw.githubusercontent.com/levtolstoi/Nucleus/master/Nucleus.sketchplugin/Contents/Resources/icon.png"
   },
   {

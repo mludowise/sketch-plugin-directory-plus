@@ -505,7 +505,7 @@
     "gh_url": "https://github.com/stark-contrast/stark-sketch-plugin.git",
     "gh_updated": "2017-12-05 21:54:35 UTC",
     "gh_stars": 439,
-    "gh_issues": 5,
+    "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.mfouquet.sketch.stark",
     "man_version": "1.6"
@@ -3297,7 +3297,7 @@
     "homepage": "https://mathieudutour.github.io/git-sketch-plugin",
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2017-10-17 08:22:39 UTC",
-    "gh_stars": 2203,
+    "gh_stars": 2204,
     "gh_issues": 19,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",

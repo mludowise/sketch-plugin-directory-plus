@@ -3066,13 +3066,13 @@
     "added": "2015-11-26 11:11:02 UTC",
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
-    "gh_updated": "2018-07-20 12:22:30 UTC",
+    "gh_updated": "2018-08-06 09:06:31 UTC",
     "gh_stars": 416,
-    "gh_issues": 5,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
-    "man_version": "51.1.20180720",
-    "man_compatible_version": "40",
+    "man_version": "51.2.20180806",
+    "man_compatible_version": "50",
     "icon": "https://raw.githubusercontent.com/Ashung/Automate-Sketch/master/automate-sketch.sketchplugin/Contents/Resources/icon.png"
   },
   {

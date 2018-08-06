@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-08-06 20:01:51 UTC
+Updated 2018-08-06 21:01:25 UTC
 
 Total plugins: 509
 
@@ -29,7 +29,7 @@ Total plugins: 509
 
 **/ has no repo**
 
-[3raxton/foreignipsum](https://github.com/3raxton/foreignipsum) manifest.json is invalid
+[3raxton/foreignipsum](https://github.com/3raxton/foreignipsum) manifest.json contains extra commas
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
 

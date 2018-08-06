@@ -527,13 +527,10 @@
     "added": "2017-04-10 16:01:51 UTC",
     "homepage": "https://github.com/3raxton/ForeignIpsum",
     "gh_url": "https://github.com/3raxton/ForeignIpsum.git",
-    "gh_updated": "2018-08-06 19:01:15 UTC",
+    "gh_updated": "2018-08-06 20:00:09 UTC",
     "gh_stars": 35,
     "gh_issues": 9,
-    "gh_branch": "master",
-    "man_identifier": "com.braxtonhuff.ForeignIpsum",
-    "man_version": "1.0.2",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "Gridy",
@@ -6684,9 +6681,9 @@
     "homepage": "https://github.com/skpm/sketch-dev-tools",
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
-    "gh_updated": "2018-07-16 12:43:13 UTC",
+    "gh_updated": "2018-08-06 19:30:02 UTC",
     "gh_stars": 104,
-    "gh_issues": 12,
+    "gh_issues": 11,
     "gh_branch": "master",
     "man_compatible_version": "50"
   },
@@ -7041,7 +7038,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-07-29 14:11:54 UTC",
-    "gh_stars": 1936,
+    "gh_stars": 1937,
     "gh_issues": 57,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",

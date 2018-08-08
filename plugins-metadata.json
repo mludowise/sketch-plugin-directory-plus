@@ -6933,12 +6933,13 @@
     "homepage": "https://github.com/sergeishere/HandyMenu-SketchPlugin",
     "added": "2018-03-02 12:01:30 UTC",
     "gh_url": "https://github.com/sergeishere/HandyMenu-SketchPlugin.git",
-    "gh_updated": "2018-04-19 14:24:41 UTC",
+    "gh_updated": "2018-08-08 11:26:19 UTC",
     "gh_stars": 49,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.sergeishere.plugins.handymenu",
-    "man_version": "4.1"
+    "man_version": "5.0",
+    "icon": "https://raw.githubusercontent.com/sergeishere/HandyMenu-SketchPlugin/master/HandyMenu.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "chart",
@@ -7110,12 +7111,13 @@
     "added": "2018-03-02 12:01:30 UTC",
     "homepage": "https://github.com/sergeishere/HandyMenu-SketchPlugin",
     "gh_url": "https://github.com/sergeishere/HandyMenu-SketchPlugin.git",
-    "gh_updated": "2018-04-19 14:24:41 UTC",
+    "gh_updated": "2018-08-08 11:26:19 UTC",
     "gh_stars": 49,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.sergeishere.plugins.handymenu",
-    "man_version": "4.1"
+    "man_version": "5.0",
+    "icon": "https://raw.githubusercontent.com/sergeishere/HandyMenu-SketchPlugin/master/HandyMenu.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "sketch-fast-text-transfer",

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-08-09 15:01:40 UTC
+Updated 2018-08-09 16:01:47 UTC
 
 Total plugins: 510
 
@@ -102,6 +102,8 @@ Total plugins: 510
 **Atomic.io/ has no repo**
 
 **/ has no repo**
+
+**[hoai265/Language-Sketch-Plugin](https://github.com/hoai265/Language-Sketch-Plugin) has no repo**
 
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
 
@@ -241,7 +243,7 @@ Total plugins: 510
 
 **[andex/ColorBrightness](https://github.com/andex/ColorBrightness) manifest.json is missing identifier**
 
-**[kd-co/charapara-sketch-extension](https://github.com/kd-co/charapara-sketch-extension) manifest.json is missing identifier**
+**[kd-co/charapara-sketch-extension](https://github.com/kd-co/charapara-sketch-extension) has no repo**
 
 **[jordansinger/Assistant](https://github.com/jordansinger/Assistant) manifest.json is missing identifier**
 

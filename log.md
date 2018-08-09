@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-08-09 09:02:27 UTC
+Updated 2018-08-09 10:02:09 UTC
 
-Total plugins: 509
+Total plugins: 510
 
 ## Problems
 **[Duan/blur_artboard](https://github.com/Duan/blur_artboard) has no repo**
@@ -270,4 +270,6 @@ Total plugins: 509
 **[ziven27/Sketch-IconScope](https://github.com/ziven27/Sketch-IconScope) manifest.json is missing identifier**
 
 [MaxBazarov/exporter](https://github.com/MaxBazarov/exporter) manifest.json contains extra commas
+
+**[wantedly/sketch-wt-design](https://github.com/wantedly/sketch-wt-design) manifest.json is missing identifier**
 

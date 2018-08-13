@@ -2397,12 +2397,12 @@
     "added": "2015-09-04 07:35:16 UTC",
     "homepage": "https://github.com/soulchild/sketch-logo-fetcher",
     "gh_url": "https://github.com/soulchild/sketch-logo-fetcher.git",
-    "gh_updated": "2017-03-21 07:59:00 UTC",
+    "gh_updated": "2018-08-13 13:32:45 UTC",
     "gh_stars": 131,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "de.funkreich.sketch.logo-fetcher",
-    "man_version": "0.3.2",
+    "man_version": "0.4.0",
     "man_compatible_version": "3.8.3"
   },
   {
@@ -6846,7 +6846,7 @@
     "added": "2018-01-04 12:26:15 UTC",
     "gh_url": "https://github.com/AMoreaux/Sketch-Icons.git",
     "gh_updated": "2018-07-18 13:29:46 UTC",
-    "gh_stars": 678,
+    "gh_stars": 679,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.amoreaux.sketch-icons",
@@ -7954,7 +7954,7 @@
     "gh_url": "https://github.com/buames/typesettings-sketch-plugin.git",
     "gh_updated": "2018-07-04 17:28:18 UTC",
     "gh_stars": 11,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },

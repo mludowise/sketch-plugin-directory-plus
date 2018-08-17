@@ -8096,13 +8096,14 @@
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "added": "2018-07-27 23:01:57 UTC",
     "gh_url": "https://github.com/Cracker9/cracker9-sketch-plugin.git",
-    "gh_updated": "2018-08-08 01:58:29 UTC",
+    "gh_updated": "2018-08-17 08:47:27 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.h9works.cracker9",
     "man_version": "1.0.4",
-    "man_compatible_version": "3"
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/cracker9-sketch-plugin.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "sketch-plugin-convert-to-grayscale",

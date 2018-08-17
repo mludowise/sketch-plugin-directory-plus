@@ -3824,12 +3824,12 @@
     "homepage": "https://sketchapp.com/extensions/plugins/svgo-compressor/",
     "added": "2016-05-31 15:16:43 UTC",
     "gh_url": "https://github.com/BohemianCoding/svgo-compressor.git",
-    "gh_updated": "2018-08-09 15:12:06 UTC",
+    "gh_updated": "2018-08-17 21:26:51 UTC",
     "gh_stars": 878,
-    "gh_issues": 11,
+    "gh_issues": 7,
     "gh_branch": "develop",
     "man_identifier": "com.sketchapp.plugins.svgo-compressor",
-    "man_version": "1.5.1",
+    "man_version": "1.6.0",
     "man_compatible_version": "3.8"
   },
   {

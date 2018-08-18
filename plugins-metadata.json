@@ -1101,7 +1101,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
-    "gh_stars": 4309,
+    "gh_stars": 4310,
     "gh_issues": 41,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -7264,7 +7264,7 @@
     "gh_url": "https://github.com/romannurik/Sketch-FlowExporter.git",
     "gh_updated": "2018-07-21 02:37:16 UTC",
     "gh_stars": 62,
-    "gh_issues": 4,
+    "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.flowexporter",
     "man_compatible_version": "49"

@@ -1085,7 +1085,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-05-13 11:07:11 UTC",
-    "gh_stars": 5860,
+    "gh_stars": 5861,
     "gh_issues": 195,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -1599,7 +1599,7 @@
     "gh_url": "https://github.com/zeplin/zeplin-sketch-plugin.git",
     "gh_updated": "2018-06-21 01:30:27 UTC",
     "gh_stars": 135,
-    "gh_issues": 7,
+    "gh_issues": 8,
     "gh_branch": "develop",
     "man_identifier": "io.zeplin.sketch-plugin",
     "man_version": "1.6.5"

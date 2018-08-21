@@ -7046,7 +7046,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-07-29 14:11:54 UTC",
-    "gh_stars": 1989,
+    "gh_stars": 1990,
     "gh_issues": 60,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",
@@ -8082,13 +8082,14 @@
     "added": "2018-07-17 09:02:33 UTC",
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
-    "gh_updated": "2018-08-21 08:39:32 UTC",
+    "gh_updated": "2018-08-21 14:59:19 UTC",
     "gh_stars": 23,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.cloudblue.sketch.exporter",
     "man_version": "1.6.5",
-    "man_compatible_version": "3"
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/MaxBazarov/exporter/master/Exporter.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "cracker9-sketch-plugin",

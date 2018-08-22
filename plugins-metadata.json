@@ -1264,15 +1264,7 @@
     "author": "Christian Petersen",
     "title": "Dockpreview",
     "description": "A Sketch plugin that lets you preview your current artboard in the Dock.",
-    "added": "2014-06-06 15:10:37 UTC",
-    "homepage": "https://github.com/fnky/sketch-dockpreview",
-    "gh_url": "https://github.com/fnky/sketch-dockpreview.git",
-    "gh_updated": "2017-06-02 10:50:37 UTC",
-    "gh_stars": 89,
-    "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "io.cbp.sketch.dockpreview",
-    "man_version": "1.0.3"
+    "added": "2014-06-06 15:10:37 UTC"
   },
   {
     "name": "AEFlowchart",
@@ -2015,7 +2007,7 @@
     "added": "2015-07-08 12:27:44 UTC",
     "gh_url": "https://github.com/tudou527/marketch.git",
     "gh_updated": "2018-03-23 18:03:04 UTC",
-    "gh_stars": 2659,
+    "gh_stars": 2660,
     "gh_issues": 52,
     "gh_branch": "master",
     "man_identifier": "com.marketch.cosa.98908c77-3d38-48fa-8c7c-1bb465f67eb8",

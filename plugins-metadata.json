@@ -5715,12 +5715,12 @@
     "added": "2017-04-27 12:01:52 UTC",
     "homepage": "https://github.com/vconesa/justinmind-sketch",
     "gh_url": "https://github.com/vconesa/justinmind-sketch.git",
-    "gh_updated": "2018-07-27 09:27:40 UTC",
+    "gh_updated": "2018-08-22 16:23:55 UTC",
     "gh_stars": 11,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.justinmind.exporttojustinmind",
-    "man_version": "1.0.4"
+    "man_version": "1.0.5"
   },
   {
     "name": "Sketch-Plugin-Manager",
@@ -5977,12 +5977,12 @@
     "homepage": "https://github.com/RealtimeBoard/sketch_plugin",
     "added": "2017-07-10 10:02:05 UTC",
     "gh_url": "https://github.com/RealtimeBoard/sketch_plugin.git",
-    "gh_updated": "2018-08-13 14:27:58 UTC",
+    "gh_updated": "2018-08-22 16:08:47 UTC",
     "gh_stars": 30,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.realtimeboard.sketch.plugin",
-    "man_version": "1.3.2",
+    "man_version": "1.3.3",
     "icon": "https://raw.githubusercontent.com/RealtimeBoard/sketch_plugin/master/RealtimeBoard.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -6425,7 +6425,7 @@
     "homepage": "https://github.com/zeroheight/library-symbol-replacer",
     "gh_url": "https://github.com/zeroheight/library-symbol-replacer.git",
     "gh_updated": "2018-05-15 09:34:20 UTC",
-    "gh_stars": 149,
+    "gh_stars": 152,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.zeroheight.library-symbol-replacer",
@@ -6484,7 +6484,7 @@
     "homepage": "https://github.com/sonburn/symbol-swapper",
     "gh_url": "https://github.com/sonburn/symbol-swapper.git",
     "gh_updated": "2018-08-03 19:18:56 UTC",
-    "gh_stars": 90,
+    "gh_stars": 92,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-swapper",
@@ -6807,7 +6807,7 @@
     "homepage": "https://github.com/ahmedmigo/Move-to-library-sketchplugin",
     "gh_url": "https://github.com/ahmedmigo/Move-to-library-sketchplugin.git",
     "gh_updated": "2018-07-23 19:57:44 UTC",
-    "gh_stars": 132,
+    "gh_stars": 133,
     "gh_issues": 3,
     "gh_branch": "master",
     "icon": "https://raw.githubusercontent.com/ahmedmigo/Move-to-library-sketchplugin/master/move-to-library.sketchplugin/Contents/Resources/icon.png"

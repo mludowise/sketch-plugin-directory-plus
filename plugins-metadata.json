@@ -1101,7 +1101,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
-    "gh_stars": 4314,
+    "gh_stars": 4315,
     "gh_issues": 41,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -4345,7 +4345,10 @@
     "gh_updated": "2016-07-29 12:13:24 UTC",
     "gh_stars": 39,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.joshuafang.select-children",
+    "man_version": "1.0",
+    "man_compatible_version": "3.9"
   },
   {
     "name": "Android_Res_Export",
@@ -8079,9 +8082,9 @@
     "added": "2018-07-17 09:02:33 UTC",
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
-    "gh_updated": "2018-08-22 14:32:46 UTC",
-    "gh_stars": 25,
-    "gh_issues": 1,
+    "gh_updated": "2018-08-23 16:04:01 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.cloudblue.sketch.exporter",
     "man_version": "1.6.5",

@@ -1085,7 +1085,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-05-13 11:07:11 UTC",
-    "gh_stars": 5870,
+    "gh_stars": 5871,
     "gh_issues": 196,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -2952,7 +2952,7 @@
     "homepage": "https://github.com/matt-curtis/Fluid-for-Sketch",
     "gh_url": "https://github.com/matt-curtis/Fluid-for-Sketch.git",
     "gh_updated": "2017-07-03 22:20:25 UTC",
-    "gh_stars": 2440,
+    "gh_stars": 2439,
     "gh_issues": 36,
     "gh_branch": "master",
     "man_identifier": "com.matt-curtis.sketch.constraints",
@@ -4345,10 +4345,7 @@
     "gh_updated": "2016-07-29 12:13:24 UTC",
     "gh_stars": 39,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.joshuafang.select-children",
-    "man_version": "1.0",
-    "man_compatible_version": "3.9"
+    "gh_branch": "master"
   },
   {
     "name": "Android_Res_Export",
@@ -8011,7 +8008,7 @@
     "homepage": "https://kitchen.alipay.com/",
     "gh_url": "https://github.com/ant-design/kitchen.git",
     "gh_updated": "2018-06-30 05:16:38 UTC",
-    "gh_stars": 28,
+    "gh_stars": 29,
     "gh_issues": 2,
     "gh_branch": "master"
   },

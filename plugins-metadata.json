@@ -4231,7 +4231,7 @@
     "gh_url": "https://github.com/contentsync/SketchContentSync.git",
     "gh_updated": "2018-07-30 04:29:42 UTC",
     "gh_stars": 234,
-    "gh_issues": 11,
+    "gh_issues": 10,
     "gh_branch": "master",
     "man_identifier": "com.syncify.sketch.contentsync",
     "man_version": "4.2.5",
@@ -8011,7 +8011,7 @@
     "homepage": "https://kitchen.alipay.com/",
     "gh_url": "https://github.com/ant-design/kitchen.git",
     "gh_updated": "2018-06-30 05:16:38 UTC",
-    "gh_stars": 26,
+    "gh_stars": 28,
     "gh_issues": 2,
     "gh_branch": "master"
   },

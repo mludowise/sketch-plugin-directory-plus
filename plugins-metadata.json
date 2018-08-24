@@ -342,7 +342,7 @@
     "added": "2017-07-03 14:02:46 UTC",
     "gh_url": "https://github.com/weixin/Miaow.git",
     "gh_updated": "2018-05-10 03:20:53 UTC",
-    "gh_stars": 2292,
+    "gh_stars": 2293,
     "gh_issues": 11,
     "gh_branch": "master",
     "man_identifier": "cn.wechat",
@@ -1102,7 +1102,7 @@
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
     "gh_stars": 4316,
-    "gh_issues": 41,
+    "gh_issues": 42,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
     "man_version": "1.2"

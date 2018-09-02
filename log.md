@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-08-30 11:01:16 UTC
+Updated 2018-09-02 20:01:38 UTC
 
-Total plugins: 511
+Total plugins: 519
 
 ## Problems
 **[Duan/blur_artboard](https://github.com/Duan/blur_artboard) has no repo**
@@ -270,4 +270,18 @@ Total plugins: 511
 [MaxBazarov/exporter](https://github.com/MaxBazarov/exporter) manifest.json contains extra commas
 
 **[wantedly/sketch-wt-design](https://github.com/wantedly/sketch-wt-design) manifest.json is missing identifier**
+
+**[JJ Ying/sketch-better-shadow](https://github.com/JJ Ying/sketch-better-shadow) has no repo**
+
+**[Nkzq/advanced-responsive-images-default](https://github.com/Nkzq/advanced-responsive-images-default) manifest.json is missing identifier**
+
+**[reinvanoyen/typex](https://github.com/reinvanoyen/typex) manifest.json is missing identifier**
+
+**/colorspark-for-sketch has no repo**
+
+**[kopie/kopie](https://github.com/kopie/kopie) has no repo**
+
+**[designforhuman/event-badges-by-david](https://github.com/designforhuman/event-badges-by-david) manifest.json is missing identifier**
+
+**[0la0/triangle-fields](https://github.com/0la0/triangle-fields) manifest.json is missing identifier**
 

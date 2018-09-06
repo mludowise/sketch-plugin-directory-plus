@@ -1,5 +1,14 @@
 [
   {
+    "name": "Specify",
+    "owner": "Specify SAS",
+    "author": "Specify SAS",
+    "title": "Specify (Alpha)",
+    "description": "Export styles and assets to your Specify Libraries.",
+    "homepage": "https://specifyapp.com",
+    "added": "2018-09-06 16:02:11 UTC"
+  },
+  {
     "name": "blur_artboard",
     "owner": "Duan",
     "author": "Duan",
@@ -342,7 +351,7 @@
     "added": "2017-07-03 14:02:46 UTC",
     "gh_url": "https://github.com/weixin/Miaow.git",
     "gh_updated": "2018-05-10 03:20:53 UTC",
-    "gh_stars": 2301,
+    "gh_stars": 2302,
     "gh_issues": 11,
     "gh_branch": "master",
     "man_identifier": "cn.wechat",
@@ -2350,7 +2359,7 @@
     "homepage": "https://github.com/keremciu/sketch-iconfont",
     "gh_url": "https://github.com/keremciu/sketch-iconfont.git",
     "gh_updated": "2017-12-07 00:42:31 UTC",
-    "gh_stars": 1750,
+    "gh_stars": 1751,
     "gh_issues": 32,
     "gh_branch": "master",
     "man_identifier": "com.keremciu.sketch.iconfont",
@@ -2619,7 +2628,7 @@
     "homepage": "https://github.com/andrewfiorillo/sketch-palettes",
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
     "gh_updated": "2018-08-26 23:53:00 UTC",
-    "gh_stars": 1986,
+    "gh_stars": 1987,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
@@ -4230,7 +4239,7 @@
     "homepage": "https://github.com/contentsync/SketchContentSync",
     "gh_url": "https://github.com/contentsync/SketchContentSync.git",
     "gh_updated": "2018-07-30 04:29:42 UTC",
-    "gh_stars": 235,
+    "gh_stars": 236,
     "gh_issues": 12,
     "gh_branch": "master",
     "man_identifier": "com.syncify.sketch.contentsync",
@@ -5572,7 +5581,10 @@
     "gh_updated": "2018-07-16 10:09:42 UTC",
     "gh_stars": 18,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "de.apertureless.sketch-flip-size",
+    "man_version": "1.1.1",
+    "man_compatible_version": "41.0.0"
   },
   {
     "name": "english-and-persian-lorem-ipsum",
@@ -7044,7 +7056,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-07-29 14:11:54 UTC",
-    "gh_stars": 2041,
+    "gh_stars": 2042,
     "gh_issues": 63,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",
@@ -7838,7 +7850,7 @@
     "homepage": "https://github.com/ahmedmigo/overrideit-sketchplugin",
     "gh_url": "https://github.com/ahmedmigo/overrideit-sketchplugin.git",
     "gh_updated": "2018-09-06 14:35:11 UTC",
-    "gh_stars": 70,
+    "gh_stars": 71,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "overrideit.plugin",
@@ -7856,7 +7868,7 @@
     "added": "2018-06-19 19:02:06 UTC",
     "gh_url": "https://github.com/toyboxsystems/roller.git",
     "gh_updated": "2018-06-20 18:20:34 UTC",
-    "gh_stars": 177,
+    "gh_stars": 178,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_compatible_version": "3"
@@ -8298,5 +8310,29 @@
     "gh_branch": "master",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/0la0/triangle-fields/master/triangle-field.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "name": "sd-changer",
+    "owner": "yeun",
+    "author": "jeongheeyeun",
+    "title": "sd-changer",
+    "description": "Converts Apple SD Gothic Neo font to SF Pro Display",
+    "homepage": "https://github.com/yeun/sd-changer",
+    "added": "2018-09-06 16:02:11 UTC",
+    "gh_url": "https://github.com/yeun/sd-changer.git",
+    "gh_updated": "2018-09-03 17:22:10 UTC",
+    "gh_stars": 8,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_compatible_version": "3"
+  },
+  {
+    "name": "Inker8",
+    "owner": "zaaack",
+    "author": "Zack Young",
+    "title": "Inker8",
+    "description": "A spec exporter for Sketch which can copy text/css/svg icons with only one click.",
+    "homepage": "https://github.com/inker8/sketch-plugin",
+    "added": "2018-09-06 16:02:11 UTC"
   }
 ]

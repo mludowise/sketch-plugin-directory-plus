@@ -1,10 +1,12 @@
 # Plugin Metadata
 
-Updated 2018-09-06 15:02:03 UTC
+Updated 2018-09-06 16:02:11 UTC
 
-Total plugins: 519
+Total plugins: 522
 
 ## Problems
+**[Specify SAS/Specify](https://github.com/Specify SAS/Specify) has no repo**
+
 **[Duan/blur_artboard](https://github.com/Duan/blur_artboard) has no repo**
 
 **[wwsun/fusion-cool](https://github.com/wwsun/fusion-cool) has no repo**
@@ -284,4 +286,8 @@ Total plugins: 519
 **[designforhuman/event-badges-by-david](https://github.com/designforhuman/event-badges-by-david) manifest.json is missing identifier**
 
 **[0la0/triangle-fields](https://github.com/0la0/triangle-fields) manifest.json is missing identifier**
+
+**[yeun/sd-changer](https://github.com/yeun/sd-changer) manifest.json is missing identifier**
+
+**[zaaack/Inker8](https://github.com/zaaack/Inker8) has no repo**
 

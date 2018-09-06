@@ -3309,7 +3309,7 @@
     "homepage": "https://mathieudutour.github.io/git-sketch-plugin",
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2017-10-17 08:22:39 UTC",
-    "gh_stars": 2221,
+    "gh_stars": 2222,
     "gh_issues": 19,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
@@ -6700,7 +6700,7 @@
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2018-09-06 18:00:04 UTC",
     "gh_stars": 105,
-    "gh_issues": 10,
+    "gh_issues": 8,
     "gh_branch": "master",
     "man_compatible_version": "50"
   },

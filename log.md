@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-09-10 13:01:20 UTC
+Updated 2018-09-10 14:01:31 UTC
 
-Total plugins: 523
+Total plugins: 524
 
 ## Problems
 **[Specify SAS/Specify](https://github.com/Specify SAS/Specify) has no repo**
@@ -290,4 +290,6 @@ Total plugins: 523
 **[yeun/sd-changer](https://github.com/yeun/sd-changer) manifest.json is missing identifier**
 
 **[zaaack/Inker8](https://github.com/zaaack/Inker8) has no repo**
+
+**[tbrasington/text-to-styles](https://github.com/tbrasington/text-to-styles) manifest.json is missing identifier**
 

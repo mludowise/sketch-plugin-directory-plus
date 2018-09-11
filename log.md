@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-09-11 15:01:12 UTC
+Updated 2018-09-11 16:00:33 UTC
 
 Total plugins: 524
 
@@ -78,8 +78,6 @@ Total plugins: 524
 [JohnCoates/CSSketch](https://github.com/JohnCoates/CSSketch) manifest.json contains extra commas
 
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
-
-**[dex1t/QRCode-for-Sketch-Local-Sharing](https://github.com/dex1t/QRCode-for-Sketch-Local-Sharing) has no repo**
 
 [AntonioJMartinez/sketch-ImageAverageColor](https://github.com/AntonioJMartinez/sketch-ImageAverageColor) manifest.json contains extra commas
 

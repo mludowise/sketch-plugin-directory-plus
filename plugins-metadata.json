@@ -35,12 +35,12 @@
     "homepage": "https://github.com/symdesign/sketch-auto-translate",
     "added": "2018-05-04 16:02:20 UTC",
     "gh_url": "https://github.com/symdesign/sketch-auto-translate.git",
-    "gh_updated": "2018-09-07 22:34:44 UTC",
+    "gh_updated": "2018-09-11 22:27:01 UTC",
     "gh_stars": 13,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "design.sym.sketch-auto-translate",
-    "man_version": "1.1"
+    "man_version": "1.0"
   },
   {
     "name": "sketch-reverse",
@@ -3079,7 +3079,7 @@
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
     "gh_updated": "2018-09-10 10:41:37 UTC",
-    "gh_stars": 433,
+    "gh_stars": 434,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
@@ -6222,7 +6222,7 @@
     "homepage": "https://github.com/oodesign/merge-duplicate-symbols",
     "gh_url": "https://github.com/oodesign/merge-duplicate-symbols.git",
     "gh_updated": "2018-08-17 04:59:16 UTC",
-    "gh_stars": 181,
+    "gh_stars": 182,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.oodesign.mergeduplicatesymbols",

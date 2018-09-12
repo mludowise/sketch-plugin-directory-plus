@@ -6965,7 +6965,7 @@
     "homepage": "https://github.com/pavelkuligin/chart",
     "gh_url": "https://github.com/pavelkuligin/chart.git",
     "gh_updated": "2018-07-18 10:58:21 UTC",
-    "gh_stars": 800,
+    "gh_stars": 801,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.examples.chart",
@@ -7359,7 +7359,7 @@
     "added": "2018-03-31 15:02:37 UTC",
     "gh_url": "https://github.com/Shopify/polaris-telescope.git",
     "gh_updated": "2018-03-27 20:16:07 UTC",
-    "gh_stars": 71,
+    "gh_stars": 72,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "shopify.polaris-telescope.search",
@@ -7868,7 +7868,7 @@
     "added": "2018-06-19 19:02:06 UTC",
     "gh_url": "https://github.com/toyboxsystems/roller.git",
     "gh_updated": "2018-06-20 18:20:34 UTC",
-    "gh_stars": 181,
+    "gh_stars": 182,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_compatible_version": "3"
@@ -8360,11 +8360,11 @@
     "homepage": "https://github.com/tbrasington/text-to-styles",
     "added": "2018-09-10 14:01:31 UTC",
     "gh_url": "https://github.com/tbrasington/text-to-styles.git",
-    "gh_updated": "2018-09-12 09:47:57 UTC",
+    "gh_updated": "2018-09-12 19:40:57 UTC",
     "gh_stars": 2,
     "gh_issues": 1,
     "gh_branch": "master",
-    "man_compatible_version": "3",
+    "man_compatible_version": "51",
     "icon": "https://raw.githubusercontent.com/tbrasington/text-to-styles/master/text-to-styles.sketchplugin/Contents/Resources/icon.png"
   }
 ]

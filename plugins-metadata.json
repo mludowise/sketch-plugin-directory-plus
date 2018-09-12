@@ -2614,7 +2614,9 @@
     "gh_updated": "2017-10-12 23:43:21 UTC",
     "gh_stars": 49,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.schwa23.cleanupsfuitype",
+    "man_version": "1.5.3"
   },
   {
     "name": "sketch-palettes",

@@ -1110,7 +1110,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
-    "gh_stars": 4338,
+    "gh_stars": 4339,
     "gh_issues": 42,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -5925,7 +5925,7 @@
     "gh_url": "https://github.com/websiddu/sync-to-slides.git",
     "gh_updated": "2017-06-08 05:11:37 UTC",
     "gh_stars": 121,
-    "gh_issues": 18,
+    "gh_issues": 19,
     "gh_branch": "master",
     "man_identifier": "com.google.sketch.synctoslides",
     "man_version": "2.2"

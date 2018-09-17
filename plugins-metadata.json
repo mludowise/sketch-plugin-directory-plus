@@ -351,13 +351,13 @@
     "man_compatible_version": "49.3"
   },
   {
-    "name": "WeSketch",
+    "name": "Miaow",
     "owner": "weixin",
-    "author": "Tencent Wechat Team",
-    "title": "WeSketch",
-    "description": "A set of plugins for Sketch include making lines & notes, UI Kit & Color sync, font & text replacing.",
-    "homepage": "https://github.com/weixin/WeSketch",
-    "added": "2017-07-03 14:02:46 UTC",
+    "author": "Tencent WeChat Team",
+    "title": "Miaow",
+    "description": "A set of plugins for Sketch include drawing links & marks, UI Kit & Color sync, font & text replacing.",
+    "homepage": "https://github.com/weixin/Miaow",
+    "added": "2018-09-17 16:00:57 UTC",
     "gh_url": "https://github.com/weixin/Miaow.git",
     "gh_updated": "2018-05-10 03:20:53 UTC",
     "gh_stars": 2306,
@@ -365,7 +365,7 @@
     "gh_branch": "master",
     "man_identifier": "cn.wechat",
     "man_version": "1.4.3",
-    "icon": "https://raw.githubusercontent.com/weixin/WeSketch/master/WeSketch.sketchplugin/Contents/Resources/icon.png"
+    "icon": "https://raw.githubusercontent.com/weixin/Miaow/master/WeSketch.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "owner": null,
@@ -1103,7 +1103,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-05-13 11:07:11 UTC",
-    "gh_stars": 5927,
+    "gh_stars": 5928,
     "gh_issues": 199,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -6974,7 +6974,7 @@
     "homepage": "https://github.com/pavelkuligin/chart",
     "gh_url": "https://github.com/pavelkuligin/chart.git",
     "gh_updated": "2018-07-18 10:58:21 UTC",
-    "gh_stars": 801,
+    "gh_stars": 802,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.examples.chart",

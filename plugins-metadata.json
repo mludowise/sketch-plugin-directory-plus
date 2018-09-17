@@ -4247,12 +4247,12 @@
     "added": "2017-03-22 12:51:18 UTC",
     "homepage": "https://github.com/contentsync/SketchContentSync",
     "gh_url": "https://github.com/contentsync/SketchContentSync.git",
-    "gh_updated": "2018-09-11 09:53:57 UTC",
+    "gh_updated": "2018-09-17 04:19:11 UTC",
     "gh_stars": 236,
     "gh_issues": 11,
     "gh_branch": "master",
     "man_identifier": "com.syncify.sketch.contentsync",
-    "man_version": "4.2.11",
+    "man_version": "4.2.12",
     "man_compatible_version": "3.7"
   },
   {

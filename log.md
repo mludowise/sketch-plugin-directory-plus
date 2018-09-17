@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-09-17 08:01:18 UTC
+Updated 2018-09-17 09:00:49 UTC
 
 Total plugins: 528
 
@@ -40,10 +40,6 @@ Total plugins: 528
 [AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) and [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) use the same manifest identifier, __com.animaapp.stc-sketch-plugin__
 
 [emrerussia/sketch-clear-export-options](https://github.com/emrerussia/sketch-clear-export-options) manifest.json contains extra commas
-
-**[richardgazdik/sketch-align](https://github.com/richardgazdik/sketch-align) missing manifest.json**
-
-**[onmyway133/sketch-action](https://github.com/onmyway133/sketch-action) has no repo**
 
 [herrhelms/radial-lines-sketch](https://github.com/herrhelms/radial-lines-sketch) manifest.json contains extra commas
 
@@ -130,8 +126,6 @@ Total plugins: 528
 [maximedegreve/TinyFaces-Sketch-Plugin](https://github.com/maximedegreve/TinyFaces-Sketch-Plugin) manifest.json contains extra commas
 
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
-
-**[DWilliames/nudge-corner-radius-sketch-plugin](https://github.com/DWilliames/nudge-corner-radius-sketch-plugin) has no repo**
 
 [finchalyzer/slinky](https://github.com/finchalyzer/slinky) manifest.json contains extra commas
 

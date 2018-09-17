@@ -749,7 +749,9 @@
     "gh_updated": "2016-08-10 21:58:39 UTC",
     "gh_stars": 38,
     "gh_issues": 5,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.93870ddc-5ab9-4ef2-8e5e-bd187076f3cf",
+    "man_version": "0.7.0"
   },
   {
     "name": "sketch-action",
@@ -757,7 +759,15 @@
     "author": "Khoa Pham",
     "title": "Sketch Action",
     "description": "Spotlight in Sketch",
-    "added": "2016-09-05 10:05:54 UTC"
+    "added": "2016-09-05 10:05:54 UTC",
+    "homepage": "https://github.com/onmyway133/Sketch-Action",
+    "gh_url": "https://github.com/onmyway133/Sketch-Action.git",
+    "gh_updated": "2016-09-05 21:26:58 UTC",
+    "gh_stars": 50,
+    "gh_issues": 5,
+    "gh_branch": "master",
+    "man_identifier": "com.fantageek.sketch.SketchAction",
+    "man_version": "1.0"
   },
   {
     "name": "radial-lines-sketch",
@@ -4138,7 +4148,7 @@
     "added": "2016-07-25 09:28:54 UTC",
     "homepage": "https://github.com/cute/SketchI18N",
     "gh_url": "https://github.com/cute/SketchI18N.git",
-    "gh_updated": "2018-06-05 06:20:56 UTC",
+    "gh_updated": "2018-06-05 06:20:55 UTC",
     "gh_stars": 938,
     "gh_issues": 13,
     "gh_branch": "master",
@@ -5408,7 +5418,16 @@
     "author": "David Williames",
     "title": "Nudge Corner Radius",
     "description": "Increase/decrease the corner radius of a rectangle, or path nodes — with easy keyboard shortcuts",
-    "added": "2017-03-12 17:02:05 UTC"
+    "added": "2017-03-12 17:02:05 UTC",
+    "homepage": "https://github.com/DWilliames/nudge-corner-radius-sketch-plugin",
+    "gh_url": "https://github.com/DWilliames/nudge-corner-radius-sketch-plugin.git",
+    "gh_updated": "2017-06-29 12:14:22 UTC",
+    "gh_stars": 24,
+    "gh_issues": 2,
+    "gh_branch": "master",
+    "man_identifier": "com.davidwilliames.corner-radius-sketch-plugin",
+    "man_version": "1.0",
+    "man_compatible_version": "39"
   },
   {
     "name": "sketch-marginbox",
@@ -7046,8 +7065,8 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-07-29 14:11:54 UTC",
-    "gh_stars": 2070,
-    "gh_issues": 62,
+    "gh_stars": 2071,
+    "gh_issues": 63,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",
     "man_version": "1.0.7",
@@ -8012,7 +8031,7 @@
     "gh_url": "https://github.com/ant-design/kitchen.git",
     "gh_updated": "2018-08-27 08:54:56 UTC",
     "gh_stars": 34,
-    "gh_issues": 2,
+    "gh_issues": 3,
     "gh_branch": "master"
   },
   {
@@ -8083,7 +8102,7 @@
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
     "gh_updated": "2018-09-10 12:45:05 UTC",
-    "gh_stars": 6,
+    "gh_stars": 7,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.cloudblue.sketch.exporter",

@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-09-21 13:01:07 UTC
+Updated 2018-10-10 12:02:22 UTC
 
-Total plugins: 528
+Total plugins: 533
 
 ## Problems
 **[matej-marjanovic/6Spiral](https://github.com/matej-marjanovic/6Spiral) has no repo**
@@ -38,8 +38,6 @@ Total plugins: 528
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
 
 [AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) and [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) use the same manifest identifier, __com.animaapp.stc-sketch-plugin__
-
-[emrerussia/sketch-clear-export-options](https://github.com/emrerussia/sketch-clear-export-options) manifest.json contains extra commas
 
 [herrhelms/radial-lines-sketch](https://github.com/herrhelms/radial-lines-sketch) manifest.json contains extra commas
 
@@ -147,8 +145,6 @@ Total plugins: 528
 
 [Reinvently/moodboards-sketch-plugin](https://github.com/Reinvently/moodboards-sketch-plugin) manifest.json contains extra commas
 
-**[iconscout/icondrop](https://github.com/iconscout/icondrop) manifest.json is missing identifier**
-
 **Smartling/ has no repo**
 
 **lstore.graphics/ has no repo**
@@ -223,6 +219,8 @@ Total plugins: 528
 
 **[fruitfrills/polyglot](https://github.com/fruitfrills/polyglot) manifest.json is missing identifier**
 
+**[alexjlockwood/sketch2vd](https://github.com/alexjlockwood/sketch2vd) has no repo**
+
 **[alex-matt/sketch-lightwire-plugin](https://github.com/alex-matt/sketch-lightwire-plugin) manifest.json is missing identifier**
 
 **[perrysmotors/reset-image-aspect-ratio](https://github.com/perrysmotors/reset-image-aspect-ratio) manifest.json is missing identifier**
@@ -271,8 +269,6 @@ Total plugins: 528
 
 **[ziven27/Sketch-IconScope](https://github.com/ziven27/Sketch-IconScope) manifest.json is missing identifier**
 
-[MaxBazarov/exporter](https://github.com/MaxBazarov/exporter) manifest.json contains extra commas
-
 **[wantedly/sketch-wt-design](https://github.com/wantedly/sketch-wt-design) manifest.json is missing identifier**
 
 **[JJ Ying/sketch-better-shadow](https://github.com/JJ Ying/sketch-better-shadow) has no repo**
@@ -295,5 +291,7 @@ Total plugins: 528
 
 **[tbrasington/text-to-styles](https://github.com/tbrasington/text-to-styles) manifest.json is missing identifier**
 
-**[rnmp/sensive-sketch](https://github.com/rnmp/sensive-sketch) manifest.json is missing identifier**
+**[sensive/sensive-sketch](https://github.com/sensive/sensive-sketch) manifest.json is missing identifier**
+
+**/ has no repo**
 

@@ -3615,7 +3615,7 @@
     "homepage": "http://AnimateMate.com",
     "gh_url": "https://github.com/Creatide/AnimateMate.git",
     "gh_updated": "2017-07-14 05:21:52 UTC",
-    "gh_stars": 1261,
+    "gh_stars": 1262,
     "gh_issues": 16,
     "gh_branch": "master",
     "man_identifier": "com.creatide.sketch.animatemate",
@@ -7802,7 +7802,7 @@
     "gh_url": "https://github.com/larsenwork/sketch-easing-gradient.git",
     "gh_updated": "2018-09-23 15:48:13 UTC",
     "gh_stars": 306,
-    "gh_issues": 5,
+    "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.larsenwork.sketch.easing-gradient",
     "man_compatible_version": "49"

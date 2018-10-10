@@ -2755,7 +2755,7 @@
     "gh_url": "https://github.com/wonderbit/sketch-select-similar-layers.git",
     "gh_updated": "2018-09-18 09:35:04 UTC",
     "gh_stars": 227,
-    "gh_issues": 14,
+    "gh_issues": 15,
     "gh_branch": "master",
     "man_identifier": "me.wessley.selectSimilarLayers",
     "man_version": "1.4"
@@ -3846,7 +3846,7 @@
     "added": "2016-05-31 15:16:43 UTC",
     "gh_url": "https://github.com/BohemianCoding/svgo-compressor.git",
     "gh_updated": "2018-10-09 10:45:20 UTC",
-    "gh_stars": 909,
+    "gh_stars": 910,
     "gh_issues": 7,
     "gh_branch": "develop",
     "man_identifier": "com.sketchapp.plugins.svgo-compressor",
@@ -6252,7 +6252,7 @@
     "gh_url": "https://github.com/bunnieabc/Blender.git",
     "gh_updated": "2017-08-16 04:27:43 UTC",
     "gh_stars": 339,
-    "gh_issues": 3,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.bunnieabc.blender",
     "man_version": "1.0"
@@ -7450,7 +7450,7 @@
     "added": "2018-04-23 09:01:44 UTC",
     "gh_url": "https://github.com/josephmcasey/sketch-plugin-svgo-unique-id.git",
     "gh_updated": "2018-04-12 20:52:17 UTC",
-    "gh_stars": 2,
+    "gh_stars": 3,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.examples.svgo-export",
@@ -8407,12 +8407,12 @@
     "added": "2018-09-14 21:01:13 UTC",
     "homepage": "https://github.com/mheesakkers/sketch-plugin-skew",
     "gh_url": "https://github.com/mheesakkers/sketch-plugin-skew.git",
-    "gh_updated": "2018-10-10 09:58:14 UTC",
+    "gh_updated": "2018-10-10 18:28:02 UTC",
     "gh_stars": 20,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.mishaheesakkers.sketch.skew",
-    "man_version": "1.1"
+    "man_version": "2.0"
   },
   {
     "name": "scssketch",

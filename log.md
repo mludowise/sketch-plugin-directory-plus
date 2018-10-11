@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-10-11 17:02:43 UTC
+Updated 2018-10-11 18:02:36 UTC
 
 Total plugins: 533
 
@@ -60,8 +60,6 @@ Total plugins: 533
 [eivindbohler/Sketch-Unlinker](https://github.com/eivindbohler/Sketch-Unlinker) manifest.json contains extra commas
 
 [ozzik/swap-styles](https://github.com/ozzik/swap-styles) manifest.json contains extra commas
-
-[tudou527/marketch](https://github.com/tudou527/marketch) manifest.json contains extra commas
 
 [soutaro/Align-text-baseline-sketch-plugin](https://github.com/soutaro/Align-text-baseline-sketch-plugin) manifest.json contains extra commas
 

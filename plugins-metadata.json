@@ -1103,7 +1103,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-05-13 11:07:11 UTC",
-    "gh_stars": 6003,
+    "gh_stars": 6004,
     "gh_issues": 219,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -2032,12 +2032,12 @@
     "homepage": "http://tudou527.github.io/marketch/",
     "added": "2015-07-08 12:27:44 UTC",
     "gh_url": "https://github.com/tudou527/marketch.git",
-    "gh_updated": "2018-03-23 18:03:04 UTC",
+    "gh_updated": "2018-10-11 17:59:49 UTC",
     "gh_stars": 2692,
-    "gh_issues": 54,
+    "gh_issues": 53,
     "gh_branch": "master",
     "man_identifier": "com.marketch.cosa.98908c77-3d38-48fa-8c7c-1bb465f67eb8",
-    "man_version": "1.0.23"
+    "man_version": "1.0.24"
   },
   {
     "name": "IconSlate-sketchplugin",
@@ -5733,12 +5733,12 @@
     "added": "2017-04-27 12:01:52 UTC",
     "homepage": "https://github.com/vconesa/justinmind-sketch",
     "gh_url": "https://github.com/vconesa/justinmind-sketch.git",
-    "gh_updated": "2018-08-22 16:23:55 UTC",
+    "gh_updated": "2018-10-11 17:46:30 UTC",
     "gh_stars": 12,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.justinmind.exporttojustinmind",
-    "man_version": "1.0.5"
+    "man_version": "1.0.6"
   },
   {
     "name": "Sketch-Plugin-Manager",
@@ -6307,7 +6307,7 @@
     "homepage": "https://github.com/awkward/sketch-palette-generator",
     "gh_url": "https://github.com/awkward/sketch-palette-generator.git",
     "gh_updated": "2018-04-06 12:27:18 UTC",
-    "gh_stars": 123,
+    "gh_stars": 124,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

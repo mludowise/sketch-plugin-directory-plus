@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-10-11 14:00:51 UTC
+Updated 2018-10-11 15:02:23 UTC
 
 Total plugins: 533
 
@@ -238,8 +238,6 @@ Total plugins: 533
 **/ has no repo**
 
 **[futantan/sketch-style-to-react-native](https://github.com/futantan/sketch-style-to-react-native) manifest.json is missing identifier**
-
-**[andex/ColorBrightness](https://github.com/andex/ColorBrightness) manifest.json is missing identifier**
 
 **[kd-co/charapara-sketch-extension](https://github.com/kd-co/charapara-sketch-extension) manifest.json is missing identifier**
 

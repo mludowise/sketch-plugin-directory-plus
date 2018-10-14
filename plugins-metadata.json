@@ -5105,12 +5105,12 @@
     "added": "2016-12-22 09:55:55 UTC",
     "homepage": "https://github.com/eddiesigner/sketch-map-generator",
     "gh_url": "https://github.com/eddiesigner/sketch-map-generator.git",
-    "gh_updated": "2018-10-03 12:55:37 UTC",
+    "gh_updated": "2018-10-14 10:44:39 UTC",
     "gh_stars": 674,
-    "gh_issues": 4,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "io.eduardogomez.sketch.map-generator",
-    "man_version": "2.0.4",
+    "man_version": "2.0.5",
     "man_compatible_version": "4"
   },
   {

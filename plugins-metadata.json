@@ -6348,7 +6348,7 @@
     "gh_url": "https://github.com/atlassian/jira-cloud-for-sketch.git",
     "gh_updated": "2017-10-09 06:05:47 UTC",
     "gh_stars": 35,
-    "gh_issues": 12,
+    "gh_issues": 13,
     "gh_branch": "master",
     "man_identifier": "com.atlassian.sketch.jira-plugin",
     "man_version": "1.1.2",

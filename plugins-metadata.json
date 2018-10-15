@@ -3616,7 +3616,7 @@
     "homepage": "http://AnimateMate.com",
     "gh_url": "https://github.com/Creatide/AnimateMate.git",
     "gh_updated": "2017-07-14 05:21:52 UTC",
-    "gh_stars": 1263,
+    "gh_stars": 1264,
     "gh_issues": 16,
     "gh_branch": "master",
     "man_identifier": "com.creatide.sketch.animatemate",
@@ -6608,12 +6608,12 @@
     "added": "2017-11-06 15:55:14 UTC",
     "homepage": "https://github.com/sonburn/shared-style-finder",
     "gh_url": "https://github.com/sonburn/shared-style-finder.git",
-    "gh_updated": "2018-10-06 01:42:50 UTC",
+    "gh_updated": "2018-10-15 04:01:00 UTC",
     "gh_stars": 26,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.shared-style-finder",
-    "man_version": "0.6",
+    "man_version": "0.7",
     "icon": "https://raw.githubusercontent.com/sonburn/shared-style-finder/master/Shared%20Style%20Finder.sketchplugin/Contents/Resources/icon.png"
   },
   {

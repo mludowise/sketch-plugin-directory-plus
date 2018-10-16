@@ -1949,7 +1949,7 @@
     "added": "2015-05-23 11:12:03 UTC",
     "homepage": "https://github.com/preciousforever/data-populator",
     "gh_url": "https://github.com/preciousforever/data-populator.git",
-    "gh_updated": "2018-10-16 17:33:43 UTC",
+    "gh_updated": "2018-10-16 22:16:18 UTC",
     "gh_stars": 1479,
     "gh_issues": 22,
     "gh_branch": "master"
@@ -5368,7 +5368,7 @@
     "gh_url": "https://github.com/equesy/Egmont-plugin.git",
     "gh_updated": "2018-06-12 20:00:34 UTC",
     "gh_stars": 102,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.glebhusky.EgmontPlugin",
     "man_version": "1"
@@ -7064,7 +7064,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-07-29 14:11:54 UTC",
-    "gh_stars": 2153,
+    "gh_stars": 2154,
     "gh_issues": 67,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",
@@ -8019,7 +8019,7 @@
     "homepage": "https://kitchen.alipay.com/",
     "gh_url": "https://github.com/ant-design/kitchen.git",
     "gh_updated": "2018-10-12 03:53:43 UTC",
-    "gh_stars": 38,
+    "gh_stars": 39,
     "gh_issues": 2,
     "gh_branch": "master"
   },

@@ -4954,12 +4954,12 @@
     "added": "2016-11-28 16:49:08 UTC",
     "homepage": "https://github.com/philsinatra/Sketch-Color-Vars",
     "gh_url": "https://github.com/philsinatra/Sketch-Color-Vars.git",
-    "gh_updated": "2018-10-01 17:43:45 UTC",
+    "gh_updated": "2018-10-15 23:16:22 UTC",
     "gh_stars": 38,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.sketch.sketch-color-vars",
-    "man_version": "1.3.2"
+    "man_version": "1.3.3"
   },
   {
     "name": "Perfecter",

@@ -1103,12 +1103,12 @@
     "added": "2014-05-14 03:43:43 UTC",
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
-    "gh_updated": "2018-10-17 13:40:55 UTC",
-    "gh_stars": 6024,
+    "gh_updated": "2018-10-17 15:24:23 UTC",
+    "gh_stars": 6025,
     "gh_issues": 226,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
-    "man_version": "2.7.6"
+    "man_version": "2.7.7"
   },
   {
     "name": "Content-generator-sketch-plugin",
@@ -3315,7 +3315,7 @@
     "homepage": "https://mathieudutour.github.io/git-sketch-plugin",
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2017-10-17 08:22:39 UTC",
-    "gh_stars": 2246,
+    "gh_stars": 2247,
     "gh_issues": 19,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
@@ -7064,7 +7064,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-07-29 14:11:54 UTC",
-    "gh_stars": 2155,
+    "gh_stars": 2156,
     "gh_issues": 68,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",

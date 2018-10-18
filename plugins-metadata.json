@@ -1944,7 +1944,7 @@
     "gh_url": "https://github.com/preciousforever/data-populator.git",
     "gh_updated": "2018-10-18 11:49:19 UTC",
     "gh_stars": 1483,
-    "gh_issues": 22,
+    "gh_issues": 23,
     "gh_branch": "master"
   },
   {
@@ -3837,7 +3837,7 @@
     "gh_url": "https://github.com/BohemianCoding/svgo-compressor.git",
     "gh_updated": "2018-10-09 10:45:20 UTC",
     "gh_stars": 920,
-    "gh_issues": 7,
+    "gh_issues": 8,
     "gh_branch": "develop",
     "man_identifier": "com.sketchapp.plugins.svgo-compressor",
     "man_compatible_version": "3.8"
@@ -7684,7 +7684,7 @@
     "added": "2018-05-07 10:02:23 UTC",
     "gh_url": "https://github.com/romannurik/Sketch-Stickers.git",
     "gh_updated": "2018-10-17 19:53:24 UTC",
-    "gh_stars": 114,
+    "gh_stars": 115,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.stickers",
@@ -8366,7 +8366,7 @@
     "homepage": "https://github.com/romannurik/Sketch-Contrast#readme",
     "added": "2018-09-14 21:01:13 UTC",
     "gh_url": "https://github.com/romannurik/Sketch-Contrast.git",
-    "gh_updated": "2018-09-20 04:04:26 UTC",
+    "gh_updated": "2018-10-18 19:30:23 UTC",
     "gh_stars": 20,
     "gh_issues": 0,
     "gh_branch": "master",

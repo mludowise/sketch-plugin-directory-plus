@@ -520,14 +520,7 @@
     "title": "Stark",
     "description": "Ensure your design is accessible and high contrast for every type of color blindness.",
     "homepage": "http://www.getstark.co",
-    "added": "2017-04-21 18:02:00 UTC",
-    "gh_url": "https://github.com/stark-contrast/stark-sketch-plugin.git",
-    "gh_updated": "2017-12-05 21:54:35 UTC",
-    "gh_stars": 469,
-    "gh_issues": 7,
-    "gh_branch": "master",
-    "man_identifier": "com.mfouquet.sketch.stark",
-    "man_version": "1.6"
+    "added": "2017-04-21 18:02:00 UTC"
   },
   {
     "owner": null,
@@ -1104,8 +1097,8 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6028,
-    "gh_issues": 228,
+    "gh_stars": 6030,
+    "gh_issues": 229,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.7.7"
@@ -7116,7 +7109,7 @@
     "added": "2018-02-23 16:02:29 UTC",
     "gh_url": "https://github.com/MengTo/Angle-Sketch-Plugin.git",
     "gh_updated": "2018-10-08 13:52:14 UTC",
-    "gh_stars": 127,
+    "gh_stars": 128,
     "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "io.designcode.Angle",

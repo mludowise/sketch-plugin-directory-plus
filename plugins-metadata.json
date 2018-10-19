@@ -1943,7 +1943,7 @@
     "homepage": "https://github.com/preciousforever/data-populator",
     "gh_url": "https://github.com/preciousforever/data-populator.git",
     "gh_updated": "2018-10-18 11:49:19 UTC",
-    "gh_stars": 1484,
+    "gh_stars": 1485,
     "gh_issues": 23,
     "gh_branch": "master"
   },
@@ -8027,7 +8027,7 @@
     "gh_url": "https://github.com/zeplin/emoji-autocomplete-sketch-plugin.git",
     "gh_updated": "2018-10-17 19:41:58 UTC",
     "gh_stars": 127,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "develop",
     "man_identifier": "io.zeplin.sketchPlugin.autocomplete",
     "man_version": "1.1",

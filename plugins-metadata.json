@@ -1114,7 +1114,7 @@
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
     "gh_stars": 6036,
-    "gh_issues": 232,
+    "gh_issues": 233,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.7.7"
@@ -1959,7 +1959,7 @@
     "homepage": "https://github.com/preciousforever/data-populator",
     "gh_url": "https://github.com/preciousforever/data-populator.git",
     "gh_updated": "2018-10-18 11:49:19 UTC",
-    "gh_stars": 1485,
+    "gh_stars": 1486,
     "gh_issues": 23,
     "gh_branch": "master"
   },
@@ -7528,7 +7528,7 @@
     "added": "2018-04-23 23:02:34 UTC",
     "gh_url": "https://github.com/alex-matt/sketch-lightwire-plugin.git",
     "gh_updated": "2018-04-27 13:41:42 UTC",
-    "gh_stars": 71,
+    "gh_stars": 72,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_compatible_version": "3"

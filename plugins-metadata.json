@@ -592,11 +592,7 @@
     "gh_updated": "2018-10-03 18:43:06 UTC",
     "gh_stars": 415,
     "gh_issues": 6,
-    "gh_branch": "master",
-    "man_identifier": "com.sureskumar.sketch.looper",
-    "man_version": "2.9.0",
-    "man_compatible_version": "52.0",
-    "icon": "https://raw.githubusercontent.com/sureskumar/Looper/master/Looper.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "LayerRenamer",
@@ -1129,7 +1125,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
-    "gh_stars": 4351,
+    "gh_stars": 4350,
     "gh_issues": 43,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -4383,7 +4379,7 @@
     "homepage": "https://github.com/Ashung/Android_Res_Export",
     "gh_url": "https://github.com/Ashung/Android_Res_Export.git",
     "gh_updated": "2018-10-11 04:13:49 UTC",
-    "gh_stars": 158,
+    "gh_stars": 159,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.android_res_export",

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-10-21 09:01:15 UTC
+Updated 2018-10-21 10:01:23 UTC
 
 Total plugins: 537
 
@@ -134,6 +134,8 @@ Total plugins: 537
 [partyka1/Fontily](https://github.com/partyka1/Fontily) manifest.json contains extra commas
 
 [freeman990/Freeman-FinChart-SketchPlugin](https://github.com/freeman990/Freeman-FinChart-SketchPlugin) manifest.json contains extra commas
+
+[canisminor1990/sketch-move-half-pixel](https://github.com/canisminor1990/sketch-move-half-pixel) manifest.json contains extra commas
 
 **[ImageOptim/sketch-plugin](https://github.com/ImageOptim/sketch-plugin) missing manifest.json**
 

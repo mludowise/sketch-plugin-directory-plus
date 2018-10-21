@@ -642,7 +642,10 @@
     "gh_updated": "2018-03-16 07:52:59 UTC",
     "gh_stars": 159,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.turbobabr.sketch.wanderer",
+    "man_version": "1.0.1",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-html-export",
@@ -5109,7 +5112,7 @@
     "gh_url": "https://github.com/eddiesigner/sketch-map-generator.git",
     "gh_updated": "2018-10-14 10:44:39 UTC",
     "gh_stars": 677,
-    "gh_issues": 3,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "io.eduardogomez.sketch.map-generator",
     "man_version": "2.0.5",

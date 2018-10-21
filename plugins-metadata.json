@@ -642,7 +642,10 @@
     "gh_updated": "2018-03-16 07:52:59 UTC",
     "gh_stars": 159,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.turbobabr.sketch.wanderer",
+    "man_version": "1.0.1",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-html-export",
@@ -2757,7 +2760,7 @@
     "homepage": "https://github.com/wonderbit/sketch-select-similar-layers",
     "gh_url": "https://github.com/wonderbit/sketch-select-similar-layers.git",
     "gh_updated": "2018-09-18 09:35:04 UTC",
-    "gh_stars": 228,
+    "gh_stars": 229,
     "gh_issues": 15,
     "gh_branch": "master",
     "man_identifier": "me.wessley.selectSimilarLayers",
@@ -8096,7 +8099,7 @@
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
     "gh_updated": "2018-10-18 10:31:32 UTC",
-    "gh_stars": 24,
+    "gh_stars": 25,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.cloudblue.sketch.exporter",

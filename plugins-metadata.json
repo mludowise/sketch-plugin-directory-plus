@@ -642,10 +642,7 @@
     "gh_updated": "2018-03-16 07:52:59 UTC",
     "gh_stars": 159,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.turbobabr.sketch.wanderer",
-    "man_version": "1.0.1",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-html-export",
@@ -1113,7 +1110,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6038,
+    "gh_stars": 6039,
     "gh_issues": 233,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",

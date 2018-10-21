@@ -642,10 +642,7 @@
     "gh_updated": "2018-03-16 07:52:59 UTC",
     "gh_stars": 159,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.turbobabr.sketch.wanderer",
-    "man_version": "1.0.1",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-html-export",
@@ -2290,7 +2287,7 @@
     "added": "2015-08-05 03:01:56 UTC",
     "gh_url": "https://github.com/MagicSketch/MagicMirror.git",
     "gh_updated": "2018-10-14 18:50:48 UTC",
-    "gh_stars": 470,
+    "gh_stars": 469,
     "gh_issues": 35,
     "gh_branch": "master",
     "man_identifier": "design.magicmirror",
@@ -3589,7 +3586,7 @@
     "gh_url": "https://github.com/ment-mx/Prism.git",
     "gh_updated": "2018-08-03 17:22:44 UTC",
     "gh_stars": 928,
-    "gh_issues": 4,
+    "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.ment.sketch.prism",
     "man_version": "1.0.7",

@@ -1960,7 +1960,7 @@
     "gh_url": "https://github.com/preciousforever/data-populator.git",
     "gh_updated": "2018-10-20 23:31:22 UTC",
     "gh_stars": 1488,
-    "gh_issues": 22,
+    "gh_issues": 24,
     "gh_branch": "master"
   },
   {
@@ -5891,7 +5891,9 @@
     "gh_updated": "2017-08-07 07:22:49 UTC",
     "gh_stars": 17,
     "gh_issues": 3,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "cm.sketch.movehalfpixel",
+    "man_version": "1.1"
   },
   {
     "name": "Appalette",

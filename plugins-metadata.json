@@ -2577,7 +2577,7 @@
     "gh_url": "https://github.com/thierryc/Sketch-Find-And-Replace.git",
     "gh_updated": "2018-06-18 14:04:28 UTC",
     "gh_stars": 586,
-    "gh_issues": 23,
+    "gh_issues": 21,
     "gh_branch": "master",
     "man_identifier": "cx.ap.sketch-find-and-replace",
     "man_version": "1.25",
@@ -7504,7 +7504,7 @@
     "added": "2018-04-23 23:02:34 UTC",
     "gh_url": "https://github.com/fruitfrills/polyglot.git",
     "gh_updated": "2018-05-14 17:12:05 UTC",
-    "gh_stars": 9,
+    "gh_stars": 10,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-10-22 15:00:28 UTC
+Updated 2018-10-22 16:00:39 UTC
 
 Total plugins: 537
 
@@ -224,6 +224,8 @@ Total plugins: 537
 **[alexjlockwood/sketch2vd](https://github.com/alexjlockwood/sketch2vd) has no repo**
 
 **[alex-matt/sketch-lightwire-plugin](https://github.com/alex-matt/sketch-lightwire-plugin) manifest.json is missing identifier**
+
+**[perrysmotors/format-symbol-names](https://github.com/perrysmotors/format-symbol-names) manifest.json is missing identifier**
 
 **[perrysmotors/reset-image-aspect-ratio](https://github.com/perrysmotors/reset-image-aspect-ratio) manifest.json is missing identifier**
 

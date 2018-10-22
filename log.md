@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-10-22 10:01:51 UTC
+Updated 2018-10-22 12:01:23 UTC
 
 Total plugins: 537
 
@@ -131,6 +131,8 @@ Total plugins: 537
 
 [Rezaaa/english-and-persian-lorem-ipsum](https://github.com/Rezaaa/english-and-persian-lorem-ipsum) manifest.json contains extra commas
 
+**[kenmoore/sketch-artboard](https://github.com/kenmoore/sketch-artboard) missing manifest.json**
+
 [partyka1/Fontily](https://github.com/partyka1/Fontily) manifest.json contains extra commas
 
 [freeman990/Freeman-FinChart-SketchPlugin](https://github.com/freeman990/Freeman-FinChart-SketchPlugin) manifest.json contains extra commas
@@ -175,7 +177,7 @@ Total plugins: 537
 
 **[skpm/sketch-dev-tools](https://github.com/skpm/sketch-dev-tools) manifest.json is missing identifier**
 
-**[ahmedmigo/Move-to-library-sketchplugin](https://github.com/ahmedmigo/Move-to-library-sketchplugin) manifest.json is missing identifier**
+**[ahmedmigo/Move-to-library-sketchplugin](https://github.com/ahmedmigo/Move-to-library-sketchplugin) has no repo**
 
 **/i-want-apple-system-font has no repo**
 
@@ -187,13 +189,17 @@ Total plugins: 537
 
 **[ziven27/Sketch-topographic](https://github.com/ziven27/Sketch-topographic) manifest.json is missing identifier**
 
+**[pravdomil/Sketch-Show-Bounding-Boxes](https://github.com/pravdomil/Sketch-Show-Bounding-Boxes) has no repo**
+
+**[pavelkuligin/chart](https://github.com/pavelkuligin/chart) missing manifest.json**
+
 **/ has no repo**
 
 **[fhuel/DeepSelect](https://github.com/fhuel/DeepSelect) manifest.json is missing identifier**
 
 **[reqfire/sketch-user-flows](https://github.com/reqfire/sketch-user-flows) manifest.json is missing identifier**
 
-[kupe517/sketch-split-shape](https://github.com/kupe517/sketch-split-shape) manifest.json contains extra commas
+**[kupe517/sketch-split-shape](https://github.com/kupe517/sketch-split-shape) has no repo**
 
 **[sergeishere/handymenu-sketchplugin](https://github.com/sergeishere/handymenu-sketchplugin) owner and name correspond to multiple plugins**
 
@@ -210,8 +216,6 @@ Total plugins: 537
 **[Atim33/autopdfexporter](https://github.com/Atim33/autopdfexporter) has no repo**
 
 **[pranusarna94/Perfecto-](https://github.com/pranusarna94/Perfecto-) manifest.json is missing identifier**
-
-**[liangjingyang/SketchReloadPlugins](https://github.com/liangjingyang/SketchReloadPlugins) manifest.json is missing identifier**
 
 **/ has no repo**
 

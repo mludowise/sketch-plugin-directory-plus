@@ -257,7 +257,7 @@
     "added": "2018-06-19 19:02:06 UTC",
     "homepage": "http://fontbuddy.co",
     "gh_url": "https://github.com/AnimaApp/FontBuddy.git",
-    "gh_updated": "2018-02-28 14:05:03 UTC",
+    "gh_updated": "2018-02-28 14:04:59 UTC",
     "gh_stars": 20,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -295,7 +295,10 @@
     "gh_updated": "2017-08-18 23:35:25 UTC",
     "gh_stars": 344,
     "gh_issues": 7,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.lalomrtnz.sketch.chain",
+    "man_version": "0.9.2",
+    "man_compatible_version": "42"
   },
   {
     "name": "Alembic",
@@ -325,7 +328,11 @@
     "gh_updated": "2018-10-03 21:09:41 UTC",
     "gh_stars": 84,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sureskumar.singleborder",
+    "man_version": "1.6.0",
+    "man_compatible_version": "52.0",
+    "icon": "https://raw.githubusercontent.com/sureskumar/single-border/master/Single-Border.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "sketch-neo-preview",
@@ -478,7 +485,15 @@
     "title": "Launchpad",
     "description": "Export your Sketch design into HTML website.",
     "homepage": "https://launchpad.animaapp.com",
-    "added": "2017-05-10 09:01:22 UTC"
+    "added": "2017-05-10 09:01:22 UTC",
+    "gh_url": "https://github.com/AnimaApp/Launchpad.git",
+    "gh_updated": "2018-07-10 16:27:33 UTC",
+    "gh_stars": 9,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.animaapp.stc-sketch-plugin",
+    "man_version": "2.0.5",
+    "man_compatible_version": "51"
   },
   {
     "name": "WordCloud",
@@ -4601,7 +4616,7 @@
     "gh_url": "https://github.com/sonburn/symbol-organizer.git",
     "gh_updated": "2018-10-16 13:25:48 UTC",
     "gh_stars": 642,
-    "gh_issues": 27,
+    "gh_issues": 28,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-organizer",
     "man_version": "15.7",
@@ -5130,7 +5145,7 @@
     "homepage": "https://github.com/bigxixi/Sketch2AE",
     "gh_url": "https://github.com/bigxixi/Sketch2AE.git",
     "gh_updated": "2018-07-23 07:29:56 UTC",
-    "gh_stars": 140,
+    "gh_stars": 141,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.sketch.bigxixi.Sketch2AE",
@@ -7473,7 +7488,7 @@
     "homepage": "https://github.com/mathieudutour/rough-sketch",
     "added": "2018-04-14 18:01:16 UTC",
     "gh_url": "https://github.com/mathieudutour/rough-sketch.git",
-    "gh_updated": "2018-09-05 18:52:30 UTC",
+    "gh_updated": "2018-10-23 14:09:01 UTC",
     "gh_stars": 37,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -8081,12 +8096,12 @@
     "added": "2018-07-17 09:02:33 UTC",
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
-    "gh_updated": "2018-10-23 12:56:12 UTC",
+    "gh_updated": "2018-10-23 14:34:02 UTC",
     "gh_stars": 25,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.cloudblue.sketch.exporter",
-    "man_version": "3.0.1",
+    "man_version": "3.0.2",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/MaxBazarov/exporter/master/Exporter.sketchplugin/Contents/Resources/icon.png"
   },

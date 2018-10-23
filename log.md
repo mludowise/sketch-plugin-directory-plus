@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-10-23 13:00:40 UTC
+Updated 2018-10-23 14:01:30 UTC
 
 Total plugins: 537
 
@@ -27,9 +27,11 @@ Total plugins: 537
 
 **[udi-gindi/sendTo](https://github.com/udi-gindi/sendTo) manifest.json is missing identifier**
 
-[LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) manifest.json contains extra commas
+**[LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) missing manifest.json**
 
 **/ has no repo**
+
+**[AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) has no repo**
 
 **[stark-contrast/stark-sketch-plugin](https://github.com/stark-contrast/stark-sketch-plugin) has no repo**
 
@@ -38,8 +40,6 @@ Total plugins: 537
 [3raxton/foreignipsum](https://github.com/3raxton/foreignipsum) manifest.json contains extra commas
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
-
-[AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) and [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) use the same manifest identifier, __com.animaapp.stc-sketch-plugin__
 
 [herrhelms/radial-lines-sketch](https://github.com/herrhelms/radial-lines-sketch) manifest.json contains extra commas
 

@@ -825,7 +825,7 @@
     "homepage": "https://github.com/herrhelms/social-artboards-sketch",
     "gh_url": "https://github.com/herrhelms/social-artboards-sketch.git",
     "gh_updated": "2018-07-11 13:22:40 UTC",
-    "gh_stars": 171,
+    "gh_stars": 172,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.github.herrhelms.social-artboards-sketch",
@@ -2290,7 +2290,7 @@
     "added": "2015-08-05 03:01:56 UTC",
     "gh_url": "https://github.com/MagicSketch/MagicMirror.git",
     "gh_updated": "2018-10-14 18:50:48 UTC",
-    "gh_stars": 469,
+    "gh_stars": 470,
     "gh_issues": 35,
     "gh_branch": "master",
     "man_identifier": "design.magicmirror",
@@ -2811,7 +2811,9 @@
     "gh_updated": "2017-06-08 19:27:57 UTC",
     "gh_stars": 43,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.truthlabs.unlockalllayers",
+    "man_version": "2.1"
   },
   {
     "name": "sketch-any-icon-fetcher",
@@ -4838,7 +4840,15 @@
     "author": "Tomoyuki Kashiro",
     "title": "Bootstrap Guides",
     "description": "Generate guides along with twitter bootstrap grid system.",
-    "added": "2016-11-07 16:37:06 UTC"
+    "added": "2016-11-07 16:37:06 UTC",
+    "homepage": "https://github.com/tomoyukikashiro/Sketch-bootstrap-guides",
+    "gh_url": "https://github.com/tomoyukikashiro/Sketch-bootstrap-guides.git",
+    "gh_updated": "2016-12-25 22:58:32 UTC",
+    "gh_stars": 28,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "me.tomoyukikashiro.sketch_bootstrap_guides",
+    "man_version": "1.1.0"
   },
   {
     "name": "SketchTape.sketchplugin",
@@ -7063,7 +7073,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-07-29 14:11:54 UTC",
-    "gh_stars": 2172,
+    "gh_stars": 2173,
     "gh_issues": 68,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",

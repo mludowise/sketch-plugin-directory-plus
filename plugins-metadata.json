@@ -6282,7 +6282,7 @@
     "gh_url": "https://github.com/d4rekanguok/sketch-slicer.git",
     "gh_updated": "2017-08-13 12:56:50 UTC",
     "gh_stars": 29,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_version": "0.1.0",
     "man_compatible_version": "3"
@@ -8040,7 +8040,7 @@
     "homepage": "https://github.com/zeplin/emoji-autocomplete-sketch-plugin",
     "gh_url": "https://github.com/zeplin/emoji-autocomplete-sketch-plugin.git",
     "gh_updated": "2018-10-19 23:42:06 UTC",
-    "gh_stars": 127,
+    "gh_stars": 128,
     "gh_issues": 2,
     "gh_branch": "develop",
     "man_identifier": "io.zeplin.sketchPlugin.autocomplete",

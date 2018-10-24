@@ -2811,9 +2811,7 @@
     "gh_updated": "2017-06-08 19:27:57 UTC",
     "gh_stars": 43,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.truthlabs.unlockalllayers",
-    "man_version": "2.1"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-any-icon-fetcher",
@@ -4840,15 +4838,7 @@
     "author": "Tomoyuki Kashiro",
     "title": "Bootstrap Guides",
     "description": "Generate guides along with twitter bootstrap grid system.",
-    "added": "2016-11-07 16:37:06 UTC",
-    "homepage": "https://github.com/tomoyukikashiro/Sketch-bootstrap-guides",
-    "gh_url": "https://github.com/tomoyukikashiro/Sketch-bootstrap-guides.git",
-    "gh_updated": "2016-12-25 22:58:32 UTC",
-    "gh_stars": 28,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "me.tomoyukikashiro.sketch_bootstrap_guides",
-    "man_version": "1.1.0"
+    "added": "2016-11-07 16:37:06 UTC"
   },
   {
     "name": "SketchTape.sketchplugin",
@@ -6835,7 +6825,7 @@
     "gh_url": "https://github.com/ahmedmigo/Move-to-library-sketchplugin.git",
     "gh_updated": "2018-09-18 07:18:07 UTC",
     "gh_stars": 146,
-    "gh_issues": 4,
+    "gh_issues": 5,
     "gh_branch": "master",
     "icon": "https://raw.githubusercontent.com/ahmedmigo/Move-to-library-sketchplugin/master/move-to-library.sketchplugin/Contents/Resources/icon.png"
   },

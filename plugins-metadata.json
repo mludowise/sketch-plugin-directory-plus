@@ -3309,7 +3309,7 @@
     "gh_url": "https://github.com/ScottSavarie/Clipboard-Fill.git",
     "gh_updated": "2017-10-11 18:17:12 UTC",
     "gh_stars": 422,
-    "gh_issues": 3,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.7ee74bdc-1af8-4b23-bfc8-f051f8c64992",
     "man_version": "1.2"
@@ -6716,7 +6716,7 @@
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2018-10-24 10:42:15 UTC",
-    "gh_stars": 119,
+    "gh_stars": 120,
     "gh_issues": 8,
     "gh_branch": "master",
     "man_compatible_version": "50"
@@ -7275,7 +7275,7 @@
     "added": "2018-03-08 23:01:04 UTC",
     "gh_url": "https://github.com/tankxu/SVG-Insert.git",
     "gh_updated": "2018-07-10 09:52:13 UTC",
-    "gh_stars": 25,
+    "gh_stars": 26,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.tankxu.sketch.svg-insert",

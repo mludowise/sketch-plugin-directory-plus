@@ -2593,11 +2593,12 @@
     "added": "2015-09-21 18:39:39 UTC",
     "homepage": "https://github.com/shakemno/sketch-replace-images",
     "gh_url": "https://github.com/shakemno/sketch-replace-images.git",
-    "gh_updated": "2018-04-23 17:17:23 UTC",
+    "gh_updated": "2018-10-25 12:59:48 UTC",
     "gh_stars": 32,
     "gh_issues": 1,
     "gh_branch": "master",
-    "man_version": "0.5.1",
+    "man_identifier": "Sketch Replace Images",
+    "man_version": "0.5.2",
     "man_compatible_version": "3"
   },
   {

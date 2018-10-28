@@ -4210,7 +4210,16 @@
     "author": "Vincenzo Petito",
     "title": "Shapr",
     "description": "A Sketch plugin to create element with the keyboards!",
-    "added": "2016-07-30 22:43:04 UTC"
+    "added": "2016-07-30 22:43:04 UTC",
+    "homepage": "https://github.com/vincenzopetito/Shapr",
+    "gh_url": "https://github.com/vincenzopetito/Shapr.git",
+    "gh_updated": "2017-07-31 08:19:54 UTC",
+    "gh_stars": 84,
+    "gh_issues": 4,
+    "gh_branch": "master",
+    "man_identifier": "com.vincenzopetito.shaper",
+    "man_version": "1.2",
+    "man_compatible_version": "3"
   },
   {
     "name": "SizeArtboard",

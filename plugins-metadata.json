@@ -4210,16 +4210,7 @@
     "author": "Vincenzo Petito",
     "title": "Shapr",
     "description": "A Sketch plugin to create element with the keyboards!",
-    "added": "2016-07-30 22:43:04 UTC",
-    "homepage": "https://github.com/vincenzopetito/Shapr",
-    "gh_url": "https://github.com/vincenzopetito/Shapr.git",
-    "gh_updated": "2017-07-31 08:19:54 UTC",
-    "gh_stars": 84,
-    "gh_issues": 4,
-    "gh_branch": "master",
-    "man_identifier": "com.vincenzopetito.shaper",
-    "man_version": "1.2",
-    "man_compatible_version": "3"
+    "added": "2016-07-30 22:43:04 UTC"
   },
   {
     "name": "SizeArtboard",
@@ -8038,7 +8029,7 @@
     "gh_url": "https://github.com/ant-design/kitchen.git",
     "gh_updated": "2018-10-12 03:53:43 UTC",
     "gh_stars": 41,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master"
   },
   {
@@ -8108,7 +8099,7 @@
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
     "gh_updated": "2018-10-26 12:02:12 UTC",
-    "gh_stars": 26,
+    "gh_stars": 27,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.cloudblue.sketch.exporter",
@@ -8568,7 +8559,7 @@
     "added": "2018-10-25 19:01:32 UTC",
     "gh_url": "https://github.com/smallmultiples/sketch-chippencharts.git",
     "gh_updated": "2018-10-26 06:00:09 UTC",
-    "gh_stars": 1,
+    "gh_stars": 2,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "Chippen charts",
@@ -8586,7 +8577,7 @@
     "added": "2018-10-25 19:01:32 UTC",
     "gh_url": "https://github.com/lazybearcreations/sketch-lazyboards.git",
     "gh_updated": "2018-10-24 14:12:37 UTC",
-    "gh_stars": 1,
+    "gh_stars": 2,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

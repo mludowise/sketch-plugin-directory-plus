@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-10-28 18:01:36 UTC
+Updated 2018-10-28 19:02:25 UTC
 
 Total plugins: 541
 
@@ -104,8 +104,6 @@ Total plugins: 541
 **Atomic.io/ has no repo**
 
 **/ has no repo**
-
-**[vincenzopetito/Shapr](https://github.com/vincenzopetito/Shapr) has no repo**
 
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
 

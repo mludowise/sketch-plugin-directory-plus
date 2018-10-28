@@ -6140,13 +6140,13 @@
     "added": "2017-07-17 19:09:38 UTC",
     "homepage": "https://websiddu.github.io/sketch-material",
     "gh_url": "https://github.com/websiddu/sketch-material.git",
-    "gh_updated": "2018-05-27 22:38:16 UTC",
+    "gh_updated": "2018-10-28 20:00:19 UTC",
     "gh_stars": 785,
     "gh_issues": 22,
     "gh_branch": "master",
-    "man_identifier": "com.websiddu.sketch.material",
-    "man_version": "0.1.19",
-    "man_compatible_version": "50"
+    "man_identifier": "com.google.material2.active",
+    "man_version": "3",
+    "man_compatible_version": "52"
   },
   {
     "name": "sketch-number-artboards",

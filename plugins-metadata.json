@@ -70,7 +70,7 @@
     "added": "2018-05-04 16:02:20 UTC",
     "gh_url": "https://github.com/symdesign/sketch-auto-translate.git",
     "gh_updated": "2018-10-29 14:12:03 UTC",
-    "gh_stars": 15,
+    "gh_stars": 16,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "design.sym.sketch-auto-translate",
@@ -665,7 +665,7 @@
     "added": "2017-01-24 09:01:22 UTC",
     "homepage": "https://github.com/mludowise/Sketch-HTML-Export",
     "gh_url": "https://github.com/mludowise/Sketch-HTML-Export.git",
-    "gh_updated": "2017-07-07 18:49:33 UTC",
+    "gh_updated": "2017-07-07 18:49:53 UTC",
     "gh_stars": 121,
     "gh_issues": 5,
     "gh_branch": "master",
@@ -3503,9 +3503,7 @@
     "gh_updated": "2017-05-14 16:23:12 UTC",
     "gh_stars": 54,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.e13b26b9-79fe-4be0-8d5b-816323eaf8ff",
-    "man_version": "0.1.2"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-proportional-replicator",
@@ -4556,16 +4554,7 @@
     "author": "Marcelino Llano",
     "title": "Sketch Review",
     "description": "Review designs using Emoji.",
-    "added": "2016-09-13 14:03:42 UTC",
-    "homepage": "https://github.com/marcelinollano/sketch-review",
-    "gh_url": "https://github.com/marcelinollano/sketch-review.git",
-    "gh_updated": "2016-09-12 22:48:30 UTC",
-    "gh_stars": 15,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.marcelinollano.review",
-    "man_version": "1.0",
-    "man_compatible_version": "39.1"
+    "added": "2016-09-13 14:03:42 UTC"
   },
   {
     "name": "Export-More",

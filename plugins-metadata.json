@@ -1087,7 +1087,7 @@
     "added": "2014-05-14 03:43:43 UTC",
     "gh_url": "https://github.com/rodi01/RenameIt.git",
     "gh_updated": "2018-10-08 17:00:18 UTC",
-    "gh_stars": 1198,
+    "gh_stars": 1199,
     "gh_issues": 24,
     "gh_branch": "master",
     "man_identifier": "com.taptap.ninja.rename-it",
@@ -3073,7 +3073,10 @@
     "gh_updated": "2015-11-18 23:56:43 UTC",
     "gh_stars": 13,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.maxnesto.sketch.watch-icon",
+    "man_version": "1.0",
+    "man_compatible_version": "3"
   },
   {
     "name": "colorpeek-sketch-plugin",
@@ -8141,7 +8144,7 @@
     "homepage": "https://github.com/mheesakkers/sketch-plugin-convert-to-grayscale",
     "gh_url": "https://github.com/mheesakkers/sketch-plugin-convert-to-grayscale.git",
     "gh_updated": "2018-10-11 18:55:51 UTC",
-    "gh_stars": 39,
+    "gh_stars": 40,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.mheesakkers.sketchplugins.converttograyscale",

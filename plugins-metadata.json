@@ -383,15 +383,7 @@
     "title": "Miaow",
     "description": "A set of plugins for Sketch include drawing links & marks, UI Kit & Color sync, font & text replacing.",
     "homepage": "https://github.com/weixin/Miaow",
-    "added": "2018-09-17 16:00:57 UTC",
-    "gh_url": "https://github.com/weixin/Miaow.git",
-    "gh_updated": "2018-10-19 09:26:32 UTC",
-    "gh_stars": 2327,
-    "gh_issues": 13,
-    "gh_branch": "master",
-    "man_identifier": "cn.wechat",
-    "man_version": "1.4.4",
-    "icon": "https://raw.githubusercontent.com/weixin/Miaow/master/WeSketch.sketchplugin/Contents/Resources/icon.png"
+    "added": "2018-09-17 16:00:57 UTC"
   },
   {
     "owner": null,
@@ -665,7 +657,7 @@
     "added": "2017-01-24 09:01:22 UTC",
     "homepage": "https://github.com/mludowise/Sketch-HTML-Export",
     "gh_url": "https://github.com/mludowise/Sketch-HTML-Export.git",
-    "gh_updated": "2017-07-07 18:49:53 UTC",
+    "gh_updated": "2017-07-07 18:49:33 UTC",
     "gh_stars": 121,
     "gh_issues": 5,
     "gh_branch": "master",
@@ -1466,15 +1458,7 @@
     "author": "Mikko Tapionlinna",
     "title": "Bookmark 🔖",
     "description": "Bookmark your place and zoom in Sketch.app",
-    "added": "2016-12-30 12:12:57 UTC",
-    "homepage": "https://github.com/Arkkimaagi/Bookmark",
-    "gh_url": "https://github.com/Arkkimaagi/Bookmark.git",
-    "gh_updated": "2017-06-20 13:45:39 UTC",
-    "gh_stars": 21,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.github.arkkimaagi.bookmark",
-    "man_version": "1.1.1"
+    "added": "2016-12-30 12:12:57 UTC"
   },
   {
     "name": "AEIconizer",
@@ -1522,9 +1506,7 @@
     "gh_updated": "2017-08-02 17:15:04 UTC",
     "gh_stars": 136,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.ichord.sketch.divine-proportions",
-    "man_version": "1.0.2"
+    "gh_branch": "master"
   },
   {
     "name": "RemoveAllGuides",
@@ -1968,7 +1950,7 @@
     "homepage": "https://github.com/preciousforever/data-populator",
     "gh_url": "https://github.com/preciousforever/data-populator.git",
     "gh_updated": "2018-10-28 15:08:00 UTC",
-    "gh_stars": 1497,
+    "gh_stars": 1498,
     "gh_issues": 24,
     "gh_branch": "master"
   },
@@ -2447,16 +2429,7 @@
     "author": "Andrew Fiorillo",
     "title": "Character Count",
     "description": "Sketch plugin to count number of characters in a text layer",
-    "added": "2015-09-04 09:06:23 UTC",
-    "homepage": "https://github.com/andrewfiorillo/sketch-character-count",
-    "gh_url": "https://github.com/andrewfiorillo/sketch-character-count.git",
-    "gh_updated": "2016-02-24 16:27:18 UTC",
-    "gh_stars": 22,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.andrewfiorillo.sketch.sketch-character-count",
-    "man_version": "1.0",
-    "man_compatible_version": "3"
+    "added": "2015-09-04 09:06:23 UTC"
   },
   {
     "name": "sketch-scrollmotion",
@@ -3503,7 +3476,9 @@
     "gh_updated": "2017-05-14 16:23:12 UTC",
     "gh_stars": 54,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.e13b26b9-79fe-4be0-8d5b-816323eaf8ff",
+    "man_version": "0.1.2"
   },
   {
     "name": "sketch-proportional-replicator",
@@ -4554,7 +4529,16 @@
     "author": "Marcelino Llano",
     "title": "Sketch Review",
     "description": "Review designs using Emoji.",
-    "added": "2016-09-13 14:03:42 UTC"
+    "added": "2016-09-13 14:03:42 UTC",
+    "homepage": "https://github.com/marcelinollano/sketch-review",
+    "gh_url": "https://github.com/marcelinollano/sketch-review.git",
+    "gh_updated": "2016-09-12 22:48:30 UTC",
+    "gh_stars": 15,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.marcelinollano.review",
+    "man_version": "1.0",
+    "man_compatible_version": "39.1"
   },
   {
     "name": "Export-More",
@@ -5289,15 +5273,7 @@
     "author": "Peach",
     "title": "Sketch Plugin Monster",
     "description": "A Sketch plugin for managing all plugin shortcuts.",
-    "added": "2017-02-20 14:12:05 UTC",
-    "homepage": "https://github.com/PeachScript/sketch-plugin-monster",
-    "gh_url": "https://github.com/PeachScript/sketch-plugin-monster.git",
-    "gh_updated": "2018-08-15 03:36:42 UTC",
-    "gh_stars": 133,
-    "gh_issues": 11,
-    "gh_branch": "master",
-    "man_identifier": "com.peachscript.pluginMonster",
-    "man_compatible_version": "3"
+    "added": "2017-02-20 14:12:05 UTC"
   },
   {
     "name": "RandomColors",
@@ -6510,12 +6486,12 @@
     "added": "2017-10-19 09:26:53 UTC",
     "homepage": "https://github.com/sonburn/symbol-swapper",
     "gh_url": "https://github.com/sonburn/symbol-swapper.git",
-    "gh_updated": "2018-10-15 17:54:43 UTC",
+    "gh_updated": "2018-10-29 19:16:50 UTC",
     "gh_stars": 112,
     "gh_issues": 12,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-swapper",
-    "man_version": "0.14",
+    "man_version": "0.15",
     "icon": "https://raw.githubusercontent.com/sonburn/symbol-swapper/master/Symbol%20Swapper.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -8084,8 +8060,7 @@
     "gh_updated": "2018-08-15 03:22:46 UTC",
     "gh_stars": 2,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "exporter",

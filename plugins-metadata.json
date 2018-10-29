@@ -1832,7 +1832,7 @@
     "added": "2015-02-09 16:26:22 UTC",
     "homepage": "https://github.com/PEZ/SketchDistributor",
     "gh_url": "https://github.com/PEZ/SketchDistributor.git",
-    "gh_updated": "2018-05-31 06:23:37 UTC",
+    "gh_updated": "2018-05-31 06:23:28 UTC",
     "gh_stars": 324,
     "gh_issues": 4,
     "gh_branch": "master",
@@ -5829,7 +5829,15 @@
     "author": "partyka1",
     "title": "Fontily",
     "description": "Sketch plugin for finding & replacing fonts for Sketch 3+",
-    "added": "2017-05-16 09:01:21 UTC"
+    "added": "2017-05-16 09:01:21 UTC",
+    "homepage": "https://github.com/partyka1/Fontily",
+    "gh_url": "https://github.com/partyka1/Fontily.git",
+    "gh_updated": "2016-12-29 06:35:13 UTC",
+    "gh_stars": 94,
+    "gh_issues": 3,
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.partyka.fontily",
+    "man_version": "1.1"
   },
   {
     "name": "sketch-copy-paste-layout-settings",
@@ -8029,7 +8037,7 @@
     "homepage": "https://kitchen.alipay.com/",
     "gh_url": "https://github.com/ant-design/kitchen.git",
     "gh_updated": "2018-10-12 03:53:43 UTC",
-    "gh_stars": 41,
+    "gh_stars": 42,
     "gh_issues": 1,
     "gh_branch": "master"
   },

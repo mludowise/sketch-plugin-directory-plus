@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-10-29 20:01:56 UTC
+Updated 2018-10-29 21:02:19 UTC
 
 Total plugins: 541
 
@@ -31,8 +31,6 @@ Total plugins: 541
 
 [LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) manifest.json contains extra commas
 
-**[weixin/Miaow](https://github.com/weixin/Miaow) has no repo**
-
 **/ has no repo**
 
 **[stark-contrast/stark-sketch-plugin](https://github.com/stark-contrast/stark-sketch-plugin) has no repo**
@@ -57,8 +55,6 @@ Total plugins: 541
 
 [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/Sketch-Set-Line-Height-Plugin) manifest.json contains extra commas
 
-**[Arkkimaagi/Bookmark](https://github.com/Arkkimaagi/Bookmark) has no repo**
-
 **[ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) manifest.json is missing identifier**
 
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
@@ -76,8 +72,6 @@ Total plugins: 541
 [hamidp/sketchtextsourcer](https://github.com/hamidp/sketchtextsourcer) manifest.json contains extra commas
 
 [jamztang/MagicMirror](https://github.com/jamztang/MagicMirror) manifest.json contains extra commas
-
-**[andrewfiorillo/sketch-character-count](https://github.com/andrewfiorillo/sketch-character-count) has no repo**
 
 [ozgurgunes/Sketch-Layer-Comps](https://github.com/ozgurgunes/Sketch-Layer-Comps) manifest.json contains extra commas
 
@@ -130,8 +124,6 @@ Total plugins: 541
 **[amin-nas/Sketch-to-Clickthrough-HTML](https://github.com/amin-nas/Sketch-to-Clickthrough-HTML) manifest.json is missing identifier**
 
 [maximedegreve/TinyFaces-Sketch-Plugin](https://github.com/maximedegreve/TinyFaces-Sketch-Plugin) manifest.json contains extra commas
-
-**[PeachScript/sketch-plugin-monster](https://github.com/PeachScript/sketch-plugin-monster) has no repo**
 
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
 
@@ -276,6 +268,8 @@ Total plugins: 541
 **[ant-design/kitchen](https://github.com/ant-design/kitchen) missing manifest.json**
 
 **/ has no repo**
+
+**[ziven27/Sketch-IconScope](https://github.com/ziven27/Sketch-IconScope) manifest.json is missing identifier**
 
 **[wantedly/sketch-wt-design](https://github.com/wantedly/sketch-wt-design) manifest.json is missing identifier**
 

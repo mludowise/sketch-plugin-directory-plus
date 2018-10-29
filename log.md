@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-10-29 14:02:26 UTC
+Updated 2018-10-29 15:01:49 UTC
 
 Total plugins: 541
 
@@ -186,6 +186,8 @@ Total plugins: 541
 **/ has no repo**
 
 **[ziven27/Sketch-topographic](https://github.com/ziven27/Sketch-topographic) manifest.json is missing identifier**
+
+**[pavelkuligin/chart](https://github.com/pavelkuligin/chart) missing manifest.json**
 
 **/ has no repo**
 

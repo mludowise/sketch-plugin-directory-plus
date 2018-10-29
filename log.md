@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-10-29 08:01:59 UTC
+Updated 2018-10-29 09:02:31 UTC
 
 Total plugins: 541
 
@@ -131,7 +131,7 @@ Total plugins: 541
 
 [Rezaaa/english-and-persian-lorem-ipsum](https://github.com/Rezaaa/english-and-persian-lorem-ipsum) manifest.json contains extra commas
 
-[partyka1/Fontily](https://github.com/partyka1/Fontily) manifest.json contains extra commas
+**[partyka1/Fontily](https://github.com/partyka1/Fontily) has no repo**
 
 [freeman990/Freeman-FinChart-SketchPlugin](https://github.com/freeman990/Freeman-FinChart-SketchPlugin) manifest.json contains extra commas
 

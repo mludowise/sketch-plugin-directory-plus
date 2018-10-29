@@ -383,7 +383,15 @@
     "title": "Miaow",
     "description": "A set of plugins for Sketch include drawing links & marks, UI Kit & Color sync, font & text replacing.",
     "homepage": "https://github.com/weixin/Miaow",
-    "added": "2018-09-17 16:00:57 UTC"
+    "added": "2018-09-17 16:00:57 UTC",
+    "gh_url": "https://github.com/weixin/Miaow.git",
+    "gh_updated": "2018-10-19 09:26:32 UTC",
+    "gh_stars": 2327,
+    "gh_issues": 13,
+    "gh_branch": "master",
+    "man_identifier": "cn.wechat",
+    "man_version": "1.4.4",
+    "icon": "https://raw.githubusercontent.com/weixin/Miaow/master/WeSketch.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "owner": null,
@@ -1458,7 +1466,15 @@
     "author": "Mikko Tapionlinna",
     "title": "Bookmark 🔖",
     "description": "Bookmark your place and zoom in Sketch.app",
-    "added": "2016-12-30 12:12:57 UTC"
+    "added": "2016-12-30 12:12:57 UTC",
+    "homepage": "https://github.com/Arkkimaagi/Bookmark",
+    "gh_url": "https://github.com/Arkkimaagi/Bookmark.git",
+    "gh_updated": "2017-06-20 13:45:39 UTC",
+    "gh_stars": 21,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.github.arkkimaagi.bookmark",
+    "man_version": "1.1.1"
   },
   {
     "name": "AEIconizer",
@@ -1506,7 +1522,9 @@
     "gh_updated": "2017-08-02 17:15:04 UTC",
     "gh_stars": 136,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.ichord.sketch.divine-proportions",
+    "man_version": "1.0.2"
   },
   {
     "name": "RemoveAllGuides",
@@ -2429,7 +2447,16 @@
     "author": "Andrew Fiorillo",
     "title": "Character Count",
     "description": "Sketch plugin to count number of characters in a text layer",
-    "added": "2015-09-04 09:06:23 UTC"
+    "added": "2015-09-04 09:06:23 UTC",
+    "homepage": "https://github.com/andrewfiorillo/sketch-character-count",
+    "gh_url": "https://github.com/andrewfiorillo/sketch-character-count.git",
+    "gh_updated": "2016-02-24 16:27:18 UTC",
+    "gh_stars": 22,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.andrewfiorillo.sketch.sketch-character-count",
+    "man_version": "1.0",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-scrollmotion",
@@ -5273,7 +5300,15 @@
     "author": "Peach",
     "title": "Sketch Plugin Monster",
     "description": "A Sketch plugin for managing all plugin shortcuts.",
-    "added": "2017-02-20 14:12:05 UTC"
+    "added": "2017-02-20 14:12:05 UTC",
+    "homepage": "https://github.com/PeachScript/sketch-plugin-monster",
+    "gh_url": "https://github.com/PeachScript/sketch-plugin-monster.git",
+    "gh_updated": "2018-08-15 03:36:42 UTC",
+    "gh_stars": 133,
+    "gh_issues": 11,
+    "gh_branch": "master",
+    "man_identifier": "com.peachscript.pluginMonster",
+    "man_compatible_version": "3"
   },
   {
     "name": "RandomColors",
@@ -8060,7 +8095,8 @@
     "gh_updated": "2018-08-15 03:22:46 UTC",
     "gh_stars": 2,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   },
   {
     "name": "exporter",

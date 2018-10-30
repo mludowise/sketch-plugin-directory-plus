@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-10-30 22:01:52 UTC
+Updated 2018-10-30 23:01:36 UTC
 
 Total plugins: 541
 
@@ -51,6 +51,8 @@ Total plugins: 541
 
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
 
+[getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) manifest.json contains extra commas
+
 [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/Sketch-Set-Line-Height-Plugin) manifest.json contains extra commas
 
 **[ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) manifest.json is missing identifier**
@@ -69,7 +71,7 @@ Total plugins: 541
 
 [hamidp/sketchtextsourcer](https://github.com/hamidp/sketchtextsourcer) manifest.json contains extra commas
 
-**[jamztang/MagicMirror](https://github.com/jamztang/MagicMirror) has no repo**
+[jamztang/MagicMirror](https://github.com/jamztang/MagicMirror) manifest.json contains extra commas
 
 [ozgurgunes/Sketch-Layer-Comps](https://github.com/ozgurgunes/Sketch-Layer-Comps) manifest.json contains extra commas
 
@@ -98,8 +100,6 @@ Total plugins: 541
 **vmdanilov/ has no repo**
 
 [kylehickinson/Sketch-SF-UI-Font-Fixer](https://github.com/kylehickinson/Sketch-SF-UI-Font-Fixer) manifest.json contains extra commas
-
-**[keremciu/sketch-repeat](https://github.com/keremciu/sketch-repeat) has no repo**
 
 **Atomic.io/ has no repo**
 
@@ -146,8 +146,6 @@ Total plugins: 541
 **[Iconscout/logodrop](https://github.com/Iconscout/logodrop) manifest.json is missing identifier**
 
 [Reinvently/moodboards-sketch-plugin](https://github.com/Reinvently/moodboards-sketch-plugin) manifest.json contains extra commas
-
-**[doubco/sketchplugin-align-artboards](https://github.com/doubco/sketchplugin-align-artboards) missing manifest.json**
 
 **Smartling/ has no repo**
 

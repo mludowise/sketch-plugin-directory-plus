@@ -1437,7 +1437,7 @@
     "homepage": "https://github.com/getflourish/Sketch-Style-Inventory",
     "gh_url": "https://github.com/getflourish/Sketch-Style-Inventory.git",
     "gh_updated": "2018-04-14 11:55:42 UTC",
-    "gh_stars": 1838,
+    "gh_stars": 1839,
     "gh_issues": 29,
     "gh_branch": "master",
     "man_identifier": "com.getflourish.sketch.styleinventory",
@@ -2969,12 +2969,9 @@
     "homepage": "https://github.com/swiadek/pixel-perfecter-sketch-plugin",
     "gh_url": "https://github.com/swiadek/pixel-perfecter-sketch-plugin.git",
     "gh_updated": "2018-05-30 20:18:17 UTC",
-    "gh_stars": 255,
+    "gh_stars": 256,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "com.swiadek.sketch.pixel-perfecter",
-    "man_version": "1.2",
-    "man_compatible_version": "3.4"
+    "gh_branch": "master"
   },
   {
     "name": "fluid-for-sketch",

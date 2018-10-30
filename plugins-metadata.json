@@ -8600,12 +8600,12 @@
     "homepage": "https://github.com/Ashung/Sketch-Stuffing",
     "added": "2018-10-25 19:01:32 UTC",
     "gh_url": "https://github.com/Ashung/Sketch-Stuffing.git",
-    "gh_updated": "2018-10-29 13:29:10 UTC",
+    "gh_updated": "2018-10-30 12:51:18 UTC",
     "gh_stars": 11,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.stuffing",
-    "man_version": "1.1.0",
+    "man_version": "1.2.0",
     "man_compatible_version": "3"
   }
 ]

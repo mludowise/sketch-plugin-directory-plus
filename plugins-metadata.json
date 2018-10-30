@@ -332,7 +332,16 @@
     "title": "Single Border",
     "description": "Add single borders with advanced controls.",
     "homepage": "https://github.com/sureskumar/single-border",
-    "added": "2017-07-07 20:01:16 UTC"
+    "added": "2017-07-07 20:01:16 UTC",
+    "gh_url": "https://github.com/sureskumar/single-border.git",
+    "gh_updated": "2018-10-03 21:09:41 UTC",
+    "gh_stars": 86,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.sureskumar.singleborder",
+    "man_version": "1.6.0",
+    "man_compatible_version": "52.0",
+    "icon": "https://raw.githubusercontent.com/sureskumar/single-border/master/Single-Border.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "sketch-neo-preview",
@@ -3850,7 +3859,14 @@
     "title": "SVGO Compressor",
     "description": "A Plugin that compresses SVG assets using SVGO, right when you export them. This Plugin requires Sketch 3.8.",
     "homepage": "https://sketchapp.com/extensions/plugins/svgo-compressor/",
-    "added": "2016-05-31 15:16:43 UTC"
+    "added": "2016-05-31 15:16:43 UTC",
+    "gh_url": "https://github.com/BohemianCoding/svgo-compressor.git",
+    "gh_updated": "2018-10-20 14:43:52 UTC",
+    "gh_stars": 922,
+    "gh_issues": 8,
+    "gh_branch": "develop",
+    "man_identifier": "com.sketchapp.plugins.svgo-compressor",
+    "man_compatible_version": "3.8"
   },
   {
     "name": "ScreenFork",
@@ -5455,7 +5471,7 @@
     "added": "2017-03-15 10:07:31 UTC",
     "gh_url": "https://github.com/lucaorio/sketch-styles-generator.git",
     "gh_updated": "2018-10-06 02:31:16 UTC",
-    "gh_stars": 375,
+    "gh_stars": 376,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.sketch.styles.generator",
@@ -5571,7 +5587,7 @@
     "homepage": "https://github.com/finchalyzer/slinky",
     "gh_url": "https://github.com/finchalyzer/slinky.git",
     "gh_updated": "2017-12-04 14:27:29 UTC",
-    "gh_stars": 554,
+    "gh_stars": 555,
     "gh_issues": 17,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.slinky-plugin",
@@ -5583,16 +5599,7 @@
     "author": "Jakub Juszczak",
     "title": "FlipSize",
     "description": "Flip the size of any artboard or shape",
-    "added": "2017-04-04 19:36:18 UTC",
-    "homepage": "https://github.com/apertureless/sketch-flip-size",
-    "gh_url": "https://github.com/apertureless/sketch-flip-size.git",
-    "gh_updated": "2018-07-16 10:09:42 UTC",
-    "gh_stars": 18,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "de.apertureless.sketch-flip-size",
-    "man_version": "1.1.1",
-    "man_compatible_version": "41.0.0"
+    "added": "2017-04-04 19:36:18 UTC"
   },
   {
     "name": "english-and-persian-lorem-ipsum",
@@ -6642,7 +6649,7 @@
     "homepage": "https://github.com/aparajita/sketch-style-master",
     "gh_url": "https://github.com/aparajita/sketch-style-master.git",
     "gh_updated": "2018-06-10 20:23:39 UTC",
-    "gh_stars": 125,
+    "gh_stars": 126,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.aparajita.style-master",
@@ -6873,7 +6880,10 @@
     "gh_updated": "2018-10-09 18:37:45 UTC",
     "gh_stars": 713,
     "gh_issues": 8,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.amoreaux.sketch-icons",
+    "man_version": "5.0.0",
+    "man_compatible_version": "47"
   },
   {
     "owner": null,
@@ -7690,7 +7700,7 @@
     "added": "2018-05-07 10:02:23 UTC",
     "gh_url": "https://github.com/romannurik/Sketch-Stickers.git",
     "gh_updated": "2018-10-17 19:53:24 UTC",
-    "gh_stars": 117,
+    "gh_stars": 118,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.stickers",

@@ -321,9 +321,7 @@
     "gh_updated": "2018-05-22 13:51:14 UTC",
     "gh_stars": 532,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "co.awkward.alembic",
-    "man_version": "1.1.1"
+    "gh_branch": "master"
   },
   {
     "name": "single-border",
@@ -1389,10 +1387,7 @@
     "gh_updated": "2018-02-22 08:09:16 UTC",
     "gh_stars": 638,
     "gh_issues": 9,
-    "gh_branch": "master",
-    "man_identifier": "com.getflourish.sketch.colorcontrastanalyser",
-    "man_version": "2.0",
-    "man_compatible_version": "4"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Set-Line-Height-Plugin",
@@ -1764,7 +1759,7 @@
     "added": "2015-01-22 09:53:53 UTC",
     "homepage": "https://github.com/delighted/sketch-pull-to-center",
     "gh_url": "https://github.com/delighted/sketch-pull-to-center.git",
-    "gh_updated": "2018-05-22 20:57:49 UTC",
+    "gh_updated": "2018-05-22 20:58:00 UTC",
     "gh_stars": 20,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -2296,15 +2291,7 @@
     "title": "Magic Mirror",
     "description": "Perspective Transformation for Sketch Artboards",
     "homepage": "http://magicmirror.design",
-    "added": "2015-08-05 03:01:56 UTC",
-    "gh_url": "https://github.com/MagicSketch/MagicMirror.git",
-    "gh_updated": "2018-10-14 18:50:48 UTC",
-    "gh_stars": 471,
-    "gh_issues": 35,
-    "gh_branch": "master",
-    "man_identifier": "design.magicmirror",
-    "man_version": "2.0.9.4",
-    "man_compatible_version": "40"
+    "added": "2015-08-05 03:01:56 UTC"
   },
   {
     "name": "SketchExportForRepliaPlugin",
@@ -4030,15 +4017,7 @@
     "author": "Kerem Sevencan",
     "title": "Sketch Repeat",
     "description": "This plugin helps you easily duplicate your objects to all Artboards.",
-    "added": "2016-07-07 14:15:27 UTC",
-    "homepage": "https://github.com/keremciu/sketch-repeat",
-    "gh_url": "https://github.com/keremciu/sketch-repeat.git",
-    "gh_updated": "2016-07-07 14:17:40 UTC",
-    "gh_stars": 24,
-    "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.keremciu.sketch.duplicate",
-    "man_version": "0.1.0"
+    "added": "2016-07-07 14:15:27 UTC"
   },
   {
     "name": "Todo-Sketch-Plugin",
@@ -6176,9 +6155,7 @@
     "gh_updated": "2017-05-25 15:13:45 UTC",
     "gh_stars": 49,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.doubco.sketch.align-artboards",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "icondrop",
@@ -7371,11 +7348,7 @@
     "gh_updated": "2018-05-31 06:59:13 UTC",
     "gh_stars": 5,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.golmakov.sketch-hyphenator",
-    "man_version": "0.1.2",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/golmakov/sketch-hyphenator/master/sketch-hyphenator.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "polaris-telescope",

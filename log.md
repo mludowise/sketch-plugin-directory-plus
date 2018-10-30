@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-10-30 16:00:25 UTC
+Updated 2018-10-30 17:01:32 UTC
 
 Total plugins: 541
 
@@ -129,8 +129,6 @@ Total plugins: 541
 
 [finchalyzer/slinky](https://github.com/finchalyzer/slinky) manifest.json contains extra commas
 
-**[apertureless/sketch-flip-size](https://github.com/apertureless/sketch-flip-size) has no repo**
-
 [Rezaaa/english-and-persian-lorem-ipsum](https://github.com/Rezaaa/english-and-persian-lorem-ipsum) manifest.json contains extra commas
 
 [partyka1/Fontily](https://github.com/partyka1/Fontily) manifest.json contains extra commas
@@ -189,6 +187,8 @@ Total plugins: 541
 
 **[ziven27/Sketch-topographic](https://github.com/ziven27/Sketch-topographic) manifest.json is missing identifier**
 
+**[yusukesaitoh/sketch-select-same-symbols](https://github.com/yusukesaitoh/sketch-select-same-symbols) has no repo**
+
 **/ has no repo**
 
 **[fhuel/DeepSelect](https://github.com/fhuel/DeepSelect) manifest.json is missing identifier**
@@ -196,6 +196,8 @@ Total plugins: 541
 **[reqfire/sketch-user-flows](https://github.com/reqfire/sketch-user-flows) manifest.json is missing identifier**
 
 [kupe517/sketch-split-shape](https://github.com/kupe517/sketch-split-shape) manifest.json contains extra commas
+
+**[MengTo/Angle-Sketch-Plugin](https://github.com/MengTo/Angle-Sketch-Plugin) missing manifest.json**
 
 **[sergeishere/handymenu-sketchplugin](https://github.com/sergeishere/handymenu-sketchplugin) owner and name correspond to multiple plugins**
 

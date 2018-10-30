@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-10-30 17:01:32 UTC
+Updated 2018-10-30 18:02:06 UTC
 
 Total plugins: 541
 
@@ -187,8 +187,6 @@ Total plugins: 541
 
 **[ziven27/Sketch-topographic](https://github.com/ziven27/Sketch-topographic) manifest.json is missing identifier**
 
-**[yusukesaitoh/sketch-select-same-symbols](https://github.com/yusukesaitoh/sketch-select-same-symbols) has no repo**
-
 **/ has no repo**
 
 **[fhuel/DeepSelect](https://github.com/fhuel/DeepSelect) manifest.json is missing identifier**
@@ -196,8 +194,6 @@ Total plugins: 541
 **[reqfire/sketch-user-flows](https://github.com/reqfire/sketch-user-flows) manifest.json is missing identifier**
 
 [kupe517/sketch-split-shape](https://github.com/kupe517/sketch-split-shape) manifest.json contains extra commas
-
-**[MengTo/Angle-Sketch-Plugin](https://github.com/MengTo/Angle-Sketch-Plugin) missing manifest.json**
 
 **[sergeishere/handymenu-sketchplugin](https://github.com/sergeishere/handymenu-sketchplugin) owner and name correspond to multiple plugins**
 

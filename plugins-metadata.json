@@ -1123,7 +1123,7 @@
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
     "gh_stars": 6067,
-    "gh_issues": 243,
+    "gh_issues": 244,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.7.7"
@@ -1968,7 +1968,7 @@
     "homepage": "https://github.com/preciousforever/data-populator",
     "gh_url": "https://github.com/preciousforever/data-populator.git",
     "gh_updated": "2018-10-28 15:08:00 UTC",
-    "gh_stars": 1498,
+    "gh_stars": 1499,
     "gh_issues": 24,
     "gh_branch": "master"
   },
@@ -4625,7 +4625,7 @@
     "homepage": "https://github.com/sonburn/symbol-organizer",
     "gh_url": "https://github.com/sonburn/symbol-organizer.git",
     "gh_updated": "2018-10-16 13:25:48 UTC",
-    "gh_stars": 642,
+    "gh_stars": 643,
     "gh_issues": 28,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-organizer",

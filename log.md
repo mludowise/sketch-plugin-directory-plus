@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-10-30 15:02:04 UTC
+Updated 2018-10-30 16:00:25 UTC
 
 Total plugins: 541
 
@@ -30,8 +30,6 @@ Total plugins: 541
 **[udi-gindi/sendTo](https://github.com/udi-gindi/sendTo) manifest.json is missing identifier**
 
 [LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) manifest.json contains extra commas
-
-**[sureskumar/single-border](https://github.com/sureskumar/single-border) has no repo**
 
 **/ has no repo**
 
@@ -97,8 +95,6 @@ Total plugins: 541
 
 [MagicSketch/MagicPresenter](https://github.com/MagicSketch/MagicPresenter) manifest.json contains extra commas
 
-**[BohemianCoding/svgo-compressor](https://github.com/BohemianCoding/svgo-compressor) has no repo**
-
 [screenfork/ScreenFork](https://github.com/screenfork/ScreenFork) manifest.json contains extra commas
 
 **vmdanilov/ has no repo**
@@ -132,6 +128,8 @@ Total plugins: 541
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
 
 [finchalyzer/slinky](https://github.com/finchalyzer/slinky) manifest.json contains extra commas
+
+**[apertureless/sketch-flip-size](https://github.com/apertureless/sketch-flip-size) has no repo**
 
 [Rezaaa/english-and-persian-lorem-ipsum](https://github.com/Rezaaa/english-and-persian-lorem-ipsum) manifest.json contains extra commas
 

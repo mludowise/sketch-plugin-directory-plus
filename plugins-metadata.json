@@ -2971,7 +2971,10 @@
     "gh_updated": "2018-05-30 20:18:17 UTC",
     "gh_stars": 256,
     "gh_issues": 3,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.swiadek.sketch.pixel-perfecter",
+    "man_version": "1.2",
+    "man_compatible_version": "3.4"
   },
   {
     "name": "fluid-for-sketch",

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-10-31 16:02:36 UTC
+Updated 2018-10-31 17:00:59 UTC
 
 Total plugins: 541
 
@@ -31,8 +31,6 @@ Total plugins: 541
 
 [LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) manifest.json contains extra commas
 
-**[alanfraneo/sketch-neo-preview](https://github.com/alanfraneo/sketch-neo-preview) has no repo**
-
 **/ has no repo**
 
 **[stark-contrast/stark-sketch-plugin](https://github.com/stark-contrast/stark-sketch-plugin) has no repo**
@@ -52,8 +50,6 @@ Total plugins: 541
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
 
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
-
-**[littlebusters/Regexp-Rename](https://github.com/littlebusters/Regexp-Rename) has no repo**
 
 [getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) manifest.json contains extra commas
 

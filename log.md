@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-10-31 14:02:10 UTC
+Updated 2018-10-31 15:02:01 UTC
 
 Total plugins: 541
 
@@ -160,8 +160,6 @@ Total plugins: 541
 **[mcansh/squash-sketchplugin](https://github.com/mcansh/squash-sketchplugin) manifest.json is missing identifier**
 
 **[mcansh/sketch-find-all-instances-of-symbol](https://github.com/mcansh/sketch-find-all-instances-of-symbol) manifest.json is missing identifier**
-
-**[sketch-symbol-importer/sketch-symbol-importer](https://github.com/sketch-symbol-importer/sketch-symbol-importer) has no repo**
 
 **/ has no repo**
 

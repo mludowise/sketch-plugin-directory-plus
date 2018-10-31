@@ -1937,10 +1937,7 @@
     "gh_updated": "2018-05-09 16:22:50 UTC",
     "gh_stars": 61,
     "gh_issues": 5,
-    "gh_branch": "master",
-    "man_identifier": "io.kolo.sketch.utility-belt",
-    "man_version": "1.50.0",
-    "man_compatible_version": "48"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-bounding-boxer",
@@ -5671,7 +5668,10 @@
     "gh_updated": "2018-10-29 16:17:05 UTC",
     "gh_stars": 54,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "bootstrap.grid",
+    "man_version": "1.1",
+    "icon": "https://raw.githubusercontent.com/De-La-Vega/BootstrapGrid/master/Bootstrap%20grid.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "texts_translate",
@@ -5865,7 +5865,7 @@
     "gh_url": "https://github.com/joshdjuric/Skatter.git",
     "gh_updated": "2018-01-10 17:00:37 UTC",
     "gh_stars": 105,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.Skatter",
     "man_version": "1.0.4"
@@ -8104,12 +8104,12 @@
     "added": "2018-07-17 09:02:33 UTC",
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
-    "gh_updated": "2018-10-26 12:02:12 UTC",
+    "gh_updated": "2018-10-31 11:29:14 UTC",
     "gh_stars": 28,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.cloudblue.sketch.exporter",
-    "man_version": "3.1.0",
+    "man_version": "3.2.0",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/MaxBazarov/exporter/master/Exporter.sketchplugin/Contents/Resources/icon.png"
   },
@@ -8597,7 +8597,7 @@
     "homepage": "https://github.com/Ashung/Sketch-Stuffing",
     "added": "2018-10-25 19:01:32 UTC",
     "gh_url": "https://github.com/Ashung/Sketch-Stuffing.git",
-    "gh_updated": "2018-10-30 17:19:53 UTC",
+    "gh_updated": "2018-10-31 12:02:31 UTC",
     "gh_stars": 12,
     "gh_issues": 0,
     "gh_branch": "master",

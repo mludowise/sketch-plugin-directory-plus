@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-11-05 16:01:18 UTC
+Updated 2018-11-05 17:01:40 UTC
 
 Total plugins: 541
 
@@ -16,8 +16,6 @@ Total plugins: 541
 **[wwsun/fusion-cool](https://github.com/wwsun/fusion-cool) has no repo**
 
 **/ has no repo**
-
-**[wix-incubator/sketch-symbol-legend](https://github.com/wix-incubator/sketch-symbol-legend) missing manifest.json**
 
 **/ has no repo**
 

@@ -114,9 +114,7 @@
     "gh_updated": "2018-05-23 09:42:25 UTC",
     "gh_stars": 5,
     "gh_issues": 6,
-    "gh_branch": "master",
-    "man_identifier": "com.fed-infra.legend-plugin",
-    "man_version": "2.0.0"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-isometric",

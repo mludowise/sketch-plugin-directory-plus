@@ -2436,7 +2436,10 @@
     "gh_updated": "2018-10-26 08:59:58 UTC",
     "gh_stars": 133,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "de.funkreich.sketch.logo-fetcher",
+    "man_version": "0.5.6",
+    "man_compatible_version": "3.8.3"
   },
   {
     "name": "sketch-character-count",
@@ -5864,7 +5867,7 @@
     "homepage": "https://github.com/joshdjuric/Skatter",
     "gh_url": "https://github.com/joshdjuric/Skatter.git",
     "gh_updated": "2018-01-10 17:00:37 UTC",
-    "gh_stars": 105,
+    "gh_stars": 106,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.Skatter",

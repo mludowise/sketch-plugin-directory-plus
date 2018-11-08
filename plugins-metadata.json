@@ -114,7 +114,9 @@
     "gh_updated": "2018-05-23 09:42:25 UTC",
     "gh_stars": 5,
     "gh_issues": 6,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.fed-infra.legend-plugin",
+    "man_version": "2.0.0"
   },
   {
     "name": "sketch-isometric",
@@ -3102,7 +3104,7 @@
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
     "gh_updated": "2018-11-08 11:43:21 UTC",
-    "gh_stars": 473,
+    "gh_stars": 474,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
@@ -6725,7 +6727,7 @@
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2018-10-25 11:59:33 UTC",
-    "gh_stars": 129,
+    "gh_stars": 130,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_compatible_version": "50"
@@ -8533,7 +8535,7 @@
     "added": "2018-10-19 17:02:33 UTC",
     "gh_url": "https://github.com/reeli/sketch-svg-to-react-component.git",
     "gh_updated": "2018-10-23 07:15:34 UTC",
-    "gh_stars": 2,
+    "gh_stars": 3,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

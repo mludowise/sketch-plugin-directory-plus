@@ -1918,7 +1918,7 @@
     "gh_url": "https://github.com/abynim/UserFlows.git",
     "gh_updated": "2018-11-07 02:17:48 UTC",
     "gh_stars": 1355,
-    "gh_issues": 50,
+    "gh_issues": 51,
     "gh_branch": "v2",
     "man_identifier": "com.abynim.sketchplugins.userflows",
     "man_version": "2.3.2",
@@ -1951,12 +1951,12 @@
     "added": "2017-01-09 14:28:43 UTC",
     "homepage": "https://github.com/preciousforever/sketch-bounding-boxer",
     "gh_url": "https://github.com/preciousforever/sketch-bounding-boxer.git",
-    "gh_updated": "2018-11-08 07:47:50 UTC",
+    "gh_updated": "2018-11-08 08:35:13 UTC",
     "gh_stars": 55,
     "gh_issues": 10,
     "gh_branch": "master",
     "man_identifier": "com.precious-forever.sketch.boundingboxer",
-    "man_version": "1.1.0"
+    "man_version": "1.1.1"
   },
   {
     "name": "sketch-data-populator",
@@ -3104,7 +3104,7 @@
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
     "gh_updated": "2018-10-25 11:58:54 UTC",
-    "gh_stars": 470,
+    "gh_stars": 471,
     "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
@@ -4311,12 +4311,12 @@
     "added": "2016-08-22 09:17:59 UTC",
     "homepage": "http://www.textstyl.es/",
     "gh_url": "https://github.com/nilshoenson/shared-text-styles.git",
-    "gh_updated": "2018-11-02 17:31:51 UTC",
+    "gh_updated": "2018-11-08 09:02:39 UTC",
     "gh_stars": 292,
     "gh_issues": 11,
     "gh_branch": "master",
     "man_identifier": "com.nilshoenson.sketch.shared-text-styles",
-    "man_version": "1.8",
+    "man_version": "1.8.1",
     "man_compatible_version": "52"
   },
   {

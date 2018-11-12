@@ -8145,7 +8145,7 @@
     "gh_url": "https://github.com/mheesakkers/sketch-plugin-convert-to-grayscale.git",
     "gh_updated": "2018-10-11 18:55:51 UTC",
     "gh_stars": 40,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.mheesakkers.sketchplugins.converttograyscale",
     "man_version": "1.3",

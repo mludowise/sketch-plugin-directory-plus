@@ -1122,7 +1122,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6096,
+    "gh_stars": 6097,
     "gh_issues": 248,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -6994,7 +6994,7 @@
     "gh_url": "https://github.com/pavelkuligin/chart.git",
     "gh_updated": "2018-11-08 15:43:48 UTC",
     "gh_stars": 836,
-    "gh_issues": 3,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.examples.chart",
     "man_version": "4.3.0",
@@ -8038,7 +8038,7 @@
     "gh_url": "https://github.com/ant-design/kitchen.git",
     "gh_updated": "2018-10-12 03:53:43 UTC",
     "gh_stars": 44,
-    "gh_issues": 3,
+    "gh_issues": 4,
     "gh_branch": "master"
   },
   {

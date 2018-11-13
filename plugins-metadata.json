@@ -299,15 +299,7 @@
     "title": "Chain",
     "description": "Dynamic color relations in Sketch.",
     "homepage": "https://lalomrtnz.github.io/Chain/",
-    "added": "2017-07-27 07:10:39 UTC",
-    "gh_url": "https://github.com/lalomts/Chain.git",
-    "gh_updated": "2017-08-18 23:35:25 UTC",
-    "gh_stars": 346,
-    "gh_issues": 7,
-    "gh_branch": "master",
-    "man_identifier": "com.lalomrtnz.sketch.chain",
-    "man_version": "0.9.2",
-    "man_compatible_version": "42"
+    "added": "2017-07-27 07:10:39 UTC"
   },
   {
     "name": "Alembic",
@@ -431,7 +423,10 @@
     "gh_updated": "2018-10-03 21:54:39 UTC",
     "gh_stars": 56,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sureskumar.supershapes",
+    "man_version": "2.1.0",
+    "man_compatible_version": "52.0"
   },
   {
     "name": "symbol-spacer-sketch-plugin",
@@ -1250,7 +1245,7 @@
     "added": "2017-01-09 16:07:05 UTC",
     "homepage": "https://github.com/littlebusters/Switch-Text-Spacing",
     "gh_url": "https://github.com/littlebusters/Switch-Text-Spacing.git",
-    "gh_updated": "2017-06-13 14:35:10 UTC",
+    "gh_updated": "2017-06-13 14:33:48 UTC",
     "gh_stars": 8,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -8034,7 +8029,7 @@
     "homepage": "https://kitchen.alipay.com/",
     "gh_url": "https://github.com/ant-design/kitchen.git",
     "gh_updated": "2018-11-13 14:23:37 UTC",
-    "gh_stars": 44,
+    "gh_stars": 45,
     "gh_issues": 4,
     "gh_branch": "master"
   },

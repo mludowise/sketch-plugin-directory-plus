@@ -1816,7 +1816,7 @@
     "homepage": "https://github.com/getflourish/Sketch-Mate",
     "gh_url": "https://github.com/getflourish/Sketch-Mate.git",
     "gh_updated": "2017-07-28 14:23:19 UTC",
-    "gh_stars": 491,
+    "gh_stars": 492,
     "gh_issues": 20,
     "gh_branch": "master",
     "man_identifier": "com.getflourish.sketch.mate",
@@ -3304,7 +3304,9 @@
     "gh_updated": "2017-05-06 21:08:23 UTC",
     "gh_stars": 37,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.sketch-bound-with-box",
+    "man_version": "1.5"
   },
   {
     "name": "Clipboard-Fill",
@@ -8566,7 +8568,7 @@
     "added": "2018-10-25 19:01:32 UTC",
     "gh_url": "https://github.com/smallmultiples/sketch-chippencharts.git",
     "gh_updated": "2018-10-30 23:11:43 UTC",
-    "gh_stars": 5,
+    "gh_stars": 6,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "Chippen charts",

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-11-13 19:00:17 UTC
+Updated 2018-11-13 20:01:59 UTC
 
 Total plugins: 541
 
@@ -21,17 +21,17 @@ Total plugins: 541
 
 **/ has no repo**
 
+**[cranksoftwaredev/SketchPlugins](https://github.com/cranksoftwaredev/SketchPlugins) missing manifest.json**
+
 **/ has no repo**
 
 **[mjkaufer/smudge](https://github.com/mjkaufer/smudge) manifest.json is missing identifier**
 
 **[udi-gindi/sendTo](https://github.com/udi-gindi/sendTo) manifest.json is missing identifier**
 
-[LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) manifest.json contains extra commas
+**[LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) has no repo**
 
 **/ has no repo**
-
-**[sureskumar/super-shapes](https://github.com/sureskumar/super-shapes) missing manifest.json**
 
 **[stark-contrast/stark-sketch-plugin](https://github.com/stark-contrast/stark-sketch-plugin) has no repo**
 

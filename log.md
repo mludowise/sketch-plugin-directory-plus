@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-11-13 15:01:30 UTC
+Updated 2018-11-13 16:02:51 UTC
 
 Total plugins: 541
 
@@ -82,6 +82,8 @@ Total plugins: 541
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 
 [AntonioJMartinez/sketch-ImageAverageColor](https://github.com/AntonioJMartinez/sketch-ImageAverageColor) manifest.json contains extra commas
+
+**[lewishowles/sketch-bound-with-box](https://github.com/lewishowles/sketch-bound-with-box) missing manifest.json**
 
 [ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
 

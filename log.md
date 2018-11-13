@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-11-13 20:01:59 UTC
+Updated 2018-11-13 21:01:06 UTC
 
 Total plugins: 541
 
@@ -29,7 +29,7 @@ Total plugins: 541
 
 **[udi-gindi/sendTo](https://github.com/udi-gindi/sendTo) manifest.json is missing identifier**
 
-**[LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) has no repo**
+[LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) manifest.json contains extra commas
 
 **/ has no repo**
 

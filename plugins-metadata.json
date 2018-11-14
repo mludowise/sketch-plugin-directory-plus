@@ -164,7 +164,10 @@
     "gh_updated": "2018-09-21 06:56:18 UTC",
     "gh_stars": 14,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "at.demblin.sketch-bootstrap-helpers",
+    "man_version": "0.1.1",
+    "man_compatible_version": "4.5"
   },
   {
     "name": "SketchPlugins",
@@ -1119,7 +1122,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6102,
+    "gh_stars": 6103,
     "gh_issues": 249,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -3859,7 +3862,7 @@
     "added": "2016-05-31 15:16:43 UTC",
     "gh_url": "https://github.com/BohemianCoding/svgo-compressor.git",
     "gh_updated": "2018-10-20 14:43:52 UTC",
-    "gh_stars": 929,
+    "gh_stars": 930,
     "gh_issues": 8,
     "gh_branch": "develop",
     "man_identifier": "com.sketchapp.plugins.svgo-compressor",

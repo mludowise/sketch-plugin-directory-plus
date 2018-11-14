@@ -1835,9 +1835,7 @@
     "gh_updated": "2018-05-31 06:23:28 UTC",
     "gh_stars": 326,
     "gh_issues": 4,
-    "gh_branch": "master",
-    "man_identifier": "com.betterthantomorrow.sketch.distributor",
-    "man_version": "1.2.2"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-storyboard",

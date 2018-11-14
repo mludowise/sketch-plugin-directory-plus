@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-11-14 17:01:47 UTC
+Updated 2018-11-14 18:01:18 UTC
 
 Total plugins: 541
 
@@ -20,6 +20,8 @@ Total plugins: 541
 **/ has no repo**
 
 **/ has no repo**
+
+**[konki-vienna/sketch-bootstrap-helpers](https://github.com/konki-vienna/sketch-bootstrap-helpers) missing manifest.json**
 
 **[cranksoftwaredev/SketchPlugins](https://github.com/cranksoftwaredev/SketchPlugins) missing manifest.json**
 
@@ -82,8 +84,6 @@ Total plugins: 541
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 
 [AntonioJMartinez/sketch-ImageAverageColor](https://github.com/AntonioJMartinez/sketch-ImageAverageColor) manifest.json contains extra commas
-
-**[nefaurk/select-parent-artboards](https://github.com/nefaurk/select-parent-artboards) missing manifest.json**
 
 [ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
 

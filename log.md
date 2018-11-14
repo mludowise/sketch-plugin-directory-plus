@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-11-14 18:01:18 UTC
+Updated 2018-11-14 19:01:22 UTC
 
 Total plugins: 541
 
@@ -20,8 +20,6 @@ Total plugins: 541
 **/ has no repo**
 
 **/ has no repo**
-
-**[konki-vienna/sketch-bootstrap-helpers](https://github.com/konki-vienna/sketch-bootstrap-helpers) missing manifest.json**
 
 **[cranksoftwaredev/SketchPlugins](https://github.com/cranksoftwaredev/SketchPlugins) missing manifest.json**
 

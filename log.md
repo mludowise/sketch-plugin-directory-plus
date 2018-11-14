@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-11-14 16:01:40 UTC
+Updated 2018-11-14 17:01:47 UTC
 
 Total plugins: 541
 
@@ -61,8 +61,6 @@ Total plugins: 541
 
 [getflourish/Sketch-Mate](https://github.com/getflourish/Sketch-Mate) manifest.json contains extra commas
 
-**[PEZ/SketchDistributor](https://github.com/PEZ/SketchDistributor) missing manifest.json**
-
 [eivindbohler/Sketch-Unlinker](https://github.com/eivindbohler/Sketch-Unlinker) manifest.json contains extra commas
 
 **[preciousforever/sketch-data-populator](https://github.com/preciousforever/sketch-data-populator) missing manifest.json**
@@ -84,6 +82,8 @@ Total plugins: 541
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 
 [AntonioJMartinez/sketch-ImageAverageColor](https://github.com/AntonioJMartinez/sketch-ImageAverageColor) manifest.json contains extra commas
+
+**[nefaurk/select-parent-artboards](https://github.com/nefaurk/select-parent-artboards) missing manifest.json**
 
 [ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
 

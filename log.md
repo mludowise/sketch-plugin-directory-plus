@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-11-14 15:03:05 UTC
+Updated 2018-11-14 16:01:40 UTC
 
 Total plugins: 541
 
@@ -60,6 +60,8 @@ Total plugins: 541
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
 
 [getflourish/Sketch-Mate](https://github.com/getflourish/Sketch-Mate) manifest.json contains extra commas
+
+**[PEZ/SketchDistributor](https://github.com/PEZ/SketchDistributor) missing manifest.json**
 
 [eivindbohler/Sketch-Unlinker](https://github.com/eivindbohler/Sketch-Unlinker) manifest.json contains extra commas
 

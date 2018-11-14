@@ -666,7 +666,7 @@
     "homepage": "https://github.com/mludowise/Sketch-HTML-Export",
     "gh_url": "https://github.com/mludowise/Sketch-HTML-Export.git",
     "gh_updated": "2017-07-07 18:49:33 UTC",
-    "gh_stars": 124,
+    "gh_stars": 125,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.mludowise.htmlexport",
@@ -1835,7 +1835,9 @@
     "gh_updated": "2018-05-31 06:23:28 UTC",
     "gh_stars": 326,
     "gh_issues": 4,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.betterthantomorrow.sketch.distributor",
+    "man_version": "1.2.2"
   },
   {
     "name": "sketch-storyboard",
@@ -2381,7 +2383,7 @@
     "homepage": "https://github.com/keremciu/sketch-iconfont",
     "gh_url": "https://github.com/keremciu/sketch-iconfont.git",
     "gh_updated": "2017-12-07 00:42:31 UTC",
-    "gh_stars": 1796,
+    "gh_stars": 1797,
     "gh_issues": 33,
     "gh_branch": "master",
     "man_identifier": "com.keremciu.sketch.iconfont",
@@ -3138,10 +3140,7 @@
     "gh_updated": "2018-07-16 08:35:48 UTC",
     "gh_stars": 6,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.71576356-879b-4a58-b994-28f79ac6cc7b",
-    "man_version": "1.17",
-    "man_compatible_version": "41.0"
+    "gh_branch": "master"
   },
   {
     "name": "sketchplugin-swift-color",
@@ -3385,10 +3384,7 @@
     "gh_updated": "2017-12-13 19:09:57 UTC",
     "gh_stars": 52,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "com.nefaurk.sketch-plugins.selectParentArtboards",
-    "man_version": "1.2",
-    "man_compatible_version": "48.1"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Copy-Paste-Shadows",

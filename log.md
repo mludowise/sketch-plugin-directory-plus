@@ -1,10 +1,12 @@
 # Plugin Metadata
 
-Updated 2018-11-15 11:02:15 UTC
+Updated 2018-11-15 12:02:46 UTC
 
-Total plugins: 552
+Total plugins: 557
 
 ## Problems
+**[Konstantin Demblin/Jane Doe](https://github.com/Konstantin Demblin/Jane Doe) has no repo**
+
 **[Team Timelapse/Timelapse](https://github.com/Team Timelapse/Timelapse) has no repo**
 
 **[Mohammad Reza Mahmoudi/Laboji](https://github.com/Mohammad Reza Mahmoudi/Laboji) has no repo**
@@ -305,6 +307,10 @@ Total plugins: 552
 
 **[lazybearcreations/sketch-lazyboards](https://github.com/lazybearcreations/sketch-lazyboards) manifest.json is missing identifier**
 
+**[paintedbicycle/sketch-data-faker](https://github.com/paintedbicycle/sketch-data-faker) manifest.json is missing identifier**
+
+**[tgfjt/sketch-add-trailing-space](https://github.com/tgfjt/sketch-add-trailing-space) manifest.json is missing identifier**
+
 **[zehfernandes/sketch-pochette](https://github.com/zehfernandes/sketch-pochette) manifest.json is missing identifier**
 
 **[realvjy/uiLogos](https://github.com/realvjy/uiLogos) missing manifest.json**
@@ -312,4 +318,6 @@ Total plugins: 552
 **[KevinGutowski/toggleLayers](https://github.com/KevinGutowski/toggleLayers) manifest.json is missing identifier**
 
 **[sunkibaek/Seoul](https://github.com/sunkibaek/Seoul) manifest.json is missing identifier**
+
+[yudiz-solutions/paste-direct](https://github.com/yudiz-solutions/paste-direct) manifest.json contains extra commas
 

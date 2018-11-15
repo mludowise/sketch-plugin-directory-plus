@@ -8393,12 +8393,11 @@
     "homepage": "https://github.com/tbrasington/text-to-styles",
     "added": "2018-09-10 14:01:31 UTC",
     "gh_url": "https://github.com/tbrasington/text-to-styles.git",
-    "gh_updated": "2018-11-15 17:51:49 UTC",
+    "gh_updated": "2018-11-15 19:34:05 UTC",
     "gh_stars": 11,
     "gh_issues": 2,
     "gh_branch": "master",
-    "man_compatible_version": "51",
-    "icon": "https://raw.githubusercontent.com/tbrasington/text-to-styles/master/text-to-styles.sketchplugin/Contents/Resources/icon.png"
+    "man_compatible_version": "51"
   },
   {
     "name": "Sketch-Contrast",
@@ -8410,7 +8409,7 @@
     "added": "2018-09-14 21:01:13 UTC",
     "gh_url": "https://github.com/romannurik/Sketch-Contrast.git",
     "gh_updated": "2018-10-18 19:30:23 UTC",
-    "gh_stars": 24,
+    "gh_stars": 25,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.contrast",
@@ -8697,7 +8696,7 @@
     "gh_url": "https://github.com/zehfernandes/sketch-pochette.git",
     "gh_updated": "2018-11-12 15:54:08 UTC",
     "gh_stars": 19,
-    "gh_issues": 2,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },

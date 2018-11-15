@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-11-15 15:01:45 UTC
+Updated 2018-11-15 16:02:35 UTC
 
 Total plugins: 557
 
@@ -306,8 +306,6 @@ Total plugins: 557
 **[reeli/sketch-svg-to-react-component](https://github.com/reeli/sketch-svg-to-react-component) manifest.json is missing identifier**
 
 **[lazybearcreations/sketch-lazyboards](https://github.com/lazybearcreations/sketch-lazyboards) manifest.json is missing identifier**
-
-**[paintedbicycle/sketch-data-faker](https://github.com/paintedbicycle/sketch-data-faker) manifest.json is missing identifier**
 
 **[tgfjt/sketch-add-trailing-space](https://github.com/tgfjt/sketch-add-trailing-space) manifest.json is missing identifier**
 

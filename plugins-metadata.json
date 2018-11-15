@@ -1,5 +1,14 @@
 [
   {
+    "name": "Jane Doe",
+    "owner": "Konstantin Demblin",
+    "author": "Konstantin Demblin",
+    "title": "Jane Doe",
+    "description": "This Sketch Data plugin adds localized profile names (powered by uinames.com) to your design. - Get diversity into your content.",
+    "homepage": "https://github.com/konki-vienna/jane_doe",
+    "added": "2018-11-15 12:02:46 UTC"
+  },
+  {
     "name": "Timelapse",
     "owner": "Team Timelapse",
     "author": "Team Timelapse",
@@ -752,7 +761,7 @@
   {
     "name": "sketch-clear-export-options",
     "owner": "emrerussia",
-    "author": "Emre J. Joshkun",
+    "author": "Emre C. Coskun (EMRECC)",
     "title": "Clear Export Options",
     "description": "Clear export options for all elements on all pages in a Sketch file.",
     "added": "2016-10-11 11:01:32 UTC",
@@ -8627,6 +8636,54 @@
     "man_compatible_version": "3"
   },
   {
+    "name": "sketch-data-faker",
+    "owner": "paintedbicycle",
+    "author": "paintedbicycle",
+    "title": "Sketch Data Faker",
+    "description": "A Sketch data plugin providing data for you mockups from Faker.js",
+    "homepage": "https://github.com/paintedbicycle/sketch-data-faker",
+    "added": "2018-11-15 12:02:46 UTC",
+    "gh_url": "https://github.com/paintedbicycle/sketch-data-faker.git",
+    "gh_updated": "2018-11-15 11:37:10 UTC",
+    "gh_stars": 2,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_compatible_version": "3"
+  },
+  {
+    "name": "drafta",
+    "owner": "fragmentlv",
+    "author": "Fragment",
+    "title": "Drafta",
+    "description": "Export designs directly to Drafta",
+    "homepage": "https://github.com/fragmentlv/drafta",
+    "added": "2018-11-15 12:02:46 UTC",
+    "gh_url": "https://github.com/fragmentlv/drafta.git",
+    "gh_updated": "2018-11-13 12:04:57 UTC",
+    "gh_stars": 1,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.fragment.sketch.drafta",
+    "man_version": "1.0.3",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/fragmentlv/drafta/master/drafta-export.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "name": "sketch-add-trailing-space",
+    "owner": "tgfjt",
+    "author": "tgfjt",
+    "title": "add-trailing-space",
+    "description": "add trailing space into selected text layers",
+    "homepage": "https://github.com/tgfjt/sketch-add-trailing-space#readme",
+    "added": "2018-11-15 12:02:46 UTC",
+    "gh_url": "https://github.com/tgfjt/sketch-add-trailing-space.git",
+    "gh_updated": "2018-11-13 07:34:41 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_compatible_version": "3"
+  },
+  {
     "name": "sketch-pochette",
     "owner": "zehfernandes",
     "author": "Zeh Fernandes",
@@ -8637,7 +8694,7 @@
     "gh_url": "https://github.com/zehfernandes/sketch-pochette.git",
     "gh_updated": "2018-11-12 15:54:08 UTC",
     "gh_stars": 9,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },
@@ -8774,5 +8831,21 @@
     "man_version": "0.1.0",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/deepakshrma/sketch-slice-it/master/slice-it.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "name": "paste-direct",
+    "owner": "yudiz-solutions",
+    "author": "Sudev Kiyada",
+    "title": "Paste Direct",
+    "description": "Design like a guitarist!",
+    "added": "2018-11-15 12:02:46 UTC",
+    "homepage": "https://github.com/yudiz-solutions/paste-direct",
+    "gh_url": "https://github.com/yudiz-solutions/paste-direct.git",
+    "gh_updated": "2018-10-18 04:56:39 UTC",
+    "gh_stars": 2,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.fad03cb9-9298-4cf4-a4d4-4dc95d396fd3",
+    "man_version": "1.0"
   }
 ]

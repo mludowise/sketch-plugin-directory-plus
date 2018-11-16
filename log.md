@@ -1,10 +1,12 @@
 # Plugin Metadata
 
-Updated 2018-11-16 11:02:01 UTC
+Updated 2018-11-16 12:02:16 UTC
 
-Total plugins: 557
+Total plugins: 560
 
 ## Problems
+**[CanvasFlip Inc/Scribble](https://github.com/CanvasFlip Inc/Scribble) has no repo**
+
 **[Konstantin Demblin/Jane Doe](https://github.com/Konstantin Demblin/Jane Doe) has no repo**
 
 **[Team Timelapse/Timelapse](https://github.com/Team Timelapse/Timelapse) has no repo**
@@ -318,4 +320,6 @@ Total plugins: 557
 **[sunkibaek/Seoul](https://github.com/sunkibaek/Seoul) manifest.json is missing identifier**
 
 [yudiz-solutions/paste-direct](https://github.com/yudiz-solutions/paste-direct) manifest.json contains extra commas
+
+[KevinvBre/Sketch-Rename-Artboards](https://github.com/KevinvBre/Sketch-Rename-Artboards) manifest.json contains extra commas
 

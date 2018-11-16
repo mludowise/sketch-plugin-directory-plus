@@ -7172,23 +7172,6 @@
     "icon": "https://raw.githubusercontent.com/MengTo/Angle-Sketch-Plugin/master/Angle.sketchplugin/Contents/Resources/icon.png"
   },
   {
-    "name": "HandyMenu-SketchPlugin",
-    "owner": "sergeishere",
-    "author": "Sergey Dmitriev",
-    "title": "HandyMenu",
-    "description": "Quick access to Sketch App plugins through contextual menu",
-    "added": "2018-03-02 12:01:30 UTC",
-    "homepage": "https://github.com/sergeishere/HandyMenu-SketchPlugin",
-    "gh_url": "https://github.com/sergeishere/HandyMenu-SketchPlugin.git",
-    "gh_updated": "2018-10-15 18:36:48 UTC",
-    "gh_stars": 91,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.sergeishere.plugins.handymenu",
-    "man_version": "5.1",
-    "icon": "https://raw.githubusercontent.com/sergeishere/HandyMenu-SketchPlugin/master/HandyMenu.sketchplugin/Contents/Resources/icon.png"
-  },
-  {
     "name": "sketch-fast-text-transfer",
     "owner": "jbentzen",
     "author": "Jesper Bentzen",
@@ -8652,12 +8635,12 @@
     "homepage": "https://github.com/paintedbicycle/sketch-data-faker",
     "added": "2018-11-15 12:02:46 UTC",
     "gh_url": "https://github.com/paintedbicycle/sketch-data-faker.git",
-    "gh_updated": "2018-11-16 11:23:01 UTC",
+    "gh_updated": "2018-11-16 13:07:50 UTC",
     "gh_stars": 2,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "Sketch Data Faker",
-    "man_version": "0.1.7",
+    "man_version": "0.1.8",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/paintedbicycle/sketch-data-faker/master/sketch-data-faker.sketchplugin/Contents/Resources/icon.png"
   },
@@ -8704,8 +8687,8 @@
     "added": "2018-11-15 11:02:15 UTC",
     "gh_url": "https://github.com/zehfernandes/sketch-pochette.git",
     "gh_updated": "2018-11-12 15:54:08 UTC",
-    "gh_stars": 29,
-    "gh_issues": 3,
+    "gh_stars": 30,
+    "gh_issues": 5,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },
@@ -8893,5 +8876,40 @@
     "man_identifier": "nl.kevinvanbreemaat.renameArtboards",
     "man_version": "0.1",
     "icon": "https://raw.githubusercontent.com/KevinvBre/Sketch-Rename-Artboards/master/Rename%20Artboards.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "owner": null,
+    "author": "Skuko",
+    "title": "Sketch2Web",
+    "description": "Export your project to web in just one click.",
+    "homepage": "http://www.sketch2web.skuko.com",
+    "added": "2018-11-16 14:02:18 UTC"
+  },
+  {
+    "name": "PersianSupplier",
+    "owner": "hiradarshadi",
+    "author": "Hirad Arshadi",
+    "title": "PersianSupplier",
+    "description": "Sketch Plugin for supplying dynamic persian data.",
+    "added": "2018-11-16 14:02:18 UTC",
+    "homepage": "https://github.com/hiradarshadi/PersianSupplier",
+    "gh_url": "https://github.com/hiradarshadi/PersianSupplier.git",
+    "gh_updated": "2018-10-18 19:51:52 UTC",
+    "gh_stars": 20,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.box.persiansupplier",
+    "man_version": "1.0.0",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/hiradarshadi/PersianSupplier/master/persiansupplier.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "name": "Primary Sync",
+    "owner": "Primary-app",
+    "author": "Primary",
+    "title": "Primary Sync",
+    "description": "Sync your Sketch designs 💎 with Primary's user flows and design documents.",
+    "homepage": "https://github.com/Primary-app/primary-sync",
+    "added": "2018-11-16 14:02:18 UTC"
   }
 ]

@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-11-16 13:01:57 UTC
+Updated 2018-11-16 14:02:18 UTC
 
-Total plugins: 560
+Total plugins: 562
 
 ## Problems
 **[CanvasFlip Inc/Scribble](https://github.com/CanvasFlip Inc/Scribble) has no repo**
@@ -201,10 +201,6 @@ Total plugins: 560
 
 [kupe517/sketch-split-shape](https://github.com/kupe517/sketch-split-shape) manifest.json contains extra commas
 
-**[sergeishere/handymenu-sketchplugin](https://github.com/sergeishere/handymenu-sketchplugin) owner and name correspond to multiple plugins**
-
-[sergeishere/HandyMenu-SketchPlugin](https://github.com/sergeishere/HandyMenu-SketchPlugin) and [sergeishere/HandyMenu-SketchPlugin](https://github.com/sergeishere/HandyMenu-SketchPlugin) use the same manifest identifier, __com.sergeishere.plugins.handymenu__
-
 **[zcallan/sketch-bacon-ipsum](https://github.com/zcallan/sketch-bacon-ipsum) manifest.json is missing identifier**
 
 **/ has no repo**
@@ -322,4 +318,8 @@ Total plugins: 560
 [yudiz-solutions/paste-direct](https://github.com/yudiz-solutions/paste-direct) manifest.json contains extra commas
 
 [KevinvBre/Sketch-Rename-Artboards](https://github.com/KevinvBre/Sketch-Rename-Artboards) manifest.json contains extra commas
+
+**/ has no repo**
+
+**[Primary-app/Primary Sync](https://github.com/Primary-app/Primary Sync) has no repo**
 

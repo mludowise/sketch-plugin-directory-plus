@@ -1,5 +1,14 @@
 [
   {
+    "name": "Scribble",
+    "owner": "CanvasFlip Inc",
+    "author": "CanvasFlip Inc",
+    "title": "Scribble",
+    "description": "Upload your designs, invite your team to edit copy in the browser and sync the changes back to your Sketch document.",
+    "homepage": "https://www.canvasflip.com/visual-inspector/scribble/",
+    "added": "2018-11-16 12:02:16 UTC"
+  },
+  {
     "name": "Jane Doe",
     "owner": "Konstantin Demblin",
     "author": "Konstantin Demblin",
@@ -2066,7 +2075,7 @@
     "added": "2015-07-08 12:27:44 UTC",
     "gh_url": "https://github.com/tudou527/marketch.git",
     "gh_updated": "2018-10-13 19:28:58 UTC",
-    "gh_stars": 2720,
+    "gh_stars": 2721,
     "gh_issues": 45,
     "gh_branch": "master",
     "man_identifier": "com.marketch.cosa.98908c77-3d38-48fa-8c7c-1bb465f67eb8",
@@ -5138,12 +5147,12 @@
     "added": "2016-12-22 09:55:55 UTC",
     "homepage": "https://github.com/eddiesigner/sketch-map-generator",
     "gh_url": "https://github.com/eddiesigner/sketch-map-generator.git",
-    "gh_updated": "2018-10-14 10:44:39 UTC",
+    "gh_updated": "2018-11-16 11:49:31 UTC",
     "gh_stars": 687,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "io.eduardogomez.sketch.map-generator",
-    "man_version": "2.0.5",
+    "man_version": "2.0.6",
     "man_compatible_version": "4"
   },
   {
@@ -8245,9 +8254,9 @@
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "added": "2018-08-09 22:02:18 UTC",
     "gh_url": "https://github.com/bomberstudios/artboard-manager.git",
-    "gh_updated": "2018-09-12 09:00:28 UTC",
+    "gh_updated": "2018-11-16 11:38:44 UTC",
     "gh_stars": 477,
-    "gh_issues": 21,
+    "gh_issues": 19,
     "gh_branch": "master",
     "man_identifier": "com.bomberstudios.sketchplugins.artboard-manager",
     "man_compatible_version": "3"
@@ -8643,7 +8652,7 @@
     "homepage": "https://github.com/paintedbicycle/sketch-data-faker",
     "added": "2018-11-15 12:02:46 UTC",
     "gh_url": "https://github.com/paintedbicycle/sketch-data-faker.git",
-    "gh_updated": "2018-11-15 16:17:53 UTC",
+    "gh_updated": "2018-11-16 11:23:01 UTC",
     "gh_stars": 2,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -8849,5 +8858,40 @@
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.fad03cb9-9298-4cf4-a4d4-4dc95d396fd3",
     "man_version": "1.0"
+  },
+  {
+    "name": "Lottie-Sketch-Export",
+    "owner": "buba447",
+    "author": "Brandon Withrow",
+    "title": "Lottie Sketch Export",
+    "description": "Native Sketch plugin for exporting Artboards and Symbols into Lottie JSON",
+    "added": "2018-11-16 12:02:16 UTC",
+    "homepage": "https://github.com/buba447/Lottie-Sketch-Export",
+    "gh_url": "https://github.com/buba447/Lottie-Sketch-Export.git",
+    "gh_updated": "2018-11-02 17:46:51 UTC",
+    "gh_stars": 27,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.withrow.sketch.lottie-export",
+    "man_version": "0.3",
+    "man_compatible_version": "52",
+    "icon": "https://raw.githubusercontent.com/buba447/Lottie-Sketch-Export/master/Lottie-Export.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "name": "Sketch-Rename-Artboards",
+    "owner": "KevinvBre",
+    "author": "Kevin van Breemaat",
+    "title": "Sketch Rename Artboards",
+    "description": "Rename Artboards based on their X and Y locations in Sketch",
+    "added": "2018-11-16 12:02:16 UTC",
+    "homepage": "https://github.com/KevinvBre/Sketch-Rename-Artboards",
+    "gh_url": "https://github.com/KevinvBre/Sketch-Rename-Artboards.git",
+    "gh_updated": "2018-11-01 16:38:28 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "nl.kevinvanbreemaat.renameArtboards",
+    "man_version": "0.1",
+    "icon": "https://raw.githubusercontent.com/KevinvBre/Sketch-Rename-Artboards/master/Rename%20Artboards.sketchplugin/Contents/Resources/icon.png"
   }
 ]

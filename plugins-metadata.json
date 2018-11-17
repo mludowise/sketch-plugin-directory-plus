@@ -6150,7 +6150,7 @@
     "homepage": "https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin.git",
     "gh_updated": "2017-11-23 11:59:57 UTC",
-    "gh_stars": 207,
+    "gh_stars": 208,
     "gh_issues": 11,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugins.google-sheets-content-sync",
@@ -8911,5 +8911,23 @@
     "description": "Sync your Sketch designs 💎 with Primary's user flows and design documents.",
     "homepage": "https://github.com/Primary-app/primary-sync",
     "added": "2018-11-16 14:02:18 UTC"
+  },
+  {
+    "name": "rename-layers-based-on-textstyle",
+    "owner": "tbrasington",
+    "author": "Thomas Brasington",
+    "title": "rename-layers-based-on-textstyle",
+    "description": "Renames text layers in the current page based on their text style name",
+    "homepage": "https://github.com/tbrasington/rename-layers-based-on-textstyle",
+    "added": "2018-11-17 22:00:22 UTC",
+    "gh_url": "https://github.com/tbrasington/rename-layers-based-on-textstyle.git",
+    "gh_updated": "2018-11-17 13:03:00 UTC",
+    "gh_stars": 2,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "rename-layers-based-on-textstyle",
+    "man_version": "2.1.1",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/tbrasington/rename-layers-based-on-textstyle/master/rename-layers-based-on-textstyle.sketchplugin/Contents/Resources/icon.png"
   }
 ]

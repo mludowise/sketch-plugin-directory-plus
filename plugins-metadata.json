@@ -7315,7 +7315,7 @@
     "gh_url": "https://github.com/romannurik/Sketch-FlowExporter.git",
     "gh_updated": "2018-09-26 18:49:15 UTC",
     "gh_stars": 76,
-    "gh_issues": 3,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.flowexporter",
     "man_compatible_version": "49"
@@ -8118,7 +8118,7 @@
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
     "gh_updated": "2018-11-16 15:29:05 UTC",
-    "gh_stars": 32,
+    "gh_stars": 33,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.cloudblue.sketch.exporter",

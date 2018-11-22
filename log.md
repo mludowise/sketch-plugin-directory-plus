@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-11-20 11:01:37 UTC
+Updated 2018-11-22 11:02:24 UTC
 
-Total plugins: 563
+Total plugins: 566
 
 ## Problems
 **[CanvasFlip Inc/Scribble](https://github.com/CanvasFlip Inc/Scribble) has no repo**
@@ -86,6 +86,8 @@ Total plugins: 563
 [JohnCoates/CSSketch](https://github.com/JohnCoates/CSSketch) manifest.json contains extra commas
 
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
+
+**[heysketch/sketch-color-picker-plus](https://github.com/heysketch/sketch-color-picker-plus) has no repo**
 
 [AntonioJMartinez/sketch-ImageAverageColor](https://github.com/AntonioJMartinez/sketch-ImageAverageColor) manifest.json contains extra commas
 
@@ -322,4 +324,8 @@ Total plugins: 563
 **/ has no repo**
 
 **[Primary-app/Primary Sync](https://github.com/Primary-app/Primary Sync) has no repo**
+
+**/pointbreak has no repo**
+
+**[VKCOM/vkdata-sketchplugin](https://github.com/VKCOM/vkdata-sketchplugin) manifest.json is missing identifier**
 

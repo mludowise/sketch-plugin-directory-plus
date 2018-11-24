@@ -1150,7 +1150,7 @@
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
     "gh_stars": 6125,
-    "gh_issues": 252,
+    "gh_issues": 253,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.7.7"
@@ -8932,7 +8932,7 @@
     "added": "2018-11-22 11:02:24 UTC",
     "gh_url": "https://github.com/ysjn/bold-it.git",
     "gh_updated": "2018-11-21 03:03:47 UTC",
-    "gh_stars": 1,
+    "gh_stars": 2,
     "gh_issues": 0,
     "gh_branch": "dev",
     "man_identifier": "bold-it",

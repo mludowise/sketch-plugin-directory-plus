@@ -6142,7 +6142,7 @@
     "homepage": "https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin.git",
     "gh_updated": "2018-11-18 05:33:37 UTC",
-    "gh_stars": 211,
+    "gh_stars": 212,
     "gh_issues": 11,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugins.google-sheets-content-sync",
@@ -6746,7 +6746,7 @@
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2018-10-25 11:59:33 UTC",
-    "gh_stars": 135,
+    "gh_stars": 136,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_compatible_version": "50"

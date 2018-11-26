@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-11-26 15:02:43 UTC
+Updated 2018-11-26 16:02:00 UTC
 
 Total plugins: 566
 
@@ -112,6 +112,8 @@ Total plugins: 566
 **Atomic.io/ has no repo**
 
 **/ has no repo**
+
+**[hoai265/Language-Sketch-Plugin](https://github.com/hoai265/Language-Sketch-Plugin) missing manifest.json**
 
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
 
@@ -310,8 +312,6 @@ Total plugins: 566
 **[tgfjt/sketch-add-trailing-space](https://github.com/tgfjt/sketch-add-trailing-space) manifest.json is missing identifier**
 
 **[zehfernandes/sketch-pochette](https://github.com/zehfernandes/sketch-pochette) manifest.json is missing identifier**
-
-**[markaleksanderh/100-shapesum](https://github.com/markaleksanderh/100-shapesum) missing manifest.json**
 
 **[realvjy/uiLogos](https://github.com/realvjy/uiLogos) missing manifest.json**
 

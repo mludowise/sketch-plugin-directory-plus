@@ -155,7 +155,7 @@
     "added": "2018-06-19 19:02:06 UTC",
     "gh_url": "https://github.com/sureskumar/sketch-isometric.git",
     "gh_updated": "2018-10-03 18:32:22 UTC",
-    "gh_stars": 1531,
+    "gh_stars": 1532,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.sureskumar.sketchisometric",
@@ -4201,9 +4201,7 @@
     "gh_updated": "2017-04-14 03:43:18 UTC",
     "gh_stars": 33,
     "gh_issues": 4,
-    "gh_branch": "master",
-    "man_identifier": "com.hoainguyen.sketch.d8f0dcf3-8e12-4f1d-988c-e2f0da9ad29d",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "Paster",
@@ -8071,7 +8069,7 @@
     "gh_url": "https://github.com/andyault/sketch-adjusttofit.git",
     "gh_updated": "2018-09-18 14:32:42 UTC",
     "gh_stars": 13,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.andyault.adjusttofit",
     "man_version": "1.2.2",
@@ -8697,6 +8695,9 @@
     "gh_stars": 0,
     "gh_issues": 0,
     "gh_branch": "master",
+    "man_identifier": "100-shapesum",
+    "man_version": "1.0.0",
+    "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/markaleksanderh/100-shapesum/master/100-shapesum.sketchplugin/Contents/Resources/icon.png"
   },
   {

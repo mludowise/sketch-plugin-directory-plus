@@ -1149,7 +1149,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6128,
+    "gh_stars": 6129,
     "gh_issues": 253,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -2547,7 +2547,10 @@
     "gh_updated": "2015-09-29 11:31:55 UTC",
     "gh_stars": 13,
     "gh_issues": 4,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.gunesozgur.sketch.layer-comps",
+    "man_version": "1.0",
+    "man_compatible_version": "3"
   },
   {
     "name": "BaseAlign",
@@ -2609,7 +2612,7 @@
     "homepage": "https://github.com/thierryc/Sketch-Find-And-Replace",
     "gh_url": "https://github.com/thierryc/Sketch-Find-And-Replace.git",
     "gh_updated": "2018-06-18 14:04:28 UTC",
-    "gh_stars": 589,
+    "gh_stars": 590,
     "gh_issues": 21,
     "gh_branch": "master",
     "man_identifier": "cx.ap.sketch-find-and-replace",
@@ -6903,7 +6906,7 @@
     "added": "2018-01-04 12:26:15 UTC",
     "gh_url": "https://github.com/AMoreaux/Sketch-Icons.git",
     "gh_updated": "2018-11-08 12:16:36 UTC",
-    "gh_stars": 722,
+    "gh_stars": 723,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.amoreaux.sketch-icons",

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-11-26 16:02:00 UTC
+Updated 2018-11-26 17:01:38 UTC
 
 Total plugins: 566
 
@@ -112,8 +112,6 @@ Total plugins: 566
 **Atomic.io/ has no repo**
 
 **/ has no repo**
-
-**[hoai265/Language-Sketch-Plugin](https://github.com/hoai265/Language-Sketch-Plugin) missing manifest.json**
 
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
 

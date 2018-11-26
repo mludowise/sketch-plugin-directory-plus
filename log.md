@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-11-26 09:01:34 UTC
+Updated 2018-11-26 10:02:39 UTC
 
 Total plugins: 566
 
@@ -79,7 +79,7 @@ Total plugins: 566
 
 [jamztang/MagicMirror](https://github.com/jamztang/MagicMirror) manifest.json contains extra commas
 
-[ozgurgunes/Sketch-Layer-Comps](https://github.com/ozgurgunes/Sketch-Layer-Comps) manifest.json contains extra commas
+**[ozgurgunes/Sketch-Layer-Comps](https://github.com/ozgurgunes/Sketch-Layer-Comps) missing manifest.json**
 
 [stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers) manifest.json contains extra commas
 

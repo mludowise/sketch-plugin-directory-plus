@@ -413,7 +413,7 @@
     "added": "2018-09-17 16:00:57 UTC",
     "gh_url": "https://github.com/weixin/Miaow.git",
     "gh_updated": "2018-10-19 09:26:32 UTC",
-    "gh_stars": 2337,
+    "gh_stars": 2336,
     "gh_issues": 15,
     "gh_branch": "master",
     "man_identifier": "cn.wechat",
@@ -3122,7 +3122,7 @@
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
     "gh_updated": "2018-11-23 11:44:43 UTC",
-    "gh_stars": 483,
+    "gh_stars": 484,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
@@ -8697,9 +8697,6 @@
     "gh_stars": 0,
     "gh_issues": 0,
     "gh_branch": "master",
-    "man_identifier": "100-shapesum",
-    "man_version": "1.0.0",
-    "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/markaleksanderh/100-shapesum/master/100-shapesum.sketchplugin/Contents/Resources/icon.png"
   },
   {

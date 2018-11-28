@@ -1165,7 +1165,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
-    "gh_stars": 4361,
+    "gh_stars": 4360,
     "gh_issues": 44,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -8959,7 +8959,7 @@
     "added": "2018-11-22 11:02:24 UTC",
     "gh_url": "https://github.com/VKCOM/vkdata-sketchplugin.git",
     "gh_updated": "2018-11-26 09:22:33 UTC",
-    "gh_stars": 5,
+    "gh_stars": 6,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "49"

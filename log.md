@@ -1,10 +1,12 @@
 # Plugin Metadata
 
-Updated 2018-11-28 20:02:05 UTC
+Updated 2018-11-28 21:00:55 UTC
 
-Total plugins: 567
+Total plugins: 569
 
 ## Problems
+**[lanhuapp.com/🐳 蓝湖](https://github.com/lanhuapp.com/🐳 蓝湖) has no repo**
+
 **[CanvasFlip Inc/Scribble](https://github.com/CanvasFlip Inc/Scribble) has no repo**
 
 **[Konstantin Demblin/Jane Doe](https://github.com/Konstantin Demblin/Jane Doe) has no repo**

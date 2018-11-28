@@ -1,5 +1,14 @@
 [
   {
+    "name": "🐳 蓝湖",
+    "owner": "lanhuapp.com",
+    "author": "lanhuapp.com",
+    "title": "🐳 蓝湖",
+    "description": "Awesome Product Design Tool",
+    "homepage": "https://lanhuapp.com/mac",
+    "added": "2018-11-28 21:00:55 UTC"
+  },
+  {
     "name": "Scribble",
     "owner": "CanvasFlip Inc",
     "author": "CanvasFlip Inc",
@@ -8933,7 +8942,7 @@
     "gh_url": "https://github.com/ysjn/bold-it.git",
     "gh_updated": "2018-11-26 09:41:19 UTC",
     "gh_stars": 2,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "dev",
     "man_identifier": "bold-it",
     "man_version": "1.0.0",
@@ -8981,5 +8990,23 @@
     "man_version": "0.0.2-0",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/m-yoshiro/DesignToken2Code/master/designtoken2code.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "name": "sketch-export",
+    "owner": "mascardoso",
+    "author": "Marco Cardoso",
+    "title": "sketch-export-to",
+    "description": "Export an artboard layers to json or markdown",
+    "homepage": "https://github.com/mascardoso/sketch-export",
+    "added": "2018-11-28 21:00:55 UTC",
+    "gh_url": "https://github.com/mascardoso/sketch-export.git",
+    "gh_updated": "2018-11-28 14:50:08 UTC",
+    "gh_stars": 1,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "sketch-export-to",
+    "man_version": "1.0.0",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/mascardoso/sketch-export/master/sketch-export-to.sketchplugin/Contents/Resources/icon.png"
   }
 ]

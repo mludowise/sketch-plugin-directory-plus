@@ -3889,7 +3889,7 @@
     "added": "2016-05-31 15:16:43 UTC",
     "gh_url": "https://github.com/BohemianCoding/svgo-compressor.git",
     "gh_updated": "2018-10-20 14:43:52 UTC",
-    "gh_stars": 937,
+    "gh_stars": 938,
     "gh_issues": 7,
     "gh_branch": "develop",
     "man_identifier": "com.sketchapp.plugins.svgo-compressor",
@@ -8968,7 +8968,7 @@
     "added": "2018-11-22 11:02:24 UTC",
     "gh_url": "https://github.com/VKCOM/vkdata-sketchplugin.git",
     "gh_updated": "2018-11-29 17:04:49 UTC",
-    "gh_stars": 7,
+    "gh_stars": 8,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "49"

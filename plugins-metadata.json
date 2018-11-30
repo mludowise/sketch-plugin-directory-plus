@@ -920,12 +920,12 @@
     "added": "2015-07-24 09:02:37 UTC",
     "homepage": "https://prottapp.com",
     "gh_url": "https://github.com/goodpatch/Prott-Sketch-Plugin.git",
-    "gh_updated": "2018-11-29 02:57:52 UTC",
+    "gh_updated": "2018-11-30 05:03:57 UTC",
     "gh_stars": 26,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.goodpatch.prott.prott-sketch-plugin",
-    "man_version": "2.0.7",
+    "man_version": "2.0.8",
     "man_compatible_version": "3"
   },
   {
@@ -2420,7 +2420,7 @@
     "gh_url": "https://github.com/keremciu/sketch-iconfont.git",
     "gh_updated": "2017-12-07 00:42:31 UTC",
     "gh_stars": 1801,
-    "gh_issues": 33,
+    "gh_issues": 34,
     "gh_branch": "master",
     "man_identifier": "com.keremciu.sketch.iconfont",
     "man_version": "4.6.0",

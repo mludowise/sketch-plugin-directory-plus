@@ -1,10 +1,12 @@
 # Plugin Metadata
 
-Updated 2018-12-04 11:01:40 UTC
+Updated 2018-12-04 12:02:17 UTC
 
-Total plugins: 569
+Total plugins: 571
 
 ## Problems
+**[Webkul/Renamer](https://github.com/Webkul/Renamer) manifest.json is missing identifier**
+
 **[lanhuapp.com/🐳 蓝湖](https://github.com/lanhuapp.com/🐳 蓝湖) has no repo**
 
 **[CanvasFlip Inc/Scribble](https://github.com/CanvasFlip Inc/Scribble) has no repo**

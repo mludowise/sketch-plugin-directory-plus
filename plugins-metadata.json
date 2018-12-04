@@ -1,5 +1,20 @@
 [
   {
+    "name": "Renamer",
+    "owner": "Webkul",
+    "author": "Webkul, Nitish Khagwal",
+    "title": "Renamer",
+    "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
+    "homepage": "https://github.com/webkul/renamer",
+    "added": "2018-12-04 12:02:17 UTC",
+    "gh_url": "https://github.com/webkul/renamer.git",
+    "gh_updated": "2018-12-03 08:18:22 UTC",
+    "gh_stars": 3,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_compatible_version": "3"
+  },
+  {
     "name": "🐳 蓝湖",
     "owner": "lanhuapp.com",
     "author": "lanhuapp.com",
@@ -1174,7 +1189,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
-    "gh_stars": 4362,
+    "gh_stars": 4361,
     "gh_issues": 44,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -2621,7 +2636,7 @@
     "homepage": "https://github.com/thierryc/Sketch-Find-And-Replace",
     "gh_url": "https://github.com/thierryc/Sketch-Find-And-Replace.git",
     "gh_updated": "2018-06-18 14:04:28 UTC",
-    "gh_stars": 595,
+    "gh_stars": 594,
     "gh_issues": 22,
     "gh_branch": "master",
     "man_identifier": "cx.ap.sketch-find-and-replace",
@@ -9010,5 +9025,23 @@
     "man_version": "2.0.0",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/mascardoso/sketch-export/master/sketch-export-to.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "name": "sketch-afux-tools",
+    "owner": "canisminor1990",
+    "author": "CanisMinor",
+    "title": "sketch-afux-tools",
+    "description": "Sketch tools for AFUX",
+    "homepage": "https://github.com/canisminor1990/sketch-afux-tools",
+    "added": "2018-12-04 12:02:17 UTC",
+    "gh_url": "https://github.com/canisminor1990/sketch-afux-tools.git",
+    "gh_updated": "2018-12-04 08:28:49 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "sketch.afux.tools",
+    "man_version": "1.0.8",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/canisminor1990/sketch-afux-tools/master/AfuxTools.sketchplugin/Contents/Resources/icon.png"
   }
 ]

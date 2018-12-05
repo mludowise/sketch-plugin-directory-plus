@@ -2419,7 +2419,7 @@
     "gh_url": "https://github.com/romannurik/Sketch-ArtboardTricks.git",
     "gh_updated": "2018-05-21 03:23:06 UTC",
     "gh_stars": 285,
-    "gh_issues": 5,
+    "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.artboardtricks",
     "man_compatible_version": "41"
@@ -9036,7 +9036,7 @@
     "added": "2018-12-04 12:02:17 UTC",
     "gh_url": "https://github.com/canisminor1990/sketch-afux-tools.git",
     "gh_updated": "2018-12-04 08:28:49 UTC",
-    "gh_stars": 0,
+    "gh_stars": 1,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "sketch.afux.tools",

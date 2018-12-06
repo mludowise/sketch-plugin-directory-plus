@@ -6232,13 +6232,14 @@
     "added": "2017-07-26 11:41:34 UTC",
     "homepage": "https://iconscout.com/icondrop",
     "gh_url": "https://github.com/Iconscout/icondrop.git",
-    "gh_updated": "2018-09-25 10:13:26 UTC",
+    "gh_updated": "2018-12-06 06:43:32 UTC",
     "gh_stars": 128,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.iconscout.sketch.icondrop",
-    "man_version": "2.0.0",
-    "man_compatible_version": "3"
+    "man_version": "2.0.1",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/iconscout/icondrop/master/icondrop.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "owner": "Smartling",

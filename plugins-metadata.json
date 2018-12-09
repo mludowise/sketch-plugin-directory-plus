@@ -1536,12 +1536,12 @@
     "added": "2014-10-01 18:30:52 UTC",
     "homepage": "https://github.com/tadija/AEIconizer",
     "gh_url": "https://github.com/tadija/AEIconizer.git",
-    "gh_updated": "2018-09-28 22:34:37 UTC",
+    "gh_updated": "2018-12-09 19:10:46 UTC",
     "gh_stars": 432,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "net.tadija.sketch.AEIconizer",
-    "man_version": "2.4.1"
+    "man_version": "2.4.2"
   },
   {
     "name": "Efficiency",
@@ -8136,7 +8136,7 @@
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
     "gh_updated": "2018-12-06 21:02:50 UTC",
     "gh_stars": 42,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.cloudblue.sketch.exporter",
     "man_version": "4.3.0",

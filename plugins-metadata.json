@@ -2520,7 +2520,7 @@
     "gh_url": "https://github.com/jonmmay/sketch-scrollmotion.git",
     "gh_updated": "2016-04-16 20:37:13 UTC",
     "gh_stars": 5,
-    "gh_issues": 4,
+    "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.jonmmay.sketch.export-scrollmotion",
     "man_version": "1.0.2",
@@ -5430,7 +5430,7 @@
     "gh_url": "https://github.com/equesy/Egmont-plugin.git",
     "gh_updated": "2018-12-09 17:54:05 UTC",
     "gh_stars": 103,
-    "gh_issues": 2,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.glebhusky.EgmontPlugin",
     "man_version": "1"

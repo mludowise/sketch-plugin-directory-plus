@@ -437,7 +437,7 @@
     "added": "2018-09-17 16:00:57 UTC",
     "gh_url": "https://github.com/weixin/Miaow.git",
     "gh_updated": "2018-10-19 09:26:32 UTC",
-    "gh_stars": 2337,
+    "gh_stars": 2338,
     "gh_issues": 15,
     "gh_branch": "master",
     "man_identifier": "cn.wechat",
@@ -5430,7 +5430,7 @@
     "gh_url": "https://github.com/equesy/Egmont-plugin.git",
     "gh_updated": "2018-06-12 20:00:34 UTC",
     "gh_stars": 103,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.glebhusky.EgmontPlugin",
     "man_version": "1"

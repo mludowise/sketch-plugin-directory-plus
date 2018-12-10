@@ -386,7 +386,7 @@
     "added": "2017-07-07 20:01:16 UTC",
     "gh_url": "https://github.com/sureskumar/single-border.git",
     "gh_updated": "2018-10-03 21:09:41 UTC",
-    "gh_stars": 92,
+    "gh_stars": 93,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.sureskumar.singleborder",
@@ -1105,7 +1105,7 @@
     "homepage": "http://bomberstudios.github.io/sketch-commands",
     "gh_url": "https://github.com/bomberstudios/sketch-commands.git",
     "gh_updated": "2018-10-25 20:19:49 UTC",
-    "gh_stars": 798,
+    "gh_stars": 799,
     "gh_issues": 13,
     "gh_branch": "master",
     "man_identifier": "com.bomberstudios.sketch.commands",
@@ -1189,7 +1189,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
-    "gh_stars": 4364,
+    "gh_stars": 4363,
     "gh_issues": 44,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -8723,7 +8723,11 @@
     "gh_updated": "2018-11-13 12:15:43 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "100-shapesum",
+    "man_version": "1.0.0",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/markaleksanderh/100-shapesum/master/100-shapesum.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "uiLogos",
@@ -8869,7 +8873,11 @@
     "gh_updated": "2018-11-02 17:46:51 UTC",
     "gh_stars": 31,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.withrow.sketch.lottie-export",
+    "man_version": "0.3",
+    "man_compatible_version": "52",
+    "icon": "https://raw.githubusercontent.com/buba447/Lottie-Sketch-Export/master/Lottie-Export.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "Sketch-Rename-Artboards",

@@ -2753,7 +2753,7 @@
     "homepage": "https://github.com/romashamin/sort-me-sketch",
     "gh_url": "https://github.com/romashamin/sort-me-sketch.git",
     "gh_updated": "2017-08-01 12:05:02 UTC",
-    "gh_stars": 518,
+    "gh_stars": 519,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.github.romashamin.sort-me-sketch",
@@ -8723,11 +8723,7 @@
     "gh_updated": "2018-11-13 12:15:43 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "100-shapesum",
-    "man_version": "1.0.0",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/markaleksanderh/100-shapesum/master/100-shapesum.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "uiLogos",
@@ -8873,11 +8869,7 @@
     "gh_updated": "2018-11-02 17:46:51 UTC",
     "gh_stars": 31,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.withrow.sketch.lottie-export",
-    "man_version": "0.3",
-    "man_compatible_version": "52",
-    "icon": "https://raw.githubusercontent.com/buba447/Lottie-Sketch-Export/master/Lottie-Export.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Rename-Artboards",

@@ -818,7 +818,7 @@
     "gh_url": "https://github.com/richardgazdik/sketch-align.git",
     "gh_updated": "2016-08-10 21:58:39 UTC",
     "gh_stars": 38,
-    "gh_issues": 5,
+    "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.93870ddc-5ab9-4ef2-8e5e-bd187076f3cf",
     "man_version": "0.7.0"
@@ -2020,7 +2020,7 @@
     "gh_url": "https://github.com/preciousforever/data-populator.git",
     "gh_updated": "2018-11-11 23:19:12 UTC",
     "gh_stars": 1511,
-    "gh_issues": 23,
+    "gh_issues": 22,
     "gh_branch": "master"
   },
   {
@@ -7020,7 +7020,7 @@
     "added": "2018-03-02 12:01:30 UTC",
     "gh_url": "https://github.com/sergeishere/HandyMenu-SketchPlugin.git",
     "gh_updated": "2018-10-15 18:36:48 UTC",
-    "gh_stars": 95,
+    "gh_stars": 96,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.sergeishere.plugins.handymenu",
@@ -8959,7 +8959,7 @@
     "added": "2018-11-22 11:02:24 UTC",
     "gh_url": "https://github.com/ysjn/bold-it.git",
     "gh_updated": "2018-11-26 09:41:19 UTC",
-    "gh_stars": 5,
+    "gh_stars": 6,
     "gh_issues": 0,
     "gh_branch": "dev",
     "man_identifier": "bold-it",

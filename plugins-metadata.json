@@ -370,7 +370,7 @@
     "added": "2017-09-12 21:02:26 UTC",
     "gh_url": "https://github.com/awkward/Alembic.git",
     "gh_updated": "2018-05-22 13:51:14 UTC",
-    "gh_stars": 535,
+    "gh_stars": 536,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "co.awkward.alembic",
@@ -3096,7 +3096,7 @@
     "homepage": "https://github.com/frankko/Place-Linked-Bitmap",
     "gh_url": "https://github.com/frankko/Place-Linked-Bitmap.git",
     "gh_updated": "2018-10-22 18:14:05 UTC",
-    "gh_stars": 157,
+    "gh_stars": 158,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "io.kolo.sketch.place-linked-bitmap",
@@ -4241,10 +4241,7 @@
     "gh_updated": "2017-09-06 04:03:04 UTC",
     "gh_stars": 88,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.paster",
-    "man_version": "2.0",
-    "man_compatible_version": "1"
+    "gh_branch": "master"
   },
   {
     "name": "Shapr",
@@ -8134,7 +8131,7 @@
     "added": "2018-07-17 09:02:33 UTC",
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
-    "gh_updated": "2018-12-11 10:03:29 UTC",
+    "gh_updated": "2018-12-12 13:16:52 UTC",
     "gh_stars": 44,
     "gh_issues": 1,
     "gh_branch": "master",

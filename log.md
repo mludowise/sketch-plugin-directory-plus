@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-12-12 14:01:48 UTC
+Updated 2018-12-12 15:02:41 UTC
 
 Total plugins: 571
 
@@ -116,8 +116,6 @@ Total plugins: 571
 **Atomic.io/ has no repo**
 
 **/ has no repo**
-
-**[Volorf/Paster](https://github.com/Volorf/Paster) missing manifest.json**
 
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
 

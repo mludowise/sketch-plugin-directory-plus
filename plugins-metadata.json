@@ -4241,7 +4241,10 @@
     "gh_updated": "2017-09-06 04:03:04 UTC",
     "gh_stars": 88,
     "gh_issues": 3,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.paster",
+    "man_version": "2.0",
+    "man_compatible_version": "1"
   },
   {
     "name": "Shapr",

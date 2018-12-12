@@ -2871,7 +2871,7 @@
     "gh_url": "https://github.com/PRFTDigitalLabs/sketch-unlock-all-layers.git",
     "gh_updated": "2017-06-08 19:27:57 UTC",
     "gh_stars": 44,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.truthlabs.unlockalllayers",
     "man_version": "2.1"
@@ -8256,7 +8256,7 @@
     "gh_url": "https://github.com/bomberstudios/artboard-manager.git",
     "gh_updated": "2018-11-23 12:08:16 UTC",
     "gh_stars": 501,
-    "gh_issues": 13,
+    "gh_issues": 14,
     "gh_branch": "master",
     "man_identifier": "com.bomberstudios.sketchplugins.artboard-manager",
     "man_compatible_version": "3"

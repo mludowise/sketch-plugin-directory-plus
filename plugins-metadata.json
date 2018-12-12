@@ -388,7 +388,11 @@
     "gh_updated": "2018-10-03 21:09:41 UTC",
     "gh_stars": 92,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sureskumar.singleborder",
+    "man_version": "1.6.0",
+    "man_compatible_version": "52.0",
+    "icon": "https://raw.githubusercontent.com/sureskumar/single-border/master/Single-Border.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "sketch-neo-preview",
@@ -2414,7 +2418,7 @@
     "homepage": "https://github.com/romannurik/Sketch-ArtboardTricks",
     "gh_url": "https://github.com/romannurik/Sketch-ArtboardTricks.git",
     "gh_updated": "2018-05-21 03:23:06 UTC",
-    "gh_stars": 286,
+    "gh_stars": 287,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.artboardtricks",
@@ -5159,7 +5163,7 @@
     "homepage": "https://github.com/eddiesigner/sketch-map-generator",
     "gh_url": "https://github.com/eddiesigner/sketch-map-generator.git",
     "gh_updated": "2018-11-21 10:17:47 UTC",
-    "gh_stars": 694,
+    "gh_stars": 695,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "io.eduardogomez.sketch.map-generator",

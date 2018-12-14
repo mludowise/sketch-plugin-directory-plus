@@ -1174,7 +1174,7 @@
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
     "gh_stars": 6162,
-    "gh_issues": 254,
+    "gh_issues": 255,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.7.7"
@@ -2588,7 +2588,10 @@
     "gh_updated": "2018-03-17 00:56:14 UTC",
     "gh_stars": 72,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.silverux.sketchplugins.basealign",
+    "man_version": "1.1",
+    "icon": "https://raw.githubusercontent.com/abynim/BaseAlign/master/BaseAlign.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "iosViews",
@@ -2633,7 +2636,7 @@
     "homepage": "https://github.com/thierryc/Sketch-Find-And-Replace",
     "gh_url": "https://github.com/thierryc/Sketch-Find-And-Replace.git",
     "gh_updated": "2018-06-18 14:04:28 UTC",
-    "gh_stars": 595,
+    "gh_stars": 596,
     "gh_issues": 22,
     "gh_branch": "master",
     "man_identifier": "cx.ap.sketch-find-and-replace",
@@ -5511,7 +5514,7 @@
     "added": "2017-03-15 10:07:31 UTC",
     "gh_url": "https://github.com/lucaorio/sketch-styles-generator.git",
     "gh_updated": "2018-10-06 02:31:16 UTC",
-    "gh_stars": 383,
+    "gh_stars": 384,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.sketch.styles.generator",
@@ -8038,7 +8041,7 @@
     "added": "2018-06-26 09:02:21 UTC",
     "gh_url": "https://github.com/jasondonnette/sketch-copy-as-react-component.git",
     "gh_updated": "2018-06-28 03:48:02 UTC",
-    "gh_stars": 50,
+    "gh_stars": 51,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

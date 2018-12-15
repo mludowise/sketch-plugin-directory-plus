@@ -4734,7 +4734,9 @@
     "gh_updated": "2018-07-23 07:33:55 UTC",
     "gh_stars": 241,
     "gh_issues": 5,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sketch.bigxixi.FontPacker",
+    "man_version": "1.21"
   },
   {
     "name": "sketch-app-asset-export",

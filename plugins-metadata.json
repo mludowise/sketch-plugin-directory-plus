@@ -2234,7 +2234,7 @@
     "homepage": "https://github.com/abynim/sketchy-pies",
     "gh_url": "https://github.com/abynim/sketchy-pies.git",
     "gh_updated": "2016-11-13 04:10:04 UTC",
-    "gh_stars": 166,
+    "gh_stars": 167,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.abynim.plugins.sketchypies",
@@ -2434,7 +2434,7 @@
     "homepage": "https://github.com/keremciu/sketch-iconfont",
     "gh_url": "https://github.com/keremciu/sketch-iconfont.git",
     "gh_updated": "2017-12-07 00:42:31 UTC",
-    "gh_stars": 1807,
+    "gh_stars": 1808,
     "gh_issues": 35,
     "gh_branch": "master",
     "man_identifier": "com.keremciu.sketch.iconfont",
@@ -3028,7 +3028,7 @@
     "homepage": "https://github.com/matt-curtis/Fluid-for-Sketch",
     "gh_url": "https://github.com/matt-curtis/Fluid-for-Sketch.git",
     "gh_updated": "2018-09-03 16:23:04 UTC",
-    "gh_stars": 2439,
+    "gh_stars": 2438,
     "gh_issues": 35,
     "gh_branch": "master",
     "man_identifier": "com.matt-curtis.sketch.constraints",
@@ -9036,13 +9036,13 @@
     "homepage": "https://github.com/canisminor1990/sketch-afux-tools",
     "added": "2018-12-04 12:02:17 UTC",
     "gh_url": "https://github.com/canisminor1990/sketch-afux-tools.git",
-    "gh_updated": "2018-12-14 10:20:25 UTC",
+    "gh_updated": "2018-12-16 12:35:13 UTC",
     "gh_stars": 4,
     "gh_issues": 0,
     "gh_branch": "master",
-    "man_identifier": "sketch.afux.tools",
+    "man_identifier": "sketch.plugin.anto",
     "man_version": "1.0.9",
     "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/canisminor1990/sketch-afux-tools/master/AfuxTools.sketchplugin/Contents/Resources/icon.png"
+    "icon": "https://raw.githubusercontent.com/canisminor1990/sketch-afux-tools/master/Anto.sketchplugin/Contents/Resources/icon.png"
   }
 ]

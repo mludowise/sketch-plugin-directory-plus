@@ -3476,7 +3476,7 @@
     "homepage": "http://frolovoleg.ru",
     "gh_url": "https://github.com/Volorf/Sparkliner.git",
     "gh_updated": "2017-04-04 19:27:53 UTC",
-    "gh_stars": 185,
+    "gh_stars": 186,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.sparkliner",
@@ -7037,7 +7037,7 @@
     "homepage": "https://github.com/pavelkuligin/chart",
     "gh_url": "https://github.com/pavelkuligin/chart.git",
     "gh_updated": "2018-11-08 15:43:48 UTC",
-    "gh_stars": 856,
+    "gh_stars": 857,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.examples.chart",
@@ -8723,11 +8723,7 @@
     "gh_updated": "2018-11-13 12:15:43 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "100-shapesum",
-    "man_version": "1.0.0",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/markaleksanderh/100-shapesum/master/100-shapesum.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "uiLogos",
@@ -8873,11 +8869,7 @@
     "gh_updated": "2018-11-02 17:46:51 UTC",
     "gh_stars": 31,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.withrow.sketch.lottie-export",
-    "man_version": "0.3",
-    "man_compatible_version": "52",
-    "icon": "https://raw.githubusercontent.com/buba447/Lottie-Sketch-Export/master/Lottie-Export.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Rename-Artboards",

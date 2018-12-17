@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-12-17 18:01:17 UTC
+Updated 2018-12-17 19:00:24 UTC
 
 Total plugins: 571
 
@@ -92,8 +92,6 @@ Total plugins: 571
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 
 **[heysketch/sketch-color-picker-plus](https://github.com/heysketch/sketch-color-picker-plus) has no repo**
-
-**[dawidw/move-it](https://github.com/dawidw/move-it) missing manifest.json**
 
 [AntonioJMartinez/sketch-ImageAverageColor](https://github.com/AntonioJMartinez/sketch-ImageAverageColor) manifest.json contains extra commas
 

@@ -2704,7 +2704,7 @@
     "homepage": "https://github.com/andrewfiorillo/sketch-palettes",
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
     "gh_updated": "2018-08-26 23:53:00 UTC",
-    "gh_stars": 2041,
+    "gh_stars": 2042,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
@@ -3146,7 +3146,7 @@
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
     "gh_updated": "2018-12-13 11:30:07 UTC",
-    "gh_stars": 487,
+    "gh_stars": 488,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
@@ -3166,9 +3166,7 @@
     "gh_updated": "2017-02-01 12:15:03 UTC",
     "gh_stars": 41,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.5e5693a0-fcd9-4b54-990d-649a41482f79",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-protoio-export",

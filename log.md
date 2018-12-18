@@ -1,10 +1,12 @@
 # Plugin Metadata
 
-Updated 2018-12-18 21:01:35 UTC
+Updated 2018-12-18 22:01:49 UTC
 
-Total plugins: 571
+Total plugins: 577
 
 ## Problems
+**[Monzo/File Cleaner](https://github.com/Monzo/File Cleaner) has no repo**
+
 **[Webkul/Renamer](https://github.com/Webkul/Renamer) manifest.json is missing identifier**
 
 **[lanhuapp.com/🐳 蓝湖](https://github.com/lanhuapp.com/🐳 蓝湖) has no repo**
@@ -328,4 +330,12 @@ Total plugins: 571
 **/pointbreak has no repo**
 
 **[VKCOM/vkdata-sketchplugin](https://github.com/VKCOM/vkdata-sketchplugin) manifest.json is missing identifier**
+
+[canisminor1990/anto](https://github.com/canisminor1990/anto) and [canisminor1990/sketch-afux-tools](https://github.com/canisminor1990/sketch-afux-tools) use the same manifest identifier, __sketch.plugin.anto__
+
+**[dvcdv/dvc_sketch_plugin](https://github.com/dvcdv/dvc_sketch_plugin) missing manifest.json**
+
+**[webkul/renamer](https://github.com/webkul/renamer) owner and name correspond to multiple plugins**
+
+**[Webkul/Renamer](https://github.com/Webkul/Renamer) manifest.json is missing identifier**
 

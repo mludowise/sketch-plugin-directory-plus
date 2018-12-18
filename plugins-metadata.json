@@ -1589,7 +1589,8 @@
     "gh_updated": "2018-10-14 18:34:08 UTC",
     "gh_stars": 20,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   },
   {
     "name": "AlignTo",

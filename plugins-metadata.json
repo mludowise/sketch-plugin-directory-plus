@@ -1589,8 +1589,7 @@
     "gh_updated": "2018-10-14 18:34:08 UTC",
     "gh_stars": 20,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "AlignTo",
@@ -4206,7 +4205,7 @@
     "homepage": "https://github.com/cute/SketchI18N",
     "gh_url": "https://github.com/cute/SketchI18N.git",
     "gh_updated": "2018-11-30 12:46:40 UTC",
-    "gh_stars": 1067,
+    "gh_stars": 1068,
     "gh_issues": 19,
     "gh_branch": "master",
     "man_identifier": "com.liguangming.sketch-i18n",
@@ -4667,7 +4666,7 @@
     "homepage": "https://github.com/sonburn/symbol-organizer",
     "gh_url": "https://github.com/sonburn/symbol-organizer.git",
     "gh_updated": "2018-10-16 13:25:48 UTC",
-    "gh_stars": 664,
+    "gh_stars": 665,
     "gh_issues": 29,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-organizer",

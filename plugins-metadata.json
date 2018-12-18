@@ -3030,10 +3030,7 @@
     "gh_updated": "2018-09-03 16:23:04 UTC",
     "gh_stars": 2438,
     "gh_issues": 35,
-    "gh_branch": "master",
-    "man_identifier": "com.matt-curtis.sketch.constraints",
-    "man_version": "1.7.6",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-font-size-checker",
@@ -9036,7 +9033,7 @@
     "homepage": "https://github.com/canisminor1990/sketch-afux-tools",
     "added": "2018-12-04 12:02:17 UTC",
     "gh_url": "https://github.com/canisminor1990/anto.git",
-    "gh_updated": "2018-12-18 05:44:02 UTC",
+    "gh_updated": "2018-12-18 12:16:06 UTC",
     "gh_stars": 5,
     "gh_issues": 0,
     "gh_branch": "master",

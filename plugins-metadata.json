@@ -3914,7 +3914,7 @@
     "gh_url": "https://github.com/BohemianCoding/svgo-compressor.git",
     "gh_updated": "2018-10-20 14:43:52 UTC",
     "gh_stars": 941,
-    "gh_issues": 8,
+    "gh_issues": 7,
     "gh_branch": "develop",
     "man_identifier": "com.sketchapp.plugins.svgo-compressor",
     "man_compatible_version": "3.8"
@@ -9098,7 +9098,7 @@
     "homepage": "https://github.com/dvcdv/dvc_sketch_plugin",
     "added": "2018-12-18 22:01:49 UTC",
     "gh_url": "https://github.com/dvcdv/dvc_sketch_plugin.git",
-    "gh_updated": "2018-12-20 04:02:08 UTC",
+    "gh_updated": "2018-12-20 08:39:40 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
     "gh_branch": "master"
@@ -9135,5 +9135,23 @@
     "man_version": "2.0.5",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/Webkul/CoolHue/master/distro/CoolHue.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "name": "annotations-sketch-plugin",
+    "owner": "BaguetteEngineering",
+    "author": "Baguette Engineering",
+    "title": "Annotations",
+    "description": "Hide/show layer groups named 'Annotations'.",
+    "homepage": "https://github.com/BaguetteEngineering/annotations-sketch-plugin",
+    "added": "2018-12-20 09:01:35 UTC",
+    "gh_url": "https://github.com/BaguetteEngineering/annotations-sketch-plugin.git",
+    "gh_updated": "2018-12-20 07:57:31 UTC",
+    "gh_stars": 1,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "Annotations",
+    "man_version": "0.2.0",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/BaguetteEngineering/annotations-sketch-plugin/master/annotations.sketchplugin/Contents/Resources/icon.png"
   }
 ]

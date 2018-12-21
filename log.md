@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-12-21 10:01:26 UTC
+Updated 2018-12-21 11:01:30 UTC
 
-Total plugins: 579
+Total plugins: 580
 
 ## Problems
 **[Monzo/File Cleaner](https://github.com/Monzo/File Cleaner) has no repo**
@@ -338,4 +338,6 @@ Total plugins: 579
 **[webkul/renamer](https://github.com/webkul/renamer) owner and name correspond to multiple plugins**
 
 **[Webkul/Renamer](https://github.com/Webkul/Renamer) manifest.json is missing identifier**
+
+**[alanfraneo/composite-svg](https://github.com/alanfraneo/composite-svg) has no repo**
 

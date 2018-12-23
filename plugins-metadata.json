@@ -5271,13 +5271,14 @@
     "added": "2017-01-12 09:17:15 UTC",
     "homepage": "https://tinyfac.es",
     "gh_url": "https://github.com/maximedegreve/TinyFaces-Sketch-Plugin.git",
-    "gh_updated": "2018-12-05 21:25:17 UTC",
+    "gh_updated": "2018-12-23 12:33:09 UTC",
     "gh_stars": 212,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.maximedegreve.tinyfaces",
-    "man_version": "2.4",
-    "man_compatible_version": "3"
+    "man_version": "0.3.0",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/maximedegreve/TinyFaces-Sketch-Plugin/master/tinyfaces.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "SketchSize",

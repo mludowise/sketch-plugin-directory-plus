@@ -1959,12 +1959,12 @@
     "added": "2015-04-17 09:47:01 UTC",
     "homepage": "https://github.com/kumo/sketch-mail-merge",
     "gh_url": "https://github.com/kumo/sketch-mail-merge.git",
-    "gh_updated": "2018-05-11 08:57:09 UTC",
+    "gh_updated": "2018-12-25 16:55:06 UTC",
     "gh_stars": 54,
-    "gh_issues": 7,
+    "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "it.kumo.sketch.mail-merge",
-    "man_version": "1.0.8",
+    "man_version": "1.0.9",
     "man_compatible_version": "3.8"
   },
   {

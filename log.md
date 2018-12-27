@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2018-12-27 14:02:26 UTC
+Updated 2018-12-27 15:01:54 UTC
 
 Total plugins: 581
 
@@ -338,6 +338,8 @@ Total plugins: 581
 **[webkul/renamer](https://github.com/webkul/renamer) owner and name correspond to multiple plugins**
 
 **[Webkul/Renamer](https://github.com/Webkul/Renamer) manifest.json is missing identifier**
+
+**[BaguetteEngineering/annotations-sketch-plugin](https://github.com/BaguetteEngineering/annotations-sketch-plugin) manifest.json is missing identifier**
 
 **[alanfraneo/composite-svg](https://github.com/alanfraneo/composite-svg) has no repo**
 

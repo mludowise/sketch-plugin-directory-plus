@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2018-12-28 21:02:09 UTC
+Updated 2018-12-28 22:02:10 UTC
 
-Total plugins: 581
+Total plugins: 582
 
 ## Problems
 **[Monzo/File Cleaner](https://github.com/Monzo/File Cleaner) has no repo**
@@ -342,4 +342,6 @@ Total plugins: 581
 **[BaguetteEngineering/annotations-sketch-plugin](https://github.com/BaguetteEngineering/annotations-sketch-plugin) manifest.json is missing identifier**
 
 **[alanfraneo/composite-svg](https://github.com/alanfraneo/composite-svg) has no repo**
+
+**[taobaofed/imgcook](https://github.com/taobaofed/imgcook) missing manifest.json**
 

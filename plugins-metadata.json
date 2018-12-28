@@ -5156,7 +5156,7 @@
     "homepage": "https://github.com/Tallwave/sketch-spellcheck-all-layers",
     "gh_url": "https://github.com/Tallwave/sketch-spellcheck-all-layers.git",
     "gh_updated": "2018-08-02 14:41:52 UTC",
-    "gh_stars": 110,
+    "gh_stars": 111,
     "gh_issues": 11,
     "gh_branch": "master",
     "man_identifier": "com.tallwave.spellcheckwholepage",
@@ -9195,5 +9195,19 @@
     "description": "A Sketch plugin to create a composite SVG file from sketch artboards",
     "homepage": "https://github.com/alanfraneo/svg-composite",
     "added": "2018-12-21 11:01:30 UTC"
+  },
+  {
+    "name": "imgcook",
+    "owner": "taobaofed",
+    "author": "Taobao FED",
+    "title": "imgcook",
+    "description": "imgcook sketch plugin",
+    "homepage": "https://github.com/taobaofed/imgcook",
+    "added": "2018-12-28 22:02:10 UTC",
+    "gh_url": "https://github.com/taobaofed/imgcook.git",
+    "gh_updated": "2018-12-27 09:45:06 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master"
   }
 ]

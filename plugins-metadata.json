@@ -4677,7 +4677,7 @@
     "gh_url": "https://github.com/sonburn/symbol-organizer.git",
     "gh_updated": "2018-10-16 13:25:48 UTC",
     "gh_stars": 667,
-    "gh_issues": 29,
+    "gh_issues": 30,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-organizer",
     "man_version": "15.7",
@@ -8732,7 +8732,7 @@
     "added": "2018-11-15 11:02:15 UTC",
     "gh_url": "https://github.com/zehfernandes/sketch-pochette.git",
     "gh_updated": "2018-11-16 18:50:36 UTC",
-    "gh_stars": 38,
+    "gh_stars": 39,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_compatible_version": "3"

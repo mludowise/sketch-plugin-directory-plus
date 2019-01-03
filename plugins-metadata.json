@@ -1977,7 +1977,7 @@
     "homepage": "https://github.com/abynim/UserFlows",
     "gh_url": "https://github.com/abynim/UserFlows.git",
     "gh_updated": "2018-11-07 02:17:48 UTC",
-    "gh_stars": 1365,
+    "gh_stars": 1364,
     "gh_issues": 53,
     "gh_branch": "v2",
     "man_identifier": "com.abynim.sketchplugins.userflows",
@@ -5421,12 +5421,12 @@
     "added": "2017-03-08 14:58:42 UTC",
     "homepage": "http://guides.pratikshah.website/",
     "gh_url": "https://github.com/pratikjshah/Sketch-Guides.git",
-    "gh_updated": "2019-01-01 06:35:21 UTC",
+    "gh_updated": "2019-01-03 17:51:51 UTC",
     "gh_stars": 62,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "website.pratikshah.guides",
-    "man_version": "2.0.1",
+    "man_version": "2.0.2",
     "man_compatible_version": "40"
   },
   {
@@ -7342,7 +7342,7 @@
     "gh_url": "https://github.com/romannurik/Sketch-FlowExporter.git",
     "gh_updated": "2018-09-26 18:49:15 UTC",
     "gh_stars": 80,
-    "gh_issues": 3,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.flowexporter",
     "man_compatible_version": "49"

@@ -726,7 +726,7 @@
     "homepage": "https://github.com/mludowise/Sketch-HTML-Export",
     "gh_url": "https://github.com/mludowise/Sketch-HTML-Export.git",
     "gh_updated": "2017-07-07 18:49:33 UTC",
-    "gh_stars": 127,
+    "gh_stars": 128,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.mludowise.htmlexport",
@@ -7770,7 +7770,7 @@
     "added": "2018-05-17 08:02:49 UTC",
     "gh_url": "https://github.com/futantan/sketch-style-to-react-native.git",
     "gh_updated": "2018-05-16 01:37:11 UTC",
-    "gh_stars": 21,
+    "gh_stars": 22,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"
@@ -8598,7 +8598,7 @@
     "added": "2018-10-19 17:02:33 UTC",
     "gh_url": "https://github.com/reeli/sketch-svg-to-react-component.git",
     "gh_updated": "2018-10-23 07:15:34 UTC",
-    "gh_stars": 11,
+    "gh_stars": 12,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

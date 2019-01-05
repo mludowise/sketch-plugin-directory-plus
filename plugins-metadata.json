@@ -1131,7 +1131,7 @@
     "homepage": "https://github.com/joshwayne/jw-sketch-plugins",
     "gh_url": "https://github.com/joshwayne/jw-sketch-plugins.git",
     "gh_updated": "2016-10-01 00:27:55 UTC",
-    "gh_stars": 86,
+    "gh_stars": 87,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.joshwayne.sketch.split-combine-text",
@@ -9206,7 +9206,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taobaofed/imgcook.git",
     "gh_updated": "2019-01-05 10:11:49 UTC",
-    "gh_stars": 3,
+    "gh_stars": 4,
     "gh_issues": 0,
     "gh_branch": "master"
   }

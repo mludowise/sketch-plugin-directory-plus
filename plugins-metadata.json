@@ -4363,7 +4363,7 @@
     "homepage": "http://www.textstyl.es/",
     "gh_url": "https://github.com/nilshoenson/shared-text-styles.git",
     "gh_updated": "2018-11-08 10:09:04 UTC",
-    "gh_stars": 299,
+    "gh_stars": 300,
     "gh_issues": 11,
     "gh_branch": "master",
     "man_identifier": "com.nilshoenson.sketch.shared-text-styles",
@@ -6093,15 +6093,7 @@
     "author": "Matthias Martin",
     "title": "Images Reinvented",
     "description": "A better way to use images in Sketch.",
-    "added": "2017-07-10 11:25:15 UTC",
-    "homepage": "https://github.com/roydigerhund/Images-Reinvented",
-    "gh_url": "https://github.com/roydigerhund/Images-Reinvented.git",
-    "gh_updated": "2017-08-22 22:01:50 UTC",
-    "gh_stars": 27,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "de.matzemachtdesign.sketch.imagesreinvented",
-    "man_version": "1.0.1"
+    "added": "2017-07-10 11:25:15 UTC"
   },
   {
     "name": "giancartboard",
@@ -9206,7 +9198,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taobaofed/imgcook.git",
     "gh_updated": "2019-01-05 10:11:49 UTC",
-    "gh_stars": 10,
+    "gh_stars": 11,
     "gh_issues": 0,
     "gh_branch": "master"
   }

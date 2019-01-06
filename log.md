@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-01-06 12:01:44 UTC
+Updated 2019-01-06 13:02:10 UTC
 
 Total plugins: 582
 
@@ -148,8 +148,6 @@ Total plugins: 582
 [canisminor1990/sketch-move-half-pixel](https://github.com/canisminor1990/sketch-move-half-pixel) manifest.json contains extra commas
 
 **[ImageOptim/sketch-plugin](https://github.com/ImageOptim/sketch-plugin) missing manifest.json**
-
-**[roydigerhund/Images-Reinvented](https://github.com/roydigerhund/Images-Reinvented) has no repo**
 
 [MattCowBoy/giancartboard](https://github.com/MattCowBoy/giancartboard) manifest.json contains extra commas
 

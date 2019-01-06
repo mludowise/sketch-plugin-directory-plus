@@ -6093,7 +6093,15 @@
     "author": "Matthias Martin",
     "title": "Images Reinvented",
     "description": "A better way to use images in Sketch.",
-    "added": "2017-07-10 11:25:15 UTC"
+    "added": "2017-07-10 11:25:15 UTC",
+    "homepage": "https://github.com/roydigerhund/Images-Reinvented",
+    "gh_url": "https://github.com/roydigerhund/Images-Reinvented.git",
+    "gh_updated": "2017-08-22 22:01:50 UTC",
+    "gh_stars": 27,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "de.matzemachtdesign.sketch.imagesreinvented",
+    "man_version": "1.0.1"
   },
   {
     "name": "giancartboard",
@@ -9198,7 +9206,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taobaofed/imgcook.git",
     "gh_updated": "2019-01-05 10:11:49 UTC",
-    "gh_stars": 11,
+    "gh_stars": 15,
     "gh_issues": 0,
     "gh_branch": "master"
   }

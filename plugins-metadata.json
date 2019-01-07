@@ -1696,7 +1696,7 @@
     "gh_url": "https://github.com/zeplin/zeplin-sketch-plugin.git",
     "gh_updated": "2018-06-21 01:30:27 UTC",
     "gh_stars": 139,
-    "gh_issues": 8,
+    "gh_issues": 9,
     "gh_branch": "develop",
     "man_identifier": "io.zeplin.sketch-plugin",
     "man_version": "1.6.5"
@@ -9206,7 +9206,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taobaofed/imgcook.git",
     "gh_updated": "2019-01-07 03:34:59 UTC",
-    "gh_stars": 33,
+    "gh_stars": 34,
     "gh_issues": 1,
     "gh_branch": "master"
   }

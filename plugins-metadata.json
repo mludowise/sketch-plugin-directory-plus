@@ -379,7 +379,7 @@
     "added": "2017-09-12 21:02:26 UTC",
     "gh_url": "https://github.com/awkward/Alembic.git",
     "gh_updated": "2018-05-22 13:51:14 UTC",
-    "gh_stars": 541,
+    "gh_stars": 542,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "co.awkward.alembic",
@@ -4215,7 +4215,7 @@
     "homepage": "https://github.com/cute/SketchI18N",
     "gh_url": "https://github.com/cute/SketchI18N.git",
     "gh_updated": "2018-11-30 12:46:40 UTC",
-    "gh_stars": 1098,
+    "gh_stars": 1099,
     "gh_issues": 21,
     "gh_branch": "master",
     "man_identifier": "com.liguangming.sketch-i18n",
@@ -9205,7 +9205,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taobaofed/imgcook.git",
     "gh_updated": "2019-01-07 03:34:59 UTC",
-    "gh_stars": 41,
+    "gh_stars": 42,
     "gh_issues": 1,
     "gh_branch": "master"
   }

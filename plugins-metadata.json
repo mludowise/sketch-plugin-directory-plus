@@ -4215,7 +4215,7 @@
     "homepage": "https://github.com/cute/SketchI18N",
     "gh_url": "https://github.com/cute/SketchI18N.git",
     "gh_updated": "2018-11-30 12:46:40 UTC",
-    "gh_stars": 1096,
+    "gh_stars": 1097,
     "gh_issues": 20,
     "gh_branch": "master",
     "man_identifier": "com.liguangming.sketch-i18n",
@@ -8461,11 +8461,10 @@
     "homepage": "https://sensive.co",
     "added": "2018-10-10 12:02:22 UTC",
     "gh_url": "https://github.com/sensive/sensive-sketch.git",
-    "gh_updated": "2018-12-28 07:42:32 UTC",
+    "gh_updated": "2019-01-08 02:19:07 UTC",
     "gh_stars": 0,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
-    "man_version": "0.3.2",
     "man_compatible_version": "3"
   },
   {
@@ -9206,7 +9205,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taobaofed/imgcook.git",
     "gh_updated": "2019-01-07 03:34:59 UTC",
-    "gh_stars": 35,
+    "gh_stars": 36,
     "gh_issues": 1,
     "gh_branch": "master"
   }

@@ -1182,7 +1182,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6201,
+    "gh_stars": 6202,
     "gh_issues": 258,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -5819,7 +5819,7 @@
     "added": "2017-05-02 08:01:49 UTC",
     "gh_url": "https://github.com/mludowise/Sketch-Plugin-Manager.git",
     "gh_updated": "2018-03-02 00:02:25 UTC",
-    "gh_stars": 283,
+    "gh_stars": 284,
     "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "com.mludowise.sketch-plugin-manager",
@@ -9205,7 +9205,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taobaofed/imgcook.git",
     "gh_updated": "2019-01-07 03:34:59 UTC",
-    "gh_stars": 44,
+    "gh_stars": 53,
     "gh_issues": 3,
     "gh_branch": "master"
   }

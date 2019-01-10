@@ -1182,7 +1182,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6203,
+    "gh_stars": 6204,
     "gh_issues": 258,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -4757,7 +4757,7 @@
     "homepage": "https://github.com/work4blue/sketch-app-asset-export",
     "gh_url": "https://github.com/work4blue/sketch-app-asset-export.git",
     "gh_updated": "2017-02-14 14:01:23 UTC",
-    "gh_stars": 112,
+    "gh_stars": 113,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "cn.bluedrum.sketch-app-aasset-export",
@@ -9205,7 +9205,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taobaofed/imgcook.git",
     "gh_updated": "2019-01-07 03:34:59 UTC",
-    "gh_stars": 59,
+    "gh_stars": 62,
     "gh_issues": 3,
     "gh_branch": "master"
   }

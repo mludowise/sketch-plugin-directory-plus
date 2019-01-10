@@ -3156,7 +3156,7 @@
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
     "gh_updated": "2018-12-13 11:30:07 UTC",
     "gh_stars": 497,
-    "gh_issues": 14,
+    "gh_issues": 15,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
     "man_version": "52.5.20181213",
@@ -5358,7 +5358,7 @@
     "gh_url": "https://github.com/PeachScript/sketch-plugin-monster.git",
     "gh_updated": "2018-08-15 03:36:42 UTC",
     "gh_stars": 135,
-    "gh_issues": 12,
+    "gh_issues": 13,
     "gh_branch": "master",
     "man_identifier": "com.peachscript.pluginMonster",
     "man_compatible_version": "3"
@@ -6647,7 +6647,7 @@
     "added": "2017-11-02 10:40:48 UTC",
     "gh_url": "https://github.com/danielguillan/sketch-syntax-highlighter.git",
     "gh_updated": "2017-11-03 23:10:23 UTC",
-    "gh_stars": 58,
+    "gh_stars": 59,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_compatible_version": "3"

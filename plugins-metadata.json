@@ -491,10 +491,7 @@
     "gh_updated": "2018-10-03 21:54:39 UTC",
     "gh_stars": 58,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.sureskumar.supershapes",
-    "man_version": "2.1.0",
-    "man_compatible_version": "52.0"
+    "gh_branch": "master"
   },
   {
     "name": "symbol-spacer-sketch-plugin",
@@ -505,7 +502,7 @@
     "homepage": "https://github.com/novemberfiveco/symbol-spacer-sketch-plugin",
     "added": "2017-06-10 18:01:18 UTC",
     "gh_url": "https://github.com/novemberfiveco/symbol-spacer-sketch-plugin.git",
-    "gh_updated": "2017-10-19 22:41:52 UTC",
+    "gh_updated": "2017-10-19 22:41:55 UTC",
     "gh_stars": 73,
     "gh_issues": 7,
     "gh_branch": "master",
@@ -760,7 +757,7 @@
     "added": "2016-12-30 12:11:40 UTC",
     "gh_url": "https://github.com/AnimaApp/Auto-Layout.git",
     "gh_updated": "2018-07-10 16:26:05 UTC",
-    "gh_stars": 745,
+    "gh_stars": 746,
     "gh_issues": 59,
     "gh_branch": "master",
     "man_identifier": "com.animaapp.stc-sketch-plugin",
@@ -4677,7 +4674,7 @@
     "gh_url": "https://github.com/sonburn/symbol-organizer.git",
     "gh_updated": "2018-10-16 13:25:48 UTC",
     "gh_stars": 665,
-    "gh_issues": 31,
+    "gh_issues": 30,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-organizer",
     "man_version": "15.7",
@@ -5358,7 +5355,7 @@
     "gh_url": "https://github.com/PeachScript/sketch-plugin-monster.git",
     "gh_updated": "2018-08-15 03:36:42 UTC",
     "gh_stars": 135,
-    "gh_issues": 11,
+    "gh_issues": 12,
     "gh_branch": "master",
     "man_identifier": "com.peachscript.pluginMonster",
     "man_compatible_version": "3"

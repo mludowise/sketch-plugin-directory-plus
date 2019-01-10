@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-01-10 11:01:51 UTC
+Updated 2019-01-10 12:02:22 UTC
 
-Total plugins: 582
+Total plugins: 585
 
 ## Problems
 **[Monzo/File Cleaner](https://github.com/Monzo/File Cleaner) has no repo**
@@ -340,4 +340,6 @@ Total plugins: 582
 **[alanfraneo/composite-svg](https://github.com/alanfraneo/composite-svg) has no repo**
 
 **[taobaofed/imgcook](https://github.com/taobaofed/imgcook) missing manifest.json**
+
+[pratikjshah/Sketch-Guides](https://github.com/pratikjshah/Sketch-Guides) and [pratikjshah/PS-Guides](https://github.com/pratikjshah/PS-Guides) use the same manifest identifier, __website.pratikshah.guides__
 

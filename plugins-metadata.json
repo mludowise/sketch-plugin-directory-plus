@@ -3255,7 +3255,7 @@
     "homepage": "https://github.com/AntonioJMartinez/sketch-ImageAverageColor",
     "gh_url": "https://github.com/AntonioJMartinez/sketch-ImageAverageColor.git",
     "gh_updated": "2019-01-02 07:19:26 UTC",
-    "gh_stars": 30,
+    "gh_stars": 31,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.antoniojmartinez.sketch.imageAverageColor",
@@ -4917,7 +4917,15 @@
     "author": "Roger Jungemann",
     "title": "SketchTape",
     "description": "Connect two shapes in Sketch app.",
-    "added": "2016-11-11 08:44:12 UTC"
+    "added": "2016-11-11 08:44:12 UTC",
+    "homepage": "https://github.com/rjungemann/SketchTape.sketchplugin",
+    "gh_url": "https://github.com/rjungemann/SketchTape.sketchplugin.git",
+    "gh_updated": "2016-10-16 10:29:28 UTC",
+    "gh_stars": 8,
+    "gh_issues": 3,
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.bed6e976-ac06-456f-9b14-43611ac133cf",
+    "man_version": "1.0"
   },
   {
     "name": "rotator-sketch-plugin",

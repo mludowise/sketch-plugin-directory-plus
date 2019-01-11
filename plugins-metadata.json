@@ -2012,8 +2012,8 @@
     "homepage": "https://github.com/preciousforever/sketch-bounding-boxer",
     "gh_url": "https://github.com/preciousforever/sketch-bounding-boxer.git",
     "gh_updated": "2018-11-08 08:35:13 UTC",
-    "gh_stars": 57,
-    "gh_issues": 10,
+    "gh_stars": 58,
+    "gh_issues": 11,
     "gh_branch": "master",
     "man_identifier": "com.precious-forever.sketch.boundingboxer",
     "man_version": "1.1.1"
@@ -9205,7 +9205,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taobaofed/imgcook.git",
     "gh_updated": "2019-01-07 03:34:59 UTC",
-    "gh_stars": 77,
+    "gh_stars": 78,
     "gh_issues": 3,
     "gh_branch": "master"
   },

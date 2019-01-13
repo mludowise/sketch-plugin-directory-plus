@@ -3896,7 +3896,7 @@
     "homepage": "https://github.com/redgell/Save-with-Frame",
     "gh_url": "https://github.com/redgell/Save-with-Frame.git",
     "gh_updated": "2017-01-12 17:09:41 UTC",
-    "gh_stars": 42,
+    "gh_stars": 41,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.redgell.sketch.save-with-frame",
@@ -8597,7 +8597,7 @@
     "added": "2018-10-19 17:02:33 UTC",
     "gh_url": "https://github.com/reeli/sketch-svg-to-react-component.git",
     "gh_updated": "2019-01-09 05:22:26 UTC",
-    "gh_stars": 14,
+    "gh_stars": 15,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

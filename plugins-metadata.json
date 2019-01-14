@@ -8283,7 +8283,7 @@
     "gh_url": "https://github.com/bomberstudios/artboard-manager.git",
     "gh_updated": "2018-11-23 12:08:16 UTC",
     "gh_stars": 517,
-    "gh_issues": 15,
+    "gh_issues": 16,
     "gh_branch": "master",
     "man_identifier": "com.bomberstudios.sketchplugins.artboard-manager",
     "man_compatible_version": "3"
@@ -9163,7 +9163,7 @@
     "added": "2018-12-20 09:01:35 UTC",
     "gh_url": "https://github.com/BaguetteEngineering/annotations-sketch-plugin.git",
     "gh_updated": "2019-01-12 11:49:25 UTC",
-    "gh_stars": 10,
+    "gh_stars": 11,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

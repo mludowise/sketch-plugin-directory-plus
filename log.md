@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-01-14 23:02:06 UTC
+Updated 2019-01-15 00:02:33 UTC
 
 Total plugins: 585
 

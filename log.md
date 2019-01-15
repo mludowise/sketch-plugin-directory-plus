@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-01-15 14:01:50 UTC
+Updated 2019-01-15 15:01:53 UTC
 
 Total plugins: 585
 
@@ -305,7 +305,7 @@ Total plugins: 585
 
 **[reeli/sketch-svg-to-react-component](https://github.com/reeli/sketch-svg-to-react-component) manifest.json is missing identifier**
 
-**[tgfjt/sketch-add-trailing-space](https://github.com/tgfjt/sketch-add-trailing-space) manifest.json is missing identifier**
+**[tgfjt/sketch-add-trailing-space](https://github.com/tgfjt/sketch-add-trailing-space) missing manifest.json**
 
 **[zehfernandes/sketch-pochette](https://github.com/zehfernandes/sketch-pochette) manifest.json is missing identifier**
 

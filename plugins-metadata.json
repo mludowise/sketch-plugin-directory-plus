@@ -2108,7 +2108,7 @@
     "added": "2015-07-08 12:27:44 UTC",
     "gh_url": "https://github.com/tudou527/marketch.git",
     "gh_updated": "2018-12-10 03:42:55 UTC",
-    "gh_stars": 2766,
+    "gh_stars": 2767,
     "gh_issues": 45,
     "gh_branch": "master",
     "man_identifier": "com.marketch.cosa.98908c77-3d38-48fa-8c7c-1bb465f67eb8",
@@ -8718,8 +8718,7 @@
     "gh_updated": "2018-11-13 07:34:41 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-pochette",

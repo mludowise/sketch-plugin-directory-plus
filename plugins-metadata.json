@@ -1542,7 +1542,15 @@
     "author": "Marko Tadić",
     "title": "AEIconizer",
     "description": "iOS icon generator plugin for Bohemian Coding Sketch app.",
-    "added": "2014-10-01 18:30:52 UTC"
+    "added": "2014-10-01 18:30:52 UTC",
+    "homepage": "https://github.com/tadija/AEIconizer",
+    "gh_url": "https://github.com/tadija/AEIconizer.git",
+    "gh_updated": "2018-12-09 19:10:46 UTC",
+    "gh_stars": 434,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "net.tadija.sketch.AEIconizer",
+    "man_version": "2.4.2"
   },
   {
     "name": "Efficiency",
@@ -5366,7 +5374,7 @@
     "gh_url": "https://github.com/avadhbsd/RandomColors.git",
     "gh_updated": "2017-03-11 07:44:35 UTC",
     "gh_stars": 48,
-    "gh_issues": 6,
+    "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.460c1ac2-6402-45f5-b567-5148ed58b7fc",
     "man_version": "1.0"

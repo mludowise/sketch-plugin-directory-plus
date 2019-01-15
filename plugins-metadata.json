@@ -2360,7 +2360,7 @@
     "gh_url": "https://github.com/MagicSketch/MagicMirror.git",
     "gh_updated": "2018-10-14 18:50:48 UTC",
     "gh_stars": 479,
-    "gh_issues": 36,
+    "gh_issues": 37,
     "gh_branch": "master",
     "man_identifier": "design.magicmirror",
     "man_version": "2.0.9.4",
@@ -9205,7 +9205,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taobaofed/imgcook.git",
     "gh_updated": "2019-01-07 03:34:59 UTC",
-    "gh_stars": 117,
+    "gh_stars": 118,
     "gh_issues": 6,
     "gh_branch": "master"
   },

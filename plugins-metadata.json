@@ -9061,14 +9061,12 @@
     "homepage": "https://github.com/canisminor1990/sketch-afux-tools",
     "added": "2018-12-04 12:02:17 UTC",
     "gh_url": "https://github.com/canisminor1990/anto.git",
-    "gh_updated": "2019-01-16 05:04:01 UTC",
+    "gh_updated": "2019-01-16 06:04:33 UTC",
     "gh_stars": 19,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "sketch.plugin.anto",
-    "man_version": "1.1.4",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/canisminor1990/sketch-afux-tools/master/Anto.sketchplugin/Contents/Resources/icon.png"
+    "man_compatible_version": "3"
   },
   {
     "name": "anto",
@@ -9079,14 +9077,12 @@
     "homepage": "https://github.com/canisminor1990/anto",
     "added": "2018-12-18 22:01:49 UTC",
     "gh_url": "https://github.com/canisminor1990/anto.git",
-    "gh_updated": "2019-01-16 05:04:01 UTC",
+    "gh_updated": "2019-01-16 06:04:33 UTC",
     "gh_stars": 19,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "sketch.plugin.anto",
-    "man_version": "1.1.4",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/canisminor1990/anto/master/Anto.sketchplugin/Contents/Resources/icon.png"
+    "man_compatible_version": "3"
   },
   {
     "name": "extensions-sketch-plugin",
@@ -9205,7 +9201,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taobaofed/imgcook.git",
     "gh_updated": "2019-01-07 03:34:59 UTC",
-    "gh_stars": 123,
+    "gh_stars": 124,
     "gh_issues": 6,
     "gh_branch": "master"
   },

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-01-20 18:00:48 UTC
+Updated 2019-01-20 19:00:50 UTC
 
 Total plugins: 588
 
@@ -327,7 +327,7 @@ Total plugins: 588
 
 **[VKCOM/vkdata-sketchplugin](https://github.com/VKCOM/vkdata-sketchplugin) manifest.json is missing identifier**
 
-**[canisminor1990/sketch-afux-tools](https://github.com/canisminor1990/sketch-afux-tools) missing manifest.json**
+[canisminor1990/anto](https://github.com/canisminor1990/anto) and [canisminor1990/sketch-afux-tools](https://github.com/canisminor1990/sketch-afux-tools) use the same manifest identifier, __sketch.plugin.anto__
 
 **[dvcdv/dvc_sketch_plugin](https://github.com/dvcdv/dvc_sketch_plugin) missing manifest.json**
 

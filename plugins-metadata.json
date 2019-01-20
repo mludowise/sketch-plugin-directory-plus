@@ -659,7 +659,7 @@
     "homepage": "http://www.sureskumar.com/looper/",
     "gh_url": "https://github.com/sureskumar/Looper.git",
     "gh_updated": "2018-12-27 01:15:39 UTC",
-    "gh_stars": 431,
+    "gh_stars": 432,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.sureskumar.sketch.looper",
@@ -9064,9 +9064,7 @@
     "gh_updated": "2019-01-20 16:36:42 UTC",
     "gh_stars": 19,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "sketch.plugin.anto",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "anto",

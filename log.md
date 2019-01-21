@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-01-21 13:01:54 UTC
+Updated 2019-01-21 14:02:11 UTC
 
 Total plugins: 588
 
@@ -134,8 +134,6 @@ Total plugins: 588
 **[amin-nas/Sketch-to-Clickthrough-HTML](https://github.com/amin-nas/Sketch-to-Clickthrough-HTML) manifest.json is missing identifier**
 
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
-
-**[joshkissel/sketch-count-text](https://github.com/joshkissel/sketch-count-text) missing manifest.json**
 
 [finchalyzer/slinky](https://github.com/finchalyzer/slinky) manifest.json contains extra commas
 

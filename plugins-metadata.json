@@ -18,7 +18,7 @@
     "added": "2018-12-04 12:02:17 UTC",
     "gh_url": "https://github.com/webkul/renamer.git",
     "gh_updated": "2018-12-11 18:22:59 UTC",
-    "gh_stars": 13,
+    "gh_stars": 14,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"
@@ -659,7 +659,7 @@
     "homepage": "http://www.sureskumar.com/looper/",
     "gh_url": "https://github.com/sureskumar/Looper.git",
     "gh_updated": "2018-12-27 01:15:39 UTC",
-    "gh_stars": 432,
+    "gh_stars": 433,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.sureskumar.sketch.looper",
@@ -1182,7 +1182,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6222,
+    "gh_stars": 6223,
     "gh_issues": 261,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -1745,10 +1745,7 @@
     "gh_updated": "2018-02-01 17:42:22 UTC",
     "gh_stars": 103,
     "gh_issues": 6,
-    "gh_branch": "master",
-    "man_identifier": "net.raureif.sketch.click-dummy",
-    "man_version": "1.1",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "material-design-color-palette",
@@ -3385,7 +3382,7 @@
     "homepage": "https://mathieudutour.github.io/git-sketch-plugin",
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2017-10-17 08:22:39 UTC",
-    "gh_stars": 2279,
+    "gh_stars": 2278,
     "gh_issues": 21,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",

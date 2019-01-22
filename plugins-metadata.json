@@ -728,10 +728,7 @@
     "gh_updated": "2017-07-07 18:49:33 UTC",
     "gh_stars": 133,
     "gh_issues": 5,
-    "gh_branch": "master",
-    "man_identifier": "com.mludowise.htmlexport",
-    "man_version": "0.2",
-    "man_compatible_version": "45.1"
+    "gh_branch": "master"
   },
   {
     "name": "click-thru-prototype",
@@ -1182,7 +1179,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6223,
+    "gh_stars": 6222,
     "gh_issues": 261,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -3913,7 +3910,7 @@
     "added": "2016-05-31 15:16:43 UTC",
     "gh_url": "https://github.com/BohemianCoding/svgo-compressor.git",
     "gh_updated": "2018-10-20 14:43:52 UTC",
-    "gh_stars": 952,
+    "gh_stars": 953,
     "gh_issues": 8,
     "gh_branch": "develop",
     "man_identifier": "com.sketchapp.plugins.svgo-compressor",
@@ -8161,7 +8158,7 @@
     "added": "2018-07-17 09:02:33 UTC",
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
-    "gh_updated": "2019-01-16 08:28:12 UTC",
+    "gh_updated": "2019-01-22 14:53:45 UTC",
     "gh_stars": 60,
     "gh_issues": 0,
     "gh_branch": "master",

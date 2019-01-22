@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-01-22 15:01:50 UTC
+Updated 2019-01-22 16:02:33 UTC
 
 Total plugins: 588
 
@@ -129,7 +129,7 @@ Total plugins: 588
 
 [pberrecloth/rotator-sketch-plugin](https://github.com/pberrecloth/rotator-sketch-plugin) manifest.json contains extra commas
 
-[eaugustine/Sketch-Color-Contrast-Analyzer](https://github.com/eaugustine/Sketch-Color-Contrast-Analyzer) manifest.json contains extra commas
+**[eaugustine/Sketch-Color-Contrast-Analyzer](https://github.com/eaugustine/Sketch-Color-Contrast-Analyzer) missing manifest.json**
 
 **[amin-nas/Sketch-to-Clickthrough-HTML](https://github.com/amin-nas/Sketch-to-Clickthrough-HTML) manifest.json is missing identifier**
 

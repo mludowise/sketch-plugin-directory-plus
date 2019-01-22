@@ -728,7 +728,10 @@
     "gh_updated": "2017-07-07 18:49:33 UTC",
     "gh_stars": 133,
     "gh_issues": 5,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.mludowise.htmlexport",
+    "man_version": "0.2",
+    "man_compatible_version": "45.1"
   },
   {
     "name": "click-thru-prototype",
@@ -1195,7 +1198,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
-    "gh_stars": 4378,
+    "gh_stars": 4379,
     "gh_issues": 44,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -4625,7 +4628,7 @@
     "homepage": "https://github.com/nathco/Export-More",
     "gh_url": "https://github.com/nathco/Export-More.git",
     "gh_updated": "2018-01-08 20:01:37 UTC",
-    "gh_stars": 224,
+    "gh_stars": 223,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.plugin.Export-More",
@@ -4971,10 +4974,7 @@
     "gh_updated": "2016-11-21 16:50:28 UTC",
     "gh_stars": 43,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "com.getflourish.sketch.colorcontrastanalyzer",
-    "man_version": "1.2",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-to-Clickthrough-HTML",
@@ -7819,10 +7819,7 @@
     "gh_updated": "2018-05-20 10:54:27 UTC",
     "gh_stars": 7,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.seancoker.sketch.drake",
-    "man_version": "1.0.0",
-    "man_compatible_version": "50"
+    "gh_branch": "master"
   },
   {
     "name": "Nucleus",

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-01-23 15:02:04 UTC
+Updated 2019-01-23 16:02:32 UTC
 
 Total plugins: 588
 
@@ -201,8 +201,6 @@ Total plugins: 588
 
 **[reqfire/sketch-user-flows](https://github.com/reqfire/sketch-user-flows) manifest.json is missing identifier**
 
-**[sigtm/sketch-style-libraries](https://github.com/sigtm/sketch-style-libraries) missing manifest.json**
-
 [kupe517/sketch-split-shape](https://github.com/kupe517/sketch-split-shape) manifest.json contains extra commas
 
 **[zcallan/sketch-bacon-ipsum](https://github.com/zcallan/sketch-bacon-ipsum) manifest.json is missing identifier**
@@ -251,15 +249,11 @@ Total plugins: 588
 
 **[kd-co/charapara-sketch-extension](https://github.com/kd-co/charapara-sketch-extension) manifest.json is missing identifier**
 
-**[larsenwork/sketch-easing-gradient](https://github.com/larsenwork/sketch-easing-gradient) missing manifest.json**
-
 **[jordansinger/Assistant](https://github.com/jordansinger/Assistant) manifest.json is missing identifier**
 
 **[toyboxsystems/roller](https://github.com/toyboxsystems/roller) manifest.json is missing identifier**
 
 **[perrysmotors/sketch-unsplasher](https://github.com/perrysmotors/sketch-unsplasher) manifest.json is missing identifier**
-
-**[WeTransfer/Sketch-Plugin](https://github.com/WeTransfer/Sketch-Plugin) has no repo**
 
 **[youngxkk/AutoFixiOSTextLineHeight-Sketch-Plugin](https://github.com/youngxkk/AutoFixiOSTextLineHeight-Sketch-Plugin) has no repo**
 

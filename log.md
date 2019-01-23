@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-01-23 17:01:55 UTC
+Updated 2019-01-23 18:01:02 UTC
 
 Total plugins: 588
 
@@ -58,6 +58,8 @@ Total plugins: 588
 [herrhelms/radial-lines-sketch](https://github.com/herrhelms/radial-lines-sketch) manifest.json contains extra commas
 
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
+
+**[goodpatch/Prott-Sketch-Plugin](https://github.com/goodpatch/Prott-Sketch-Plugin) has no repo**
 
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
 

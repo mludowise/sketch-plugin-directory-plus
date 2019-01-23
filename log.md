@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-01-23 18:01:02 UTC
+Updated 2019-01-23 19:00:54 UTC
 
 Total plugins: 588
 
@@ -59,8 +59,6 @@ Total plugins: 588
 
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
 
-**[goodpatch/Prott-Sketch-Plugin](https://github.com/goodpatch/Prott-Sketch-Plugin) has no repo**
-
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
 
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
@@ -94,6 +92,8 @@ Total plugins: 588
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 
 **[heysketch/sketch-color-picker-plus](https://github.com/heysketch/sketch-color-picker-plus) has no repo**
+
+**[fuggfuggfugg/sketch-dynamic-button-3.5](https://github.com/fuggfuggfugg/sketch-dynamic-button-3.5) missing manifest.json**
 
 [ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
 

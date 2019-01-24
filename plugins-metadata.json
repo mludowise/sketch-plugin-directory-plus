@@ -761,7 +761,7 @@
     "gh_url": "https://github.com/AnimaApp/Auto-Layout.git",
     "gh_updated": "2018-07-10 16:26:05 UTC",
     "gh_stars": 779,
-    "gh_issues": 59,
+    "gh_issues": 58,
     "gh_branch": "master",
     "man_identifier": "com.animaapp.stc-sketch-plugin",
     "man_version": "2.0.5",
@@ -1183,7 +1183,7 @@
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
     "gh_stars": 6228,
-    "gh_issues": 261,
+    "gh_issues": 262,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.7.7"

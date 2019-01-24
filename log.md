@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-01-24 19:00:21 UTC
+Updated 2019-01-24 20:01:43 UTC
 
 Total plugins: 588
 
@@ -70,8 +70,6 @@ Total plugins: 588
 **[ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) manifest.json is missing identifier**
 
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
-
-**[nickstamas/Sketch-Better-Android-Export](https://github.com/nickstamas/Sketch-Better-Android-Export) has no repo**
 
 [getflourish/Sketch-Mate](https://github.com/getflourish/Sketch-Mate) manifest.json contains extra commas
 

@@ -7141,9 +7141,6 @@
     "gh_stars": 2210,
     "gh_issues": 69,
     "gh_branch": "master",
-    "man_identifier": "com.davidwilliames.sketch-plugin.paddy",
-    "man_version": "1.0.7",
-    "man_compatible_version": "47",
     "icon": "https://raw.githubusercontent.com/DWilliames/paddy-sketch-plugin/master/Paddy.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -7951,7 +7948,7 @@
     "homepage": "https://github.com/WeTransfer/Sketch-Plugin",
     "gh_url": "https://github.com/WeTransfer/Sketch-Plugin.git",
     "gh_updated": "2018-08-08 16:02:02 UTC",
-    "gh_stars": 25,
+    "gh_stars": 26,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.wetransfer.wetransfer-sketch",

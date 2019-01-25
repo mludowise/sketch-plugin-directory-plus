@@ -3155,7 +3155,7 @@
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
     "gh_updated": "2019-01-22 04:13:50 UTC",
-    "gh_stars": 512,
+    "gh_stars": 513,
     "gh_issues": 10,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
@@ -8648,7 +8648,7 @@
     "gh_url": "https://github.com/lazybearcreations/sketch-lazyboards.git",
     "gh_updated": "2018-12-03 15:32:38 UTC",
     "gh_stars": 5,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "lazybearcreations.lazyboards",
     "man_compatible_version": "3"

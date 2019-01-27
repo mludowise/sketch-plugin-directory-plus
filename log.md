@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-01-27 15:02:10 UTC
+Updated 2019-01-27 16:01:44 UTC
 
 Total plugins: 588
 
@@ -44,8 +44,6 @@ Total plugins: 588
 [LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) manifest.json contains extra commas
 
 **/ has no repo**
-
-**[stark-contrast/stark-sketch-plugin](https://github.com/stark-contrast/stark-sketch-plugin) has no repo**
 
 **/ has no repo**
 

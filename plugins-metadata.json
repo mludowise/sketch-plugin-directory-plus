@@ -605,7 +605,14 @@
     "title": "Stark",
     "description": "Ensure your design is accessible and high contrast for every type of color blindness.",
     "homepage": "http://www.getstark.co",
-    "added": "2017-04-21 18:02:00 UTC"
+    "added": "2017-04-21 18:02:00 UTC",
+    "gh_url": "https://github.com/stark-contrast/stark-sketch-plugin.git",
+    "gh_updated": "2017-12-05 21:54:35 UTC",
+    "gh_stars": 1,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.mfouquet.sketch.stark",
+    "man_version": "1.6"
   },
   {
     "owner": null,
@@ -1182,7 +1189,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6231,
+    "gh_stars": 6230,
     "gh_issues": 262,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -1413,7 +1420,7 @@
     "homepage": "https://github.com/turbobabr/duplicator",
     "gh_url": "https://github.com/turbobabr/duplicator.git",
     "gh_updated": "2018-03-16 07:39:33 UTC",
-    "gh_stars": 338,
+    "gh_stars": 339,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.turbobabr.sketch.duplicator",

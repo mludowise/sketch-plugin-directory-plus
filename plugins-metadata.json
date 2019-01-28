@@ -799,7 +799,7 @@
     "added": "2016-10-25 23:00:12 UTC",
     "homepage": "https://github.com/richardgazdik/sketch-quickexport",
     "gh_url": "https://github.com/richardgazdik/sketch-quickexport.git",
-    "gh_updated": "2018-05-15 08:59:05 UTC",
+    "gh_updated": "2018-05-15 08:59:06 UTC",
     "gh_stars": 19,
     "gh_issues": 2,
     "gh_branch": "master",
@@ -2769,7 +2769,7 @@
     "homepage": "https://github.com/romashamin/sort-me-sketch",
     "gh_url": "https://github.com/romashamin/sort-me-sketch.git",
     "gh_updated": "2017-08-01 12:05:02 UTC",
-    "gh_stars": 523,
+    "gh_stars": 524,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.github.romashamin.sort-me-sketch",
@@ -4206,7 +4206,7 @@
     "homepage": "https://github.com/ukn530/FontFinder",
     "gh_url": "https://github.com/ukn530/FontFinder.git",
     "gh_updated": "2018-10-13 06:10:11 UTC",
-    "gh_stars": 252,
+    "gh_stars": 253,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "cc.ukn.font-finder",
@@ -4238,12 +4238,12 @@
     "added": "2017-04-04 07:51:30 UTC",
     "homepage": "https://github.com/hoai265/Language-Sketch-Plugin",
     "gh_url": "https://github.com/hoai265/Language-Sketch-Plugin.git",
-    "gh_updated": "2017-04-14 03:43:18 UTC",
+    "gh_updated": "2019-01-28 11:32:15 UTC",
     "gh_stars": 34,
-    "gh_issues": 5,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.hoainguyen.sketch.d8f0dcf3-8e12-4f1d-988c-e2f0da9ad29d",
-    "man_version": "1.0"
+    "man_version": "1.1"
   },
   {
     "name": "Paster",
@@ -5315,10 +5315,7 @@
     "gh_updated": "2017-01-26 17:03:32 UTC",
     "gh_stars": 14,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.nerd0geek1.sketch.SketchColorPalette",
-    "man_version": "1.0.0",
-    "man_compatible_version": "42"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-dynamic-symbol-button",
@@ -5714,10 +5711,7 @@
     "gh_updated": "2017-05-01 15:55:06 UTC",
     "gh_stars": 9,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.queryselection",
-    "man_version": "0.3",
-    "man_compatible_version": "4.3"
+    "gh_branch": "master"
   },
   {
     "name": "BootstrapGrid",

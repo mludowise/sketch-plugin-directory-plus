@@ -431,7 +431,10 @@
     "gh_updated": "2018-05-21 19:34:35 UTC",
     "gh_stars": 16,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.nathan5x.sketch.selectplus",
+    "man_version": "1.0.0",
+    "man_compatible_version": "49.3"
   },
   {
     "name": "Miaow",
@@ -503,7 +506,7 @@
     "added": "2017-06-10 18:01:18 UTC",
     "gh_url": "https://github.com/novemberfiveco/symbol-spacer-sketch-plugin.git",
     "gh_updated": "2017-10-19 22:41:52 UTC",
-    "gh_stars": 73,
+    "gh_stars": 74,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "be.novemberfive.symbol-spacer",
@@ -1151,7 +1154,7 @@
     "added": "2014-05-14 03:43:43 UTC",
     "gh_url": "https://github.com/rodi01/RenameIt.git",
     "gh_updated": "2019-01-17 19:34:52 UTC",
-    "gh_stars": 1236,
+    "gh_stars": 1237,
     "gh_issues": 24,
     "gh_branch": "master",
     "man_identifier": "com.taptap.ninja.rename-it",
@@ -1783,9 +1786,7 @@
     "gh_updated": "2017-03-22 07:10:13 UTC",
     "gh_stars": 50,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.longzheng.sketch.randomsize",
-    "man_version": "2.0"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Better-Paste",
@@ -2584,10 +2585,7 @@
     "gh_updated": "2019-01-08 14:03:34 UTC",
     "gh_stars": 13,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "com.gunesozgur.sketch.layer-comps",
-    "man_version": "1.0",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "BaseAlign",
@@ -4203,7 +4201,7 @@
     "homepage": "https://github.com/ukn530/FontFinder",
     "gh_url": "https://github.com/ukn530/FontFinder.git",
     "gh_updated": "2018-10-13 06:10:11 UTC",
-    "gh_stars": 253,
+    "gh_stars": 254,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "cc.ukn.font-finder",
@@ -4892,7 +4890,7 @@
     "homepage": "https://github.com/sonburn/symbol-instance-renamer",
     "gh_url": "https://github.com/sonburn/symbol-instance-renamer.git",
     "gh_updated": "2018-10-15 17:50:59 UTC",
-    "gh_stars": 131,
+    "gh_stars": 132,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-instance-renamer",
@@ -6580,7 +6578,7 @@
     "homepage": "https://github.com/sonburn/symbol-swapper",
     "gh_url": "https://github.com/sonburn/symbol-swapper.git",
     "gh_updated": "2018-10-29 19:16:50 UTC",
-    "gh_stars": 131,
+    "gh_stars": 132,
     "gh_issues": 15,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-swapper",

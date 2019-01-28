@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-01-28 12:02:08 UTC
+Updated 2019-01-28 13:01:24 UTC
 
 Total plugins: 588
 
@@ -131,15 +131,11 @@ Total plugins: 588
 
 **[amin-nas/Sketch-to-Clickthrough-HTML](https://github.com/amin-nas/Sketch-to-Clickthrough-HTML) manifest.json is missing identifier**
 
-**[nerd0geek1/SketchColorPalette](https://github.com/nerd0geek1/SketchColorPalette) missing manifest.json**
-
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
 
 [finchalyzer/slinky](https://github.com/finchalyzer/slinky) manifest.json contains extra commas
 
 [Rezaaa/english-and-persian-lorem-ipsum](https://github.com/Rezaaa/english-and-persian-lorem-ipsum) manifest.json contains extra commas
-
-**[FrancisVega/sketch-query-selection](https://github.com/FrancisVega/sketch-query-selection) missing manifest.json**
 
 [partyka1/Fontily](https://github.com/partyka1/Fontily) manifest.json contains extra commas
 

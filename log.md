@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-01-28 15:01:57 UTC
+Updated 2019-01-28 16:02:29 UTC
 
 Total plugins: 588
 
@@ -110,6 +110,8 @@ Total plugins: 588
 [kylehickinson/Sketch-SF-UI-Font-Fixer](https://github.com/kylehickinson/Sketch-SF-UI-Font-Fixer) manifest.json contains extra commas
 
 **Atomic.io/ has no repo**
+
+**[JoeManto/Sheetie](https://github.com/JoeManto/Sheetie) missing manifest.json**
 
 **/ has no repo**
 

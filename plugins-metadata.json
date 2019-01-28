@@ -3392,7 +3392,7 @@
     "homepage": "https://mathieudutour.github.io/git-sketch-plugin",
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2017-10-17 08:22:39 UTC",
-    "gh_stars": 2284,
+    "gh_stars": 2286,
     "gh_issues": 22,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
@@ -3781,7 +3781,10 @@
     "gh_updated": "2018-05-26 19:59:36 UTC",
     "gh_stars": 73,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.wearestack.com.sketch-cleanup",
+    "man_version": "0.5",
+    "man_compatible_version": "3.4"
   },
   {
     "name": "sketchplugin-objc-color",
@@ -4164,9 +4167,7 @@
     "gh_updated": "2017-04-03 21:25:59 UTC",
     "gh_stars": 21,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.joemanto.sheetie",
-    "man_version": "1.0.0"
+    "gh_branch": "master"
   },
   {
     "owner": null,
@@ -7523,7 +7524,7 @@
     "homepage": "https://github.com/lukasoppermann/browser-preview",
     "added": "2018-04-13 17:01:56 UTC",
     "gh_url": "https://github.com/lukasoppermann/browser-preview.git",
-    "gh_updated": "2018-08-16 10:27:11 UTC",
+    "gh_updated": "2018-08-16 10:27:05 UTC",
     "gh_stars": 13,
     "gh_issues": 1,
     "gh_branch": "master",

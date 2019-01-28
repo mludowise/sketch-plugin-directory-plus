@@ -431,10 +431,7 @@
     "gh_updated": "2018-05-21 19:34:35 UTC",
     "gh_stars": 16,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.nathan5x.sketch.selectplus",
-    "man_version": "1.0.0",
-    "man_compatible_version": "49.3"
+    "gh_branch": "master"
   },
   {
     "name": "Miaow",
@@ -2115,7 +2112,7 @@
     "added": "2015-07-08 12:27:44 UTC",
     "gh_url": "https://github.com/tudou527/marketch.git",
     "gh_updated": "2018-12-10 03:42:55 UTC",
-    "gh_stars": 2778,
+    "gh_stars": 2779,
     "gh_issues": 45,
     "gh_branch": "master",
     "man_identifier": "com.marketch.cosa.98908c77-3d38-48fa-8c7c-1bb465f67eb8",
@@ -4167,7 +4164,9 @@
     "gh_updated": "2017-04-03 21:25:59 UTC",
     "gh_stars": 21,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.joemanto.sheetie",
+    "man_version": "1.0.0"
   },
   {
     "owner": null,
@@ -5907,7 +5906,7 @@
     "homepage": "https://github.com/FrancisVega/sketch-copy-paste-layout-settings",
     "gh_url": "https://github.com/FrancisVega/sketch-copy-paste-layout-settings.git",
     "gh_updated": "2018-10-27 10:59:58 UTC",
-    "gh_stars": 33,
+    "gh_stars": 34,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.layoutsettings",
@@ -6274,7 +6273,7 @@
     "homepage": "https://canisminor.cc/blog/posts/20170912_name-organizer",
     "gh_url": "https://github.com/canisminor1990/sketch-name-organizer.git",
     "gh_updated": "2018-03-13 02:06:11 UTC",
-    "gh_stars": 42,
+    "gh_stars": 43,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "cm.sketch.nameorganizer",

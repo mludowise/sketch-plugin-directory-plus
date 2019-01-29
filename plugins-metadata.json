@@ -8553,7 +8553,7 @@
     "added": "2018-10-10 12:02:22 UTC",
     "gh_url": "https://github.com/lerte/sketch-qr-code.git",
     "gh_updated": "2018-12-05 01:05:02 UTC",
-    "gh_stars": 13,
+    "gh_stars": 14,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "design.kola.sketch.qrcode",
@@ -9315,6 +9315,24 @@
     "gh_branch": "master",
     "man_identifier": "me.dmsy.git-plugin",
     "man_compatible_version": "3"
+  },
+  {
+    "name": "betterTypePanel",
+    "owner": "KevinGutowski",
+    "author": "Kevin Gutowski",
+    "title": "betterTypePanel",
+    "description": "A sketch plugin to help manage common OpenType properties",
+    "homepage": "https://github.com/KevinGutowski/betterTypePanel",
+    "added": "2019-01-29 11:01:42 UTC",
+    "gh_url": "https://github.com/KevinGutowski/betterTypePanel.git",
+    "gh_updated": "2019-01-27 05:10:37 UTC",
+    "gh_stars": 3,
+    "gh_issues": 5,
+    "gh_branch": "master",
+    "man_identifier": "betterTypePanel",
+    "man_version": "0.1.1-4",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/KevinGutowski/betterTypePanel/master/bettertypetool.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "datazier-lens",

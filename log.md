@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-01-29 10:02:36 UTC
+Updated 2019-01-29 11:01:42 UTC
 
-Total plugins: 589
+Total plugins: 590
 
 ## Problems
 **[Monzo/File Cleaner](https://github.com/Monzo/File Cleaner) has no repo**

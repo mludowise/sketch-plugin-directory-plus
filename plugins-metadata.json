@@ -4686,7 +4686,7 @@
     "gh_url": "https://github.com/sonburn/symbol-organizer.git",
     "gh_updated": "2018-10-16 13:25:48 UTC",
     "gh_stars": 675,
-    "gh_issues": 30,
+    "gh_issues": 31,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-organizer",
     "man_version": "15.7",
@@ -7434,7 +7434,7 @@
     "gh_url": "https://github.com/Shopify/polaris-telescope.git",
     "gh_updated": "2019-01-25 23:57:12 UTC",
     "gh_stars": 78,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "shopify.polaris-telescope.search",
     "man_compatible_version": "3"

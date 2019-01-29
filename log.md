@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-01-29 09:01:27 UTC
+Updated 2019-01-29 10:02:36 UTC
 
-Total plugins: 588
+Total plugins: 589
 
 ## Problems
 **[Monzo/File Cleaner](https://github.com/Monzo/File Cleaner) has no repo**
@@ -340,4 +340,6 @@ Total plugins: 588
 **[taobaofed/imgcook](https://github.com/taobaofed/imgcook) missing manifest.json**
 
 [pratikjshah/Sketch-Guides](https://github.com/pratikjshah/Sketch-Guides) and [pratikjshah/PS-Guides](https://github.com/pratikjshah/PS-Guides) use the same manifest identifier, __website.pratikshah.guides__
+
+**[enriquezgomez/datazier-lens](https://github.com/enriquezgomez/datazier-lens) manifest.json is missing identifier**
 

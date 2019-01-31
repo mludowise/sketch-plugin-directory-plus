@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-01-31 20:00:55 UTC
+Updated 2019-01-31 21:00:14 UTC
 
 Total plugins: 591
 
@@ -272,8 +272,6 @@ Total plugins: 591
 **/ has no repo**
 
 **[ziven27/Sketch-IconScope](https://github.com/ziven27/Sketch-IconScope) manifest.json is missing identifier**
-
-**[daneden/sketch-replace-layer](https://github.com/daneden/sketch-replace-layer) missing manifest.json**
 
 **[wantedly/sketch-wt-design](https://github.com/wantedly/sketch-wt-design) manifest.json is missing identifier**
 

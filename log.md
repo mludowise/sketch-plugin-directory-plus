@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-01-31 19:00:44 UTC
+Updated 2019-01-31 20:00:55 UTC
 
 Total plugins: 591
 
@@ -65,8 +65,6 @@ Total plugins: 591
 
 [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/Sketch-Set-Line-Height-Plugin) manifest.json contains extra commas
 
-**[tadija/AEIconizer](https://github.com/tadija/AEIconizer) has no repo**
-
 **[ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) manifest.json is missing identifier**
 
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
@@ -119,7 +117,7 @@ Total plugins: 591
 
 **[ErikFontanel/sketch-toggle-constrain-proportions](https://github.com/ErikFontanel/sketch-toggle-constrain-proportions) manifest.json is missing identifier**
 
-**[marianomike/sketch-exportsymbols](https://github.com/marianomike/sketch-exportsymbols) has no repo**
+[marianomike/sketch-exportsymbols](https://github.com/marianomike/sketch-exportsymbols) manifest.json contains extra commas
 
 [marianomike/sketch-organizesymbols](https://github.com/marianomike/sketch-organizesymbols) manifest.json contains extra commas
 
@@ -274,6 +272,8 @@ Total plugins: 591
 **/ has no repo**
 
 **[ziven27/Sketch-IconScope](https://github.com/ziven27/Sketch-IconScope) manifest.json is missing identifier**
+
+**[daneden/sketch-replace-layer](https://github.com/daneden/sketch-replace-layer) missing manifest.json**
 
 **[wantedly/sketch-wt-design](https://github.com/wantedly/sketch-wt-design) manifest.json is missing identifier**
 

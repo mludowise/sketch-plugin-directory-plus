@@ -8245,6 +8245,9 @@
     "gh_stars": 8,
     "gh_issues": 0,
     "gh_branch": "master",
+    "man_identifier": "me.daneden.sketch.replace-layer",
+    "man_version": "2.0.0",
+    "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/daneden/sketch-replace-layer/master/Replace%20Layer.sketchplugin/Contents/Resources/icon.png"
   },
   {

@@ -769,7 +769,7 @@
     "added": "2016-12-30 12:11:40 UTC",
     "gh_url": "https://github.com/AnimaApp/Auto-Layout.git",
     "gh_updated": "2018-07-10 16:26:05 UTC",
-    "gh_stars": 783,
+    "gh_stars": 784,
     "gh_issues": 58,
     "gh_branch": "master",
     "man_identifier": "com.animaapp.stc-sketch-plugin",
@@ -3028,9 +3028,9 @@
     "added": "2015-10-27 16:46:17 UTC",
     "homepage": "https://github.com/swiadek/pixel-perfecter-sketch-plugin",
     "gh_url": "https://github.com/swiadek/pixel-perfecter-sketch-plugin.git",
-    "gh_updated": "2018-05-30 20:18:17 UTC",
+    "gh_updated": "2019-02-01 01:25:22 UTC",
     "gh_stars": 264,
-    "gh_issues": 4,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.swiadek.sketch.pixel-perfecter",
     "man_version": "1.2",
@@ -3546,10 +3546,7 @@
     "gh_updated": "2018-07-19 20:28:25 UTC",
     "gh_stars": 219,
     "gh_issues": 13,
-    "gh_branch": "master",
-    "man_identifier": "com.andrewfiorillo.sketch.sketch-artboards-to-pdf",
-    "man_version": "1.2",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Base64-PNG-Export",
@@ -6894,9 +6891,7 @@
     "gh_updated": "2018-06-11 13:58:17 UTC",
     "gh_stars": 3,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.caravel.plugin.sketch.coco",
-    "man_version": "2.0.0"
+    "gh_branch": "master"
   },
   {
     "name": "Move-to-library-sketchplugin",

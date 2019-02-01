@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-01 16:00:43 UTC
+Updated 2019-02-01 17:00:43 UTC
 
 Total plugins: 591
 
@@ -68,8 +68,6 @@ Total plugins: 591
 **[ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) manifest.json is missing identifier**
 
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
-
-**[marcosvidal/Sketch-Notebook](https://github.com/marcosvidal/Sketch-Notebook) missing manifest.json**
 
 [getflourish/Sketch-Mate](https://github.com/getflourish/Sketch-Mate) manifest.json contains extra commas
 

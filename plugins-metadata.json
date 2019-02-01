@@ -1657,6 +1657,9 @@
     "gh_stars": 1294,
     "gh_issues": 4,
     "gh_branch": "master",
+    "man_identifier": "com.notebook",
+    "man_version": "0.3",
+    "man_compatible_version": "39",
     "icon": "https://raw.githubusercontent.com/marcosvidal/Sketch-Notebook/master/Notebook.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -6787,7 +6790,7 @@
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2018-10-25 11:59:33 UTC",
-    "gh_stars": 149,
+    "gh_stars": 150,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_compatible_version": "50"
@@ -8769,7 +8772,7 @@
     "homepage": "https://github.com/realvjy/uiLogos-sketch-plugin",
     "added": "2018-11-15 11:02:15 UTC",
     "gh_url": "https://github.com/realvjy/uilogos.git",
-    "gh_updated": "2019-02-01 14:36:40 UTC",
+    "gh_updated": "2019-02-01 16:31:16 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
     "gh_branch": "master"

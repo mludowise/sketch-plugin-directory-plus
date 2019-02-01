@@ -735,7 +735,7 @@
     "homepage": "https://github.com/mludowise/Sketch-HTML-Export",
     "gh_url": "https://github.com/mludowise/Sketch-HTML-Export.git",
     "gh_updated": "2017-07-07 18:49:33 UTC",
-    "gh_stars": 136,
+    "gh_stars": 137,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.mludowise.htmlexport",
@@ -3546,7 +3546,10 @@
     "gh_updated": "2018-07-19 20:28:25 UTC",
     "gh_stars": 219,
     "gh_issues": 13,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.andrewfiorillo.sketch.sketch-artboards-to-pdf",
+    "man_version": "1.2",
+    "man_compatible_version": "3"
   },
   {
     "name": "Sketch-Base64-PNG-Export",
@@ -6891,7 +6894,9 @@
     "gh_updated": "2018-06-11 13:58:17 UTC",
     "gh_stars": 3,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.caravel.plugin.sketch.coco",
+    "man_version": "2.0.0"
   },
   {
     "name": "Move-to-library-sketchplugin",

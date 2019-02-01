@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-01 15:01:20 UTC
+Updated 2019-02-01 16:00:43 UTC
 
 Total plugins: 591
 
@@ -69,6 +69,8 @@ Total plugins: 591
 
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
 
+**[marcosvidal/Sketch-Notebook](https://github.com/marcosvidal/Sketch-Notebook) missing manifest.json**
+
 [getflourish/Sketch-Mate](https://github.com/getflourish/Sketch-Mate) manifest.json contains extra commas
 
 [eivindbohler/Sketch-Unlinker](https://github.com/eivindbohler/Sketch-Unlinker) manifest.json contains extra commas
@@ -132,8 +134,6 @@ Total plugins: 591
 **[amin-nas/Sketch-to-Clickthrough-HTML](https://github.com/amin-nas/Sketch-to-Clickthrough-HTML) manifest.json is missing identifier**
 
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
-
-**[lucaorio/sketch-styles-generator](https://github.com/lucaorio/sketch-styles-generator) has no repo**
 
 [finchalyzer/slinky](https://github.com/finchalyzer/slinky) manifest.json contains extra commas
 

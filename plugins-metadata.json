@@ -5530,15 +5530,7 @@
     "title": "Sketch Styles Generator",
     "description": "Generate hundreds of Sketch Shared Styles in a matter of seconds.",
     "homepage": "https://github.com/lucaorio/sketch-styles-generator",
-    "added": "2017-03-15 10:07:31 UTC",
-    "gh_url": "https://github.com/lucaorio/sketch-styles-generator.git",
-    "gh_updated": "2018-10-06 02:31:16 UTC",
-    "gh_stars": 401,
-    "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "com.sketch.styles.generator",
-    "man_version": "1.4.0",
-    "man_compatible_version": "3"
+    "added": "2017-03-15 10:07:31 UTC"
   },
   {
     "name": "stacker",
@@ -6950,7 +6942,7 @@
     "added": "2018-01-04 12:26:15 UTC",
     "gh_url": "https://github.com/AMoreaux/Sketch-Icons.git",
     "gh_updated": "2018-11-08 12:16:36 UTC",
-    "gh_stars": 743,
+    "gh_stars": 744,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.amoreaux.sketch-icons",
@@ -7201,11 +7193,7 @@
     "gh_updated": "2018-10-08 13:52:14 UTC",
     "gh_stars": 145,
     "gh_issues": 4,
-    "gh_branch": "master",
-    "man_identifier": "io.designcode.Angle",
-    "man_version": "1.1.3",
-    "man_compatible_version": "50",
-    "icon": "https://raw.githubusercontent.com/MengTo/Angle-Sketch-Plugin/master/Angle.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-fast-text-transfer",
@@ -8170,7 +8158,7 @@
     "added": "2018-07-17 09:02:33 UTC",
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
-    "gh_updated": "2019-02-01 13:07:35 UTC",
+    "gh_updated": "2019-02-01 14:27:54 UTC",
     "gh_stars": 67,
     "gh_issues": 2,
     "gh_branch": "master",
@@ -8772,7 +8760,7 @@
     "homepage": "https://github.com/realvjy/uiLogos-sketch-plugin",
     "added": "2018-11-15 11:02:15 UTC",
     "gh_url": "https://github.com/realvjy/uilogos.git",
-    "gh_updated": "2018-12-18 16:25:01 UTC",
+    "gh_updated": "2019-02-01 14:36:40 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
     "gh_branch": "master"
@@ -9211,7 +9199,7 @@
     "gh_url": "https://github.com/taobaofed/imgcook.git",
     "gh_updated": "2019-01-17 08:48:56 UTC",
     "gh_stars": 186,
-    "gh_issues": 12,
+    "gh_issues": 11,
     "gh_branch": "master"
   },
   {

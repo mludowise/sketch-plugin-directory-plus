@@ -4685,7 +4685,7 @@
     "homepage": "https://github.com/sonburn/symbol-organizer",
     "gh_url": "https://github.com/sonburn/symbol-organizer.git",
     "gh_updated": "2018-10-16 13:25:48 UTC",
-    "gh_stars": 677,
+    "gh_stars": 678,
     "gh_issues": 31,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-organizer",
@@ -6790,7 +6790,7 @@
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2018-10-25 11:59:33 UTC",
-    "gh_stars": 150,
+    "gh_stars": 149,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_compatible_version": "50"

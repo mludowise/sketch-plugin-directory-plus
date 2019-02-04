@@ -608,7 +608,7 @@
     "added": "2017-04-21 18:02:00 UTC",
     "gh_url": "https://github.com/stark-contrast/stark-sketch-plugin.git",
     "gh_updated": "2019-01-29 14:04:06 UTC",
-    "gh_stars": 4,
+    "gh_stars": 5,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.mfouquet.sketch.stark",
@@ -720,10 +720,7 @@
     "gh_updated": "2018-03-16 07:52:59 UTC",
     "gh_stars": 164,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.turbobabr.sketch.wanderer",
-    "man_version": "1.0.1",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-html-export",
@@ -4191,7 +4188,7 @@
     "added": "2016-09-01 09:18:19 UTC",
     "gh_url": "https://github.com/codearrows/sketch-focus.git",
     "gh_updated": "2017-09-28 09:10:35 UTC",
-    "gh_stars": 21,
+    "gh_stars": 22,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.codearrows.sketch.SketchFocus",
@@ -4779,15 +4776,7 @@
     "author": "Oz Pinhas",
     "title": "Push and Shove",
     "description": "Sketch plugin for resizing, aligning and generally manipulating layers wickedly",
-    "added": "2016-10-17 08:10:14 UTC",
-    "homepage": "https://github.com/ozzik/push-and-shove",
-    "gh_url": "https://github.com/ozzik/push-and-shove.git",
-    "gh_updated": "2017-06-18 16:54:01 UTC",
-    "gh_stars": 36,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "co.ozzik.pushandshove",
-    "man_version": "1.2.2"
+    "added": "2016-10-17 08:10:14 UTC"
   },
   {
     "name": "QuickColor",
@@ -8905,7 +8894,7 @@
     "homepage": "https://github.com/buba447/Lottie-Sketch-Export",
     "gh_url": "https://github.com/buba447/Lottie-Sketch-Export.git",
     "gh_updated": "2018-11-02 17:46:51 UTC",
-    "gh_stars": 38,
+    "gh_stars": 39,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.withrow.sketch.lottie-export",

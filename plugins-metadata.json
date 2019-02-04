@@ -720,7 +720,10 @@
     "gh_updated": "2018-03-16 07:52:59 UTC",
     "gh_stars": 164,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.turbobabr.sketch.wanderer",
+    "man_version": "1.0.1",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-html-export",
@@ -1153,7 +1156,7 @@
     "added": "2014-05-14 03:43:43 UTC",
     "gh_url": "https://github.com/rodi01/RenameIt.git",
     "gh_updated": "2019-01-17 19:34:52 UTC",
-    "gh_stars": 1240,
+    "gh_stars": 1241,
     "gh_issues": 24,
     "gh_branch": "master",
     "man_identifier": "com.taptap.ninja.rename-it",
@@ -4776,7 +4779,15 @@
     "author": "Oz Pinhas",
     "title": "Push and Shove",
     "description": "Sketch plugin for resizing, aligning and generally manipulating layers wickedly",
-    "added": "2016-10-17 08:10:14 UTC"
+    "added": "2016-10-17 08:10:14 UTC",
+    "homepage": "https://github.com/ozzik/push-and-shove",
+    "gh_url": "https://github.com/ozzik/push-and-shove.git",
+    "gh_updated": "2017-06-18 16:54:01 UTC",
+    "gh_stars": 36,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "co.ozzik.pushandshove",
+    "man_version": "1.2.2"
   },
   {
     "name": "QuickColor",

@@ -4685,7 +4685,7 @@
     "homepage": "https://github.com/sonburn/symbol-organizer",
     "gh_url": "https://github.com/sonburn/symbol-organizer.git",
     "gh_updated": "2018-10-16 13:25:48 UTC",
-    "gh_stars": 678,
+    "gh_stars": 679,
     "gh_issues": 31,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-organizer",
@@ -9346,9 +9346,6 @@
     "gh_stars": 7,
     "gh_issues": 5,
     "gh_branch": "master",
-    "man_identifier": "betterTypePanel",
-    "man_version": "0.1.1-4",
-    "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/KevinGutowski/betterTypePanel/master/bettertypetool.sketchplugin/Contents/Resources/icon.png"
   },
   {

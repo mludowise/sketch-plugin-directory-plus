@@ -1191,7 +1191,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6238,
+    "gh_stars": 6239,
     "gh_issues": 262,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -2020,9 +2020,9 @@
     "added": "2017-01-09 14:28:43 UTC",
     "homepage": "https://github.com/preciousforever/sketch-bounding-boxer",
     "gh_url": "https://github.com/preciousforever/sketch-bounding-boxer.git",
-    "gh_updated": "2018-11-08 08:35:13 UTC",
+    "gh_updated": "2019-02-04 07:58:32 UTC",
     "gh_stars": 59,
-    "gh_issues": 11,
+    "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.precious-forever.sketch.boundingboxer",
     "man_version": "1.1.1"
@@ -2038,7 +2038,7 @@
     "gh_url": "https://github.com/preciousforever/data-populator.git",
     "gh_updated": "2018-11-11 23:19:12 UTC",
     "gh_stars": 1521,
-    "gh_issues": 27,
+    "gh_issues": 25,
     "gh_branch": "master"
   },
   {

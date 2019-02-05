@@ -189,7 +189,7 @@
     "gh_url": "https://github.com/sureskumar/sketch-isometric.git",
     "gh_updated": "2018-12-28 17:24:00 UTC",
     "gh_stars": 1535,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.sureskumar.sketchisometric",
     "man_version": "4.1.0",
@@ -3940,9 +3940,7 @@
     "gh_updated": "2016-06-04 12:49:07 UTC",
     "gh_stars": 26,
     "gh_issues": 4,
-    "gh_branch": "master",
-    "man_identifier": "com.medvednick.screenfork",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-SFUI-Font-Fixer",
@@ -4372,7 +4370,7 @@
     "homepage": "http://www.textstyl.es/",
     "gh_url": "https://github.com/nilshoenson/shared-text-styles.git",
     "gh_updated": "2018-11-08 10:09:04 UTC",
-    "gh_stars": 302,
+    "gh_stars": 303,
     "gh_issues": 11,
     "gh_branch": "master",
     "man_identifier": "com.nilshoenson.sketch.shared-text-styles",
@@ -4881,7 +4879,7 @@
     "gh_url": "https://github.com/pberrecloth/butter-sketch-plugin.git",
     "gh_updated": "2017-10-25 18:15:20 UTC",
     "gh_stars": 207,
-    "gh_issues": 4,
+    "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.butter.sketchplugin",
     "man_version": "1.4",
@@ -5083,10 +5081,7 @@
     "gh_updated": "2018-02-14 06:55:17 UTC",
     "gh_stars": 68,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.jasoncashdollar.sketchplugins.notes",
-    "man_version": "2.2",
-    "icon": "https://raw.githubusercontent.com/cshdllr/Notes/master/Notes.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-rtl",

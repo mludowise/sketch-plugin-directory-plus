@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-05 19:01:34 UTC
+Updated 2019-02-05 20:01:28 UTC
 
 Total plugins: 591
 
@@ -102,6 +102,8 @@ Total plugins: 591
 **opencolor-tools/ has no repo**
 
 [MagicSketch/MagicPresenter](https://github.com/MagicSketch/MagicPresenter) manifest.json contains extra commas
+
+[screenfork/ScreenFork](https://github.com/screenfork/ScreenFork) manifest.json contains extra commas
 
 **vmdanilov/ has no repo**
 

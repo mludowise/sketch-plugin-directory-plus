@@ -609,7 +609,7 @@
     "gh_url": "https://github.com/stark-contrast/stark-sketch-plugin.git",
     "gh_updated": "2019-02-05 14:28:25 UTC",
     "gh_stars": 5,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.mfouquet.sketch.stark",
     "man_version": "2.0",
@@ -1525,7 +1525,9 @@
     "gh_updated": "2018-01-02 07:47:16 UTC",
     "gh_stars": 55,
     "gh_issues": 3,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.github.arkkimaagi.artboardzoom",
+    "man_version": "1.2.3"
   },
   {
     "name": "Bookmark",
@@ -1985,7 +1987,7 @@
     "gh_url": "https://github.com/abynim/UserFlows.git",
     "gh_updated": "2018-11-07 02:17:48 UTC",
     "gh_stars": 1373,
-    "gh_issues": 53,
+    "gh_issues": 54,
     "gh_branch": "v2",
     "man_identifier": "com.abynim.sketchplugins.userflows",
     "man_version": "2.3.2",
@@ -4451,7 +4453,7 @@
     "homepage": "https://github.com/Ashung/Android_Res_Export",
     "gh_url": "https://github.com/Ashung/Android_Res_Export.git",
     "gh_updated": "2019-01-30 08:40:48 UTC",
-    "gh_stars": 168,
+    "gh_stars": 169,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.android_res_export",
@@ -5046,7 +5048,10 @@
     "gh_updated": "2017-04-06 10:44:36 UTC",
     "gh_stars": 114,
     "gh_issues": 4,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.perfecter",
+    "man_version": "1.0",
+    "man_compatible_version": "1"
   },
   {
     "name": "HSL_Color_Picker",
@@ -6440,7 +6445,10 @@
     "gh_updated": "2018-01-08 15:58:31 UTC",
     "gh_stars": 10,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "lol.mattias.title-case",
+    "man_version": "1.0.1",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-resize",

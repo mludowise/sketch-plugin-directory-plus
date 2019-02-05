@@ -8097,7 +8097,7 @@
     "homepage": "https://github.com/zeplin/emoji-autocomplete-sketch-plugin",
     "gh_url": "https://github.com/zeplin/emoji-autocomplete-sketch-plugin.git",
     "gh_updated": "2018-10-19 23:42:06 UTC",
-    "gh_stars": 135,
+    "gh_stars": 136,
     "gh_issues": 2,
     "gh_branch": "develop",
     "man_identifier": "io.zeplin.sketchPlugin.autocomplete",
@@ -9361,7 +9361,7 @@
     "added": "2019-01-29 10:02:36 UTC",
     "gh_url": "https://github.com/enriquezgomez/datazier-lens.git",
     "gh_updated": "2019-01-25 02:14:05 UTC",
-    "gh_stars": 0,
+    "gh_stars": 1,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

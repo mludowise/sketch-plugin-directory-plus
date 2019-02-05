@@ -607,7 +607,7 @@
     "homepage": "http://www.getstark.co",
     "added": "2017-04-21 18:02:00 UTC",
     "gh_url": "https://github.com/stark-contrast/stark-sketch-plugin.git",
-    "gh_updated": "2019-01-29 14:04:06 UTC",
+    "gh_updated": "2019-02-05 14:28:25 UTC",
     "gh_stars": 5,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -1525,9 +1525,7 @@
     "gh_updated": "2018-01-02 07:47:16 UTC",
     "gh_stars": 55,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "com.github.arkkimaagi.artboardzoom",
-    "man_version": "1.2.3"
+    "gh_branch": "master"
   },
   {
     "name": "Bookmark",
@@ -5048,10 +5046,7 @@
     "gh_updated": "2017-04-06 10:44:36 UTC",
     "gh_stars": 114,
     "gh_issues": 4,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.perfecter",
-    "man_version": "1.0",
-    "man_compatible_version": "1"
+    "gh_branch": "master"
   },
   {
     "name": "HSL_Color_Picker",
@@ -6445,10 +6440,7 @@
     "gh_updated": "2018-01-08 15:58:31 UTC",
     "gh_stars": 10,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "lol.mattias.title-case",
-    "man_version": "1.0.1",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-resize",
@@ -7754,9 +7746,9 @@
     "homepage": "https://github.com/romannurik/Sketch-Stickers",
     "added": "2018-05-07 10:02:23 UTC",
     "gh_url": "https://github.com/romannurik/Sketch-Stickers.git",
-    "gh_updated": "2018-11-01 01:39:11 UTC",
+    "gh_updated": "2019-02-05 14:35:35 UTC",
     "gh_stars": 123,
-    "gh_issues": 4,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.stickers",
     "man_compatible_version": "49"

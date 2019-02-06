@@ -5232,7 +5232,7 @@
     "homepage": "https://github.com/Ashung/Sketch_Swatches",
     "gh_url": "https://github.com/Ashung/Sketch_Swatches.git",
     "gh_updated": "2018-10-08 11:24:47 UTC",
-    "gh_stars": 430,
+    "gh_stars": 431,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.sketch_swatches",
@@ -5980,10 +5980,7 @@
     "gh_updated": "2018-01-09 13:05:12 UTC",
     "gh_stars": 87,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.carlosnavarro.sketch.appalette",
-    "man_version": "1.1",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "Seca",
@@ -6330,12 +6327,10 @@
     "added": "2017-08-08 08:16:23 UTC",
     "homepage": "https://github.com/bunnieabc/Blender",
     "gh_url": "https://github.com/bunnieabc/Blender.git",
-    "gh_updated": "2017-08-16 04:27:43 UTC",
+    "gh_updated": "2019-02-06 05:27:07 UTC",
     "gh_stars": 353,
     "gh_issues": 4,
-    "gh_branch": "master",
-    "man_identifier": "com.bunnieabc.blender",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "owner": "lstore.graphics",

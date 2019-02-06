@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-06 17:01:39 UTC
+Updated 2019-02-06 18:01:46 UTC
 
 Total plugins: 591
 
@@ -86,8 +86,6 @@ Total plugins: 591
 [stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers) manifest.json contains extra commas
 
 [JohnCoates/CSSketch](https://github.com/JohnCoates/CSSketch) manifest.json contains extra commas
-
-**[sagishrieber/sketch-any-icon-fetcher](https://github.com/sagishrieber/sketch-any-icon-fetcher) has no repo**
 
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 
@@ -175,6 +173,8 @@ Total plugins: 591
 
 **/ has no repo**
 
+[pranusarna94/Swappr](https://github.com/pranusarna94/Swappr) manifest.json contains extra commas
+
 **[heytitle/latex-sketch-plugin](https://github.com/heytitle/latex-sketch-plugin) manifest.json is missing identifier**
 
 **[kannonboy/sketch-gifme-plugin](https://github.com/kannonboy/sketch-gifme-plugin) manifest.json is missing identifier**
@@ -193,7 +193,7 @@ Total plugins: 591
 
 **/ has no repo**
 
-**[ziven27/Sketch-topographic](https://github.com/ziven27/Sketch-topographic) has no repo**
+**[ziven27/Sketch-topographic](https://github.com/ziven27/Sketch-topographic) manifest.json is missing identifier**
 
 **/ has no repo**
 
@@ -336,8 +336,6 @@ Total plugins: 591
 **[Webkul/Renamer](https://github.com/Webkul/Renamer) manifest.json is missing identifier**
 
 **[BaguetteEngineering/annotations-sketch-plugin](https://github.com/BaguetteEngineering/annotations-sketch-plugin) manifest.json is missing identifier**
-
-**[faridsabitov/Sketch-user-flows](https://github.com/faridsabitov/Sketch-user-flows) missing manifest.json**
 
 **[alanfraneo/composite-svg](https://github.com/alanfraneo/composite-svg) has no repo**
 

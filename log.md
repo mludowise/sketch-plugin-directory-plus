@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-06 15:02:17 UTC
+Updated 2019-02-06 16:02:06 UTC
 
 Total plugins: 591
 
@@ -91,8 +91,6 @@ Total plugins: 591
 
 **[heysketch/sketch-color-picker-plus](https://github.com/heysketch/sketch-color-picker-plus) has no repo**
 
-**[mathieudutour/git-sketch-plugin](https://github.com/mathieudutour/git-sketch-plugin) missing manifest.json**
-
 [ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
 
 [LaloMrtnz/Prism](https://github.com/LaloMrtnz/Prism) manifest.json contains extra commas
@@ -144,6 +142,8 @@ Total plugins: 591
 [freeman990/Freeman-FinChart-SketchPlugin](https://github.com/freeman990/Freeman-FinChart-SketchPlugin) manifest.json contains extra commas
 
 [canisminor1990/sketch-move-half-pixel](https://github.com/canisminor1990/sketch-move-half-pixel) manifest.json contains extra commas
+
+**[websiddu/sync-to-slides](https://github.com/websiddu/sync-to-slides) has no repo**
 
 **[ImageOptim/sketch-plugin](https://github.com/ImageOptim/sketch-plugin) missing manifest.json**
 
@@ -235,7 +235,7 @@ Total plugins: 591
 
 **[perrysmotors/reset-image-aspect-ratio](https://github.com/perrysmotors/reset-image-aspect-ratio) manifest.json is missing identifier**
 
-**[qruzz/InterUI-Character-Spacing](https://github.com/qruzz/InterUI-Character-Spacing) manifest.json is missing identifier**
+**[qruzz/InterUI-Character-Spacing](https://github.com/qruzz/InterUI-Character-Spacing) has no repo**
 
 [thechinesekid/bonsai-plugin](https://github.com/thechinesekid/bonsai-plugin) manifest.json contains extra commas
 
@@ -329,7 +329,7 @@ Total plugins: 591
 
 **[VKCOM/vkdata-sketchplugin](https://github.com/VKCOM/vkdata-sketchplugin) manifest.json is missing identifier**
 
-[canisminor1990/anto](https://github.com/canisminor1990/anto) and [canisminor1990/sketch-afux-tools](https://github.com/canisminor1990/sketch-afux-tools) use the same manifest identifier, __sketch.plugin.anto__
+**[canisminor1990/sketch-afux-tools](https://github.com/canisminor1990/sketch-afux-tools) has no repo**
 
 **[dvcdv/dvc_sketch_plugin](https://github.com/dvcdv/dvc_sketch_plugin) missing manifest.json**
 
@@ -345,7 +345,9 @@ Total plugins: 591
 
 [pratikjshah/Sketch-Guides](https://github.com/pratikjshah/Sketch-Guides) and [pratikjshah/PS-Guides](https://github.com/pratikjshah/PS-Guides) use the same manifest identifier, __website.pratikshah.guides__
 
-**[inthepocket/hubble-sketch-plugin](https://github.com/inthepocket/hubble-sketch-plugin) missing manifest.json**
+**[xuming/sketch-git-pro](https://github.com/xuming/sketch-git-pro) missing manifest.json**
+
+**[inthepocket/hubble-sketch-plugin](https://github.com/inthepocket/hubble-sketch-plugin) manifest.json is missing identifier**
 
 **[enriquezgomez/datazier-lens](https://github.com/enriquezgomez/datazier-lens) manifest.json is missing identifier**
 

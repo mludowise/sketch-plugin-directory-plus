@@ -1423,7 +1423,7 @@
     "gh_url": "https://github.com/turbobabr/duplicator.git",
     "gh_updated": "2018-03-16 07:39:33 UTC",
     "gh_stars": 339,
-    "gh_issues": 2,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.turbobabr.sketch.duplicator",
     "man_version": "2.0.2",
@@ -4896,12 +4896,12 @@
     "added": "2016-11-03 15:17:50 UTC",
     "homepage": "https://github.com/sonburn/symbol-instance-renamer",
     "gh_url": "https://github.com/sonburn/symbol-instance-renamer.git",
-    "gh_updated": "2018-10-15 17:50:59 UTC",
+    "gh_updated": "2019-02-06 01:31:35 UTC",
     "gh_stars": 134,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-instance-renamer",
-    "man_version": "2.6",
+    "man_version": "2.7",
     "icon": "https://raw.githubusercontent.com/sonburn/symbol-instance-renamer/master/Symbol%20Instance%20Renamer.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -6550,12 +6550,12 @@
     "added": "2017-10-19 09:26:21 UTC",
     "homepage": "https://github.com/sonburn/symbol-instance-sheet",
     "gh_url": "https://github.com/sonburn/symbol-instance-sheet.git",
-    "gh_updated": "2018-10-15 17:52:09 UTC",
+    "gh_updated": "2019-02-06 01:55:28 UTC",
     "gh_stars": 51,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-instance-sheet",
-    "man_version": "0.8",
+    "man_version": "1.0",
     "icon": "https://raw.githubusercontent.com/sonburn/symbol-instance-sheet/master/Symbol%20Instance%20Sheet.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -6567,12 +6567,12 @@
     "added": "2017-10-19 09:26:43 UTC",
     "homepage": "https://github.com/sonburn/symbol-instance-locator",
     "gh_url": "https://github.com/sonburn/symbol-instance-locator.git",
-    "gh_updated": "2018-10-15 17:49:50 UTC",
+    "gh_updated": "2019-02-06 01:22:29 UTC",
     "gh_stars": 112,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-instance-locator",
-    "man_version": "1.12",
+    "man_version": "1.13",
     "icon": "https://raw.githubusercontent.com/sonburn/symbol-instance-locator/master/Symbol%20Instance%20Locator.sketchplugin/Contents/Resources/icon.png"
   },
   {

@@ -329,10 +329,7 @@
     "gh_updated": "2018-02-28 14:04:59 UTC",
     "gh_stars": 19,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.animaapp.fontbuddy",
-    "man_version": "1.0.3",
-    "man_compatible_version": "49"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Play",
@@ -1276,7 +1273,10 @@
     "gh_updated": "2017-06-13 14:34:02 UTC",
     "gh_stars": 31,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "net.creative-tweet.json-to-layers",
+    "man_version": "3.2.0",
+    "man_compatible_version": "41"
   },
   {
     "name": "Regexp-Rename",
@@ -1503,7 +1503,7 @@
     "homepage": "https://github.com/getflourish/Sketch-Style-Inventory",
     "gh_url": "https://github.com/getflourish/Sketch-Style-Inventory.git",
     "gh_updated": "2018-04-14 11:55:42 UTC",
-    "gh_stars": 1855,
+    "gh_stars": 1856,
     "gh_issues": 32,
     "gh_branch": "master",
     "man_identifier": "com.getflourish.sketch.styleinventory",
@@ -2003,7 +2003,10 @@
     "gh_updated": "2018-05-09 16:22:50 UTC",
     "gh_stars": 61,
     "gh_issues": 5,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "io.kolo.sketch.utility-belt",
+    "man_version": "1.50.0",
+    "man_compatible_version": "48"
   },
   {
     "name": "sketch-bounding-boxer",
@@ -2261,7 +2264,7 @@
     "added": "2015-07-14 22:22:54 UTC",
     "homepage": "https://github.com/din/sketch-artwork-fetcher",
     "gh_url": "https://github.com/din/sketch-artwork-fetcher.git",
-    "gh_updated": "2016-09-07 22:13:41 UTC",
+    "gh_updated": "2016-09-07 22:18:52 UTC",
     "gh_stars": 33,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -2432,7 +2435,9 @@
     "gh_updated": "2018-05-21 03:23:06 UTC",
     "gh_stars": 294,
     "gh_issues": 5,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "net.nurik.roman.sketch.artboardtricks",
+    "man_compatible_version": "41"
   },
   {
     "name": "sketch-iconfont",
@@ -2578,7 +2583,7 @@
     "added": "2015-09-04 09:10:55 UTC",
     "homepage": "https://github.com/ozgurgunes/Sketch-Layer-Comps",
     "gh_url": "https://github.com/ozgurgunes/Sketch-Layer-Comps.git",
-    "gh_updated": "2019-01-08 14:03:34 UTC",
+    "gh_updated": "2019-01-08 14:03:35 UTC",
     "gh_stars": 13,
     "gh_issues": 3,
     "gh_branch": "master",
@@ -2747,7 +2752,7 @@
     "added": "2017-09-12 21:02:26 UTC",
     "gh_url": "https://github.com/bouchenoiremarc/Sketch-Maps.git",
     "gh_updated": "2018-12-20 09:51:51 UTC",
-    "gh_stars": 73,
+    "gh_stars": 74,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.bouchenoiremarc.sketch-maps",
@@ -2892,16 +2897,7 @@
     "author": "Sagi Shrieber",
     "title": "Sketch Icon Fetcher",
     "description": "This plugin will let you insert any website's favicon, or iOS/Android app's icon into your design",
-    "added": "2015-10-19 20:43:59 UTC",
-    "homepage": "http://hackingui.com/design/how-to-create-a-sketch-plugin/",
-    "gh_url": "https://github.com/sagishrieber/sketch-any-icon-fetcher.git",
-    "gh_updated": "2017-03-27 17:21:07 UTC",
-    "gh_stars": 131,
-    "gh_issues": 4,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.a6dc338b-8dd9-4442-acff-832fadc6e0d9",
-    "man_version": "1.2",
-    "man_compatible_version": "3.5.2"
+    "added": "2015-10-19 20:43:59 UTC"
   },
   {
     "name": "Sketch_Update-Text-Layer-Name",
@@ -3289,7 +3285,7 @@
     "added": "2016-01-12 16:29:00 UTC",
     "homepage": "https://github.com/websiddu/sketch-symbol-me",
     "gh_url": "https://github.com/websiddu/sketch-symbol-me.git",
-    "gh_updated": "2016-02-05 05:55:37 UTC",
+    "gh_updated": "2016-02-05 05:55:33 UTC",
     "gh_stars": 79,
     "gh_issues": 4,
     "gh_branch": "master",
@@ -4317,7 +4313,10 @@
     "gh_updated": "2018-10-07 20:12:26 UTC",
     "gh_stars": 239,
     "gh_issues": 13,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.syncify.sketch.contentsync",
+    "man_version": "5.1",
+    "man_compatible_version": "3.7"
   },
   {
     "name": "get-margins",
@@ -4674,8 +4673,8 @@
     "homepage": "https://github.com/sonburn/symbol-organizer",
     "gh_url": "https://github.com/sonburn/symbol-organizer.git",
     "gh_updated": "2018-10-16 13:25:48 UTC",
-    "gh_stars": 679,
-    "gh_issues": 31,
+    "gh_stars": 680,
+    "gh_issues": 32,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-organizer",
     "man_version": "15.7",
@@ -5290,9 +5289,7 @@
     "gh_updated": "2017-09-15 06:22:13 UTC",
     "gh_stars": 40,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.tencent.sketch.0ccd0daf-7e9c-4c57-83bb-09a089d551f4",
-    "man_version": "1.2"
+    "gh_branch": "master"
   },
   {
     "name": "SketchColorPalette",
@@ -5997,7 +5994,14 @@
     "title": "Sync To Slides",
     "description": "Sync to Slides is a Sketch plugin that will help you upload your artboards to Google Slides directly without an export step",
     "homepage": "https://websiddu.github.io/sync-to-slides/",
-    "added": "2017-06-07 09:02:28 UTC"
+    "added": "2017-06-07 09:02:28 UTC",
+    "gh_url": "https://github.com/websiddu/sync-to-slides.git",
+    "gh_updated": "2017-06-08 05:11:37 UTC",
+    "gh_stars": 130,
+    "gh_issues": 21,
+    "gh_branch": "master",
+    "man_identifier": "com.google.sketch.synctoslides",
+    "man_version": "2.2"
   },
   {
     "name": "sketch-search-everywhere",
@@ -6592,9 +6596,7 @@
     "gh_updated": "2017-11-04 17:35:48 UTC",
     "gh_stars": 5,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.32ef2129-d0a0-4f5b-ab36-45883ca4c45f",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "latex-sketch-plugin",
@@ -6952,13 +6954,7 @@
     "title": "Sketch-topographic",
     "description": "Display Topographic Information",
     "homepage": "https://github.com/ziven27/Sketch-topographic",
-    "added": "2018-01-22 09:56:09 UTC",
-    "gh_url": "https://github.com/ziven27/Sketch-topographic.git",
-    "gh_updated": "2018-07-11 01:39:35 UTC",
-    "gh_stars": 5,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_compatible_version": "3"
+    "added": "2018-01-22 09:56:09 UTC"
   },
   {
     "name": "sketch-select-same-symbols",
@@ -7079,7 +7075,10 @@
     "gh_updated": "2018-05-09 19:40:59 UTC",
     "gh_stars": 161,
     "gh_issues": 9,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.betterthantomorrow.sketch.separate",
+    "man_version": "1.2.4",
+    "man_compatible_version": "3"
   },
   {
     "name": "Sketch-Copy-Layers-Styles",
@@ -7621,7 +7620,14 @@
     "title": "Inter UI Character Spacing",
     "description": "Package to correct the character spacing for the InterUI font in Sketch",
     "homepage": "https://github.com/qruzz/InterUI-Character-Spacing",
-    "added": "2018-04-25 22:01:22 UTC"
+    "added": "2018-04-25 22:01:22 UTC",
+    "gh_url": "https://github.com/qruzz/InterUI-Character-Spacing.git",
+    "gh_updated": "2018-05-15 20:09:00 UTC",
+    "gh_stars": 6,
+    "gh_issues": 3,
+    "gh_branch": "master",
+    "man_version": "1.0.0",
+    "man_compatible_version": "3"
   },
   {
     "name": "chromata",
@@ -7666,7 +7672,7 @@
     "homepage": "https://github.com/andex/ggradient",
     "added": "2018-05-04 17:01:56 UTC",
     "gh_url": "https://github.com/andex/ggradient.git",
-    "gh_updated": "2018-05-07 09:16:51 UTC",
+    "gh_updated": "2018-05-07 09:16:42 UTC",
     "gh_stars": 25,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -7726,7 +7732,7 @@
     "gh_url": "https://github.com/romannurik/Sketch-Stickers.git",
     "gh_updated": "2019-02-05 14:35:35 UTC",
     "gh_stars": 123,
-    "gh_issues": 3,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.stickers",
     "man_compatible_version": "49"
@@ -9038,7 +9044,14 @@
     "title": "sketch-afux-tools",
     "description": "Sketch tools for AFUX",
     "homepage": "https://github.com/canisminor1990/sketch-afux-tools",
-    "added": "2018-12-04 12:02:17 UTC"
+    "added": "2018-12-04 12:02:17 UTC",
+    "gh_url": "https://github.com/canisminor1990/anto.git",
+    "gh_updated": "2019-02-03 03:16:02 UTC",
+    "gh_stars": 21,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "sketch.plugin.anto",
+    "man_compatible_version": "3"
   },
   {
     "name": "anto",
@@ -9149,9 +9162,6 @@
     "gh_stars": 15,
     "gh_issues": 0,
     "gh_branch": "master",
-    "man_identifier": "me.sabitov.sketch.connectionFlowArrows",
-    "man_version": "2.3.0",
-    "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/faridsabitov/Sketch-user-flows/master/userflows.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -9277,7 +9287,9 @@
     "gh_updated": "2019-01-13 05:24:12 UTC",
     "gh_stars": 4,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "me.dmsy.git-plugin",
+    "man_compatible_version": "3"
   },
   {
     "name": "hubble-sketch-plugin",

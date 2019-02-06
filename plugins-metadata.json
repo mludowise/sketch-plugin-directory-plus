@@ -188,7 +188,7 @@
     "added": "2018-06-19 19:02:06 UTC",
     "gh_url": "https://github.com/sureskumar/sketch-isometric.git",
     "gh_updated": "2019-02-06 02:36:46 UTC",
-    "gh_stars": 1536,
+    "gh_stars": 1537,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.sureskumar.sketchisometric",
@@ -1176,7 +1176,10 @@
     "gh_updated": "2017-02-04 22:31:51 UTC",
     "gh_stars": 122,
     "gh_issues": 13,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.hrescak.matej-sketch-plugins",
+    "man_version": "1.2",
+    "man_compatible_version": "3.3"
   },
   {
     "name": "sketch-measure",
@@ -1273,10 +1276,7 @@
     "gh_updated": "2017-06-13 14:34:02 UTC",
     "gh_stars": 31,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "net.creative-tweet.json-to-layers",
-    "man_version": "3.2.0",
-    "man_compatible_version": "41"
+    "gh_branch": "master"
   },
   {
     "name": "Regexp-Rename",
@@ -2003,10 +2003,7 @@
     "gh_updated": "2018-05-09 16:22:50 UTC",
     "gh_stars": 61,
     "gh_issues": 5,
-    "gh_branch": "master",
-    "man_identifier": "io.kolo.sketch.utility-belt",
-    "man_version": "1.50.0",
-    "man_compatible_version": "48"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-bounding-boxer",
@@ -2435,9 +2432,7 @@
     "gh_updated": "2018-05-21 03:23:06 UTC",
     "gh_stars": 294,
     "gh_issues": 5,
-    "gh_branch": "master",
-    "man_identifier": "net.nurik.roman.sketch.artboardtricks",
-    "man_compatible_version": "41"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-iconfont",
@@ -3294,7 +3289,7 @@
     "added": "2016-01-12 16:29:00 UTC",
     "homepage": "https://github.com/websiddu/sketch-symbol-me",
     "gh_url": "https://github.com/websiddu/sketch-symbol-me.git",
-    "gh_updated": "2016-02-05 05:55:33 UTC",
+    "gh_updated": "2016-02-05 05:55:37 UTC",
     "gh_stars": 79,
     "gh_issues": 4,
     "gh_branch": "master",
@@ -3394,6 +3389,8 @@
     "gh_stars": 2292,
     "gh_issues": 22,
     "gh_branch": "master",
+    "man_identifier": "me.dutour.mathieu.git-plugin",
+    "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/mathieudutour/git-sketch-plugin/master/Git.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -3917,7 +3914,7 @@
     "added": "2016-05-31 15:16:43 UTC",
     "gh_url": "https://github.com/BohemianCoding/svgo-compressor.git",
     "gh_updated": "2018-10-20 14:43:52 UTC",
-    "gh_stars": 955,
+    "gh_stars": 956,
     "gh_issues": 8,
     "gh_branch": "develop",
     "man_identifier": "com.sketchapp.plugins.svgo-compressor",
@@ -4320,10 +4317,7 @@
     "gh_updated": "2018-10-07 20:12:26 UTC",
     "gh_stars": 239,
     "gh_issues": 13,
-    "gh_branch": "master",
-    "man_identifier": "com.syncify.sketch.contentsync",
-    "man_version": "5.1",
-    "man_compatible_version": "3.7"
+    "gh_branch": "master"
   },
   {
     "name": "get-margins",
@@ -5459,7 +5453,7 @@
     "homepage": "https://github.com/DWilliames/PDF-export-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/PDF-export-sketch-plugin.git",
     "gh_updated": "2018-11-18 05:36:45 UTC",
-    "gh_stars": 187,
+    "gh_stars": 188,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch.pdf-export",
@@ -6003,14 +5997,7 @@
     "title": "Sync To Slides",
     "description": "Sync to Slides is a Sketch plugin that will help you upload your artboards to Google Slides directly without an export step",
     "homepage": "https://websiddu.github.io/sync-to-slides/",
-    "added": "2017-06-07 09:02:28 UTC",
-    "gh_url": "https://github.com/websiddu/sync-to-slides.git",
-    "gh_updated": "2017-06-08 05:11:37 UTC",
-    "gh_stars": 130,
-    "gh_issues": 21,
-    "gh_branch": "master",
-    "man_identifier": "com.google.sketch.synctoslides",
-    "man_version": "2.2"
+    "added": "2017-06-07 09:02:28 UTC"
   },
   {
     "name": "sketch-search-everywhere",
@@ -7092,10 +7079,7 @@
     "gh_updated": "2018-05-09 19:40:59 UTC",
     "gh_stars": 161,
     "gh_issues": 9,
-    "gh_branch": "master",
-    "man_identifier": "com.betterthantomorrow.sketch.separate",
-    "man_version": "1.2.4",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Copy-Layers-Styles",
@@ -7177,7 +7161,7 @@
     "gh_url": "https://github.com/kupe517/sketch-split-shape.git",
     "gh_updated": "2018-05-01 16:45:11 UTC",
     "gh_stars": 89,
-    "gh_issues": 4,
+    "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "https://github.com/kupe517/sketch-split-shape",
     "man_version": "2.0"
@@ -7637,14 +7621,7 @@
     "title": "Inter UI Character Spacing",
     "description": "Package to correct the character spacing for the InterUI font in Sketch",
     "homepage": "https://github.com/qruzz/InterUI-Character-Spacing",
-    "added": "2018-04-25 22:01:22 UTC",
-    "gh_url": "https://github.com/qruzz/InterUI-Character-Spacing.git",
-    "gh_updated": "2018-05-15 20:09:00 UTC",
-    "gh_stars": 6,
-    "gh_issues": 3,
-    "gh_branch": "master",
-    "man_version": "1.0.0",
-    "man_compatible_version": "3"
+    "added": "2018-04-25 22:01:22 UTC"
   },
   {
     "name": "chromata",
@@ -7689,7 +7666,7 @@
     "homepage": "https://github.com/andex/ggradient",
     "added": "2018-05-04 17:01:56 UTC",
     "gh_url": "https://github.com/andex/ggradient.git",
-    "gh_updated": "2018-05-07 09:16:42 UTC",
+    "gh_updated": "2018-05-07 09:16:51 UTC",
     "gh_stars": 25,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -8765,7 +8742,7 @@
     "homepage": "https://github.com/realvjy/uiLogos-sketch-plugin",
     "added": "2018-11-15 11:02:15 UTC",
     "gh_url": "https://github.com/realvjy/uilogos.git",
-    "gh_updated": "2019-02-02 08:17:28 UTC",
+    "gh_updated": "2019-02-02 08:17:27 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
     "gh_branch": "master"
@@ -9061,14 +9038,7 @@
     "title": "sketch-afux-tools",
     "description": "Sketch tools for AFUX",
     "homepage": "https://github.com/canisminor1990/sketch-afux-tools",
-    "added": "2018-12-04 12:02:17 UTC",
-    "gh_url": "https://github.com/canisminor1990/anto.git",
-    "gh_updated": "2019-02-03 03:16:02 UTC",
-    "gh_stars": 21,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "sketch.plugin.anto",
-    "man_compatible_version": "3"
+    "added": "2018-12-04 12:02:17 UTC"
   },
   {
     "name": "anto",
@@ -9307,9 +9277,7 @@
     "gh_updated": "2019-01-13 05:24:12 UTC",
     "gh_stars": 4,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "me.dmsy.git-plugin",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "hubble-sketch-plugin",
@@ -9323,7 +9291,8 @@
     "gh_updated": "2019-01-28 15:01:10 UTC",
     "gh_stars": 2,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   },
   {
     "name": "betterTypePanel",

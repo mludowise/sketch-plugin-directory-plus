@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-06 16:02:06 UTC
+Updated 2019-02-06 17:01:39 UTC
 
 Total plugins: 591
 
@@ -87,6 +87,8 @@ Total plugins: 591
 
 [JohnCoates/CSSketch](https://github.com/JohnCoates/CSSketch) manifest.json contains extra commas
 
+**[sagishrieber/sketch-any-icon-fetcher](https://github.com/sagishrieber/sketch-any-icon-fetcher) has no repo**
+
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 
 **[heysketch/sketch-color-picker-plus](https://github.com/heysketch/sketch-color-picker-plus) has no repo**
@@ -143,8 +145,6 @@ Total plugins: 591
 
 [canisminor1990/sketch-move-half-pixel](https://github.com/canisminor1990/sketch-move-half-pixel) manifest.json contains extra commas
 
-**[websiddu/sync-to-slides](https://github.com/websiddu/sync-to-slides) has no repo**
-
 **[ImageOptim/sketch-plugin](https://github.com/ImageOptim/sketch-plugin) missing manifest.json**
 
 [MattCowBoy/giancartboard](https://github.com/MattCowBoy/giancartboard) manifest.json contains extra commas
@@ -175,8 +175,6 @@ Total plugins: 591
 
 **/ has no repo**
 
-[pranusarna94/Swappr](https://github.com/pranusarna94/Swappr) manifest.json contains extra commas
-
 **[heytitle/latex-sketch-plugin](https://github.com/heytitle/latex-sketch-plugin) manifest.json is missing identifier**
 
 **[kannonboy/sketch-gifme-plugin](https://github.com/kannonboy/sketch-gifme-plugin) manifest.json is missing identifier**
@@ -195,7 +193,7 @@ Total plugins: 591
 
 **/ has no repo**
 
-**[ziven27/Sketch-topographic](https://github.com/ziven27/Sketch-topographic) manifest.json is missing identifier**
+**[ziven27/Sketch-topographic](https://github.com/ziven27/Sketch-topographic) has no repo**
 
 **/ has no repo**
 
@@ -235,7 +233,7 @@ Total plugins: 591
 
 **[perrysmotors/reset-image-aspect-ratio](https://github.com/perrysmotors/reset-image-aspect-ratio) manifest.json is missing identifier**
 
-**[qruzz/InterUI-Character-Spacing](https://github.com/qruzz/InterUI-Character-Spacing) has no repo**
+**[qruzz/InterUI-Character-Spacing](https://github.com/qruzz/InterUI-Character-Spacing) manifest.json is missing identifier**
 
 [thechinesekid/bonsai-plugin](https://github.com/thechinesekid/bonsai-plugin) manifest.json contains extra commas
 
@@ -329,7 +327,7 @@ Total plugins: 591
 
 **[VKCOM/vkdata-sketchplugin](https://github.com/VKCOM/vkdata-sketchplugin) manifest.json is missing identifier**
 
-**[canisminor1990/sketch-afux-tools](https://github.com/canisminor1990/sketch-afux-tools) has no repo**
+[canisminor1990/anto](https://github.com/canisminor1990/anto) and [canisminor1990/sketch-afux-tools](https://github.com/canisminor1990/sketch-afux-tools) use the same manifest identifier, __sketch.plugin.anto__
 
 **[dvcdv/dvc_sketch_plugin](https://github.com/dvcdv/dvc_sketch_plugin) missing manifest.json**
 
@@ -339,13 +337,13 @@ Total plugins: 591
 
 **[BaguetteEngineering/annotations-sketch-plugin](https://github.com/BaguetteEngineering/annotations-sketch-plugin) manifest.json is missing identifier**
 
+**[faridsabitov/Sketch-user-flows](https://github.com/faridsabitov/Sketch-user-flows) missing manifest.json**
+
 **[alanfraneo/composite-svg](https://github.com/alanfraneo/composite-svg) has no repo**
 
 **[taobaofed/imgcook](https://github.com/taobaofed/imgcook) missing manifest.json**
 
 [pratikjshah/Sketch-Guides](https://github.com/pratikjshah/Sketch-Guides) and [pratikjshah/PS-Guides](https://github.com/pratikjshah/PS-Guides) use the same manifest identifier, __website.pratikshah.guides__
-
-**[xuming/sketch-git-pro](https://github.com/xuming/sketch-git-pro) missing manifest.json**
 
 **[inthepocket/hubble-sketch-plugin](https://github.com/inthepocket/hubble-sketch-plugin) manifest.json is missing identifier**
 

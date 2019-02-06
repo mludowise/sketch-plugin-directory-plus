@@ -923,9 +923,7 @@
     "gh_updated": "2017-05-02 16:37:54 UTC",
     "gh_stars": 357,
     "gh_issues": 6,
-    "gh_branch": "master",
-    "man_identifier": "com.github.nolastan.sync",
-    "man_version": "1.1"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-browser-preview",
@@ -1987,7 +1985,7 @@
     "gh_url": "https://github.com/abynim/UserFlows.git",
     "gh_updated": "2019-02-05 23:56:00 UTC",
     "gh_stars": 1373,
-    "gh_issues": 53,
+    "gh_issues": 54,
     "gh_branch": "v2",
     "man_identifier": "com.abynim.sketchplugins.userflows",
     "man_version": "2.3.3",
@@ -8184,16 +8182,7 @@
     "title": "Cracker9 Sketch Plugin",
     "description": "cracker9 codesnippet sketch plugin",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
-    "added": "2018-07-27 23:01:57 UTC",
-    "gh_url": "https://github.com/Cracker9/cracker9-sketch-plugin.git",
-    "gh_updated": "2018-10-05 05:36:07 UTC",
-    "gh_stars": 1,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.sketchapp.h9works.cracker9",
-    "man_version": "1.0.10",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/cracker9-sketch-plugin.sketchplugin/Contents/Resources/icon.png"
+    "added": "2018-07-27 23:01:57 UTC"
   },
   {
     "name": "sketch-plugin-convert-to-grayscale",

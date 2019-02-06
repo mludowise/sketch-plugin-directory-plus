@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-06 05:01:31 UTC
+Updated 2019-02-06 06:02:09 UTC
 
 Total plugins: 591
 
@@ -154,6 +154,8 @@ Total plugins: 591
 [Reinvently/moodboards-sketch-plugin](https://github.com/Reinvently/moodboards-sketch-plugin) manifest.json contains extra commas
 
 **Smartling/ has no repo**
+
+[bunnieabc/Blender](https://github.com/bunnieabc/Blender) manifest.json is invalid
 
 **lstore.graphics/ has no repo**
 

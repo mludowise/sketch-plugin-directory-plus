@@ -329,7 +329,10 @@
     "gh_updated": "2018-02-28 14:04:59 UTC",
     "gh_stars": 19,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.animaapp.fontbuddy",
+    "man_version": "1.0.3",
+    "man_compatible_version": "49"
   },
   {
     "name": "Sketch-Play",
@@ -2264,7 +2267,7 @@
     "added": "2015-07-14 22:22:54 UTC",
     "homepage": "https://github.com/din/sketch-artwork-fetcher",
     "gh_url": "https://github.com/din/sketch-artwork-fetcher.git",
-    "gh_updated": "2016-09-07 22:18:52 UTC",
+    "gh_updated": "2016-09-07 22:13:41 UTC",
     "gh_stars": 33,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -2583,7 +2586,7 @@
     "added": "2015-09-04 09:10:55 UTC",
     "homepage": "https://github.com/ozgurgunes/Sketch-Layer-Comps",
     "gh_url": "https://github.com/ozgurgunes/Sketch-Layer-Comps.git",
-    "gh_updated": "2019-01-08 14:03:35 UTC",
+    "gh_updated": "2019-01-08 14:03:34 UTC",
     "gh_stars": 13,
     "gh_issues": 3,
     "gh_branch": "master",
@@ -2897,7 +2900,16 @@
     "author": "Sagi Shrieber",
     "title": "Sketch Icon Fetcher",
     "description": "This plugin will let you insert any website's favicon, or iOS/Android app's icon into your design",
-    "added": "2015-10-19 20:43:59 UTC"
+    "added": "2015-10-19 20:43:59 UTC",
+    "homepage": "http://hackingui.com/design/how-to-create-a-sketch-plugin/",
+    "gh_url": "https://github.com/sagishrieber/sketch-any-icon-fetcher.git",
+    "gh_updated": "2017-03-27 17:21:07 UTC",
+    "gh_stars": 131,
+    "gh_issues": 4,
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.a6dc338b-8dd9-4442-acff-832fadc6e0d9",
+    "man_version": "1.2",
+    "man_compatible_version": "3.5.2"
   },
   {
     "name": "Sketch_Update-Text-Layer-Name",
@@ -5289,7 +5301,9 @@
     "gh_updated": "2017-09-15 06:22:13 UTC",
     "gh_stars": 40,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.tencent.sketch.0ccd0daf-7e9c-4c57-83bb-09a089d551f4",
+    "man_version": "1.2"
   },
   {
     "name": "SketchColorPalette",
@@ -6171,7 +6185,7 @@
     "homepage": "https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin.git",
     "gh_updated": "2018-11-18 05:33:37 UTC",
-    "gh_stars": 227,
+    "gh_stars": 226,
     "gh_issues": 13,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugins.google-sheets-content-sync",
@@ -6596,7 +6610,9 @@
     "gh_updated": "2017-11-04 17:35:48 UTC",
     "gh_stars": 5,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.32ef2129-d0a0-4f5b-ab36-45883ca4c45f",
+    "man_version": "1.0"
   },
   {
     "name": "latex-sketch-plugin",
@@ -6954,7 +6970,13 @@
     "title": "Sketch-topographic",
     "description": "Display Topographic Information",
     "homepage": "https://github.com/ziven27/Sketch-topographic",
-    "added": "2018-01-22 09:56:09 UTC"
+    "added": "2018-01-22 09:56:09 UTC",
+    "gh_url": "https://github.com/ziven27/Sketch-topographic.git",
+    "gh_updated": "2018-07-11 01:39:35 UTC",
+    "gh_stars": 5,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-select-same-symbols",
@@ -9011,7 +9033,7 @@
     "added": "2018-11-27 12:01:37 UTC",
     "gh_url": "https://github.com/m-yoshiro/DesignToken2Code.git",
     "gh_updated": "2019-01-08 13:40:12 UTC",
-    "gh_stars": 9,
+    "gh_stars": 10,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "DesignToken2Code",
@@ -9162,6 +9184,9 @@
     "gh_stars": 15,
     "gh_issues": 0,
     "gh_branch": "master",
+    "man_identifier": "me.sabitov.sketch.connectionFlowArrows",
+    "man_version": "2.3.0",
+    "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/faridsabitov/Sketch-user-flows/master/userflows.sketchplugin/Contents/Resources/icon.png"
   },
   {

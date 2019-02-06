@@ -2037,7 +2037,7 @@
     "homepage": "https://github.com/preciousforever/data-populator",
     "gh_url": "https://github.com/preciousforever/data-populator.git",
     "gh_updated": "2018-11-11 23:19:12 UTC",
-    "gh_stars": 1522,
+    "gh_stars": 1523,
     "gh_issues": 26,
     "gh_branch": "master"
   },
@@ -9291,13 +9291,13 @@
     "description": "Sketch plugin to automatically add typographic french conventions and non-breaking spaces",
     "homepage": "https://github.com/Saint-loup/french-typography",
     "added": "2019-01-18 10:01:59 UTC",
-    "gh_url": "https://github.com/Saint-loup/french-typography.git",
-    "gh_updated": "2019-02-06 19:53:20 UTC",
+    "gh_url": "https://github.com/Saint-loup/typographie-frenchy.git",
+    "gh_updated": "2019-02-06 20:48:09 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.saint_loup.sketch.french-typography",
-    "man_version": "1.1.1",
+    "man_version": "1.1.2",
     "icon": "https://raw.githubusercontent.com/Saint-loup/french-typography/master/french-typography.sketchplugin/Contents/Resources/Icon.png"
   },
   {

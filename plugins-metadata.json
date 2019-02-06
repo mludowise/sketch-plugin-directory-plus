@@ -4452,12 +4452,12 @@
     "added": "2016-08-23 08:40:18 UTC",
     "homepage": "https://github.com/Ashung/Android_Res_Export",
     "gh_url": "https://github.com/Ashung/Android_Res_Export.git",
-    "gh_updated": "2019-01-30 08:40:48 UTC",
+    "gh_updated": "2019-02-06 06:59:10 UTC",
     "gh_stars": 169,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.android_res_export",
-    "man_version": "3.8.0",
+    "man_version": "3.8.1",
     "man_compatible_version": "4",
     "icon": "https://raw.githubusercontent.com/Ashung/Android_Res_Export/master/Android_Res_Export.sketchplugin/Contents/Resources/icon.png"
   },
@@ -5980,7 +5980,10 @@
     "gh_updated": "2018-01-09 13:05:12 UTC",
     "gh_stars": 87,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.carlosnavarro.sketch.appalette",
+    "man_version": "1.1",
+    "man_compatible_version": "3"
   },
   {
     "name": "Seca",

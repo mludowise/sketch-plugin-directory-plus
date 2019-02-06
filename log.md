@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-06 12:01:41 UTC
+Updated 2019-02-06 13:02:11 UTC
 
 Total plugins: 591
 
@@ -54,8 +54,6 @@ Total plugins: 591
 [AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) and [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) use the same manifest identifier, __com.animaapp.stc-sketch-plugin__
 
 [herrhelms/radial-lines-sketch](https://github.com/herrhelms/radial-lines-sketch) manifest.json contains extra commas
-
-[nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
 
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
 
@@ -274,6 +272,8 @@ Total plugins: 591
 **/ has no repo**
 
 **[ziven27/Sketch-IconScope](https://github.com/ziven27/Sketch-IconScope) manifest.json is missing identifier**
+
+**[Cracker9/cracker9-sketch-plugin](https://github.com/Cracker9/cracker9-sketch-plugin) has no repo**
 
 **[wantedly/sketch-wt-design](https://github.com/wantedly/sketch-wt-design) manifest.json is missing identifier**
 

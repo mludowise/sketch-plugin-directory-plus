@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-06 14:02:11 UTC
+Updated 2019-02-06 15:02:17 UTC
 
 Total plugins: 591
 
@@ -57,8 +57,6 @@ Total plugins: 591
 
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
 
-**[einancunlu/Sketch-State-Switch-Master](https://github.com/einancunlu/Sketch-State-Switch-Master) has no repo**
-
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
 
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
@@ -92,6 +90,8 @@ Total plugins: 591
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 
 **[heysketch/sketch-color-picker-plus](https://github.com/heysketch/sketch-color-picker-plus) has no repo**
+
+**[mathieudutour/git-sketch-plugin](https://github.com/mathieudutour/git-sketch-plugin) missing manifest.json**
 
 [ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
 
@@ -345,7 +345,7 @@ Total plugins: 591
 
 [pratikjshah/Sketch-Guides](https://github.com/pratikjshah/Sketch-Guides) and [pratikjshah/PS-Guides](https://github.com/pratikjshah/PS-Guides) use the same manifest identifier, __website.pratikshah.guides__
 
-**[inthepocket/hubble-sketch-plugin](https://github.com/inthepocket/hubble-sketch-plugin) manifest.json is missing identifier**
+**[inthepocket/hubble-sketch-plugin](https://github.com/inthepocket/hubble-sketch-plugin) missing manifest.json**
 
 **[enriquezgomez/datazier-lens](https://github.com/enriquezgomez/datazier-lens) manifest.json is missing identifier**
 

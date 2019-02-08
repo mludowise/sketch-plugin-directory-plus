@@ -576,7 +576,10 @@
     "gh_updated": "2017-06-06 16:09:13 UTC",
     "gh_stars": 10,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "de.vt-learn.wordcloud",
+    "man_version": "0.2.0",
+    "man_compatible_version": "43.2"
   },
   {
     "name": "chromatic-sketch",
@@ -1418,12 +1421,12 @@
     "added": "2014-07-09 04:29:34 UTC",
     "homepage": "https://github.com/turbobabr/duplicator",
     "gh_url": "https://github.com/turbobabr/duplicator.git",
-    "gh_updated": "2018-03-16 07:39:33 UTC",
+    "gh_updated": "2019-02-08 13:26:44 UTC",
     "gh_stars": 339,
-    "gh_issues": 3,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.turbobabr.sketch.duplicator",
-    "man_version": "2.0.2",
+    "man_version": "2.0.3",
     "man_compatible_version": "3"
   },
   {

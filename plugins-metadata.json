@@ -2721,12 +2721,12 @@
     "added": "2015-09-24 19:15:42 UTC",
     "homepage": "https://github.com/andrewfiorillo/sketch-palettes",
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
-    "gh_updated": "2018-08-26 23:53:00 UTC",
+    "gh_updated": "2019-02-07 23:42:26 UTC",
     "gh_stars": 2076,
-    "gh_issues": 9,
+    "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
-    "man_version": "2.14",
+    "man_version": "2.2",
     "man_compatible_version": "39"
   },
   {

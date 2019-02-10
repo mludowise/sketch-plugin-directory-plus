@@ -2452,7 +2452,7 @@
     "homepage": "https://github.com/keremciu/sketch-iconfont",
     "gh_url": "https://github.com/keremciu/sketch-iconfont.git",
     "gh_updated": "2017-12-07 00:42:31 UTC",
-    "gh_stars": 1830,
+    "gh_stars": 1829,
     "gh_issues": 36,
     "gh_branch": "master",
     "man_identifier": "com.keremciu.sketch.iconfont",
@@ -9178,14 +9178,14 @@
     "added": "2018-12-20 20:02:13 UTC",
     "homepage": "https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows",
     "gh_url": "https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows.git",
-    "gh_updated": "2019-02-03 19:14:37 UTC",
+    "gh_updated": "2019-02-10 16:59:31 UTC",
     "gh_stars": 15,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "me.sabitov.sketch.connectionFlowArrows",
-    "man_version": "2.3.0",
+    "man_version": "2.3.2",
     "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/faridsabitov/Sketch-user-flows/master/userflows.sketchplugin/Contents/Resources/icon.png"
+    "icon": "https://raw.githubusercontent.com/faridsabitov/Sketch-user-flows/master/arrows.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "composite-svg",

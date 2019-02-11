@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-11 16:01:18 UTC
+Updated 2019-02-11 17:00:34 UTC
 
 Total plugins: 591
 
@@ -130,6 +130,8 @@ Total plugins: 591
 [eaugustine/Sketch-Color-Contrast-Analyzer](https://github.com/eaugustine/Sketch-Color-Contrast-Analyzer) manifest.json contains extra commas
 
 **[amin-nas/Sketch-to-Clickthrough-HTML](https://github.com/amin-nas/Sketch-to-Clickthrough-HTML) manifest.json is missing identifier**
+
+**[JJYing/fake-chinese-name-for-sketch](https://github.com/JJYing/fake-chinese-name-for-sketch) has no repo**
 
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
 

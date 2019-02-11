@@ -221,13 +221,13 @@
     "homepage": "https://github.com/konki-vienna/sketch-bootstrap-helpers",
     "added": "2018-01-24 10:01:29 UTC",
     "gh_url": "https://github.com/konki-vienna/sketch-bootstrap-helpers.git",
-    "gh_updated": "2018-09-21 06:56:18 UTC",
+    "gh_updated": "2019-02-11 14:44:59 UTC",
     "gh_stars": 14,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "at.demblin.sketch-bootstrap-helpers",
-    "man_version": "0.1.1",
-    "man_compatible_version": "4.5"
+    "man_version": "0.2.2",
+    "man_compatible_version": "4.8"
   },
   {
     "name": "SketchPlugins",
@@ -326,7 +326,7 @@
     "added": "2018-06-19 19:02:06 UTC",
     "homepage": "http://fontbuddy.co",
     "gh_url": "https://github.com/AnimaApp/FontBuddy.git",
-    "gh_updated": "2018-02-28 14:04:59 UTC",
+    "gh_updated": "2018-02-28 14:05:03 UTC",
     "gh_stars": 19,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -2353,10 +2353,7 @@
     "gh_updated": "2016-02-22 15:26:09 UTC",
     "gh_stars": 72,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.matt-curtis.sketch.sketch-server",
-    "man_version": "1.6.3",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "MagicMirror",
@@ -2950,15 +2947,7 @@
     "author": "Arshad Chummun",
     "title": "Sass Colors",
     "description": "Displays colors as preconfigure Sass variables for Sketch.",
-    "added": "2015-10-29 17:28:27 UTC",
-    "homepage": "https://github.com/arshad/Sketch-Sass-Colors",
-    "gh_url": "https://github.com/arshad/Sketch-Sass-Colors.git",
-    "gh_updated": "2016-12-15 06:46:23 UTC",
-    "gh_stars": 69,
-    "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "io.arshad.sketch-sass-colors",
-    "man_version": "1.2"
+    "added": "2015-10-29 17:28:27 UTC"
   },
   {
     "name": "Toggle-NoPrint-Visibility-Sketch-Plugin",
@@ -4850,9 +4839,7 @@
     "gh_updated": "2016-12-06 19:39:02 UTC",
     "gh_stars": 226,
     "gh_issues": 6,
-    "gh_branch": "master",
-    "man_identifier": "io.mamuso.sketch.designdoc",
-    "man_version": "0.0.7"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-truncate-textlines",
@@ -4896,7 +4883,7 @@
     "added": "2016-11-03 15:17:50 UTC",
     "homepage": "https://github.com/sonburn/symbol-instance-renamer",
     "gh_url": "https://github.com/sonburn/symbol-instance-renamer.git",
-    "gh_updated": "2019-02-07 17:56:59 UTC",
+    "gh_updated": "2019-02-07 17:57:07 UTC",
     "gh_stars": 134,
     "gh_issues": 5,
     "gh_branch": "master",
@@ -5713,7 +5700,7 @@
     "added": "2017-04-18 11:01:09 UTC",
     "homepage": "https://github.com/FrancisVega/sketch-query-selection",
     "gh_url": "https://github.com/FrancisVega/sketch-query-selection.git",
-    "gh_updated": "2017-05-01 15:55:06 UTC",
+    "gh_updated": "2017-05-01 15:55:13 UTC",
     "gh_stars": 9,
     "gh_issues": 3,
     "gh_branch": "master",
@@ -6141,9 +6128,7 @@
     "gh_updated": "2017-07-04 23:42:25 UTC",
     "gh_stars": 21,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "com.gifmock.sketchplugin",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "logodrop",
@@ -6656,8 +6641,7 @@
     "gh_updated": "2017-11-03 23:10:23 UTC",
     "gh_stars": 61,
     "gh_issues": 6,
-    "gh_branch": "master",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "unused-style-remover",

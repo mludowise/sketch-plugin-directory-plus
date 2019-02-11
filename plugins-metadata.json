@@ -326,7 +326,7 @@
     "added": "2018-06-19 19:02:06 UTC",
     "homepage": "http://fontbuddy.co",
     "gh_url": "https://github.com/AnimaApp/FontBuddy.git",
-    "gh_updated": "2018-02-28 14:05:03 UTC",
+    "gh_updated": "2018-02-28 14:04:59 UTC",
     "gh_stars": 19,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -2353,7 +2353,10 @@
     "gh_updated": "2016-02-22 15:26:09 UTC",
     "gh_stars": 72,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.matt-curtis.sketch.sketch-server",
+    "man_version": "1.6.3",
+    "man_compatible_version": "3"
   },
   {
     "name": "MagicMirror",
@@ -2947,7 +2950,15 @@
     "author": "Arshad Chummun",
     "title": "Sass Colors",
     "description": "Displays colors as preconfigure Sass variables for Sketch.",
-    "added": "2015-10-29 17:28:27 UTC"
+    "added": "2015-10-29 17:28:27 UTC",
+    "homepage": "https://github.com/arshad/Sketch-Sass-Colors",
+    "gh_url": "https://github.com/arshad/Sketch-Sass-Colors.git",
+    "gh_updated": "2016-12-15 06:46:23 UTC",
+    "gh_stars": 69,
+    "gh_issues": 2,
+    "gh_branch": "master",
+    "man_identifier": "io.arshad.sketch-sass-colors",
+    "man_version": "1.2"
   },
   {
     "name": "Toggle-NoPrint-Visibility-Sketch-Plugin",
@@ -3153,7 +3164,7 @@
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
     "gh_updated": "2019-01-30 11:01:46 UTC",
-    "gh_stars": 523,
+    "gh_stars": 524,
     "gh_issues": 13,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
@@ -3646,7 +3657,7 @@
     "added": "2016-07-08 07:54:39 UTC",
     "homepage": "https://github.com/ment-mx/Prism",
     "gh_url": "https://github.com/ment-mx/Prism.git",
-    "gh_updated": "2018-08-03 17:22:44 UTC",
+    "gh_updated": "2018-08-03 17:22:45 UTC",
     "gh_stars": 949,
     "gh_issues": 6,
     "gh_branch": "master",
@@ -4839,7 +4850,9 @@
     "gh_updated": "2016-12-06 19:39:02 UTC",
     "gh_stars": 226,
     "gh_issues": 6,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "io.mamuso.sketch.designdoc",
+    "man_version": "0.0.7"
   },
   {
     "name": "sketch-truncate-textlines",
@@ -4883,7 +4896,7 @@
     "added": "2016-11-03 15:17:50 UTC",
     "homepage": "https://github.com/sonburn/symbol-instance-renamer",
     "gh_url": "https://github.com/sonburn/symbol-instance-renamer.git",
-    "gh_updated": "2019-02-07 17:57:07 UTC",
+    "gh_updated": "2019-02-07 17:56:59 UTC",
     "gh_stars": 134,
     "gh_issues": 5,
     "gh_branch": "master",
@@ -5700,7 +5713,7 @@
     "added": "2017-04-18 11:01:09 UTC",
     "homepage": "https://github.com/FrancisVega/sketch-query-selection",
     "gh_url": "https://github.com/FrancisVega/sketch-query-selection.git",
-    "gh_updated": "2017-05-01 15:55:13 UTC",
+    "gh_updated": "2017-05-01 15:55:06 UTC",
     "gh_stars": 9,
     "gh_issues": 3,
     "gh_branch": "master",
@@ -6128,7 +6141,9 @@
     "gh_updated": "2017-07-04 23:42:25 UTC",
     "gh_stars": 21,
     "gh_issues": 3,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.gifmock.sketchplugin",
+    "man_version": "1.0"
   },
   {
     "name": "logodrop",
@@ -6370,7 +6385,7 @@
     "homepage": "https://github.com/awkward/sketch-palette-generator",
     "gh_url": "https://github.com/awkward/sketch-palette-generator.git",
     "gh_updated": "2018-04-06 12:27:18 UTC",
-    "gh_stars": 131,
+    "gh_stars": 132,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"
@@ -6641,7 +6656,8 @@
     "gh_updated": "2017-11-03 23:10:23 UTC",
     "gh_stars": 61,
     "gh_issues": 6,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   },
   {
     "name": "unused-style-remover",
@@ -6671,7 +6687,7 @@
     "gh_url": "https://github.com/sonburn/shared-style-finder.git",
     "gh_updated": "2019-02-06 00:44:56 UTC",
     "gh_stars": 36,
-    "gh_issues": 2,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.shared-style-finder",
     "man_version": "1.2",
@@ -7314,7 +7330,7 @@
     "added": "2018-03-08 23:01:04 UTC",
     "gh_url": "https://github.com/tankxu/SVG-Insert.git",
     "gh_updated": "2018-11-05 10:06:19 UTC",
-    "gh_stars": 39,
+    "gh_stars": 40,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.tankxu.sketch.svg-insert",
@@ -9050,7 +9066,7 @@
     "homepage": "https://github.com/canisminor1990/sketch-afux-tools",
     "added": "2018-12-04 12:02:17 UTC",
     "gh_url": "https://github.com/canisminor1990/anto.git",
-    "gh_updated": "2019-02-03 03:16:02 UTC",
+    "gh_updated": "2019-02-03 03:16:16 UTC",
     "gh_stars": 21,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -9114,7 +9130,7 @@
     "homepage": "https://github.com/webkul/renamer",
     "added": "2018-12-04 12:02:17 UTC",
     "gh_url": "https://github.com/webkul/renamer.git",
-    "gh_updated": "2018-12-11 18:22:59 UTC",
+    "gh_updated": "2018-12-11 18:23:15 UTC",
     "gh_stars": 15,
     "gh_issues": 0,
     "gh_branch": "master",

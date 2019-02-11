@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-11 15:00:12 UTC
+Updated 2019-02-11 16:01:18 UTC
 
 Total plugins: 591
 
@@ -87,8 +87,6 @@ Total plugins: 591
 
 [JohnCoates/CSSketch](https://github.com/JohnCoates/CSSketch) manifest.json contains extra commas
 
-**[arshad/Sketch-Sass-Colors](https://github.com/arshad/Sketch-Sass-Colors) has no repo**
-
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 
 **[heysketch/sketch-color-picker-plus](https://github.com/heysketch/sketch-color-picker-plus) has no repo**
@@ -127,8 +125,6 @@ Total plugins: 591
 
 [luvmex/Sketch-Guides](https://github.com/luvmex/Sketch-Guides) manifest.json contains extra commas
 
-**[mamuso/sketch-designdoc](https://github.com/mamuso/sketch-designdoc) missing manifest.json**
-
 [pberrecloth/rotator-sketch-plugin](https://github.com/pberrecloth/rotator-sketch-plugin) manifest.json contains extra commas
 
 [eaugustine/Sketch-Color-Contrast-Analyzer](https://github.com/eaugustine/Sketch-Color-Contrast-Analyzer) manifest.json contains extra commas
@@ -150,6 +146,8 @@ Total plugins: 591
 **[ImageOptim/sketch-plugin](https://github.com/ImageOptim/sketch-plugin) missing manifest.json**
 
 [MattCowBoy/giancartboard](https://github.com/MattCowBoy/giancartboard) manifest.json contains extra commas
+
+[stevenfabre/Gifmock-for-Sketch](https://github.com/stevenfabre/Gifmock-for-Sketch) manifest.json contains extra commas
 
 **[Iconscout/logodrop](https://github.com/Iconscout/logodrop) manifest.json is missing identifier**
 
@@ -180,6 +178,8 @@ Total plugins: 591
 **[heytitle/latex-sketch-plugin](https://github.com/heytitle/latex-sketch-plugin) manifest.json is missing identifier**
 
 **[kannonboy/sketch-gifme-plugin](https://github.com/kannonboy/sketch-gifme-plugin) manifest.json is missing identifier**
+
+**[danielguillan/sketch-syntax-highlighter](https://github.com/danielguillan/sketch-syntax-highlighter) manifest.json is missing identifier**
 
 **[skpm/sketch-dev-tools](https://github.com/skpm/sketch-dev-tools) manifest.json is missing identifier**
 

@@ -1192,7 +1192,7 @@
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
     "gh_stars": 6243,
-    "gh_issues": 265,
+    "gh_issues": 266,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.7.7"
@@ -3658,7 +3658,7 @@
     "homepage": "https://github.com/ment-mx/Prism",
     "gh_url": "https://github.com/ment-mx/Prism.git",
     "gh_updated": "2018-08-03 17:22:44 UTC",
-    "gh_stars": 949,
+    "gh_stars": 950,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.ment.sketch.prism",

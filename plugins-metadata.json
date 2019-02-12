@@ -221,12 +221,12 @@
     "homepage": "https://github.com/konki-vienna/sketch-bootstrap-helpers",
     "added": "2018-01-24 10:01:29 UTC",
     "gh_url": "https://github.com/konki-vienna/sketch-bootstrap-helpers.git",
-    "gh_updated": "2019-02-12 10:01:58 UTC",
-    "gh_stars": 14,
+    "gh_updated": "2019-02-12 13:51:09 UTC",
+    "gh_stars": 16,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "at.demblin.sketch-bootstrap-helpers",
-    "man_version": "0.2.2",
+    "man_version": "1.1.1",
     "man_compatible_version": "4.8"
   },
   {
@@ -1673,7 +1673,7 @@
     "gh_url": "https://github.com/Falkeyn/Modulizer.git",
     "gh_updated": "2017-03-31 18:31:15 UTC",
     "gh_stars": 91,
-    "gh_issues": 8,
+    "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.sketch.modulizer",
     "man_version": "1.0"

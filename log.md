@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-13 17:00:15 UTC
+Updated 2019-02-13 18:00:38 UTC
 
 Total plugins: 591
 
@@ -33,7 +33,7 @@ Total plugins: 591
 
 **/ has no repo**
 
-**[cranksoftwaredev/SketchPlugins](https://github.com/cranksoftwaredev/SketchPlugins) has no repo**
+**[cranksoftwaredev/SketchPlugins](https://github.com/cranksoftwaredev/SketchPlugins) missing manifest.json**
 
 **/ has no repo**
 
@@ -82,8 +82,6 @@ Total plugins: 591
 [hamidp/sketchtextsourcer](https://github.com/hamidp/sketchtextsourcer) manifest.json contains extra commas
 
 [jamztang/MagicMirror](https://github.com/jamztang/MagicMirror) manifest.json contains extra commas
-
-**[soulchild/sketch-logo-fetcher](https://github.com/soulchild/sketch-logo-fetcher) missing manifest.json**
 
 [stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers) manifest.json contains extra commas
 

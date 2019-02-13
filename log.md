@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-13 14:01:12 UTC
+Updated 2019-02-13 15:01:22 UTC
 
 Total plugins: 591
 
@@ -102,6 +102,8 @@ Total plugins: 591
 **opencolor-tools/ has no repo**
 
 [MagicSketch/MagicPresenter](https://github.com/MagicSketch/MagicPresenter) manifest.json contains extra commas
+
+**[BohemianCoding/svgo-compressor](https://github.com/BohemianCoding/svgo-compressor) has no repo**
 
 [screenfork/ScreenFork](https://github.com/screenfork/ScreenFork) manifest.json contains extra commas
 

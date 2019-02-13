@@ -1818,7 +1818,7 @@
     "gh_url": "https://github.com/kenmoore/sketch-relabel-button.git",
     "gh_updated": "2019-02-13 03:19:56 UTC",
     "gh_stars": 345,
-    "gh_issues": 13,
+    "gh_issues": 14,
     "gh_branch": "master",
     "man_identifier": "com.kenmoore.sketch.relabelbutton",
     "man_version": "1.8"
@@ -2721,7 +2721,7 @@
     "homepage": "https://github.com/andrewfiorillo/sketch-palettes",
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
     "gh_updated": "2019-02-12 02:17:39 UTC",
-    "gh_stars": 2081,
+    "gh_stars": 2082,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
@@ -3232,7 +3232,10 @@
     "gh_updated": "2017-05-10 17:18:46 UTC",
     "gh_stars": 67,
     "gh_issues": 4,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "nl.pixelpillow.copypasteguides",
+    "man_version": "0.8.0",
+    "man_compatible_version": "3.4.2"
   },
   {
     "name": "sketch-export-generator",
@@ -4797,7 +4800,9 @@
     "gh_updated": "2018-02-19 04:07:46 UTC",
     "gh_stars": 61,
     "gh_issues": 4,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.quickcolor",
+    "man_version": "1.0"
   },
   {
     "name": "Sketch---Find-all-instances-of-symbol",

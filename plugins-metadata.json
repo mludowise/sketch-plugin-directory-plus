@@ -235,12 +235,7 @@
     "title": "Storyboard Export",
     "description": "Export Sketch based designs to be used within Crank Software's Storyboard Suite",
     "homepage": "https://github.com/cranksoftwaredev/SketchPlugins",
-    "added": "2018-01-24 10:01:29 UTC",
-    "gh_url": "https://github.com/cranksoftwaredev/SketchPlugins.git",
-    "gh_updated": "2018-08-15 14:04:24 UTC",
-    "gh_stars": 0,
-    "gh_issues": 0,
-    "gh_branch": "master"
+    "added": "2018-01-24 10:01:29 UTC"
   },
   {
     "owner": null,
@@ -2504,10 +2499,7 @@
     "gh_updated": "2019-02-11 08:46:55 UTC",
     "gh_stars": 135,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "de.funkreich.sketch.logo-fetcher",
-    "man_version": "0.5.6",
-    "man_compatible_version": "3.8.3"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-character-count",
@@ -3527,7 +3519,7 @@
     "gh_url": "https://github.com/fuggfuggfugg/sketch-dynamic-button-3.5.git",
     "gh_updated": "2017-07-09 01:35:39 UTC",
     "gh_stars": 241,
-    "gh_issues": 9,
+    "gh_issues": 10,
     "gh_branch": "master",
     "man_identifier": "me.fugg.dynamicbutton3.5",
     "man_version": "1.1.3",
@@ -5650,7 +5642,9 @@
     "gh_updated": "2017-12-04 14:27:29 UTC",
     "gh_stars": 567,
     "gh_issues": 20,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.slinky-plugin",
+    "man_version": "0.1.5"
   },
   {
     "name": "sketch-flip-size",
@@ -6580,7 +6574,7 @@
     "homepage": "https://github.com/sonburn/symbol-swapper",
     "gh_url": "https://github.com/sonburn/symbol-swapper.git",
     "gh_updated": "2018-10-29 19:16:50 UTC",
-    "gh_stars": 135,
+    "gh_stars": 136,
     "gh_issues": 16,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-swapper",
@@ -8943,7 +8937,7 @@
     "homepage": "https://github.com/hiradarshadi/PersianSupplier",
     "gh_url": "https://github.com/hiradarshadi/PersianSupplier.git",
     "gh_updated": "2019-02-13 14:30:53 UTC",
-    "gh_stars": 25,
+    "gh_stars": 26,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.box.persiansupplier",
@@ -9158,7 +9152,13 @@
     "title": "Annotations",
     "description": "Hide/show layer groups named 'Annotations'.",
     "homepage": "https://github.com/BaguetteEngineering/annotations-sketch-plugin",
-    "added": "2018-12-20 09:01:35 UTC"
+    "added": "2018-12-20 09:01:35 UTC",
+    "gh_url": "https://github.com/BaguetteEngineering/annotations-sketch-plugin.git",
+    "gh_updated": "2019-01-12 11:49:25 UTC",
+    "gh_stars": 16,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   },
   {
     "name": "Sketch-user-flows",
@@ -9330,7 +9330,7 @@
     "added": "2019-01-29 11:01:42 UTC",
     "gh_url": "https://github.com/KevinGutowski/betterTypePanel.git",
     "gh_updated": "2019-02-10 01:11:42 UTC",
-    "gh_stars": 17,
+    "gh_stars": 21,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "betterTypePanel",

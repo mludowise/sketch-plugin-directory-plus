@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-13 15:01:22 UTC
+Updated 2019-02-13 16:00:48 UTC
 
 Total plugins: 591
 
@@ -103,8 +103,6 @@ Total plugins: 591
 
 [MagicSketch/MagicPresenter](https://github.com/MagicSketch/MagicPresenter) manifest.json contains extra commas
 
-**[BohemianCoding/svgo-compressor](https://github.com/BohemianCoding/svgo-compressor) has no repo**
-
 [screenfork/ScreenFork](https://github.com/screenfork/ScreenFork) manifest.json contains extra commas
 
 **vmdanilov/ has no repo**
@@ -134,8 +132,6 @@ Total plugins: 591
 **[amin-nas/Sketch-to-Clickthrough-HTML](https://github.com/amin-nas/Sketch-to-Clickthrough-HTML) manifest.json is missing identifier**
 
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
-
-[finchalyzer/slinky](https://github.com/finchalyzer/slinky) manifest.json contains extra commas
 
 [Rezaaa/english-and-persian-lorem-ipsum](https://github.com/Rezaaa/english-and-persian-lorem-ipsum) manifest.json contains extra commas
 
@@ -337,7 +333,7 @@ Total plugins: 591
 
 **[Webkul/Renamer](https://github.com/Webkul/Renamer) manifest.json is missing identifier**
 
-**[BaguetteEngineering/annotations-sketch-plugin](https://github.com/BaguetteEngineering/annotations-sketch-plugin) manifest.json is missing identifier**
+**[BaguetteEngineering/annotations-sketch-plugin](https://github.com/BaguetteEngineering/annotations-sketch-plugin) has no repo**
 
 **[alanfraneo/composite-svg](https://github.com/alanfraneo/composite-svg) has no repo**
 

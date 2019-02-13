@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-13 21:00:55 UTC
+Updated 2019-02-13 22:01:14 UTC
 
 Total plugins: 591
 
@@ -91,8 +91,6 @@ Total plugins: 591
 
 **[heysketch/sketch-color-picker-plus](https://github.com/heysketch/sketch-color-picker-plus) has no repo**
 
-**[pixelpillow/copy-paste-guides](https://github.com/pixelpillow/copy-paste-guides) missing manifest.json**
-
 [ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
 
 [LaloMrtnz/Prism](https://github.com/LaloMrtnz/Prism) manifest.json contains extra commas
@@ -124,8 +122,6 @@ Total plugins: 591
 [marianomike/sketch-organizesymbols](https://github.com/marianomike/sketch-organizesymbols) manifest.json contains extra commas
 
 [marianomike/sketch-duplicatesymbol](https://github.com/marianomike/sketch-duplicatesymbol) manifest.json contains extra commas
-
-**[colesperks/QuickColor](https://github.com/colesperks/QuickColor) missing manifest.json**
 
 [luvmex/Sketch-Guides](https://github.com/luvmex/Sketch-Guides) manifest.json contains extra commas
 

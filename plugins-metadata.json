@@ -235,7 +235,12 @@
     "title": "Storyboard Export",
     "description": "Export Sketch based designs to be used within Crank Software's Storyboard Suite",
     "homepage": "https://github.com/cranksoftwaredev/SketchPlugins",
-    "added": "2018-01-24 10:01:29 UTC"
+    "added": "2018-01-24 10:01:29 UTC",
+    "gh_url": "https://github.com/cranksoftwaredev/SketchPlugins.git",
+    "gh_updated": "2018-08-15 14:04:24 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master"
   },
   {
     "owner": null,
@@ -2499,7 +2504,10 @@
     "gh_updated": "2019-02-11 08:46:55 UTC",
     "gh_stars": 135,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "de.funkreich.sketch.logo-fetcher",
+    "man_version": "0.5.6",
+    "man_compatible_version": "3.8.3"
   },
   {
     "name": "sketch-character-count",
@@ -3682,7 +3690,7 @@
     "homepage": "http://AnimateMate.com",
     "gh_url": "https://github.com/Creatide/AnimateMate.git",
     "gh_updated": "2017-07-14 05:21:52 UTC",
-    "gh_stars": 1288,
+    "gh_stars": 1289,
     "gh_issues": 16,
     "gh_branch": "master",
     "man_identifier": "com.creatide.sketch.animatemate",
@@ -6745,7 +6753,7 @@
     "homepage": "http://www.jacopocolo.com/p5sketchplugin/",
     "gh_url": "https://github.com/jacopocolo/p5-sketchplugin.git",
     "gh_updated": "2018-10-03 07:16:37 UTC",
-    "gh_stars": 203,
+    "gh_stars": 204,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.jacopocolo.sketch.p5",
@@ -8937,7 +8945,7 @@
     "homepage": "https://github.com/hiradarshadi/PersianSupplier",
     "gh_url": "https://github.com/hiradarshadi/PersianSupplier.git",
     "gh_updated": "2019-02-13 14:30:53 UTC",
-    "gh_stars": 26,
+    "gh_stars": 27,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.box.persiansupplier",
@@ -9330,7 +9338,7 @@
     "added": "2019-01-29 11:01:42 UTC",
     "gh_url": "https://github.com/KevinGutowski/betterTypePanel.git",
     "gh_updated": "2019-02-10 01:11:42 UTC",
-    "gh_stars": 21,
+    "gh_stars": 24,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "betterTypePanel",

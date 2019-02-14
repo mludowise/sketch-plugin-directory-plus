@@ -687,9 +687,7 @@
     "gh_updated": "2018-06-22 16:13:40 UTC",
     "gh_stars": 45,
     "gh_issues": 5,
-    "gh_branch": "master",
-    "man_identifier": "com.leonardpauli.sketch.layerrenamer",
-    "man_version": "1.3"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-ace-jump",
@@ -736,10 +734,7 @@
     "gh_updated": "2017-07-07 18:49:33 UTC",
     "gh_stars": 137,
     "gh_issues": 5,
-    "gh_branch": "master",
-    "man_identifier": "com.mludowise.htmlexport",
-    "man_version": "0.2",
-    "man_compatible_version": "45.1"
+    "gh_branch": "master"
   },
   {
     "name": "click-thru-prototype",
@@ -1797,7 +1792,15 @@
     "author": "Ken Moore",
     "title": "Better Paste",
     "description": "Paste like it was meant to be--into the artboard you're viewing.",
-    "added": "2015-01-19 09:07:27 UTC"
+    "added": "2015-01-19 09:07:27 UTC",
+    "homepage": "https://github.com/kenmoore/sketch-better-paste",
+    "gh_url": "https://github.com/kenmoore/sketch-better-paste.git",
+    "gh_updated": "2017-12-06 18:20:44 UTC",
+    "gh_stars": 109,
+    "gh_issues": 2,
+    "gh_branch": "master",
+    "man_identifier": "com.kenmoore.sketch.betterpaste",
+    "man_version": "1.4"
   },
   {
     "name": "Sketch-Relabel-Button",
@@ -3156,7 +3159,7 @@
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
     "gh_updated": "2019-02-13 08:34:35 UTC",
     "gh_stars": 526,
-    "gh_issues": 12,
+    "gh_issues": 13,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
     "man_version": "53.0.20190213",
@@ -3385,7 +3388,7 @@
     "homepage": "https://mathieudutour.github.io/git-sketch-plugin",
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2017-10-17 08:22:39 UTC",
-    "gh_stars": 2300,
+    "gh_stars": 2301,
     "gh_issues": 23,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
@@ -4676,7 +4679,7 @@
     "homepage": "https://github.com/sonburn/symbol-organizer",
     "gh_url": "https://github.com/sonburn/symbol-organizer.git",
     "gh_updated": "2018-10-16 13:25:48 UTC",
-    "gh_stars": 683,
+    "gh_stars": 684,
     "gh_issues": 32,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-organizer",
@@ -5524,7 +5527,7 @@
     "added": "2017-03-15 10:07:31 UTC",
     "gh_url": "https://github.com/lucaorio/sketch-styles-generator.git",
     "gh_updated": "2018-10-06 02:31:16 UTC",
-    "gh_stars": 410,
+    "gh_stars": 411,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.sketch.styles.generator",
@@ -6660,7 +6663,7 @@
     "homepage": "https://github.com/sonburn/unused-style-remover",
     "gh_url": "https://github.com/sonburn/unused-style-remover.git",
     "gh_updated": "2018-10-15 17:56:05 UTC",
-    "gh_stars": 63,
+    "gh_stars": 64,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.unused-style-remover",
@@ -7136,7 +7139,7 @@
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/paddy-sketch-plugin.git",
     "gh_updated": "2018-11-03 08:09:29 UTC",
-    "gh_stars": 2215,
+    "gh_stars": 2216,
     "gh_issues": 69,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugin.paddy",
@@ -9197,8 +9200,8 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taobaofed/imgcook.git",
     "gh_updated": "2019-01-17 08:48:56 UTC",
-    "gh_stars": 190,
-    "gh_issues": 11,
+    "gh_stars": 191,
+    "gh_issues": 12,
     "gh_branch": "master"
   },
   {

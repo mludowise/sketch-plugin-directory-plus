@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-14 15:01:09 UTC
+Updated 2019-02-14 16:00:15 UTC
 
 Total plugins: 591
 
@@ -51,6 +51,8 @@ Total plugins: 591
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
 
+**[LeonardPauli/LayerRenamer](https://github.com/LeonardPauli/LayerRenamer) missing manifest.json**
+
 [AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) and [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) use the same manifest identifier, __com.animaapp.stc-sketch-plugin__
 
 [herrhelms/radial-lines-sketch](https://github.com/herrhelms/radial-lines-sketch) manifest.json contains extra commas
@@ -68,8 +70,6 @@ Total plugins: 591
 **[ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) manifest.json is missing identifier**
 
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
-
-**[kenmoore/Sketch-Better-Paste](https://github.com/kenmoore/Sketch-Better-Paste) has no repo**
 
 [getflourish/Sketch-Mate](https://github.com/getflourish/Sketch-Mate) manifest.json contains extra commas
 

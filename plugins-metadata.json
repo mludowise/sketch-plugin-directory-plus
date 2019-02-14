@@ -1191,7 +1191,7 @@
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
     "gh_stars": 6248,
-    "gh_issues": 269,
+    "gh_issues": 270,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.7.7"
@@ -9338,7 +9338,7 @@
     "added": "2019-01-29 11:01:42 UTC",
     "gh_url": "https://github.com/KevinGutowski/betterTypePanel.git",
     "gh_updated": "2019-02-13 18:45:25 UTC",
-    "gh_stars": 30,
+    "gh_stars": 31,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "betterTypePanel",

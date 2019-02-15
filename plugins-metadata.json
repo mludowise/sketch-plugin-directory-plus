@@ -1986,7 +1986,7 @@
     "gh_url": "https://github.com/abynim/UserFlows.git",
     "gh_updated": "2019-02-05 23:56:00 UTC",
     "gh_stars": 1377,
-    "gh_issues": 54,
+    "gh_issues": 55,
     "gh_branch": "v2",
     "man_identifier": "com.abynim.sketchplugins.userflows",
     "man_version": "2.3.3",
@@ -5366,7 +5366,7 @@
     "gh_url": "https://github.com/PeachScript/sketch-plugin-monster.git",
     "gh_updated": "2018-08-15 03:36:42 UTC",
     "gh_stars": 135,
-    "gh_issues": 11,
+    "gh_issues": 12,
     "gh_branch": "master",
     "man_identifier": "com.peachscript.pluginMonster",
     "man_compatible_version": "3"

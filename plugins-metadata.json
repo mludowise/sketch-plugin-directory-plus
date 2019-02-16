@@ -1190,7 +1190,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6251,
+    "gh_stars": 6250,
     "gh_issues": 271,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -8080,7 +8080,7 @@
     "homepage": "https://kitchen.alipay.com/",
     "gh_url": "https://github.com/ant-design/kitchen.git",
     "gh_updated": "2018-11-13 14:23:37 UTC",
-    "gh_stars": 58,
+    "gh_stars": 59,
     "gh_issues": 6,
     "gh_branch": "master"
   },

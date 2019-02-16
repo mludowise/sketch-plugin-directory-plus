@@ -1704,7 +1704,7 @@
     "gh_url": "https://github.com/zeplin/zeplin-sketch-plugin.git",
     "gh_updated": "2018-06-21 01:30:27 UTC",
     "gh_stars": 140,
-    "gh_issues": 10,
+    "gh_issues": 11,
     "gh_branch": "develop",
     "man_identifier": "io.zeplin.sketch-plugin",
     "man_version": "1.6.5"
@@ -2770,7 +2770,7 @@
     "homepage": "https://github.com/romashamin/sort-me-sketch",
     "gh_url": "https://github.com/romashamin/sort-me-sketch.git",
     "gh_updated": "2017-08-01 12:05:02 UTC",
-    "gh_stars": 526,
+    "gh_stars": 525,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.github.romashamin.sort-me-sketch",
@@ -8484,7 +8484,7 @@
     "gh_url": "https://github.com/mheesakkers/sketch-plugin-skew.git",
     "gh_updated": "2018-10-10 18:28:02 UTC",
     "gh_stars": 29,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.mishaheesakkers.sketch.skew",
     "man_version": "2.0"

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-18 08:01:36 UTC
+Updated 2019-02-18 09:00:31 UTC
 
 Total plugins: 591
 
@@ -90,8 +90,6 @@ Total plugins: 591
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 
 **[heysketch/sketch-color-picker-plus](https://github.com/heysketch/sketch-color-picker-plus) has no repo**
-
-**[ScottSavarie/Clipboard-Fill](https://github.com/ScottSavarie/Clipboard-Fill) missing manifest.json**
 
 [ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
 

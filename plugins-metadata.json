@@ -237,7 +237,7 @@
     "homepage": "https://github.com/cranksoftwaredev/SketchPlugins",
     "added": "2018-01-24 10:01:29 UTC",
     "gh_url": "https://github.com/cranksoftwaredev/SketchPlugins.git",
-    "gh_updated": "2018-08-15 14:04:24 UTC",
+    "gh_updated": "2018-08-15 14:04:25 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
     "gh_branch": "master"
@@ -1440,7 +1440,10 @@
     "gh_updated": "2017-03-15 11:58:43 UTC",
     "gh_stars": 440,
     "gh_issues": 9,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.geertwille.sketch.export-assets",
+    "man_version": "2.3",
+    "man_compatible_version": "3"
   },
   {
     "name": "Sketch-Color-Contrast-Analyser",
@@ -1815,7 +1818,7 @@
     "gh_url": "https://github.com/kenmoore/sketch-relabel-button.git",
     "gh_updated": "2019-02-13 03:19:56 UTC",
     "gh_stars": 347,
-    "gh_issues": 14,
+    "gh_issues": 16,
     "gh_branch": "master",
     "man_identifier": "com.kenmoore.sketch.relabelbutton",
     "man_version": "1.8"
@@ -4862,9 +4865,7 @@
     "gh_updated": "2018-09-08 06:27:45 UTC",
     "gh_stars": 69,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "io.mamuso.sketch.text-truncate-text-lines",
-    "man_version": "0.0.1"
+    "gh_branch": "master"
   },
   {
     "name": "butter-sketch-plugin",
@@ -5161,7 +5162,7 @@
     "homepage": "https://github.com/Tallwave/sketch-spellcheck-all-layers",
     "gh_url": "https://github.com/Tallwave/sketch-spellcheck-all-layers.git",
     "gh_updated": "2018-08-02 14:41:52 UTC",
-    "gh_stars": 112,
+    "gh_stars": 113,
     "gh_issues": 11,
     "gh_branch": "master",
     "man_identifier": "com.tallwave.spellcheckwholepage",
@@ -5263,7 +5264,9 @@
     "gh_updated": "2017-01-11 15:00:27 UTC",
     "gh_stars": 65,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.2899bc59-a313-42ab-908b-a70264fd0420",
+    "man_version": "1.0"
   },
   {
     "name": "TinyFaces-Sketch-Plugin",
@@ -7192,7 +7195,7 @@
     "gh_url": "https://github.com/MengTo/Angle-Sketch-Plugin.git",
     "gh_updated": "2018-10-08 13:52:14 UTC",
     "gh_stars": 148,
-    "gh_issues": 4,
+    "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "io.designcode.Angle",
     "man_version": "1.1.3",
@@ -9333,7 +9336,7 @@
     "added": "2019-01-29 11:01:42 UTC",
     "gh_url": "https://github.com/KevinGutowski/betterTypePanel.git",
     "gh_updated": "2019-02-18 11:03:21 UTC",
-    "gh_stars": 45,
+    "gh_stars": 46,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "betterTypePanel",

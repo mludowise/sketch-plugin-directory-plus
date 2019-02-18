@@ -652,10 +652,7 @@
     "gh_updated": "2017-04-13 07:03:02 UTC",
     "gh_stars": 50,
     "gh_issues": 4,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.gridy",
-    "man_version": "1.0",
-    "man_compatible_version": "1"
+    "gh_branch": "master"
   },
   {
     "name": "Looper",
@@ -670,9 +667,6 @@
     "gh_stars": 432,
     "gh_issues": 4,
     "gh_branch": "master",
-    "man_identifier": "com.sureskumar.sketch.looper",
-    "man_version": "3.1.0",
-    "man_compatible_version": "53.0",
     "icon": "https://raw.githubusercontent.com/sureskumar/Looper/master/Looper.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -2118,9 +2112,7 @@
     "gh_updated": "2018-12-10 03:42:55 UTC",
     "gh_stars": 2780,
     "gh_issues": 46,
-    "gh_branch": "master",
-    "man_identifier": "com.marketch.cosa.98908c77-3d38-48fa-8c7c-1bb465f67eb8",
-    "man_version": "1.0.24"
+    "gh_branch": "master"
   },
   {
     "name": "IconSlate-sketchplugin",

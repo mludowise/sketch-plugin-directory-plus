@@ -237,7 +237,7 @@
     "homepage": "https://github.com/cranksoftwaredev/SketchPlugins",
     "added": "2018-01-24 10:01:29 UTC",
     "gh_url": "https://github.com/cranksoftwaredev/SketchPlugins.git",
-    "gh_updated": "2018-08-15 14:04:25 UTC",
+    "gh_updated": "2018-08-15 14:04:24 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
     "gh_branch": "master"
@@ -4765,7 +4765,7 @@
     "homepage": "https://github.com/work4blue/sketch-app-asset-export",
     "gh_url": "https://github.com/work4blue/sketch-app-asset-export.git",
     "gh_updated": "2017-02-14 14:01:23 UTC",
-    "gh_stars": 115,
+    "gh_stars": 116,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "cn.bluedrum.sketch-app-aasset-export",
@@ -4865,7 +4865,9 @@
     "gh_updated": "2018-09-08 06:27:45 UTC",
     "gh_stars": 69,
     "gh_issues": 3,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "io.mamuso.sketch.text-truncate-text-lines",
+    "man_version": "0.0.1"
   },
   {
     "name": "butter-sketch-plugin",

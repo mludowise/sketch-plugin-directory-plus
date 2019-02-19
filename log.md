@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-19 17:00:41 UTC
+Updated 2019-02-19 18:01:15 UTC
 
 Total plugins: 591
 
@@ -77,9 +77,7 @@ Total plugins: 591
 
 [ozzik/swap-styles](https://github.com/ozzik/swap-styles) manifest.json contains extra commas
 
-**[soutaro/Align-text-baseline-sketch-plugin](https://github.com/soutaro/Align-text-baseline-sketch-plugin) has no repo**
-
-**[mmth/sketch-artwork-fetcher](https://github.com/mmth/sketch-artwork-fetcher) missing manifest.json**
+[soutaro/Align-text-baseline-sketch-plugin](https://github.com/soutaro/Align-text-baseline-sketch-plugin) manifest.json contains extra commas
 
 [hamidp/sketchtextsourcer](https://github.com/hamidp/sketchtextsourcer) manifest.json contains extra commas
 
@@ -144,8 +142,6 @@ Total plugins: 591
 [freeman990/Freeman-FinChart-SketchPlugin](https://github.com/freeman990/Freeman-FinChart-SketchPlugin) manifest.json contains extra commas
 
 [canisminor1990/sketch-move-half-pixel](https://github.com/canisminor1990/sketch-move-half-pixel) manifest.json contains extra commas
-
-**[MrPeak/sketch-show-layer-info](https://github.com/MrPeak/sketch-show-layer-info) has no repo**
 
 **[ImageOptim/sketch-plugin](https://github.com/ImageOptim/sketch-plugin) missing manifest.json**
 

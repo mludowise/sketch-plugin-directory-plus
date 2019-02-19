@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-19 13:01:17 UTC
+Updated 2019-02-19 14:01:12 UTC
 
 Total plugins: 591
 
@@ -261,7 +261,7 @@ Total plugins: 591
 
 **/ has no repo**
 
-**[buames/typesettings-sketch-plugin](https://github.com/buames/typesettings-sketch-plugin) manifest.json is missing identifier**
+**[buames/typesettings-sketch-plugin](https://github.com/buames/typesettings-sketch-plugin) missing manifest.json**
 
 **[KevinGutowski/keyColor](https://github.com/KevinGutowski/keyColor) manifest.json is missing identifier**
 

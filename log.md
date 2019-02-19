@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-19 15:01:19 UTC
+Updated 2019-02-19 16:00:36 UTC
 
 Total plugins: 591
 
@@ -50,8 +50,6 @@ Total plugins: 591
 [3raxton/foreignipsum](https://github.com/3raxton/foreignipsum) manifest.json contains extra commas
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
-
-[AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) and [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) use the same manifest identifier, __com.animaapp.stc-sketch-plugin__
 
 [herrhelms/radial-lines-sketch](https://github.com/herrhelms/radial-lines-sketch) manifest.json contains extra commas
 
@@ -334,8 +332,6 @@ Total plugins: 591
 **[webkul/renamer](https://github.com/webkul/renamer) owner and name correspond to multiple plugins**
 
 **[Webkul/Renamer](https://github.com/Webkul/Renamer) manifest.json is missing identifier**
-
-**[BaguetteEngineering/annotations-sketch-plugin](https://github.com/BaguetteEngineering/annotations-sketch-plugin) manifest.json is missing identifier**
 
 **[alanfraneo/composite-svg](https://github.com/alanfraneo/composite-svg) has no repo**
 

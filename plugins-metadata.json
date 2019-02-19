@@ -1155,7 +1155,7 @@
     "added": "2014-05-14 03:43:43 UTC",
     "gh_url": "https://github.com/rodi01/RenameIt.git",
     "gh_updated": "2019-01-17 19:34:52 UTC",
-    "gh_stars": 1247,
+    "gh_stars": 1248,
     "gh_issues": 25,
     "gh_branch": "master",
     "man_identifier": "com.taptap.ninja.rename-it",
@@ -1190,7 +1190,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6253,
+    "gh_stars": 6254,
     "gh_issues": 272,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -1275,7 +1275,10 @@
     "gh_updated": "2017-06-13 14:34:02 UTC",
     "gh_stars": 32,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "net.creative-tweet.json-to-layers",
+    "man_version": "3.2.0",
+    "man_compatible_version": "41"
   },
   {
     "name": "Regexp-Rename",
@@ -2718,7 +2721,7 @@
     "homepage": "https://github.com/andrewfiorillo/sketch-palettes",
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
     "gh_updated": "2019-02-12 02:17:39 UTC",
-    "gh_stars": 2085,
+    "gh_stars": 2086,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
@@ -8024,7 +8027,8 @@
     "gh_updated": "2018-09-03 18:58:18 UTC",
     "gh_stars": 21,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   },
   {
     "name": "keyColor",
@@ -8284,7 +8288,7 @@
     "added": "2018-08-09 22:02:18 UTC",
     "gh_url": "https://github.com/bomberstudios/artboard-manager.git",
     "gh_updated": "2018-11-23 12:08:16 UTC",
-    "gh_stars": 522,
+    "gh_stars": 524,
     "gh_issues": 17,
     "gh_branch": "master",
     "man_identifier": "com.bomberstudios.sketchplugins.artboard-manager",
@@ -8449,7 +8453,7 @@
     "gh_url": "https://github.com/romannurik/Sketch-Contrast.git",
     "gh_updated": "2018-10-18 19:30:23 UTC",
     "gh_stars": 29,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.contrast",
     "man_compatible_version": "49"

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-19 16:00:36 UTC
+Updated 2019-02-19 17:00:41 UTC
 
 Total plugins: 591
 
@@ -51,6 +51,8 @@ Total plugins: 591
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
 
+[AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) and [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) use the same manifest identifier, __com.animaapp.stc-sketch-plugin__
+
 [herrhelms/radial-lines-sketch](https://github.com/herrhelms/radial-lines-sketch) manifest.json contains extra commas
 
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
@@ -75,7 +77,9 @@ Total plugins: 591
 
 [ozzik/swap-styles](https://github.com/ozzik/swap-styles) manifest.json contains extra commas
 
-[soutaro/Align-text-baseline-sketch-plugin](https://github.com/soutaro/Align-text-baseline-sketch-plugin) manifest.json contains extra commas
+**[soutaro/Align-text-baseline-sketch-plugin](https://github.com/soutaro/Align-text-baseline-sketch-plugin) has no repo**
+
+**[mmth/sketch-artwork-fetcher](https://github.com/mmth/sketch-artwork-fetcher) missing manifest.json**
 
 [hamidp/sketchtextsourcer](https://github.com/hamidp/sketchtextsourcer) manifest.json contains extra commas
 
@@ -140,6 +144,8 @@ Total plugins: 591
 [freeman990/Freeman-FinChart-SketchPlugin](https://github.com/freeman990/Freeman-FinChart-SketchPlugin) manifest.json contains extra commas
 
 [canisminor1990/sketch-move-half-pixel](https://github.com/canisminor1990/sketch-move-half-pixel) manifest.json contains extra commas
+
+**[MrPeak/sketch-show-layer-info](https://github.com/MrPeak/sketch-show-layer-info) has no repo**
 
 **[ImageOptim/sketch-plugin](https://github.com/ImageOptim/sketch-plugin) missing manifest.json**
 
@@ -332,6 +338,8 @@ Total plugins: 591
 **[webkul/renamer](https://github.com/webkul/renamer) owner and name correspond to multiple plugins**
 
 **[Webkul/Renamer](https://github.com/Webkul/Renamer) manifest.json is missing identifier**
+
+**[BaguetteEngineering/annotations-sketch-plugin](https://github.com/BaguetteEngineering/annotations-sketch-plugin) manifest.json is missing identifier**
 
 **[alanfraneo/composite-svg](https://github.com/alanfraneo/composite-svg) has no repo**
 

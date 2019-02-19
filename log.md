@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-19 10:00:42 UTC
+Updated 2019-02-19 11:00:39 UTC
 
 Total plugins: 591
 
@@ -42,8 +42,6 @@ Total plugins: 591
 **[udi-gindi/sendTo](https://github.com/udi-gindi/sendTo) manifest.json is missing identifier**
 
 [LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) manifest.json contains extra commas
-
-**[nathan5x/sketch-selectplus](https://github.com/nathan5x/sketch-selectplus) has no repo**
 
 **/ has no repo**
 

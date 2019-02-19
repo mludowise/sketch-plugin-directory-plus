@@ -80,7 +80,9 @@
     "gh_updated": "2018-10-19 15:01:21 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.0746ed61-a8c7-4720-8b60-2c7527150afc",
+    "man_version": "1.0"
   },
   {
     "name": "6Spiral",
@@ -2214,7 +2216,7 @@
     "added": "2015-07-14 17:34:42 UTC",
     "homepage": "https://github.com/FrancisVega/ZEN-Sketch",
     "gh_url": "https://github.com/FrancisVega/ZEN-Sketch.git",
-    "gh_updated": "2018-04-09 07:54:39 UTC",
+    "gh_updated": "2018-04-09 07:52:37 UTC",
     "gh_stars": 9,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -2228,7 +2230,16 @@
     "author": "Soutaro Matsumoto",
     "title": "Align Text Baseline",
     "description": "Align text layer vertically based on its baseline and cap height.",
-    "added": "2015-07-14 17:34:42 UTC"
+    "added": "2015-07-14 17:34:42 UTC",
+    "homepage": "https://github.com/soutaro/Align-text-baseline-sketch-plugin",
+    "gh_url": "https://github.com/soutaro/Align-text-baseline-sketch-plugin.git",
+    "gh_updated": "2016-05-07 13:12:32 UTC",
+    "gh_stars": 66,
+    "gh_issues": 2,
+    "gh_branch": "master",
+    "man_identifier": "com.soutaro.align-text-baseline",
+    "man_version": "1.0",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketchy-pies",
@@ -2258,7 +2269,10 @@
     "gh_updated": "2016-09-07 22:13:41 UTC",
     "gh_stars": 33,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.f6c1cab6-9e35-47ff-8259-a0cf0cc12a56",
+    "man_version": "1.2",
+    "man_compatible_version": "3.6"
   },
   {
     "name": "Typograph",
@@ -4112,7 +4126,7 @@
     "homepage": "https://github.com/auxdesigner/Sketch-to-VR",
     "gh_url": "https://github.com/auxdesigner/Sketch-to-VR.git",
     "gh_updated": "2016-11-08 20:13:58 UTC",
-    "gh_stars": 456,
+    "gh_stars": 457,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.liuliu.sketch2vr",
@@ -6024,7 +6038,15 @@
     "author": "捻捻转儿",
     "title": "Sketch Show Layer Info",
     "description": "Show selected layer's ObjectID, Class and ID. It is of great use for plugin development or file parsing.",
-    "added": "2017-06-23 23:09:04 UTC"
+    "added": "2017-06-23 23:09:04 UTC",
+    "homepage": "https://github.com/MrPeak/sketch-show-layer-info",
+    "gh_url": "https://github.com/MrPeak/sketch-show-layer-info.git",
+    "gh_updated": "2017-06-23 17:50:27 UTC",
+    "gh_stars": 2,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.plugins.show-layer-info",
+    "man_version": "1.0"
   },
   {
     "name": "sketch-numbering-machine",
@@ -8432,7 +8454,9 @@
     "gh_updated": "2019-02-19 16:23:48 UTC",
     "gh_stars": 29,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "net.nurik.roman.sketch.contrast",
+    "man_compatible_version": "49"
   },
   {
     "name": "sensive-sketch",
@@ -9314,7 +9338,7 @@
     "added": "2019-01-29 11:01:42 UTC",
     "gh_url": "https://github.com/KevinGutowski/betterTypePanel.git",
     "gh_updated": "2019-02-19 05:26:04 UTC",
-    "gh_stars": 49,
+    "gh_stars": 50,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "betterTypePanel",

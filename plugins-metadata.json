@@ -983,16 +983,7 @@
     "author": "Emin İnanç Ünlü",
     "title": "Flatten Plugin for Sketch",
     "description": "Flatten single or multiple layers instantly, create shared artboard styles, keep them all updated like a boss and boost your Sketch document performance.",
-    "added": "2016-01-06 17:48:07 UTC",
-    "homepage": "https://medium.com/@einancunlu/flatten-2-0-sketch-plugin-f53984696990",
-    "gh_url": "https://github.com/einancunlu/Flatten-Plugin-for-Sketch.git",
-    "gh_updated": "2019-02-10 22:03:26 UTC",
-    "gh_stars": 38,
-    "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "com.einancunlu.sketch-plugins.flatten",
-    "man_version": "2.1.0",
-    "man_compatible_version": "50"
+    "added": "2016-01-06 17:48:07 UTC"
   },
   {
     "name": "Disconnect-for-Sketch",
@@ -1074,9 +1065,7 @@
     "gh_updated": "2017-05-07 01:19:03 UTC",
     "gh_stars": 19,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.sketchapp.sketchingon",
-    "man_version": "1.1.0"
+    "gh_branch": "master"
   },
   {
     "name": "Remove-Fills-and-Borders",
@@ -1101,7 +1090,16 @@
     "author": "Marc Schwieterman",
     "title": "Sketch Preview",
     "description": "This Sketch plugin provides a preview command (⌘P) that will open a specially named slice in Skala Preview. The plugin works by exporting the first slice named Preview to Sketch's cache directory and opening that file in Skala Preview.",
-    "added": "2014-05-14 03:43:43 UTC"
+    "added": "2014-05-14 03:43:43 UTC",
+    "homepage": "https://github.com/marcisme/sketch-preview",
+    "gh_url": "https://github.com/marcisme/sketch-preview.git",
+    "gh_updated": "2018-05-26 15:44:43 UTC",
+    "gh_stars": 611,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.marcisme.sketch-preview",
+    "man_version": "0.13.0",
+    "man_compatible_version": "49"
   },
   {
     "name": "sketch-commands",
@@ -5641,9 +5639,7 @@
     "gh_updated": "2017-12-04 14:27:29 UTC",
     "gh_stars": 567,
     "gh_issues": 20,
-    "gh_branch": "master",
-    "man_identifier": "com.sketchapp.slinky-plugin",
-    "man_version": "0.1.5"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-flip-size",
@@ -8158,7 +8154,7 @@
     "added": "2018-07-17 09:02:33 UTC",
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
-    "gh_updated": "2019-02-20 13:09:52 UTC",
+    "gh_updated": "2019-02-20 15:07:06 UTC",
     "gh_stars": 71,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -8936,7 +8932,7 @@
     "homepage": "https://github.com/hiradarshadi/PersianSupplier",
     "gh_url": "https://github.com/hiradarshadi/PersianSupplier.git",
     "gh_updated": "2019-02-13 14:30:53 UTC",
-    "gh_stars": 34,
+    "gh_stars": 33,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.box.persiansupplier",
@@ -9169,7 +9165,7 @@
     "homepage": "https://spectrum.chat/sketch-arrows",
     "gh_url": "https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows.git",
     "gh_updated": "2019-02-18 22:03:02 UTC",
-    "gh_stars": 18,
+    "gh_stars": 19,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "me.sabitov.sketch.connectionFlowArrows",
@@ -9313,7 +9309,7 @@
     "homepage": "https://github.com/inthepocket/hubble-sketch-plugin",
     "added": "2019-01-29 15:02:17 UTC",
     "gh_url": "https://github.com/inthepocket/hubble-sketch-plugin.git",
-    "gh_updated": "2019-02-20 11:45:56 UTC",
+    "gh_updated": "2019-02-20 15:10:27 UTC",
     "gh_stars": 3,
     "gh_issues": 0,
     "gh_branch": "master",

@@ -1,10 +1,12 @@
 # Plugin Metadata
 
-Updated 2019-02-20 16:00:57 UTC
+Updated 2019-02-20 17:00:18 UTC
 
-Total plugins: 594
+Total plugins: 602
 
 ## Problems
+**[Alipay Design/Dapollo](https://github.com/Alipay Design/Dapollo) has no repo**
+
 **[Monzo/File Cleaner](https://github.com/Monzo/File Cleaner) has no repo**
 
 **[Webkul/Renamer](https://github.com/Webkul/Renamer) manifest.json is missing identifier**
@@ -50,6 +52,8 @@ Total plugins: 594
 [3raxton/foreignipsum](https://github.com/3raxton/foreignipsum) manifest.json contains extra commas
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
+
+[AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) and [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) use the same manifest identifier, __com.animaapp.stc-sketch-plugin__
 
 [herrhelms/radial-lines-sketch](https://github.com/herrhelms/radial-lines-sketch) manifest.json contains extra commas
 
@@ -335,8 +339,6 @@ Total plugins: 594
 
 **[BaguetteEngineering/annotations-sketch-plugin](https://github.com/BaguetteEngineering/annotations-sketch-plugin) manifest.json is missing identifier**
 
-**[alanfraneo/composite-svg](https://github.com/alanfraneo/composite-svg) has no repo**
-
 **[taobaofed/imgcook](https://github.com/taobaofed/imgcook) missing manifest.json**
 
 [pratikjshah/Sketch-Guides](https://github.com/pratikjshah/Sketch-Guides) and [pratikjshah/PS-Guides](https://github.com/pratikjshah/PS-Guides) use the same manifest identifier, __website.pratikshah.guides__
@@ -345,7 +347,19 @@ Total plugins: 594
 
 **[enriquezgomez/datazier-lens](https://github.com/enriquezgomez/datazier-lens) manifest.json is missing identifier**
 
+**[iconify-design/iconify-sketch](https://github.com/iconify-design/iconify-sketch) missing manifest.json**
+
+[faridsabitov/Sketch-Connection-Flow-Arrows](https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows) and [faridsabitov/Sketch-user-flows](https://github.com/faridsabitov/Sketch-user-flows) use the same manifest identifier, __me.sabitov.sketch.connectionFlowArrows__
+
+**[mathieudutour/sketch-styles-hierarchy](https://github.com/mathieudutour/sketch-styles-hierarchy) manifest.json is missing identifier**
+
+**[perrysmotors/symbol-namer](https://github.com/perrysmotors/symbol-namer) manifest.json is missing identifier**
+
 **[Pausansol/Escriba](https://github.com/Pausansol/Escriba) manifest.json is missing identifier**
 
 [KevinvBre/Sketch-Line2Rect](https://github.com/KevinvBre/Sketch-Line2Rect) manifest.json contains extra commas
+
+**[jimboroberts/Droplr](https://github.com/jimboroberts/Droplr) has no repo**
+
+**[TheNounProject/SketchPluginReloader](https://github.com/TheNounProject/SketchPluginReloader) manifest.json is missing identifier**
 

@@ -558,10 +558,7 @@
     "gh_updated": "2018-07-10 16:27:33 UTC",
     "gh_stars": 10,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.animaapp.stc-sketch-plugin",
-    "man_version": "2.0.5",
-    "man_compatible_version": "51"
+    "gh_branch": "master"
   },
   {
     "name": "WordCloud",
@@ -983,7 +980,16 @@
     "author": "Emin İnanç Ünlü",
     "title": "Flatten Plugin for Sketch",
     "description": "Flatten single or multiple layers instantly, create shared artboard styles, keep them all updated like a boss and boost your Sketch document performance.",
-    "added": "2016-01-06 17:48:07 UTC"
+    "added": "2016-01-06 17:48:07 UTC",
+    "homepage": "https://medium.com/@einancunlu/flatten-2-0-sketch-plugin-f53984696990",
+    "gh_url": "https://github.com/einancunlu/Flatten-Plugin-for-Sketch.git",
+    "gh_updated": "2019-02-10 22:03:26 UTC",
+    "gh_stars": 38,
+    "gh_issues": 3,
+    "gh_branch": "master",
+    "man_identifier": "com.einancunlu.sketch-plugins.flatten",
+    "man_version": "2.1.0",
+    "man_compatible_version": "50"
   },
   {
     "name": "Disconnect-for-Sketch",
@@ -1065,7 +1071,9 @@
     "gh_updated": "2017-05-07 01:19:03 UTC",
     "gh_stars": 19,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.sketchingon",
+    "man_version": "1.1.0"
   },
   {
     "name": "Remove-Fills-and-Borders",
@@ -5639,7 +5647,9 @@
     "gh_updated": "2017-12-04 14:27:29 UTC",
     "gh_stars": 567,
     "gh_issues": 20,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.slinky-plugin",
+    "man_version": "0.1.5"
   },
   {
     "name": "sketch-flip-size",
@@ -5768,9 +5778,7 @@
     "gh_updated": "2017-12-06 18:17:59 UTC",
     "gh_stars": 26,
     "gh_issues": 5,
-    "gh_branch": "master",
-    "man_identifier": "com.kenmoore.sketch.artboard",
-    "man_version": "2.3"
+    "gh_branch": "master"
   },
   {
     "name": "CopyColor",
@@ -6806,7 +6814,7 @@
     "homepage": "https://github.com/eddiesigner/sketch-translate-me",
     "gh_url": "https://github.com/eddiesigner/sketch-translate-me.git",
     "gh_updated": "2018-01-13 15:33:42 UTC",
-    "gh_stars": 58,
+    "gh_stars": 59,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "io.craftbot.sketch.translate-me",
@@ -9309,7 +9317,7 @@
     "homepage": "https://github.com/inthepocket/hubble-sketch-plugin",
     "added": "2019-01-29 15:02:17 UTC",
     "gh_url": "https://github.com/inthepocket/hubble-sketch-plugin.git",
-    "gh_updated": "2019-02-20 15:10:27 UTC",
+    "gh_updated": "2019-02-20 15:14:37 UTC",
     "gh_stars": 3,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -9347,5 +9355,54 @@
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"
+  },
+  {
+    "name": "dribbble-sketch",
+    "owner": "dribbble",
+    "author": "Dribbble Holdings Ltd.",
+    "title": "Dribbble",
+    "description": "Share your creative process directly to the Dribbble community from within Sketch.",
+    "homepage": "https://github.com/dribbble/dribbble-sketch",
+    "added": "2019-02-20 16:00:57 UTC",
+    "gh_url": "https://github.com/dribbble/dribbble-sketch.git",
+    "gh_updated": "2019-02-06 16:32:00 UTC",
+    "gh_stars": 2,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.dribbble.sketch-plugin",
+    "man_compatible_version": "3"
+  },
+  {
+    "name": "Escriba",
+    "owner": "Pausansol",
+    "author": "Pablo Sanchez Soler",
+    "title": "Escriba",
+    "description": "Sketch plugin to copy paste symbol overrides",
+    "added": "2019-02-20 16:00:57 UTC",
+    "homepage": "https://github.com/Pausansol/Escriba",
+    "gh_url": "https://github.com/Pausansol/Escriba.git",
+    "gh_updated": "2019-02-20 07:57:53 UTC",
+    "gh_stars": 5,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_version": "1.0.0",
+    "man_compatible_version": "53",
+    "icon": "https://raw.githubusercontent.com/Pausansol/Escriba/master/Escriba.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "name": "Sketch-Line2Rect",
+    "owner": "KevinvBre",
+    "author": "Kevin van Breemaat",
+    "title": "Sketch Line2rect",
+    "description": "Replace Lines by Rectangles in Sketch",
+    "added": "2019-02-20 16:00:57 UTC",
+    "homepage": "https://github.com/KevinvBre/Sketch-Line2Rect",
+    "gh_url": "https://github.com/KevinvBre/Sketch-Line2Rect.git",
+    "gh_updated": "2019-02-13 12:20:22 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "nl.kevinvanbreemaat.line2rect",
+    "man_version": "0.1"
   }
 ]

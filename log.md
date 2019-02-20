@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-02-20 14:01:14 UTC
+Updated 2019-02-20 15:01:11 UTC
 
 Total plugins: 591
 
@@ -57,9 +57,9 @@ Total plugins: 591
 
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
 
-[WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
+**[einancunlu/Flatten-Plugin-for-Sketch](https://github.com/einancunlu/Flatten-Plugin-for-Sketch) has no repo**
 
-**[marcisme/sketch-preview](https://github.com/marcisme/sketch-preview) has no repo**
+**[WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) missing manifest.json**
 
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
 
@@ -134,8 +134,6 @@ Total plugins: 591
 **[amin-nas/Sketch-to-Clickthrough-HTML](https://github.com/amin-nas/Sketch-to-Clickthrough-HTML) manifest.json is missing identifier**
 
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
-
-[finchalyzer/slinky](https://github.com/finchalyzer/slinky) manifest.json contains extra commas
 
 [Rezaaa/english-and-persian-lorem-ipsum](https://github.com/Rezaaa/english-and-persian-lorem-ipsum) manifest.json contains extra commas
 

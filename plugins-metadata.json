@@ -1,5 +1,14 @@
 [
   {
+    "name": "Dapollo",
+    "owner": "Alipay Design",
+    "author": "Alipay Design",
+    "title": "Dapollo",
+    "description": "Design and Development Platform(一站式设计开发工作台)",
+    "homepage": "https://www.yuque.com/dapollo/group/welcome",
+    "added": "2019-02-20 17:00:18 UTC"
+  },
+  {
     "name": "File Cleaner",
     "owner": "Monzo",
     "author": "Monzo",
@@ -558,7 +567,10 @@
     "gh_updated": "2018-07-10 16:27:33 UTC",
     "gh_stars": 10,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.animaapp.stc-sketch-plugin",
+    "man_version": "2.0.5",
+    "man_compatible_version": "51"
   },
   {
     "name": "WordCloud",
@@ -1238,10 +1250,7 @@
     "gh_updated": "2017-10-19 18:27:17 UTC",
     "gh_stars": 85,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "io.mcmanus.select-group-layers",
-    "man_version": "1.0.2",
-    "man_compatible_version": "3.9"
+    "gh_branch": "master"
   },
   {
     "name": "day-player",
@@ -2146,7 +2155,7 @@
     "homepage": "https://github.com/hrescak/Sketch-Flex-Layout",
     "gh_url": "https://github.com/hrescak/Sketch-Flex-Layout.git",
     "gh_updated": "2016-09-25 17:00:13 UTC",
-    "gh_stars": 1763,
+    "gh_stars": 1764,
     "gh_issues": 15,
     "gh_branch": "master",
     "man_identifier": "com.hrescak.flexlayout",
@@ -2635,10 +2644,7 @@
     "gh_updated": "2018-10-06 13:27:57 UTC",
     "gh_stars": 422,
     "gh_issues": 8,
-    "gh_branch": "master",
-    "man_identifier": "com.manuelecapacci.unsplash-it-sketch",
-    "man_version": "1.5.1",
-    "man_compatible_version": "4.0"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Find-And-Replace",
@@ -3918,7 +3924,7 @@
     "added": "2016-05-31 15:16:43 UTC",
     "gh_url": "https://github.com/BohemianCoding/svgo-compressor.git",
     "gh_updated": "2018-10-20 14:43:52 UTC",
-    "gh_stars": 960,
+    "gh_stars": 961,
     "gh_issues": 8,
     "gh_branch": "develop",
     "man_identifier": "com.sketchapp.plugins.svgo-compressor",
@@ -4319,7 +4325,7 @@
     "homepage": "https://github.com/contentsync/SketchContentSync",
     "gh_url": "https://github.com/contentsync/SketchContentSync.git",
     "gh_updated": "2019-02-14 20:24:15 UTC",
-    "gh_stars": 239,
+    "gh_stars": 240,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.syncify.sketch.contentsync",
@@ -5778,7 +5784,9 @@
     "gh_updated": "2017-12-06 18:17:59 UTC",
     "gh_stars": 26,
     "gh_issues": 5,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.kenmoore.sketch.artboard",
+    "man_version": "2.3"
   },
   {
     "name": "CopyColor",
@@ -6230,7 +6238,7 @@
     "homepage": "https://github.com/doubco/sketchplugin-align-artboards",
     "gh_url": "https://github.com/doubco/sketchplugin-align-artboards.git",
     "gh_updated": "2017-05-25 15:13:45 UTC",
-    "gh_stars": 49,
+    "gh_stars": 50,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.doubco.sketch.align-artboards",
@@ -7342,7 +7350,7 @@
     "added": "2018-03-08 23:01:04 UTC",
     "gh_url": "https://github.com/romannurik/Sketch-FlowExporter.git",
     "gh_updated": "2019-02-19 16:12:06 UTC",
-    "gh_stars": 83,
+    "gh_stars": 84,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.flowexporter",
@@ -8648,7 +8656,7 @@
     "added": "2018-10-25 19:01:32 UTC",
     "gh_url": "https://github.com/lazybearcreations/sketch-lazyboards.git",
     "gh_updated": "2018-12-03 15:32:38 UTC",
-    "gh_stars": 7,
+    "gh_stars": 6,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "lazybearcreations.lazyboards",
@@ -9182,13 +9190,20 @@
     "icon": "https://raw.githubusercontent.com/faridsabitov/Sketch-user-flows/master/arrows.sketchplugin/Contents/Resources/icon.png"
   },
   {
-    "name": "composite-svg",
+    "name": "svg-composite",
     "owner": "alanfraneo",
     "author": "Alan Francis",
     "title": "Composite SVG",
     "description": "A Sketch plugin to create a composite SVG file from sketch artboards",
     "homepage": "https://github.com/alanfraneo/svg-composite",
-    "added": "2018-12-21 11:01:30 UTC"
+    "added": "2019-02-20 17:00:18 UTC",
+    "gh_url": "https://github.com/alanfraneo/svg-composite.git",
+    "gh_updated": "2019-01-02 18:33:58 UTC",
+    "gh_stars": 5,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.neo.compositesvg",
+    "man_version": "0.2"
   },
   {
     "name": "imgcook",
@@ -9357,6 +9372,84 @@
     "man_compatible_version": "3"
   },
   {
+    "name": "iconify-sketch",
+    "owner": "iconify-design",
+    "author": "Vjacheslav Trushkin",
+    "title": "iconify",
+    "description": "Iconify integration. Import MDI, FontAwesome, Jam, EmojiOne and many other icons to Sketch document.",
+    "homepage": "https://github.com/iconify-design/iconify-sketch",
+    "added": "2019-02-20 17:00:18 UTC",
+    "gh_url": "https://github.com/iconify-design/iconify-sketch.git",
+    "gh_updated": "2019-02-20 07:44:12 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master"
+  },
+  {
+    "name": "Sketch-Connection-Flow-Arrows",
+    "owner": "faridsabitov",
+    "author": "Farid Sabitov",
+    "title": "Connection Flow Arrows",
+    "description": "Plugin for generating easy to use connection flow arrows in Sketch",
+    "homepage": "https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows",
+    "added": "2019-02-20 17:00:18 UTC",
+    "gh_url": "https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows.git",
+    "gh_updated": "2019-02-18 22:03:02 UTC",
+    "gh_stars": 19,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "me.sabitov.sketch.connectionFlowArrows",
+    "man_version": "2.5.4",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/faridsabitov/Sketch-Connection-Flow-Arrows/master/arrows.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "name": "sketch-unlock-all-selected-layers",
+    "owner": "derekatkinson",
+    "author": "Derek Atkinson",
+    "title": "sketch-unlock-all-selected-layers",
+    "description": "Unlock all selected layers using ⌘⌥L",
+    "homepage": "https://github.com/derekatkinson/sketch-unlock-all-selected-layers#readme",
+    "added": "2019-02-20 17:00:18 UTC",
+    "gh_url": "https://github.com/derekatkinson/sketch-unlock-all-selected-layers.git",
+    "gh_updated": "2019-02-20 17:00:55 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.derekatkinson.unlockallselectedlayers",
+    "man_version": "1.0.1"
+  },
+  {
+    "name": "sketch-styles-hierarchy",
+    "owner": "mathieudutour",
+    "author": "Mathieu Dutour",
+    "title": "Shared Styles Hierarchy",
+    "description": "Organize your shared styles using the layers list, create a hierarchy where children inherit properties from their parent.",
+    "homepage": "https://github.com/mathieudutour/sketch-styles-hierarchy",
+    "added": "2019-02-20 17:00:18 UTC",
+    "gh_url": "https://github.com/mathieudutour/sketch-styles-hierarchy.git",
+    "gh_updated": "2019-02-09 16:13:15 UTC",
+    "gh_stars": 12,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_compatible_version": "3"
+  },
+  {
+    "name": "symbol-namer",
+    "owner": "perrysmotors",
+    "author": "Giles Perry",
+    "title": "Symbol Namer",
+    "description": "Rename symbol instances to their override text values",
+    "homepage": "https://github.com/perrysmotors/symbol-namer",
+    "added": "2019-02-20 17:00:18 UTC",
+    "gh_url": "https://github.com/perrysmotors/symbol-namer.git",
+    "gh_updated": "2019-02-08 10:14:47 UTC",
+    "gh_stars": 2,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_compatible_version": "53"
+  },
+  {
     "name": "dribbble-sketch",
     "owner": "dribbble",
     "author": "Dribbble Holdings Ltd.",
@@ -9404,5 +9497,29 @@
     "gh_branch": "master",
     "man_identifier": "nl.kevinvanbreemaat.line2rect",
     "man_version": "0.1"
+  },
+  {
+    "name": "Droplr",
+    "owner": "jimboroberts",
+    "author": "jimboroberts",
+    "title": "Droplr",
+    "description": "Droplr for Sketch lets designers quickly and easily share their Artboards",
+    "homepage": "https://droplr.com/integrations/sketch/",
+    "added": "2019-02-20 17:00:18 UTC"
+  },
+  {
+    "name": "SketchPluginReloader",
+    "owner": "TheNounProject",
+    "author": "Wes Byrne",
+    "title": "Plugin Reloader",
+    "description": "A simple plugin to reload another plugins",
+    "homepage": "https://github.com/TheNounProject/SketchPluginReloader",
+    "added": "2019-02-20 17:00:18 UTC",
+    "gh_url": "https://github.com/TheNounProject/SketchPluginReloader.git",
+    "gh_updated": "2019-02-13 00:08:21 UTC",
+    "gh_stars": 1,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   }
 ]

@@ -1910,7 +1910,7 @@
     "homepage": "https://github.com/PEZ/SketchDistributor",
     "gh_url": "https://github.com/PEZ/SketchDistributor.git",
     "gh_updated": "2018-05-31 06:23:28 UTC",
-    "gh_stars": 332,
+    "gh_stars": 333,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.betterthantomorrow.sketch.distributor",
@@ -6796,7 +6796,7 @@
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2018-10-25 11:59:33 UTC",
-    "gh_stars": 152,
+    "gh_stars": 153,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_compatible_version": "50"

@@ -9382,10 +9382,13 @@
     "homepage": "https://github.com/iconify-design/iconify-sketch",
     "added": "2019-02-20 17:00:18 UTC",
     "gh_url": "https://github.com/iconify-design/iconify-sketch.git",
-    "gh_updated": "2019-02-20 07:44:12 UTC",
+    "gh_updated": "2019-02-22 21:01:03 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "iconify",
+    "man_version": "1.0.1",
+    "man_compatible_version": "3"
   },
   {
     "name": "Sketch-Connection-Flow-Arrows",

@@ -1199,7 +1199,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6259,
+    "gh_stars": 6258,
     "gh_issues": 279,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -9382,12 +9382,12 @@
     "homepage": "https://github.com/iconify-design/iconify-sketch",
     "added": "2019-02-20 17:00:18 UTC",
     "gh_url": "https://github.com/iconify-design/iconify-sketch.git",
-    "gh_updated": "2019-02-22 21:01:03 UTC",
+    "gh_updated": "2019-02-22 21:22:07 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "iconify",
-    "man_version": "1.0.1",
+    "man_version": "1.0.2",
     "man_compatible_version": "3"
   },
   {

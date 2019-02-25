@@ -8296,7 +8296,7 @@
     "gh_url": "https://github.com/bomberstudios/artboard-manager.git",
     "gh_updated": "2018-11-23 12:08:16 UTC",
     "gh_stars": 525,
-    "gh_issues": 17,
+    "gh_issues": 18,
     "gh_branch": "master",
     "man_identifier": "com.bomberstudios.sketchplugins.artboard-manager",
     "man_compatible_version": "3"
@@ -9020,7 +9020,7 @@
     "added": "2018-11-22 11:02:24 UTC",
     "gh_url": "https://github.com/VKCOM/vkdata-sketchplugin.git",
     "gh_updated": "2019-01-29 11:09:43 UTC",
-    "gh_stars": 13,
+    "gh_stars": 12,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "49"
@@ -9217,7 +9217,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taobaofed/imgcook.git",
     "gh_updated": "2019-02-21 09:17:54 UTC",
-    "gh_stars": 197,
+    "gh_stars": 199,
     "gh_issues": 6,
     "gh_branch": "master"
   },

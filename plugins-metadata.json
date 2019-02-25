@@ -1962,10 +1962,7 @@
     "gh_updated": "2015-05-12 11:43:03 UTC",
     "gh_stars": 39,
     "gh_issues": 8,
-    "gh_branch": "master",
-    "man_identifier": "com.eivindbohler.sketch-unlinker",
-    "man_version": "1.1",
-    "man_compatible_version": "3.3"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-mail-merge",
@@ -5020,12 +5017,12 @@
     "added": "2016-11-28 16:41:02 UTC",
     "homepage": "https://github.com/exevil/Sketch-Export-Text",
     "gh_url": "https://github.com/exevil/Sketch-Export-Text.git",
-    "gh_updated": "2018-05-27 10:23:50 UTC",
+    "gh_updated": "2019-02-25 13:19:30 UTC",
     "gh_stars": 55,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.f16cc26a-dbde-49e7-8abd-4d81585247df",
-    "man_version": "1.0",
+    "man_version": "1.1",
     "icon": "https://raw.githubusercontent.com/exevil/Sketch-Export-Text/master/Export%20All%20Text.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -9183,7 +9180,7 @@
     "homepage": "https://spectrum.chat/sketch-arrows",
     "gh_url": "https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows.git",
     "gh_updated": "2019-02-24 19:23:54 UTC",
-    "gh_stars": 19,
+    "gh_stars": 20,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "me.sabitov.sketch.connectionFlowArrows",
@@ -9400,7 +9397,7 @@
     "added": "2019-02-20 17:00:18 UTC",
     "gh_url": "https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows.git",
     "gh_updated": "2019-02-24 19:23:54 UTC",
-    "gh_stars": 19,
+    "gh_stars": 20,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "me.sabitov.sketch.connectionFlowArrows",

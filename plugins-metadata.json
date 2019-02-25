@@ -1133,7 +1133,10 @@
     "gh_updated": "2018-10-25 20:19:49 UTC",
     "gh_stars": 805,
     "gh_issues": 16,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.bomberstudios.sketch.commands",
+    "man_version": "3.4.7",
+    "man_compatible_version": "47"
   },
   {
     "name": "jw-sketch-plugins",
@@ -3399,7 +3402,7 @@
     "homepage": "https://mathieudutour.github.io/git-sketch-plugin",
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2017-10-17 08:22:39 UTC",
-    "gh_stars": 2305,
+    "gh_stars": 2306,
     "gh_issues": 23,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
@@ -6002,7 +6005,9 @@
     "gh_updated": "2017-06-12 07:53:51 UTC",
     "gh_stars": 2,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "net.igenius.seca",
+    "man_version": "1.0.2"
   },
   {
     "name": "sync-to-slides",

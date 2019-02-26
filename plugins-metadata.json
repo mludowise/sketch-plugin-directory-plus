@@ -1200,7 +1200,7 @@
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
     "gh_stars": 6261,
-    "gh_issues": 281,
+    "gh_issues": 282,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.7.7"
@@ -9464,7 +9464,7 @@
     "added": "2019-02-20 16:00:57 UTC",
     "gh_url": "https://github.com/dribbble/dribbble-sketch.git",
     "gh_updated": "2019-02-06 16:32:00 UTC",
-    "gh_stars": 2,
+    "gh_stars": 3,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.dribbble.sketch-plugin",

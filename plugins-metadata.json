@@ -1200,7 +1200,7 @@
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
     "gh_stars": 6272,
-    "gh_issues": 284,
+    "gh_issues": 285,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.7.7"
@@ -9300,12 +9300,12 @@
     "homepage": "https://github.com/Saint-loup/french-typography",
     "added": "2019-01-18 10:01:59 UTC",
     "gh_url": "https://github.com/Saint-loup/typographie-frenchy.git",
-    "gh_updated": "2019-02-24 01:09:47 UTC",
+    "gh_updated": "2019-02-27 22:26:48 UTC",
     "gh_stars": 2,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.saint_loup.sketch.french-typography",
-    "man_version": "1.2.0",
+    "man_version": "1.2.1",
     "icon": "https://raw.githubusercontent.com/Saint-loup/french-typography/master/french-typography.sketchplugin/Contents/Resources/Icon.png"
   },
   {
@@ -9448,7 +9448,7 @@
     "added": "2019-02-20 17:00:18 UTC",
     "gh_url": "https://github.com/perrysmotors/symbol-namer.git",
     "gh_updated": "2019-02-22 19:27:39 UTC",
-    "gh_stars": 2,
+    "gh_stars": 3,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_compatible_version": "53"
@@ -9479,7 +9479,7 @@
     "homepage": "https://github.com/Pausansol/Escriba",
     "gh_url": "https://github.com/Pausansol/Escriba.git",
     "gh_updated": "2019-02-24 09:23:37 UTC",
-    "gh_stars": 14,
+    "gh_stars": 15,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_version": "1.1.0",

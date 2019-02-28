@@ -1199,7 +1199,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6273,
+    "gh_stars": 6274,
     "gh_issues": 285,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -1516,10 +1516,7 @@
     "gh_updated": "2018-04-14 11:55:42 UTC",
     "gh_stars": 1855,
     "gh_issues": 33,
-    "gh_branch": "master",
-    "man_identifier": "com.getflourish.sketch.styleinventory",
-    "man_version": "1.5.1",
-    "man_compatible_version": "4.9"
+    "gh_branch": "master"
   },
   {
     "name": "ArtboardZoom",
@@ -2361,10 +2358,7 @@
     "gh_updated": "2016-02-22 15:26:09 UTC",
     "gh_stars": 72,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.matt-curtis.sketch.sketch-server",
-    "man_version": "1.6.3",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "MagicMirror",
@@ -6339,7 +6333,7 @@
     "homepage": "https://github.com/bunnieabc/Blender",
     "gh_url": "https://github.com/bunnieabc/Blender.git",
     "gh_updated": "2019-02-06 05:27:07 UTC",
-    "gh_stars": 357,
+    "gh_stars": 358,
     "gh_issues": 5,
     "gh_branch": "master"
   },
@@ -9149,7 +9143,7 @@
     "added": "2018-12-18 22:01:49 UTC",
     "gh_url": "https://github.com/webkul/coolhue.git",
     "gh_updated": "2019-02-22 15:04:35 UTC",
-    "gh_stars": 2813,
+    "gh_stars": 2814,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "CoolHue",
@@ -9333,7 +9327,7 @@
     "homepage": "https://github.com/inthepocket/hubble-sketch-plugin",
     "added": "2019-01-29 15:02:17 UTC",
     "gh_url": "https://github.com/inthepocket/hubble-sketch-plugin.git",
-    "gh_updated": "2019-02-26 14:39:51 UTC",
+    "gh_updated": "2019-02-28 15:55:11 UTC",
     "gh_stars": 3,
     "gh_issues": 1,
     "gh_branch": "master",

@@ -1516,7 +1516,10 @@
     "gh_updated": "2018-04-14 11:55:42 UTC",
     "gh_stars": 1855,
     "gh_issues": 33,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.getflourish.sketch.styleinventory",
+    "man_version": "1.5.1",
+    "man_compatible_version": "4.9"
   },
   {
     "name": "ArtboardZoom",
@@ -2358,7 +2361,10 @@
     "gh_updated": "2016-02-22 15:26:09 UTC",
     "gh_stars": 72,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.matt-curtis.sketch.sketch-server",
+    "man_version": "1.6.3",
+    "man_compatible_version": "3"
   },
   {
     "name": "MagicMirror",
@@ -9294,7 +9300,7 @@
     "homepage": "https://github.com/Saint-loup/french-typography",
     "added": "2019-01-18 10:01:59 UTC",
     "gh_url": "https://github.com/Saint-loup/typographie-frenchy.git",
-    "gh_updated": "2019-02-27 22:26:48 UTC",
+    "gh_updated": "2019-02-28 17:01:49 UTC",
     "gh_stars": 2,
     "gh_issues": 0,
     "gh_branch": "master",

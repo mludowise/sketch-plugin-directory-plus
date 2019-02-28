@@ -2680,7 +2680,7 @@
     "homepage": "https://github.com/shakemno/sketch-replace-images",
     "gh_url": "https://github.com/shakemno/sketch-replace-images.git",
     "gh_updated": "2018-10-25 13:08:37 UTC",
-    "gh_stars": 35,
+    "gh_stars": 36,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "Sketch Replace Images",
@@ -9381,13 +9381,14 @@
     "homepage": "https://github.com/iconify-design/iconify-sketch",
     "added": "2019-02-20 17:00:18 UTC",
     "gh_url": "https://github.com/iconify-design/iconify-sketch.git",
-    "gh_updated": "2019-02-23 22:07:52 UTC",
+    "gh_updated": "2019-02-28 09:06:43 UTC",
     "gh_stars": 1,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "iconify",
     "man_version": "1.0.2",
-    "man_compatible_version": "3"
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/iconify-design/iconify-sketch/master/iconify.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "Sketch-Connection-Flow-Arrows",

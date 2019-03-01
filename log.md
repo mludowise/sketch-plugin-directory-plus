@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-01 13:02:45 UTC
+Updated 2019-03-01 15:01:56 UTC
 
 Total plugins: 602
 
@@ -244,8 +244,6 @@ Total plugins: 602
 **[yued-fe/y-tools](https://github.com/yued-fe/y-tools) manifest.json is missing identifier**
 
 **[materik/pixelperfect](https://github.com/materik/pixelperfect) has no repo**
-
-**[perrysmotors/photo-grid](https://github.com/perrysmotors/photo-grid) manifest.json is missing identifier**
 
 **/ has no repo**
 

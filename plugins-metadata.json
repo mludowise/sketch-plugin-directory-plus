@@ -405,7 +405,11 @@
     "gh_updated": "2019-02-08 18:45:24 UTC",
     "gh_stars": 98,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sureskumar.singleborder",
+    "man_version": "1.7.0",
+    "man_compatible_version": "53.0",
+    "icon": "https://raw.githubusercontent.com/sureskumar/single-border/master/Single-Border.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "sketch-neo-preview",
@@ -1160,7 +1164,7 @@
     "added": "2014-05-14 03:43:43 UTC",
     "gh_url": "https://github.com/rodi01/RenameIt.git",
     "gh_updated": "2019-01-17 19:34:52 UTC",
-    "gh_stars": 1250,
+    "gh_stars": 1251,
     "gh_issues": 25,
     "gh_branch": "master",
     "man_identifier": "com.taptap.ninja.rename-it",
@@ -2121,7 +2125,7 @@
     "added": "2015-07-08 12:27:44 UTC",
     "gh_url": "https://github.com/tudou527/marketch.git",
     "gh_updated": "2018-12-10 03:42:55 UTC",
-    "gh_stars": 2792,
+    "gh_stars": 2793,
     "gh_issues": 46,
     "gh_branch": "master",
     "man_identifier": "com.marketch.cosa.98908c77-3d38-48fa-8c7c-1bb465f67eb8",
@@ -7756,7 +7760,7 @@
     "added": "2018-05-07 10:02:23 UTC",
     "gh_url": "https://github.com/romannurik/Sketch-Stickers.git",
     "gh_updated": "2019-02-27 02:10:22 UTC",
-    "gh_stars": 127,
+    "gh_stars": 128,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.stickers",
@@ -9519,7 +9523,7 @@
     "added": "2019-02-20 17:00:18 UTC",
     "gh_url": "https://github.com/TheNounProject/SketchPluginReloader.git",
     "gh_updated": "2019-02-13 00:08:21 UTC",
-    "gh_stars": 3,
+    "gh_stars": 4,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

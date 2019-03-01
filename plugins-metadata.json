@@ -405,11 +405,7 @@
     "gh_updated": "2019-02-08 18:45:24 UTC",
     "gh_stars": 98,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.sureskumar.singleborder",
-    "man_version": "1.7.0",
-    "man_compatible_version": "53.0",
-    "icon": "https://raw.githubusercontent.com/sureskumar/single-border/master/Single-Border.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-neo-preview",
@@ -9435,7 +9431,7 @@
     "added": "2019-02-20 17:00:18 UTC",
     "gh_url": "https://github.com/mathieudutour/sketch-styles-hierarchy.git",
     "gh_updated": "2019-02-09 16:13:15 UTC",
-    "gh_stars": 15,
+    "gh_stars": 16,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"
@@ -9450,7 +9446,7 @@
     "added": "2019-02-20 17:00:18 UTC",
     "gh_url": "https://github.com/perrysmotors/symbol-namer.git",
     "gh_updated": "2019-02-22 19:27:39 UTC",
-    "gh_stars": 4,
+    "gh_stars": 5,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_compatible_version": "53"
@@ -9481,7 +9477,7 @@
     "homepage": "https://github.com/Pausansol/Escriba",
     "gh_url": "https://github.com/Pausansol/Escriba.git",
     "gh_updated": "2019-02-24 09:23:37 UTC",
-    "gh_stars": 15,
+    "gh_stars": 16,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_version": "1.1.0",

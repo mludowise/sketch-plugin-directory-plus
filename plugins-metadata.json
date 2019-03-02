@@ -4232,7 +4232,7 @@
     "homepage": "https://github.com/cute/SketchI18N",
     "gh_url": "https://github.com/cute/SketchI18N.git",
     "gh_updated": "2019-01-17 13:57:14 UTC",
-    "gh_stars": 1161,
+    "gh_stars": 1162,
     "gh_issues": 24,
     "gh_branch": "master",
     "man_identifier": "com.liguangming.sketch-i18n",
@@ -8065,7 +8065,7 @@
     "added": "2018-06-26 09:02:21 UTC",
     "gh_url": "https://github.com/jasondonnette/sketch-copy-as-react-component.git",
     "gh_updated": "2018-06-28 03:48:02 UTC",
-    "gh_stars": 55,
+    "gh_stars": 56,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"
@@ -8088,7 +8088,7 @@
     "homepage": "https://kitchen.alipay.com/",
     "gh_url": "https://github.com/ant-design/kitchen.git",
     "gh_updated": "2018-11-13 14:23:37 UTC",
-    "gh_stars": 63,
+    "gh_stars": 64,
     "gh_issues": 6,
     "gh_branch": "master"
   },

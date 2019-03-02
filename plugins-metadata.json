@@ -7918,7 +7918,7 @@
     "gh_url": "https://github.com/ahmedmigo/overrideit-sketchplugin.git",
     "gh_updated": "2019-02-15 14:48:52 UTC",
     "gh_stars": 98,
-    "gh_issues": 8,
+    "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "overrideit.plugin",
     "man_version": "0.3.8",
@@ -9435,7 +9435,7 @@
     "added": "2019-02-20 17:00:18 UTC",
     "gh_url": "https://github.com/mathieudutour/sketch-styles-hierarchy.git",
     "gh_updated": "2019-02-09 16:13:15 UTC",
-    "gh_stars": 17,
+    "gh_stars": 18,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

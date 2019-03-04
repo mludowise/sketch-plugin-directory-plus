@@ -2045,7 +2045,7 @@
     "homepage": "https://github.com/preciousforever/data-populator",
     "gh_url": "https://github.com/preciousforever/data-populator.git",
     "gh_updated": "2018-11-11 23:19:12 UTC",
-    "gh_stars": 1530,
+    "gh_stars": 1531,
     "gh_issues": 26,
     "gh_branch": "master"
   },
@@ -2747,7 +2747,7 @@
     "added": "2015-10-01 15:11:20 UTC",
     "gh_url": "https://github.com/bouchenoiremarc/Sketch-Constraints.git",
     "gh_updated": "2018-05-21 10:03:09 UTC",
-    "gh_stars": 1311,
+    "gh_stars": 1312,
     "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "com.bouchenoiremarc.sketch-constraints",
@@ -8175,7 +8175,7 @@
     "added": "2018-07-17 09:02:33 UTC",
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
-    "gh_updated": "2019-03-01 13:04:51 UTC",
+    "gh_updated": "2019-03-04 13:42:55 UTC",
     "gh_stars": 75,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -8626,7 +8626,11 @@
     "gh_updated": "2018-10-23 07:27:45 UTC",
     "gh_stars": 4,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "it.gabrielecampi.sketch.gutter-cutter",
+    "man_version": "0.1",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/GCampi/gutter-cutter/master/gutter_cutter.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "sketch-chippencharts",

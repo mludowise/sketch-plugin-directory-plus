@@ -8626,11 +8626,7 @@
     "gh_updated": "2018-10-23 07:27:45 UTC",
     "gh_stars": 4,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "it.gabrielecampi.sketch.gutter-cutter",
-    "man_version": "0.1",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/GCampi/gutter-cutter/master/gutter_cutter.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-chippencharts",

@@ -2730,7 +2730,7 @@
     "homepage": "https://github.com/andrewfiorillo/sketch-palettes",
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
     "gh_updated": "2019-02-12 02:17:39 UTC",
-    "gh_stars": 2091,
+    "gh_stars": 2092,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
@@ -4012,7 +4012,11 @@
     "gh_updated": "2017-08-01 12:07:04 UTC",
     "gh_stars": 475,
     "gh_issues": 8,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.github.romashamin.compo-sketch",
+    "man_version": "1.6",
+    "man_compatible_version": "45",
+    "icon": "https://raw.githubusercontent.com/romashamin/compo-sketch/master/Compo.sketchplugin/Contents/Resources/Icon.png"
   },
   {
     "name": "specify",
@@ -5968,7 +5972,9 @@
     "gh_updated": "2017-08-07 07:22:49 UTC",
     "gh_stars": 17,
     "gh_issues": 3,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "cm.sketch.movehalfpixel",
+    "man_version": "1.1"
   },
   {
     "name": "Appalette",

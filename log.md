@@ -1,13 +1,13 @@
 # Plugin Metadata
 
-Updated 2019-03-05 10:01:43 UTC
+Updated 2019-03-05 11:02:16 UTC
 
 Total plugins: 602
 
 ## Problems
 **[Alipay Design/Dapollo](https://github.com/Alipay Design/Dapollo) has no repo**
 
-**[Monzo/File Cleaner](https://github.com/Monzo/File Cleaner) has no repo**
+**[monzo/file-cleaner](https://github.com/monzo/file-cleaner) manifest.json is missing identifier**
 
 **[Webkul/Renamer](https://github.com/Webkul/Renamer) manifest.json is missing identifier**
 
@@ -15,7 +15,7 @@ Total plugins: 602
 
 **[CanvasFlip Inc/Scribble](https://github.com/CanvasFlip Inc/Scribble) has no repo**
 
-**[Konstantin Demblin/Jane Doe](https://github.com/Konstantin Demblin/Jane Doe) has no repo**
+**[Konstantin Demblin/jane_doe](https://github.com/Konstantin Demblin/jane_doe) has no repo**
 
 **[Team Timelapse/Timelapse](https://github.com/Team Timelapse/Timelapse) has no repo**
 
@@ -322,8 +322,6 @@ Total plugins: 602
 [KevinvBre/Sketch-Rename-Artboards](https://github.com/KevinvBre/Sketch-Rename-Artboards) manifest.json contains extra commas
 
 **/ has no repo**
-
-**[Primary-app/Primary Sync](https://github.com/Primary-app/Primary Sync) has no repo**
 
 **/pointbreak has no repo**
 

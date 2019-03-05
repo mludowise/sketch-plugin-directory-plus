@@ -7195,7 +7195,7 @@
     "homepage": "https://github.com/kupe517/sketch-split-shape",
     "gh_url": "https://github.com/kupe517/sketch-split-shape.git",
     "gh_updated": "2018-05-01 16:45:11 UTC",
-    "gh_stars": 91,
+    "gh_stars": 92,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "https://github.com/kupe517/sketch-split-shape",
@@ -8017,8 +8017,6 @@
     "gh_stars": 10,
     "gh_issues": 1,
     "gh_branch": "master",
-    "man_identifier": "nl.kevinvanbreemaat.testplugin",
-    "man_version": "0.2",
     "icon": "https://raw.githubusercontent.com/KevinvBre/Align-and-resize-to-layout/master/align%20and%20resize%20to%20layout.sketchplugin/Contents/Resources/icon.png"
   },
   {

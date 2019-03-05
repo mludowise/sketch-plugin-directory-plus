@@ -8127,7 +8127,10 @@
     "gh_updated": "2019-02-27 14:01:47 UTC",
     "gh_stars": 30,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "net.cyan-stivy.sketchPlugin.symbol-name-autocomplete",
+    "man_version": "0.5.0",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-adjusttofit",

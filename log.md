@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-05 12:01:35 UTC
+Updated 2019-03-05 13:01:39 UTC
 
 Total plugins: 602
 
@@ -259,7 +259,7 @@ Total plugins: 602
 
 **[youngxkk/AutoFixiOSTextLineHeight-Sketch-Plugin](https://github.com/youngxkk/AutoFixiOSTextLineHeight-Sketch-Plugin) has no repo**
 
-[KevinvBre/Align-and-resize-to-layout](https://github.com/KevinvBre/Align-and-resize-to-layout) manifest.json contains extra commas
+**[KevinvBre/Align-and-resize-to-layout](https://github.com/KevinvBre/Align-and-resize-to-layout) missing manifest.json**
 
 **/ has no repo**
 

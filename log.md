@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-06 10:01:53 UTC
+Updated 2019-03-06 11:02:15 UTC
 
 Total plugins: 602
 
@@ -312,8 +312,6 @@ Total plugins: 602
 **[zehfernandes/sketch-pochette](https://github.com/zehfernandes/sketch-pochette) manifest.json is missing identifier**
 
 **[realvjy/uiLogos](https://github.com/realvjy/uiLogos) missing manifest.json**
-
-**[protoship/codegen-sketch-client](https://github.com/protoship/codegen-sketch-client) missing manifest.json**
 
 **[KevinGutowski/toggleLayers](https://github.com/KevinGutowski/toggleLayers) manifest.json is missing identifier**
 

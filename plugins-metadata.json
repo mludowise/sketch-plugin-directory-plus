@@ -2466,7 +2466,7 @@
     "homepage": "https://github.com/keremciu/sketch-iconfont",
     "gh_url": "https://github.com/keremciu/sketch-iconfont.git",
     "gh_updated": "2017-12-07 00:42:31 UTC",
-    "gh_stars": 1840,
+    "gh_stars": 1841,
     "gh_issues": 36,
     "gh_branch": "master",
     "man_identifier": "com.keremciu.sketch.iconfont",
@@ -9350,7 +9350,7 @@
     "added": "2019-01-29 15:02:17 UTC",
     "gh_url": "https://github.com/inthepocket/hubble-sketch-plugin.git",
     "gh_updated": "2019-02-28 15:55:11 UTC",
-    "gh_stars": 8,
+    "gh_stars": 9,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_compatible_version": "3"

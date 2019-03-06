@@ -590,7 +590,10 @@
     "gh_updated": "2017-06-06 16:09:13 UTC",
     "gh_stars": 10,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "de.vt-learn.wordcloud",
+    "man_version": "0.2.0",
+    "man_compatible_version": "43.2"
   },
   {
     "name": "chromatic-sketch",
@@ -1946,7 +1949,7 @@
     "homepage": "https://github.com/frankko/Artboard-Tools",
     "gh_url": "https://github.com/frankko/Artboard-Tools.git",
     "gh_updated": "2018-11-21 16:20:21 UTC",
-    "gh_stars": 105,
+    "gh_stars": 106,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "io.kolo.sketch.artboard-tools",
@@ -2298,7 +2301,10 @@
     "gh_updated": "2019-02-25 14:25:45 UTC",
     "gh_stars": 65,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.typograph",
+    "man_version": "1",
+    "man_compatible_version": "3"
   },
   {
     "name": "Sketch-StickyGrid",
@@ -4905,7 +4911,7 @@
     "homepage": "https://github.com/sonburn/symbol-instance-renamer",
     "gh_url": "https://github.com/sonburn/symbol-instance-renamer.git",
     "gh_updated": "2019-02-07 17:56:59 UTC",
-    "gh_stars": 136,
+    "gh_stars": 137,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-instance-renamer",
@@ -7935,7 +7941,7 @@
     "added": "2018-06-19 19:02:06 UTC",
     "gh_url": "https://github.com/toyboxsystems/roller.git",
     "gh_updated": "2018-06-20 18:20:34 UTC",
-    "gh_stars": 200,
+    "gh_stars": 201,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_compatible_version": "3"
@@ -8792,7 +8798,10 @@
     "gh_updated": "2019-02-27 14:49:12 UTC",
     "gh_stars": 15,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "io.protoship.sketch.codegen",
+    "man_version": "2.5",
+    "man_compatible_version": "52"
   },
   {
     "name": "toggleLayers",

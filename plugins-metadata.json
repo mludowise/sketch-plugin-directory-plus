@@ -4829,7 +4829,7 @@
     "homepage": "https://github.com/nmwoods1/Sketch---Find-all-instances-of-symbol",
     "gh_url": "https://github.com/nmwoods1/Sketch---Find-all-instances-of-symbol.git",
     "gh_updated": "2017-07-14 00:16:12 UTC",
-    "gh_stars": 43,
+    "gh_stars": 44,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.845bc9b1-ac46-43f0-9163-2b6de0b7fbd1",
@@ -7973,7 +7973,11 @@
     "gh_updated": "2019-02-08 10:04:35 UTC",
     "gh_stars": 29,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.wetransfer.wetransfer-sketch",
+    "man_version": "3",
+    "man_compatible_version": "42",
+    "icon": "https://raw.githubusercontent.com/WeTransfer/Sketch-Plugin/master/wetransfer.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "sketch",
@@ -9446,7 +9450,7 @@
     "added": "2019-02-20 17:00:18 UTC",
     "gh_url": "https://github.com/mathieudutour/sketch-styles-hierarchy.git",
     "gh_updated": "2019-02-09 16:13:15 UTC",
-    "gh_stars": 19,
+    "gh_stars": 20,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

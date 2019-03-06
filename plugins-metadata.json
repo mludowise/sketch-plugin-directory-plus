@@ -590,10 +590,7 @@
     "gh_updated": "2017-06-06 16:09:13 UTC",
     "gh_stars": 10,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "de.vt-learn.wordcloud",
-    "man_version": "0.2.0",
-    "man_compatible_version": "43.2"
+    "gh_branch": "master"
   },
   {
     "name": "chromatic-sketch",
@@ -2301,10 +2298,7 @@
     "gh_updated": "2019-02-25 14:25:45 UTC",
     "gh_stars": 65,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.typograph",
-    "man_version": "1",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-StickyGrid",
@@ -3936,7 +3930,7 @@
     "added": "2016-05-31 15:16:43 UTC",
     "gh_url": "https://github.com/BohemianCoding/svgo-compressor.git",
     "gh_updated": "2018-10-20 14:43:52 UTC",
-    "gh_stars": 962,
+    "gh_stars": 963,
     "gh_issues": 8,
     "gh_branch": "develop",
     "man_identifier": "com.sketchapp.plugins.svgo-compressor",
@@ -8798,10 +8792,7 @@
     "gh_updated": "2019-02-27 14:49:12 UTC",
     "gh_stars": 15,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "io.protoship.sketch.codegen",
-    "man_version": "2.5",
-    "man_compatible_version": "52"
+    "gh_branch": "master"
   },
   {
     "name": "toggleLayers",

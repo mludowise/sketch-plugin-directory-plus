@@ -1818,7 +1818,9 @@
     "gh_updated": "2017-12-06 18:20:44 UTC",
     "gh_stars": 109,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.kenmoore.sketch.betterpaste",
+    "man_version": "1.4"
   },
   {
     "name": "Sketch-Relabel-Button",

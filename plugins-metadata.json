@@ -3740,9 +3740,7 @@
     "gh_updated": "2018-05-30 07:01:22 UTC",
     "gh_stars": 90,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.swiftColorPalette",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "owner": "SketchRunner",
@@ -5246,7 +5244,7 @@
     "homepage": "https://github.com/Ashung/Sketch_Swatches",
     "gh_url": "https://github.com/Ashung/Sketch_Swatches.git",
     "gh_updated": "2019-03-08 09:05:55 UTC",
-    "gh_stars": 431,
+    "gh_stars": 432,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.sketch_swatches",

@@ -144,7 +144,7 @@
     "homepage": "https://github.com/symdesign/sketch-auto-translate",
     "added": "2018-05-04 16:02:20 UTC",
     "gh_url": "https://github.com/symdesign/sketch-auto-translate.git",
-    "gh_updated": "2019-03-08 16:25:52 UTC",
+    "gh_updated": "2019-03-08 18:59:17 UTC",
     "gh_stars": 23,
     "gh_issues": 3,
     "gh_branch": "master",
@@ -3740,7 +3740,9 @@
     "gh_updated": "2018-05-30 07:01:22 UTC",
     "gh_stars": 90,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.swiftColorPalette",
+    "man_version": "1.0"
   },
   {
     "owner": "SketchRunner",
@@ -6731,7 +6733,7 @@
     "homepage": "https://github.com/aparajita/sketch-style-master",
     "gh_url": "https://github.com/aparajita/sketch-style-master.git",
     "gh_updated": "2018-06-10 20:23:39 UTC",
-    "gh_stars": 137,
+    "gh_stars": 138,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.aparajita.style-master",

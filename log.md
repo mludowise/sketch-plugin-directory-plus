@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-08 12:01:38 UTC
+Updated 2019-03-08 13:01:33 UTC
 
 Total plugins: 602
 
@@ -137,7 +137,7 @@ Total plugins: 602
 
 [finchalyzer/slinky](https://github.com/finchalyzer/slinky) manifest.json contains extra commas
 
-[Rezaaa/english-and-persian-lorem-ipsum](https://github.com/Rezaaa/english-and-persian-lorem-ipsum) manifest.json contains extra commas
+**[Rezaaa/english-and-persian-lorem-ipsum](https://github.com/Rezaaa/english-and-persian-lorem-ipsum) missing manifest.json**
 
 [partyka1/Fontily](https://github.com/partyka1/Fontily) manifest.json contains extra commas
 
@@ -301,6 +301,8 @@ Total plugins: 602
 
 **[sensive/sensive-sketch](https://github.com/sensive/sensive-sketch) manifest.json is missing identifier**
 
+**[mheesakkers/sketch-plugin-skew](https://github.com/mheesakkers/sketch-plugin-skew) missing manifest.json**
+
 **[Sylvain Leris/fr.y3s.sketch.screenshot](https://github.com/Sylvain Leris/fr.y3s.sketch.screenshot) has no repo**
 
 **/ has no repo**
@@ -316,8 +318,6 @@ Total plugins: 602
 **[KevinGutowski/toggleLayers](https://github.com/KevinGutowski/toggleLayers) manifest.json is missing identifier**
 
 **[sunkibaek/Seoul](https://github.com/sunkibaek/Seoul) manifest.json is missing identifier**
-
-[yudiz-solutions/paste-direct](https://github.com/yudiz-solutions/paste-direct) manifest.json contains extra commas
 
 [KevinvBre/Sketch-Rename-Artboards](https://github.com/KevinvBre/Sketch-Rename-Artboards) manifest.json contains extra commas
 

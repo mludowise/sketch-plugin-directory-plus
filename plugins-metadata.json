@@ -5698,9 +5698,7 @@
     "gh_updated": "2018-10-17 22:46:47 UTC",
     "gh_stars": 12,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.reza.lorem",
-    "man_version": "3.1"
+    "gh_branch": "master"
   },
   {
     "name": "Cleanup-Useless-Groups",
@@ -8497,9 +8495,7 @@
     "gh_updated": "2019-02-19 08:17:00 UTC",
     "gh_stars": 32,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.mishaheesakkers.sketch.skew",
-    "man_version": "3.0"
+    "gh_branch": "master"
   },
   {
     "name": "scssketch",
@@ -8900,9 +8896,7 @@
     "gh_updated": "2018-10-18 04:56:39 UTC",
     "gh_stars": 2,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.fad03cb9-9298-4cf4-a4d4-4dc95d396fd3",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "Lottie-Sketch-Export",

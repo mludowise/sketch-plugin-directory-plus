@@ -716,7 +716,7 @@
     "homepage": "https://github.com/turbobabr/sketch-ace-jump",
     "gh_url": "https://github.com/turbobabr/sketch-ace-jump.git",
     "gh_updated": "2017-05-29 07:06:38 UTC",
-    "gh_stars": 32,
+    "gh_stars": 33,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.turbobabr.ace-jump",
@@ -6784,13 +6784,13 @@
     "added": "2017-11-15 23:16:11 UTC",
     "homepage": "https://github.com/dploeger/sketch-plugin-units",
     "gh_url": "https://github.com/dploeger/sketch-plugin-units.git",
-    "gh_updated": "2017-11-16 13:48:17 UTC",
+    "gh_updated": "2019-03-10 14:03:48 UTC",
     "gh_stars": 21,
     "gh_issues": 0,
     "gh_branch": "master",
-    "man_identifier": "de.dieploegers.units",
-    "man_version": "1.0.0",
-    "man_compatible_version": "47.1"
+    "man_identifier": "de.dieploegers.sketch.units",
+    "man_version": "2.0.0-rc.1",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-dev-tools",

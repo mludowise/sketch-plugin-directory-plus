@@ -4698,7 +4698,7 @@
     "homepage": "https://github.com/sonburn/symbol-organizer",
     "gh_url": "https://github.com/sonburn/symbol-organizer.git",
     "gh_updated": "2018-10-16 13:25:48 UTC",
-    "gh_stars": 700,
+    "gh_stars": 701,
     "gh_issues": 31,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-organizer",
@@ -9449,7 +9449,7 @@
     "added": "2019-02-20 17:00:18 UTC",
     "gh_url": "https://github.com/mathieudutour/sketch-styles-hierarchy.git",
     "gh_updated": "2019-02-09 16:13:15 UTC",
-    "gh_stars": 21,
+    "gh_stars": 22,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

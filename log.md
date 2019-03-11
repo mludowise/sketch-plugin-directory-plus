@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-11 18:01:33 UTC
+Updated 2019-03-11 19:01:33 UTC
 
 Total plugins: 602
 
@@ -46,8 +46,6 @@ Total plugins: 602
 [LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) manifest.json contains extra commas
 
 **/ has no repo**
-
-**[novemberfiveco/symbol-spacer-sketch-plugin](https://github.com/novemberfiveco/symbol-spacer-sketch-plugin) missing manifest.json**
 
 **/ has no repo**
 

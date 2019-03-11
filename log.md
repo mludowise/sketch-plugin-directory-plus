@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-11 14:01:29 UTC
+Updated 2019-03-11 15:01:49 UTC
 
 Total plugins: 602
 
@@ -53,8 +53,6 @@ Total plugins: 602
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
 
-**[turbobabr/sketch-ace-jump](https://github.com/turbobabr/sketch-ace-jump) has no repo**
-
 [AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) and [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) use the same manifest identifier, __com.animaapp.stc-sketch-plugin__
 
 [herrhelms/radial-lines-sketch](https://github.com/herrhelms/radial-lines-sketch) manifest.json contains extra commas
@@ -73,11 +71,15 @@ Total plugins: 602
 
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
 
+**[longzheng/sketch-randomSize](https://github.com/longzheng/sketch-randomSize) missing manifest.json**
+
 [getflourish/Sketch-Mate](https://github.com/getflourish/Sketch-Mate) manifest.json contains extra commas
 
 [eivindbohler/Sketch-Unlinker](https://github.com/eivindbohler/Sketch-Unlinker) manifest.json contains extra commas
 
 **[preciousforever/sketch-data-populator](https://github.com/preciousforever/sketch-data-populator) missing manifest.json**
+
+**[preciousforever/sketch-aspect-ratio](https://github.com/preciousforever/sketch-aspect-ratio) has no repo**
 
 [ozzik/swap-styles](https://github.com/ozzik/swap-styles) manifest.json contains extra commas
 

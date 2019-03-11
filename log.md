@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-11 15:01:49 UTC
+Updated 2019-03-11 16:01:53 UTC
 
 Total plugins: 602
 
@@ -71,15 +71,11 @@ Total plugins: 602
 
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
 
-**[longzheng/sketch-randomSize](https://github.com/longzheng/sketch-randomSize) missing manifest.json**
-
 [getflourish/Sketch-Mate](https://github.com/getflourish/Sketch-Mate) manifest.json contains extra commas
 
 [eivindbohler/Sketch-Unlinker](https://github.com/eivindbohler/Sketch-Unlinker) manifest.json contains extra commas
 
 **[preciousforever/sketch-data-populator](https://github.com/preciousforever/sketch-data-populator) missing manifest.json**
-
-**[preciousforever/sketch-aspect-ratio](https://github.com/preciousforever/sketch-aspect-ratio) has no repo**
 
 [ozzik/swap-styles](https://github.com/ozzik/swap-styles) manifest.json contains extra commas
 

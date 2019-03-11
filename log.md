@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-11 09:01:38 UTC
+Updated 2019-03-11 10:01:40 UTC
 
 Total plugins: 602
 
@@ -339,7 +339,7 @@ Total plugins: 602
 
 **[taobaofed/imgcook](https://github.com/taobaofed/imgcook) missing manifest.json**
 
-**[pratikjshah/Sketch-Guides](https://github.com/pratikjshah/Sketch-Guides) missing manifest.json**
+[pratikjshah/Sketch-Guides](https://github.com/pratikjshah/Sketch-Guides) and [pratikjshah/PS-Guides](https://github.com/pratikjshah/PS-Guides) use the same manifest identifier, __website.pratikshah.guides__
 
 **[inthepocket/hubble-sketch-plugin](https://github.com/inthepocket/hubble-sketch-plugin) manifest.json is missing identifier**
 

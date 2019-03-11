@@ -712,7 +712,15 @@
     "author": "Andrey Shakhmin",
     "title": "Ace Jump",
     "description": "Quickly focus on various inspector's fields like font size, font weight and text/fill color using shortcuts.",
-    "added": "2017-01-30 09:09:50 UTC"
+    "added": "2017-01-30 09:09:50 UTC",
+    "homepage": "https://github.com/turbobabr/sketch-ace-jump",
+    "gh_url": "https://github.com/turbobabr/sketch-ace-jump.git",
+    "gh_updated": "2017-05-29 07:06:38 UTC",
+    "gh_stars": 33,
+    "gh_issues": 3,
+    "gh_branch": "master",
+    "man_identifier": "com.turbobabr.ace-jump",
+    "man_version": "0.1.1"
   },
   {
     "name": "sketch-wanderer",
@@ -1512,7 +1520,7 @@
     "homepage": "https://github.com/getflourish/Sketch-Style-Inventory",
     "gh_url": "https://github.com/getflourish/Sketch-Style-Inventory.git",
     "gh_updated": "2018-04-14 11:55:42 UTC",
-    "gh_stars": 1855,
+    "gh_stars": 1856,
     "gh_issues": 33,
     "gh_branch": "master",
     "man_identifier": "com.getflourish.sketch.styleinventory",
@@ -1794,9 +1802,7 @@
     "gh_updated": "2017-03-22 07:10:13 UTC",
     "gh_stars": 52,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.longzheng.sketch.randomsize",
-    "man_version": "2.0"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Better-Paste",
@@ -2043,7 +2049,7 @@
     "homepage": "https://github.com/preciousforever/data-populator",
     "gh_url": "https://github.com/preciousforever/data-populator.git",
     "gh_updated": "2018-11-11 23:19:12 UTC",
-    "gh_stars": 1531,
+    "gh_stars": 1532,
     "gh_issues": 26,
     "gh_branch": "master"
   },
@@ -2053,16 +2059,7 @@
     "author": "precious design studio",
     "title": "Sketch Aspect Ratio",
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
-    "added": "2017-06-07 09:02:28 UTC",
-    "homepage": "https://github.com/preciousforever/sketch-aspect-ratio",
-    "gh_url": "https://github.com/preciousforever/sketch-aspect-ratio.git",
-    "gh_updated": "2018-08-19 15:04:20 UTC",
-    "gh_stars": 25,
-    "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.precious-forever.sketch-aspect-ratio",
-    "man_version": "1.0.1",
-    "icon": "https://raw.githubusercontent.com/preciousforever/sketch-aspect-ratio/master/Sketch%20Aspect%20Ratio.sketchplugin/Contents/Resources/icon.png"
+    "added": "2017-06-07 09:02:28 UTC"
   },
   {
     "name": "sketch-tiles",
@@ -2860,7 +2857,7 @@
     "homepage": "https://github.com/JohnCoates/CSSketch",
     "gh_url": "https://github.com/JohnCoates/CSSketch.git",
     "gh_updated": "2017-07-26 22:42:15 UTC",
-    "gh_stars": 1923,
+    "gh_stars": 1922,
     "gh_issues": 48,
     "gh_branch": "master",
     "man_identifier": "com.johncoates.CSSketch",
@@ -8173,7 +8170,7 @@
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
     "gh_updated": "2019-03-11 13:49:34 UTC",
-    "gh_stars": 76,
+    "gh_stars": 77,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.cloudblue.sketch.exporter",
@@ -8965,7 +8962,7 @@
     "gh_url": "https://github.com/Primary-app/primary-sync.git",
     "gh_updated": "2018-07-30 09:57:01 UTC",
     "gh_stars": 8,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "app.primary.sketch-plugin",
     "man_version": "0.2",

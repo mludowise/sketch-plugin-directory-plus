@@ -1002,7 +1002,7 @@
     "homepage": "https://medium.com/@einancunlu/flatten-2-0-sketch-plugin-f53984696990",
     "gh_url": "https://github.com/einancunlu/Flatten-Plugin-for-Sketch.git",
     "gh_updated": "2019-02-10 22:03:26 UTC",
-    "gh_stars": 38,
+    "gh_stars": 39,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.einancunlu.sketch-plugins.flatten",
@@ -9231,7 +9231,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taobaofed/imgcook.git",
     "gh_updated": "2019-03-07 11:02:50 UTC",
-    "gh_stars": 207,
+    "gh_stars": 208,
     "gh_issues": 6,
     "gh_branch": "master"
   },

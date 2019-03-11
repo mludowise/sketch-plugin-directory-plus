@@ -522,9 +522,7 @@
     "gh_updated": "2017-10-19 22:41:52 UTC",
     "gh_stars": 76,
     "gh_issues": 7,
-    "gh_branch": "master",
-    "man_identifier": "be.novemberfive.symbol-spacer",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "Reselect",
@@ -1605,7 +1603,9 @@
     "gh_updated": "2017-08-02 17:15:04 UTC",
     "gh_stars": 138,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.ichord.sketch.divine-proportions",
+    "man_version": "1.0.2"
   },
   {
     "name": "RemoveAllGuides",
@@ -6959,7 +6959,7 @@
     "added": "2018-01-04 12:26:15 UTC",
     "gh_url": "https://github.com/AMoreaux/Sketch-Icons.git",
     "gh_updated": "2019-02-05 17:58:16 UTC",
-    "gh_stars": 756,
+    "gh_stars": 757,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.amoreaux.sketch-icons",
@@ -9195,7 +9195,7 @@
     "homepage": "https://spectrum.chat/sketch-arrows",
     "gh_url": "https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows.git",
     "gh_updated": "2019-03-10 20:30:58 UTC",
-    "gh_stars": 80,
+    "gh_stars": 81,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "me.sabitov.sketch.connectionFlowArrows",
@@ -9413,7 +9413,7 @@
     "added": "2019-02-20 17:00:18 UTC",
     "gh_url": "https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows.git",
     "gh_updated": "2019-03-10 20:30:58 UTC",
-    "gh_stars": 80,
+    "gh_stars": 81,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "me.sabitov.sketch.connectionFlowArrows",

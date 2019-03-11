@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-11 16:01:53 UTC
+Updated 2019-03-11 17:01:37 UTC
 
 Total plugins: 602
 
@@ -66,6 +66,8 @@ Total plugins: 602
 [getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) manifest.json contains extra commas
 
 [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/Sketch-Set-Line-Height-Plugin) manifest.json contains extra commas
+
+**[ichord/sketch-divine-proportions](https://github.com/ichord/sketch-divine-proportions) missing manifest.json**
 
 **[ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) manifest.json is missing identifier**
 

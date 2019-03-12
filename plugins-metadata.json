@@ -799,7 +799,7 @@
     "added": "2016-11-10 21:46:53 UTC",
     "homepage": "https://github.com/yargies/sketch-select-exportables",
     "gh_url": "https://github.com/yargies/sketch-select-exportables.git",
-    "gh_updated": "2017-07-24 18:48:21 UTC",
+    "gh_updated": "2017-07-24 18:48:11 UTC",
     "gh_stars": 10,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -1516,7 +1516,16 @@
     "author": "Florian Schulz",
     "title": "Style Inventory",
     "description": "Generate a visual style sheet with all colors and text styles that you are using in Sketch.",
-    "added": "2014-09-05 09:33:46 UTC"
+    "added": "2014-09-05 09:33:46 UTC",
+    "homepage": "https://github.com/getflourish/Sketch-Style-Inventory",
+    "gh_url": "https://github.com/getflourish/Sketch-Style-Inventory.git",
+    "gh_updated": "2018-04-14 11:55:42 UTC",
+    "gh_stars": 1857,
+    "gh_issues": 33,
+    "gh_branch": "master",
+    "man_identifier": "com.getflourish.sketch.styleinventory",
+    "man_version": "1.5.1",
+    "man_compatible_version": "4.9"
   },
   {
     "name": "ArtboardZoom",
@@ -2275,7 +2284,10 @@
     "gh_updated": "2016-09-07 22:13:41 UTC",
     "gh_stars": 33,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.f6c1cab6-9e35-47ff-8259-a0cf0cc12a56",
+    "man_version": "1.2",
+    "man_compatible_version": "3.6"
   },
   {
     "name": "Typograph",
@@ -2753,7 +2765,14 @@
     "title": "Sketch Maps",
     "description": "A Sketch plugin that uses the Mapbox API to fill layers with specific and custom maps.",
     "homepage": "https://github.com/bouchenoiremarc/Sketch-Maps",
-    "added": "2017-09-12 21:02:26 UTC"
+    "added": "2017-09-12 21:02:26 UTC",
+    "gh_url": "https://github.com/bouchenoiremarc/Sketch-Maps.git",
+    "gh_updated": "2018-12-20 09:51:51 UTC",
+    "gh_stars": 74,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.bouchenoiremarc.sketch-maps",
+    "man_version": "1.2"
   },
   {
     "name": "sort-me-sketch",

@@ -2051,7 +2051,7 @@
     "homepage": "https://github.com/preciousforever/data-populator",
     "gh_url": "https://github.com/preciousforever/data-populator.git",
     "gh_updated": "2018-11-11 23:19:12 UTC",
-    "gh_stars": 1532,
+    "gh_stars": 1533,
     "gh_issues": 26,
     "gh_branch": "master"
   },
@@ -3934,9 +3934,9 @@
     "homepage": "https://sketchapp.com/extensions/plugins/svgo-compressor/",
     "added": "2016-05-31 15:16:43 UTC",
     "gh_url": "https://github.com/BohemianCoding/svgo-compressor.git",
-    "gh_updated": "2019-03-12 19:52:04 UTC",
+    "gh_updated": "2019-03-12 20:18:12 UTC",
     "gh_stars": 967,
-    "gh_issues": 7,
+    "gh_issues": 8,
     "gh_branch": "develop",
     "man_identifier": "com.sketchapp.plugins.svgo-compressor",
     "man_compatible_version": "3.8"

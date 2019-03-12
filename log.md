@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-12 15:02:19 UTC
+Updated 2019-03-12 16:02:02 UTC
 
 Total plugins: 602
 
@@ -67,6 +67,8 @@ Total plugins: 602
 
 [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/Sketch-Set-Line-Height-Plugin) manifest.json contains extra commas
 
+**[getflourish/Sketch-Style-Inventory](https://github.com/getflourish/Sketch-Style-Inventory) has no repo**
+
 **[ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) manifest.json is missing identifier**
 
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
@@ -87,6 +89,8 @@ Total plugins: 602
 
 [stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers) manifest.json contains extra commas
 
+**[bouchenoiremarc/Sketch-Maps](https://github.com/bouchenoiremarc/Sketch-Maps) has no repo**
+
 [JohnCoates/CSSketch](https://github.com/JohnCoates/CSSketch) manifest.json contains extra commas
 
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
@@ -100,8 +104,6 @@ Total plugins: 602
 **SketchRunner/ has no repo**
 
 [lessthanzero/Formr](https://github.com/lessthanzero/Formr) manifest.json contains extra commas
-
-**[stackdevelopment/sketch-pixel-cleanup](https://github.com/stackdevelopment/sketch-pixel-cleanup) has no repo**
 
 **opencolor-tools/ has no repo**
 

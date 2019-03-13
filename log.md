@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-13 18:01:29 UTC
+Updated 2019-03-13 19:02:30 UTC
 
 Total plugins: 602
 
@@ -61,11 +61,7 @@ Total plugins: 602
 
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
 
-**[marcisme/sketch-preview](https://github.com/marcisme/sketch-preview) has no repo**
-
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
-
-**[littlebusters/Sketch-Font-Mixer](https://github.com/littlebusters/Sketch-Font-Mixer) has no repo**
 
 [getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) manifest.json contains extra commas
 

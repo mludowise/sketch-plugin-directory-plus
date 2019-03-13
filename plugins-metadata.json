@@ -439,7 +439,16 @@
     "author": "Sabarinathan Masilamani",
     "title": "⚓️ Sketch - SelectPlus",
     "description": "Helps you select different type of layers, specific Shapes like Rectangle, Ovals, Triangles, Lines, Arrows, Paths, etc.",
-    "added": "2018-05-04 17:01:56 UTC"
+    "added": "2018-05-04 17:01:56 UTC",
+    "homepage": "https://github.com/nathan5x/Sketch-SelectPlus",
+    "gh_url": "https://github.com/nathan5x/Sketch-SelectPlus.git",
+    "gh_updated": "2018-05-21 19:34:35 UTC",
+    "gh_stars": 16,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.nathan5x.sketch.selectplus",
+    "man_version": "1.0.0",
+    "man_compatible_version": "49.3"
   },
   {
     "name": "Miaow",
@@ -886,7 +895,17 @@
     "author": "herrhelms",
     "title": "Evenly Distributed Guides",
     "description": "Add evenly distributed guides to artboards.",
-    "added": "2015-12-13 14:33:12 UTC"
+    "added": "2015-12-13 14:33:12 UTC",
+    "homepage": "https://github.com/herrhelms/even-guides-sketch",
+    "gh_url": "https://github.com/herrhelms/even-guides-sketch.git",
+    "gh_updated": "2016-08-24 23:14:45 UTC",
+    "gh_stars": 33,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.github.herrhelms.even-guides-sketch",
+    "man_version": "1.1",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/herrhelms/even-guides-sketch/master/Evenly-Distributed-Guides.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "social-artboards-sketch",
@@ -1097,16 +1116,7 @@
     "author": "Marc Schwieterman",
     "title": "Sketch Preview",
     "description": "This Sketch plugin provides a preview command (⌘P) that will open a specially named slice in Skala Preview. The plugin works by exporting the first slice named Preview to Sketch's cache directory and opening that file in Skala Preview.",
-    "added": "2014-05-14 03:43:43 UTC",
-    "homepage": "https://github.com/marcisme/sketch-preview",
-    "gh_url": "https://github.com/marcisme/sketch-preview.git",
-    "gh_updated": "2018-05-26 15:44:43 UTC",
-    "gh_stars": 612,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.marcisme.sketch-preview",
-    "man_version": "0.13.0",
-    "man_compatible_version": "49"
+    "added": "2014-05-14 03:43:43 UTC"
   },
   {
     "name": "sketch-commands",
@@ -1349,15 +1359,7 @@
     "title": "Font Mixer",
     "description": "Plugin can apply other fonts for each character type of Text Layer.",
     "homepage": "https://github.com/littlebusters/Sketch-Font-Mixer",
-    "added": "2018-06-19 19:02:06 UTC",
-    "gh_url": "https://github.com/littlebusters/Sketch-Font-Mixer.git",
-    "gh_updated": "2018-09-26 09:47:26 UTC",
-    "gh_stars": 6,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "net.creative-tweet.font-mixer",
-    "man_version": "0.8.1",
-    "man_compatible_version": "3"
+    "added": "2018-06-19 19:02:06 UTC"
   },
   {
     "name": "sketch-dockpreview",
@@ -1617,7 +1619,10 @@
     "gh_updated": "2017-12-13 09:49:51 UTC",
     "gh_stars": 106,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "cc.lucienlee.sketch.align.to",
+    "man_version": "2.0.0",
+    "man_compatible_version": "3.3.2"
   },
   {
     "name": "Color-Copier",
@@ -2073,7 +2078,15 @@
     "author": "Oz Pinhas",
     "title": "Swap Styles",
     "description": "Sketch plugin for swaping styles between two layers.",
-    "added": "2015-06-10 20:27:31 UTC"
+    "added": "2015-06-10 20:27:31 UTC",
+    "homepage": "https://github.com/ozzik/swap-styles",
+    "gh_url": "https://github.com/ozzik/swap-styles.git",
+    "gh_updated": "2017-06-18 16:47:08 UTC",
+    "gh_stars": 140,
+    "gh_issues": 3,
+    "gh_branch": "master",
+    "man_identifier": "co.ozzik.swapstyles",
+    "man_version": "1.0.4"
   },
   {
     "name": "Sketch-Make-Long-Shadow",
@@ -3233,9 +3246,7 @@
     "gh_updated": "2018-01-23 21:43:24 UTC",
     "gh_stars": 82,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "me.kangchen.export-scale-generator",
-    "man_version": "1.1.1"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-ImageAverageColor",
@@ -4306,7 +4317,7 @@
     "homepage": "https://github.com/contentsync/SketchContentSync",
     "gh_url": "https://github.com/contentsync/SketchContentSync.git",
     "gh_updated": "2019-02-14 20:24:15 UTC",
-    "gh_stars": 249,
+    "gh_stars": 250,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.syncify.sketch.contentsync",
@@ -4749,7 +4760,7 @@
     "homepage": "https://github.com/work4blue/sketch-app-asset-export",
     "gh_url": "https://github.com/work4blue/sketch-app-asset-export.git",
     "gh_updated": "2017-02-14 14:01:23 UTC",
-    "gh_stars": 118,
+    "gh_stars": 119,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "cn.bluedrum.sketch-app-aasset-export",

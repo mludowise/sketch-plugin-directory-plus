@@ -144,7 +144,7 @@
     "homepage": "https://github.com/symdesign/sketch-auto-translate",
     "added": "2018-05-04 16:02:20 UTC",
     "gh_url": "https://github.com/symdesign/sketch-auto-translate.git",
-    "gh_updated": "2019-03-10 11:35:20 UTC",
+    "gh_updated": "2019-03-13 19:02:17 UTC",
     "gh_stars": 24,
     "gh_issues": 3,
     "gh_branch": "master",
@@ -1116,7 +1116,16 @@
     "author": "Marc Schwieterman",
     "title": "Sketch Preview",
     "description": "This Sketch plugin provides a preview command (⌘P) that will open a specially named slice in Skala Preview. The plugin works by exporting the first slice named Preview to Sketch's cache directory and opening that file in Skala Preview.",
-    "added": "2014-05-14 03:43:43 UTC"
+    "added": "2014-05-14 03:43:43 UTC",
+    "homepage": "https://github.com/marcisme/sketch-preview",
+    "gh_url": "https://github.com/marcisme/sketch-preview.git",
+    "gh_updated": "2018-05-26 15:44:43 UTC",
+    "gh_stars": 612,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.marcisme.sketch-preview",
+    "man_version": "0.13.0",
+    "man_compatible_version": "49"
   },
   {
     "name": "sketch-commands",
@@ -1359,7 +1368,15 @@
     "title": "Font Mixer",
     "description": "Plugin can apply other fonts for each character type of Text Layer.",
     "homepage": "https://github.com/littlebusters/Sketch-Font-Mixer",
-    "added": "2018-06-19 19:02:06 UTC"
+    "added": "2018-06-19 19:02:06 UTC",
+    "gh_url": "https://github.com/littlebusters/Sketch-Font-Mixer.git",
+    "gh_updated": "2018-09-26 09:47:26 UTC",
+    "gh_stars": 6,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "net.creative-tweet.font-mixer",
+    "man_version": "0.8.1",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-dockpreview",
@@ -3246,7 +3263,9 @@
     "gh_updated": "2018-01-23 21:43:24 UTC",
     "gh_stars": 82,
     "gh_issues": 3,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "me.kangchen.export-scale-generator",
+    "man_version": "1.1.1"
   },
   {
     "name": "sketch-ImageAverageColor",
@@ -6782,7 +6801,7 @@
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2019-03-05 21:54:06 UTC",
-    "gh_stars": 159,
+    "gh_stars": 160,
     "gh_issues": 8,
     "gh_branch": "master",
     "man_compatible_version": "50"

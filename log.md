@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-13 13:02:20 UTC
+Updated 2019-03-13 14:01:38 UTC
 
 Total plugins: 602
 
@@ -53,6 +53,8 @@ Total plugins: 602
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
 
+**[turbobabr/sketch-wanderer](https://github.com/turbobabr/sketch-wanderer) missing manifest.json**
+
 [AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) and [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) use the same manifest identifier, __com.animaapp.stc-sketch-plugin__
 
 [herrhelms/radial-lines-sketch](https://github.com/herrhelms/radial-lines-sketch) manifest.json contains extra commas
@@ -86,6 +88,8 @@ Total plugins: 602
 [jamztang/MagicMirror](https://github.com/jamztang/MagicMirror) manifest.json contains extra commas
 
 [stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers) manifest.json contains extra commas
+
+**[bouchenoiremarc/Sketch-Constraints](https://github.com/bouchenoiremarc/Sketch-Constraints) missing manifest.json**
 
 [JohnCoates/CSSketch](https://github.com/JohnCoates/CSSketch) manifest.json contains extra commas
 
@@ -163,7 +167,7 @@ Total plugins: 602
 
 **[d4rekanguok/sketch-slicer](https://github.com/d4rekanguok/sketch-slicer) manifest.json is missing identifier**
 
-**[awkward/sketch-palette-generator](https://github.com/awkward/sketch-palette-generator) manifest.json is missing identifier**
+**[awkward/sketch-palette-generator](https://github.com/awkward/sketch-palette-generator) has no repo**
 
 **/ has no repo**
 
@@ -337,6 +341,8 @@ Total plugins: 602
 
 **[BaguetteEngineering/annotations-sketch-plugin](https://github.com/BaguetteEngineering/annotations-sketch-plugin) manifest.json is missing identifier**
 
+**[faridsabitov/Sketch-user-flows](https://github.com/faridsabitov/Sketch-user-flows) missing manifest.json**
+
 **[taobaofed/imgcook](https://github.com/taobaofed/imgcook) missing manifest.json**
 
 [pratikjshah/Sketch-Guides](https://github.com/pratikjshah/Sketch-Guides) and [pratikjshah/PS-Guides](https://github.com/pratikjshah/PS-Guides) use the same manifest identifier, __website.pratikshah.guides__
@@ -344,8 +350,6 @@ Total plugins: 602
 **[inthepocket/hubble-sketch-plugin](https://github.com/inthepocket/hubble-sketch-plugin) manifest.json is missing identifier**
 
 **[enriquezgomez/datazier-lens](https://github.com/enriquezgomez/datazier-lens) manifest.json is missing identifier**
-
-[faridsabitov/Sketch-Connection-Flow-Arrows](https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows) and [faridsabitov/Sketch-user-flows](https://github.com/faridsabitov/Sketch-user-flows) use the same manifest identifier, __me.sabitov.sketch.connectionFlowArrows__
 
 **[mathieudutour/sketch-styles-hierarchy](https://github.com/mathieudutour/sketch-styles-hierarchy) manifest.json is missing identifier**
 

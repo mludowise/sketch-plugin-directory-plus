@@ -734,7 +734,10 @@
     "gh_updated": "2018-03-16 07:52:59 UTC",
     "gh_stars": 165,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.turbobabr.sketch.wanderer",
+    "man_version": "1.0.1",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-html-export",
@@ -1534,7 +1537,7 @@
     "homepage": "https://github.com/Arkkimaagi/ArtboardZoom",
     "gh_url": "https://github.com/Arkkimaagi/ArtboardZoom.git",
     "gh_updated": "2018-01-02 07:47:16 UTC",
-    "gh_stars": 55,
+    "gh_stars": 56,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.github.arkkimaagi.artboardzoom",
@@ -2034,9 +2037,7 @@
     "gh_updated": "2019-02-04 07:58:32 UTC",
     "gh_stars": 59,
     "gh_issues": 9,
-    "gh_branch": "master",
-    "man_identifier": "com.precious-forever.sketch.boundingboxer",
-    "man_version": "1.1.1"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-data-populator",
@@ -2048,7 +2049,7 @@
     "homepage": "https://github.com/preciousforever/data-populator",
     "gh_url": "https://github.com/preciousforever/data-populator.git",
     "gh_updated": "2018-11-11 23:19:12 UTC",
-    "gh_stars": 1533,
+    "gh_stars": 1534,
     "gh_issues": 26,
     "gh_branch": "master"
   },
@@ -2751,7 +2752,9 @@
     "gh_updated": "2018-05-21 10:03:09 UTC",
     "gh_stars": 1310,
     "gh_issues": 8,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.bouchenoiremarc.sketch-constraints",
+    "man_version": "1.0.2"
   },
   {
     "name": "Sketch-Maps",
@@ -3172,7 +3175,7 @@
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
     "gh_updated": "2019-03-06 16:37:55 UTC",
-    "gh_stars": 544,
+    "gh_stars": 545,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
@@ -3701,10 +3704,7 @@
     "gh_updated": "2017-07-14 05:21:52 UTC",
     "gh_stars": 1292,
     "gh_issues": 16,
-    "gh_branch": "master",
-    "man_identifier": "com.creatide.sketch.animatemate",
-    "man_version": "0.1.9",
-    "man_compatible_version": "3.5.2"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-to-trello",
@@ -4595,7 +4595,7 @@
     "added": "2016-09-13 13:54:43 UTC",
     "homepage": "https://github.com/exevil/sketch-grid-master",
     "gh_url": "https://github.com/exevil/sketch-grid-master.git",
-    "gh_updated": "2018-01-31 09:43:09 UTC",
+    "gh_updated": "2018-01-31 09:43:02 UTC",
     "gh_stars": 62,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -6389,7 +6389,14 @@
     "author": "awkward",
     "title": "Sketch Palette Generator",
     "description": "Output a JSON colour palette to Sketch 💎",
-    "added": "2017-08-21 09:07:30 UTC"
+    "added": "2017-08-21 09:07:30 UTC",
+    "homepage": "https://github.com/awkward/sketch-palette-generator",
+    "gh_url": "https://github.com/awkward/sketch-palette-generator.git",
+    "gh_updated": "2018-04-06 12:27:18 UTC",
+    "gh_stars": 132,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   },
   {
     "owner": null,
@@ -7251,9 +7258,7 @@
     "gh_updated": "2018-03-08 05:08:50 UTC",
     "gh_stars": 5,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.wescraig.sketch.transpose",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Smart-Style-Switcher",
@@ -7662,11 +7667,7 @@
     "gh_updated": "2018-05-28 12:35:29 UTC",
     "gh_stars": 14,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "vladimirionita.chromata",
-    "man_version": "0.5.3",
-    "man_compatible_version": "50.2",
-    "icon": "https://raw.githubusercontent.com/abnamrocoesd/chromata/master/chromata.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "bonsai-plugin",
@@ -7911,7 +7912,7 @@
     "gh_url": "https://github.com/ahmedmigo/overrideit-sketchplugin.git",
     "gh_updated": "2019-03-12 09:43:32 UTC",
     "gh_stars": 98,
-    "gh_issues": 9,
+    "gh_issues": 10,
     "gh_branch": "master",
     "man_identifier": "overrideit.plugin",
     "man_version": "0.3.9",
@@ -8780,15 +8781,7 @@
     "title": "Protoship Codegen Sketch Client",
     "description": "Build complex webapps from Sketch designs by generating elegant HTML & CSS that programmers can easily understand, adapt, and deploy",
     "homepage": "https://github.com/protoship/codegen-sketch-client",
-    "added": "2018-11-15 11:02:15 UTC",
-    "gh_url": "https://github.com/protoship/codegen-sketch-client.git",
-    "gh_updated": "2019-02-27 14:49:12 UTC",
-    "gh_stars": 15,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "io.protoship.sketch.codegen",
-    "man_version": "2.5",
-    "man_compatible_version": "52"
+    "added": "2018-11-15 11:02:15 UTC"
   },
   {
     "name": "toggleLayers",
@@ -9188,6 +9181,9 @@
     "gh_stars": 83,
     "gh_issues": 0,
     "gh_branch": "master",
+    "man_identifier": "me.sabitov.sketch.connectionFlowArrows",
+    "man_version": "2.6.3",
+    "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/faridsabitov/Sketch-user-flows/master/arrows.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -9483,8 +9479,6 @@
     "gh_stars": 20,
     "gh_issues": 0,
     "gh_branch": "master",
-    "man_version": "1.1.0",
-    "man_compatible_version": "53",
     "icon": "https://raw.githubusercontent.com/Pausansol/Escriba/master/Escriba.sketchplugin/Contents/Resources/icon.png"
   },
   {

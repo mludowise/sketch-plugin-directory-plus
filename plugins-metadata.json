@@ -2735,7 +2735,7 @@
     "homepage": "https://github.com/andrewfiorillo/sketch-palettes",
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
     "gh_updated": "2019-02-12 02:17:39 UTC",
-    "gh_stars": 2095,
+    "gh_stars": 2096,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
@@ -7345,11 +7345,7 @@
     "gh_updated": "2018-11-05 10:06:19 UTC",
     "gh_stars": 51,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.tankxu.sketch.svg-insert",
-    "man_version": "0.2.2",
-    "man_compatible_version": "44",
-    "icon": "https://raw.githubusercontent.com/tankxu/SVG-Insert/master/SVG-Insert.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-FlowExporter",

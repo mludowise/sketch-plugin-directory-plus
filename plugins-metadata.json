@@ -734,10 +734,7 @@
     "gh_updated": "2018-03-16 07:52:59 UTC",
     "gh_stars": 165,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.turbobabr.sketch.wanderer",
-    "man_version": "1.0.1",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-html-export",
@@ -1205,7 +1202,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6312,
+    "gh_stars": 6313,
     "gh_issues": 290,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -2754,9 +2751,7 @@
     "gh_updated": "2018-05-21 10:03:09 UTC",
     "gh_stars": 1310,
     "gh_issues": 8,
-    "gh_branch": "master",
-    "man_identifier": "com.bouchenoiremarc.sketch-constraints",
-    "man_version": "1.0.2"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Maps",
@@ -3509,7 +3504,10 @@
     "gh_updated": "2017-04-04 19:27:53 UTC",
     "gh_stars": 185,
     "gh_issues": 3,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.sparkliner",
+    "man_version": "2.0",
+    "man_compatible_version": "41.2"
   },
   {
     "name": "Golden-Ratio-Line-Height-Sketch-Plugin",
@@ -4234,7 +4232,7 @@
     "homepage": "https://github.com/cute/SketchI18N",
     "gh_url": "https://github.com/cute/SketchI18N.git",
     "gh_updated": "2019-01-17 13:57:14 UTC",
-    "gh_stars": 1174,
+    "gh_stars": 1175,
     "gh_issues": 24,
     "gh_branch": "master",
     "man_identifier": "com.liguangming.sketch-i18n",
@@ -4597,7 +4595,7 @@
     "added": "2016-09-13 13:54:43 UTC",
     "homepage": "https://github.com/exevil/sketch-grid-master",
     "gh_url": "https://github.com/exevil/sketch-grid-master.git",
-    "gh_updated": "2018-01-31 09:43:02 UTC",
+    "gh_updated": "2018-01-31 09:43:09 UTC",
     "gh_stars": 62,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -6391,14 +6389,7 @@
     "author": "awkward",
     "title": "Sketch Palette Generator",
     "description": "Output a JSON colour palette to Sketch 💎",
-    "added": "2017-08-21 09:07:30 UTC",
-    "homepage": "https://github.com/awkward/sketch-palette-generator",
-    "gh_url": "https://github.com/awkward/sketch-palette-generator.git",
-    "gh_updated": "2018-04-06 12:27:18 UTC",
-    "gh_stars": 132,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_compatible_version": "3"
+    "added": "2017-08-21 09:07:30 UTC"
   },
   {
     "owner": null,
@@ -7967,7 +7958,7 @@
     "homepage": "https://github.com/WeTransfer/Sketch-Plugin",
     "gh_url": "https://github.com/WeTransfer/Sketch-Plugin.git",
     "gh_updated": "2019-02-08 10:04:35 UTC",
-    "gh_stars": 31,
+    "gh_stars": 32,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.wetransfer.wetransfer-sketch",
@@ -8177,7 +8168,7 @@
     "added": "2018-07-17 09:02:33 UTC",
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
-    "gh_updated": "2019-03-13 09:44:13 UTC",
+    "gh_updated": "2019-03-13 14:01:52 UTC",
     "gh_stars": 78,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -9197,9 +9188,6 @@
     "gh_stars": 83,
     "gh_issues": 0,
     "gh_branch": "master",
-    "man_identifier": "me.sabitov.sketch.connectionFlowArrows",
-    "man_version": "2.6.3",
-    "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/faridsabitov/Sketch-user-flows/master/arrows.sketchplugin/Contents/Resources/icon.png"
   },
   {

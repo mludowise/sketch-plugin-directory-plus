@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-13 17:01:57 UTC
+Updated 2019-03-13 18:01:29 UTC
 
 Total plugins: 602
 
@@ -45,8 +45,6 @@ Total plugins: 602
 
 [LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) manifest.json contains extra commas
 
-**[nathan5x/sketch-selectplus](https://github.com/nathan5x/sketch-selectplus) has no repo**
-
 **/ has no repo**
 
 **/ has no repo**
@@ -59,21 +57,21 @@ Total plugins: 602
 
 [herrhelms/radial-lines-sketch](https://github.com/herrhelms/radial-lines-sketch) manifest.json contains extra commas
 
-**[herrhelms/even-guides-sketch](https://github.com/herrhelms/even-guides-sketch) has no repo**
-
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
 
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
 
+**[marcisme/sketch-preview](https://github.com/marcisme/sketch-preview) has no repo**
+
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
+
+**[littlebusters/Sketch-Font-Mixer](https://github.com/littlebusters/Sketch-Font-Mixer) has no repo**
 
 [getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) manifest.json contains extra commas
 
 [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/Sketch-Set-Line-Height-Plugin) manifest.json contains extra commas
 
 **[ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) manifest.json is missing identifier**
-
-**[LucienLee/AlignTo](https://github.com/LucienLee/AlignTo) missing manifest.json**
 
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
 
@@ -83,7 +81,7 @@ Total plugins: 602
 
 **[preciousforever/sketch-data-populator](https://github.com/preciousforever/sketch-data-populator) missing manifest.json**
 
-**[ozzik/swap-styles](https://github.com/ozzik/swap-styles) has no repo**
+[ozzik/swap-styles](https://github.com/ozzik/swap-styles) manifest.json contains extra commas
 
 [soutaro/Align-text-baseline-sketch-plugin](https://github.com/soutaro/Align-text-baseline-sketch-plugin) manifest.json contains extra commas
 

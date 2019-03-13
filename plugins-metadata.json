@@ -1205,7 +1205,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6311,
+    "gh_stars": 6312,
     "gh_issues": 290,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -1520,7 +1520,7 @@
     "homepage": "https://github.com/getflourish/Sketch-Style-Inventory",
     "gh_url": "https://github.com/getflourish/Sketch-Style-Inventory.git",
     "gh_updated": "2018-04-14 11:55:42 UTC",
-    "gh_stars": 1857,
+    "gh_stars": 1858,
     "gh_issues": 33,
     "gh_branch": "master",
     "man_identifier": "com.getflourish.sketch.styleinventory",
@@ -1899,7 +1899,7 @@
     "homepage": "https://github.com/getflourish/Sketch-Mate",
     "gh_url": "https://github.com/getflourish/Sketch-Mate.git",
     "gh_updated": "2017-07-28 14:23:19 UTC",
-    "gh_stars": 500,
+    "gh_stars": 501,
     "gh_issues": 21,
     "gh_branch": "master",
     "man_identifier": "com.getflourish.sketch.mate",
@@ -3509,10 +3509,7 @@
     "gh_updated": "2017-04-04 19:27:53 UTC",
     "gh_stars": 185,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.sparkliner",
-    "man_version": "2.0",
-    "man_compatible_version": "41.2"
+    "gh_branch": "master"
   },
   {
     "name": "Golden-Ratio-Line-Height-Sketch-Plugin",
@@ -7345,7 +7342,11 @@
     "gh_updated": "2018-11-05 10:06:19 UTC",
     "gh_stars": 51,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.tankxu.sketch.svg-insert",
+    "man_version": "0.2.2",
+    "man_compatible_version": "44",
+    "icon": "https://raw.githubusercontent.com/tankxu/SVG-Insert/master/SVG-Insert.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "Sketch-FlowExporter",

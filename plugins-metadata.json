@@ -605,7 +605,7 @@
     "homepage": "https://github.com/petterheterjag/chromatic-sketch",
     "gh_url": "https://github.com/petterheterjag/chromatic-sketch.git",
     "gh_updated": "2018-08-24 08:37:14 UTC",
-    "gh_stars": 376,
+    "gh_stars": 377,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.plugins.chromatic-sketch",
@@ -2014,16 +2014,7 @@
     "author": "Frank Kolodziej",
     "title": "Utility Belt",
     "description": "An always-expanding collection of simple, focused plugins for Sketch.",
-    "added": "2015-05-21 14:50:11 UTC",
-    "homepage": "https://github.com/frankko/UtilityBelt",
-    "gh_url": "https://github.com/frankko/UtilityBelt.git",
-    "gh_updated": "2018-05-09 16:22:50 UTC",
-    "gh_stars": 61,
-    "gh_issues": 5,
-    "gh_branch": "master",
-    "man_identifier": "io.kolo.sketch.utility-belt",
-    "man_version": "1.50.0",
-    "man_compatible_version": "48"
+    "added": "2015-05-21 14:50:11 UTC"
   },
   {
     "name": "sketch-bounding-boxer",
@@ -2037,7 +2028,9 @@
     "gh_updated": "2019-02-04 07:58:32 UTC",
     "gh_stars": 59,
     "gh_issues": 9,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.precious-forever.sketch.boundingboxer",
+    "man_version": "1.1.1"
   },
   {
     "name": "sketch-data-populator",
@@ -2147,10 +2140,7 @@
     "gh_updated": "2017-05-06 18:16:54 UTC",
     "gh_stars": 30,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.kodlian.Icon-Slate.sketch-plugins",
-    "man_version": "1.2",
-    "man_compatible_version": "41"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Flex-Layout",
@@ -3178,9 +3168,6 @@
     "gh_stars": 545,
     "gh_issues": 9,
     "gh_branch": "master",
-    "man_identifier": "com.ashung.hung.automate_sketch",
-    "man_version": "53.2.20190307",
-    "man_compatible_version": "50",
     "icon": "https://raw.githubusercontent.com/Ashung/Automate-Sketch/master/automate-sketch.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -3704,7 +3691,10 @@
     "gh_updated": "2017-07-14 05:21:52 UTC",
     "gh_stars": 1292,
     "gh_issues": 16,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.creatide.sketch.animatemate",
+    "man_version": "0.1.9",
+    "man_compatible_version": "3.5.2"
   },
   {
     "name": "sketch-to-trello",
@@ -6110,15 +6100,7 @@
     "author": "Matthias Martin",
     "title": "Images Reinvented",
     "description": "A better way to use images in Sketch.",
-    "added": "2017-07-10 11:25:15 UTC",
-    "homepage": "https://github.com/roydigerhund/Images-Reinvented",
-    "gh_url": "https://github.com/roydigerhund/Images-Reinvented.git",
-    "gh_updated": "2017-08-22 22:01:50 UTC",
-    "gh_stars": 28,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "de.matzemachtdesign.sketch.imagesreinvented",
-    "man_version": "1.0.1"
+    "added": "2017-07-10 11:25:15 UTC"
   },
   {
     "name": "giancartboard",
@@ -7258,7 +7240,9 @@
     "gh_updated": "2018-03-08 05:08:50 UTC",
     "gh_stars": 5,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.wescraig.sketch.transpose",
+    "man_version": "1.0"
   },
   {
     "name": "Sketch-Smart-Style-Switcher",
@@ -7667,7 +7651,11 @@
     "gh_updated": "2018-05-28 12:35:29 UTC",
     "gh_stars": 14,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "vladimirionita.chromata",
+    "man_version": "0.5.3",
+    "man_compatible_version": "50.2",
+    "icon": "https://raw.githubusercontent.com/abnamrocoesd/chromata/master/chromata.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "bonsai-plugin",
@@ -7732,17 +7720,7 @@
     "author": "Giles Perry",
     "title": "Photo Grid",
     "description": "A Sketch plugin that can size layers to common photo dimensions and scale them to fit in a row.",
-    "added": "2018-05-04 17:01:56 UTC",
-    "homepage": "https://github.com/perrysmotors/photo-grid",
-    "gh_url": "https://github.com/perrysmotors/photo-grid.git",
-    "gh_updated": "2019-03-01 14:21:53 UTC",
-    "gh_stars": 86,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "Photo Grid",
-    "man_version": "3.1.2",
-    "man_compatible_version": "49",
-    "icon": "https://raw.githubusercontent.com/perrysmotors/photo-grid/master/PhotoGrid.sketchplugin/Contents/Resources/icon.png"
+    "added": "2018-05-04 17:01:56 UTC"
   },
   {
     "name": "Sketch-Stickers",
@@ -8170,7 +8148,7 @@
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
     "gh_updated": "2019-03-13 14:01:52 UTC",
-    "gh_stars": 78,
+    "gh_stars": 79,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.cloudblue.sketch.exporter",
@@ -8781,7 +8759,15 @@
     "title": "Protoship Codegen Sketch Client",
     "description": "Build complex webapps from Sketch designs by generating elegant HTML & CSS that programmers can easily understand, adapt, and deploy",
     "homepage": "https://github.com/protoship/codegen-sketch-client",
-    "added": "2018-11-15 11:02:15 UTC"
+    "added": "2018-11-15 11:02:15 UTC",
+    "gh_url": "https://github.com/protoship/codegen-sketch-client.git",
+    "gh_updated": "2019-02-27 14:49:12 UTC",
+    "gh_stars": 15,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "io.protoship.sketch.codegen",
+    "man_version": "2.5",
+    "man_compatible_version": "52"
   },
   {
     "name": "toggleLayers",
@@ -9479,6 +9465,8 @@
     "gh_stars": 20,
     "gh_issues": 0,
     "gh_branch": "master",
+    "man_version": "1.1.0",
+    "man_compatible_version": "53",
     "icon": "https://raw.githubusercontent.com/Pausansol/Escriba/master/Escriba.sketchplugin/Contents/Resources/icon.png"
   },
   {

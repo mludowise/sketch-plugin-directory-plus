@@ -439,16 +439,7 @@
     "author": "Sabarinathan Masilamani",
     "title": "⚓️ Sketch - SelectPlus",
     "description": "Helps you select different type of layers, specific Shapes like Rectangle, Ovals, Triangles, Lines, Arrows, Paths, etc.",
-    "added": "2018-05-04 17:01:56 UTC",
-    "homepage": "https://github.com/nathan5x/Sketch-SelectPlus",
-    "gh_url": "https://github.com/nathan5x/Sketch-SelectPlus.git",
-    "gh_updated": "2018-05-21 19:34:35 UTC",
-    "gh_stars": 16,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.nathan5x.sketch.selectplus",
-    "man_version": "1.0.0",
-    "man_compatible_version": "49.3"
+    "added": "2018-05-04 17:01:56 UTC"
   },
   {
     "name": "Miaow",
@@ -895,17 +886,7 @@
     "author": "herrhelms",
     "title": "Evenly Distributed Guides",
     "description": "Add evenly distributed guides to artboards.",
-    "added": "2015-12-13 14:33:12 UTC",
-    "homepage": "https://github.com/herrhelms/even-guides-sketch",
-    "gh_url": "https://github.com/herrhelms/even-guides-sketch.git",
-    "gh_updated": "2016-08-24 23:14:45 UTC",
-    "gh_stars": 33,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.github.herrhelms.even-guides-sketch",
-    "man_version": "1.1",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/herrhelms/even-guides-sketch/master/Evenly-Distributed-Guides.sketchplugin/Contents/Resources/icon.png"
+    "added": "2015-12-13 14:33:12 UTC"
   },
   {
     "name": "social-artboards-sketch",
@@ -1636,10 +1617,7 @@
     "gh_updated": "2017-12-13 09:49:51 UTC",
     "gh_stars": 106,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "cc.lucienlee.sketch.align.to",
-    "man_version": "2.0.0",
-    "man_compatible_version": "3.3.2"
+    "gh_branch": "master"
   },
   {
     "name": "Color-Copier",
@@ -2014,7 +1992,16 @@
     "author": "Frank Kolodziej",
     "title": "Utility Belt",
     "description": "An always-expanding collection of simple, focused plugins for Sketch.",
-    "added": "2015-05-21 14:50:11 UTC"
+    "added": "2015-05-21 14:50:11 UTC",
+    "homepage": "https://github.com/frankko/UtilityBelt",
+    "gh_url": "https://github.com/frankko/UtilityBelt.git",
+    "gh_updated": "2018-05-09 16:22:50 UTC",
+    "gh_stars": 61,
+    "gh_issues": 5,
+    "gh_branch": "master",
+    "man_identifier": "io.kolo.sketch.utility-belt",
+    "man_version": "1.50.0",
+    "man_compatible_version": "48"
   },
   {
     "name": "sketch-bounding-boxer",
@@ -2086,15 +2073,7 @@
     "author": "Oz Pinhas",
     "title": "Swap Styles",
     "description": "Sketch plugin for swaping styles between two layers.",
-    "added": "2015-06-10 20:27:31 UTC",
-    "homepage": "https://github.com/ozzik/swap-styles",
-    "gh_url": "https://github.com/ozzik/swap-styles.git",
-    "gh_updated": "2017-06-18 16:47:08 UTC",
-    "gh_stars": 140,
-    "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "co.ozzik.swapstyles",
-    "man_version": "1.0.4"
+    "added": "2015-06-10 20:27:31 UTC"
   },
   {
     "name": "Sketch-Make-Long-Shadow",
@@ -2140,7 +2119,10 @@
     "gh_updated": "2017-05-06 18:16:54 UTC",
     "gh_stars": 30,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.kodlian.Icon-Slate.sketch-plugins",
+    "man_version": "1.2",
+    "man_compatible_version": "41"
   },
   {
     "name": "Sketch-Flex-Layout",
@@ -3168,6 +3150,9 @@
     "gh_stars": 545,
     "gh_issues": 9,
     "gh_branch": "master",
+    "man_identifier": "com.ashung.hung.automate_sketch",
+    "man_version": "53.2.20190307",
+    "man_compatible_version": "50",
     "icon": "https://raw.githubusercontent.com/Ashung/Automate-Sketch/master/automate-sketch.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -5163,7 +5148,7 @@
     "homepage": "https://github.com/Tallwave/sketch-spellcheck-all-layers",
     "gh_url": "https://github.com/Tallwave/sketch-spellcheck-all-layers.git",
     "gh_updated": "2018-08-02 14:41:52 UTC",
-    "gh_stars": 114,
+    "gh_stars": 115,
     "gh_issues": 11,
     "gh_branch": "master",
     "man_identifier": "com.tallwave.spellcheckwholepage",
@@ -6100,7 +6085,15 @@
     "author": "Matthias Martin",
     "title": "Images Reinvented",
     "description": "A better way to use images in Sketch.",
-    "added": "2017-07-10 11:25:15 UTC"
+    "added": "2017-07-10 11:25:15 UTC",
+    "homepage": "https://github.com/roydigerhund/Images-Reinvented",
+    "gh_url": "https://github.com/roydigerhund/Images-Reinvented.git",
+    "gh_updated": "2017-08-22 22:01:50 UTC",
+    "gh_stars": 28,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "de.matzemachtdesign.sketch.imagesreinvented",
+    "man_version": "1.0.1"
   },
   {
     "name": "giancartboard",
@@ -7720,7 +7713,17 @@
     "author": "Giles Perry",
     "title": "Photo Grid",
     "description": "A Sketch plugin that can size layers to common photo dimensions and scale them to fit in a row.",
-    "added": "2018-05-04 17:01:56 UTC"
+    "added": "2018-05-04 17:01:56 UTC",
+    "homepage": "https://github.com/perrysmotors/photo-grid",
+    "gh_url": "https://github.com/perrysmotors/photo-grid.git",
+    "gh_updated": "2019-03-01 14:21:53 UTC",
+    "gh_stars": 86,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "Photo Grid",
+    "man_version": "3.1.2",
+    "man_compatible_version": "49",
+    "icon": "https://raw.githubusercontent.com/perrysmotors/photo-grid/master/PhotoGrid.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "Sketch-Stickers",
@@ -9332,7 +9335,7 @@
     "gh_url": "https://github.com/KevinGutowski/betterTypePanel.git",
     "gh_updated": "2019-02-19 05:26:04 UTC",
     "gh_stars": 59,
-    "gh_issues": 6,
+    "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "betterTypePanel",
     "man_version": "0.2.0",
@@ -9505,7 +9508,7 @@
     "gh_url": "https://github.com/TheNounProject/SketchPluginReloader.git",
     "gh_updated": "2019-02-13 00:08:21 UTC",
     "gh_stars": 5,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_compatible_version": "3"
   }

@@ -3706,10 +3706,7 @@
     "gh_updated": "2017-07-14 05:21:52 UTC",
     "gh_stars": 1292,
     "gh_issues": 16,
-    "gh_branch": "master",
-    "man_identifier": "com.creatide.sketch.animatemate",
-    "man_version": "0.1.9",
-    "man_compatible_version": "3.5.2"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-to-trello",
@@ -4465,12 +4462,12 @@
     "added": "2016-08-23 08:40:18 UTC",
     "homepage": "https://github.com/Ashung/Android_Res_Export",
     "gh_url": "https://github.com/Ashung/Android_Res_Export.git",
-    "gh_updated": "2019-03-02 14:33:35 UTC",
+    "gh_updated": "2019-03-14 12:37:11 UTC",
     "gh_stars": 173,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.android_res_export",
-    "man_version": "3.8.2",
+    "man_version": "3.8.3",
     "man_compatible_version": "4",
     "icon": "https://raw.githubusercontent.com/Ashung/Android_Res_Export/master/Android_Res_Export.sketchplugin/Contents/Resources/icon.png"
   },
@@ -8449,7 +8446,7 @@
     "gh_url": "https://github.com/tbrasington/text-to-styles.git",
     "gh_updated": "2019-03-14 12:02:32 UTC",
     "gh_stars": 20,
-    "gh_issues": 3,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/tbrasington/text-to-styles/master/text-to-styles.sketchplugin/Contents/Resources/icon.png"

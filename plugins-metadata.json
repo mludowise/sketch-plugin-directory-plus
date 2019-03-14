@@ -519,7 +519,7 @@
     "homepage": "https://github.com/novemberfiveco/symbol-spacer-sketch-plugin",
     "added": "2017-06-10 18:01:18 UTC",
     "gh_url": "https://github.com/novemberfiveco/symbol-spacer-sketch-plugin.git",
-    "gh_updated": "2017-10-19 22:41:52 UTC",
+    "gh_updated": "2017-10-19 22:41:55 UTC",
     "gh_stars": 76,
     "gh_issues": 7,
     "gh_branch": "master",
@@ -1762,7 +1762,16 @@
     "author": "Raureif",
     "title": "Click Dummy",
     "description": "Export simple HTML click dummies to prototype interactivity. Just draw rectangles to create links between artboards.",
-    "added": "2014-12-10 14:58:29 UTC"
+    "added": "2014-12-10 14:58:29 UTC",
+    "homepage": "https://github.com/Raureif/sketch-click-dummy",
+    "gh_url": "https://github.com/Raureif/sketch-click-dummy.git",
+    "gh_updated": "2018-02-01 17:42:22 UTC",
+    "gh_stars": 103,
+    "gh_issues": 6,
+    "gh_branch": "master",
+    "man_identifier": "net.raureif.sketch.click-dummy",
+    "man_version": "1.1",
+    "man_compatible_version": "3"
   },
   {
     "name": "material-design-color-palette",
@@ -2386,16 +2395,7 @@
     "author": "Kazuya Hirobe",
     "title": "Export for Replia",
     "description": "Sketch Plugins to export selected artboard or layers for Replia.",
-    "added": "2015-07-30 12:18:43 UTC",
-    "homepage": "https://github.com/bunguu/SketchExportForRepliaPlugin",
-    "gh_url": "https://github.com/bunguu/SketchExportForRepliaPlugin.git",
-    "gh_updated": "2018-05-30 06:11:45 UTC",
-    "gh_stars": 6,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "io.replia.sketch-export-replia-plugin",
-    "man_version": "1.6",
-    "man_compatible_version": "45"
+    "added": "2015-07-30 12:18:43 UTC"
   },
   {
     "name": "statemachine-sketch",
@@ -3264,7 +3264,16 @@
     "author": "Antonio J. Martinez",
     "title": "Sketch Image Average Color",
     "description": "A plugin to save and use the average color of an image.",
-    "added": "2016-01-01 11:30:47 UTC"
+    "added": "2016-01-01 11:30:47 UTC",
+    "homepage": "https://github.com/AntonioJMartinez/sketch-ImageAverageColor",
+    "gh_url": "https://github.com/AntonioJMartinez/sketch-ImageAverageColor.git",
+    "gh_updated": "2019-01-02 07:19:26 UTC",
+    "gh_stars": 31,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.antoniojmartinez.sketch.imageAverageColor",
+    "man_version": "1.1",
+    "man_compatible_version": "3"
   },
   {
     "name": "Framer-Inventory-for-Sketch",
@@ -4251,7 +4260,7 @@
     "added": "2016-07-26 14:23:59 UTC",
     "homepage": "https://github.com/Volorf/Paster",
     "gh_url": "https://github.com/Volorf/Paster.git",
-    "gh_updated": "2017-09-06 04:03:04 UTC",
+    "gh_updated": "2017-09-06 04:03:05 UTC",
     "gh_stars": 88,
     "gh_issues": 3,
     "gh_branch": "master",
@@ -8162,7 +8171,7 @@
     "added": "2018-07-17 09:02:33 UTC",
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
-    "gh_updated": "2019-03-14 10:25:36 UTC",
+    "gh_updated": "2019-03-14 16:27:36 UTC",
     "gh_stars": 79,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -9248,11 +9257,7 @@
     "gh_updated": "2019-01-30 17:01:59 UTC",
     "gh_stars": 2,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "2O3T Tools",
-    "man_version": "1.2.0",
-    "man_compatible_version": "51",
-    "icon": "https://raw.githubusercontent.com/2o3t/2o3t-Sketch-Tools/master/2O3T-Tools.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "sketch2pixi-plugin",
@@ -9494,7 +9499,7 @@
     "added": "2019-02-20 16:00:57 UTC",
     "homepage": "https://github.com/KevinvBre/Sketch-Line2Rect",
     "gh_url": "https://github.com/KevinvBre/Sketch-Line2Rect.git",
-    "gh_updated": "2019-02-21 16:16:47 UTC",
+    "gh_updated": "2019-02-21 16:13:48 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
     "gh_branch": "master",

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-14 13:01:53 UTC
+Updated 2019-03-14 14:01:23 UTC
 
 Total plugins: 602
 
@@ -61,6 +61,8 @@ Total plugins: 602
 
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
 
+**[timuric/Content-generator-sketch-plugin](https://github.com/timuric/Content-generator-sketch-plugin) has no repo**
+
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
 
 [getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) manifest.json contains extra commas
@@ -96,8 +98,6 @@ Total plugins: 602
 [ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
 
 [LaloMrtnz/Prism](https://github.com/LaloMrtnz/Prism) manifest.json contains extra commas
-
-**[Creatide/AnimateMate](https://github.com/Creatide/AnimateMate) missing manifest.json**
 
 **SketchRunner/ has no repo**
 

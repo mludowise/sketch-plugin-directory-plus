@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-14 14:01:23 UTC
+Updated 2019-03-14 15:01:24 UTC
 
 Total plugins: 602
 
@@ -31,6 +31,8 @@ Total plugins: 602
 
 **/ has no repo**
 
+**[wix-incubator/sketch-symbol-legend](https://github.com/wix-incubator/sketch-symbol-legend) missing manifest.json**
+
 **/ has no repo**
 
 **/ has no repo**
@@ -60,8 +62,6 @@ Total plugins: 602
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
 
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
-
-**[timuric/Content-generator-sketch-plugin](https://github.com/timuric/Content-generator-sketch-plugin) has no repo**
 
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
 
@@ -352,6 +352,8 @@ Total plugins: 602
 **[mathieudutour/sketch-styles-hierarchy](https://github.com/mathieudutour/sketch-styles-hierarchy) manifest.json is missing identifier**
 
 **[perrysmotors/symbol-namer](https://github.com/perrysmotors/symbol-namer) manifest.json is missing identifier**
+
+**[dribbble/dribbble-sketch](https://github.com/dribbble/dribbble-sketch) has no repo**
 
 **[Pausansol/Escriba](https://github.com/Pausansol/Escriba) manifest.json is missing identifier**
 

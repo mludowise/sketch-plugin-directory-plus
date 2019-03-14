@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-14 12:01:40 UTC
+Updated 2019-03-14 13:01:53 UTC
 
 Total plugins: 602
 
@@ -96,6 +96,8 @@ Total plugins: 602
 [ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
 
 [LaloMrtnz/Prism](https://github.com/LaloMrtnz/Prism) manifest.json contains extra commas
+
+**[Creatide/AnimateMate](https://github.com/Creatide/AnimateMate) missing manifest.json**
 
 **SketchRunner/ has no repo**
 

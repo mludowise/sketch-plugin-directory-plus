@@ -1828,7 +1828,15 @@
     "author": "Ken Moore",
     "title": "Relabel Button",
     "description": "Update a button's label and it gets resized automatically, preserving existing padding.",
-    "added": "2015-01-12 09:28:25 UTC"
+    "added": "2015-01-12 09:28:25 UTC",
+    "homepage": "https://github.com/kenmoore/sketch-relabel-button",
+    "gh_url": "https://github.com/kenmoore/sketch-relabel-button.git",
+    "gh_updated": "2019-03-07 04:53:55 UTC",
+    "gh_stars": 353,
+    "gh_issues": 17,
+    "gh_branch": "master",
+    "man_identifier": "com.kenmoore.sketch.relabelbutton",
+    "man_version": "1.10"
   },
   {
     "name": "sketch-pull-to-center",
@@ -8172,12 +8180,12 @@
     "added": "2018-07-17 09:02:33 UTC",
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
-    "gh_updated": "2019-03-14 16:27:36 UTC",
+    "gh_updated": "2019-03-14 20:07:39 UTC",
     "gh_stars": 79,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.cloudblue.sketch.exporter",
-    "man_version": "5.9.2",
+    "man_version": "5.10.0",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/MaxBazarov/exporter/master/Exporter.sketchplugin/Contents/Resources/icon.png"
   },

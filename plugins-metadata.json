@@ -189,7 +189,9 @@
     "gh_updated": "2018-05-23 09:42:25 UTC",
     "gh_stars": 6,
     "gh_issues": 6,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.fed-infra.legend-plugin",
+    "man_version": "2.0.0"
   },
   {
     "name": "sketch-isometric",
@@ -1582,7 +1584,7 @@
     "added": "2014-10-07 10:45:46 UTC",
     "homepage": "https://github.com/x-raizor/Efficiency",
     "gh_url": "https://github.com/x-raizor/Efficiency.git",
-    "gh_updated": "2018-02-12 21:16:57 UTC",
+    "gh_updated": "2018-02-12 21:16:48 UTC",
     "gh_stars": 118,
     "gh_issues": 3,
     "gh_branch": "master",
@@ -1760,16 +1762,7 @@
     "author": "Raureif",
     "title": "Click Dummy",
     "description": "Export simple HTML click dummies to prototype interactivity. Just draw rectangles to create links between artboards.",
-    "added": "2014-12-10 14:58:29 UTC",
-    "homepage": "https://github.com/Raureif/sketch-click-dummy",
-    "gh_url": "https://github.com/Raureif/sketch-click-dummy.git",
-    "gh_updated": "2018-02-01 17:42:22 UTC",
-    "gh_stars": 103,
-    "gh_issues": 6,
-    "gh_branch": "master",
-    "man_identifier": "net.raureif.sketch.click-dummy",
-    "man_version": "1.1",
-    "man_compatible_version": "3"
+    "added": "2014-12-10 14:58:29 UTC"
   },
   {
     "name": "material-design-color-palette",
@@ -2464,7 +2457,7 @@
     "homepage": "https://github.com/keremciu/sketch-iconfont",
     "gh_url": "https://github.com/keremciu/sketch-iconfont.git",
     "gh_updated": "2017-12-07 00:42:31 UTC",
-    "gh_stars": 1845,
+    "gh_stars": 1846,
     "gh_issues": 36,
     "gh_branch": "master",
     "man_identifier": "com.keremciu.sketch.iconfont",
@@ -3271,16 +3264,7 @@
     "author": "Antonio J. Martinez",
     "title": "Sketch Image Average Color",
     "description": "A plugin to save and use the average color of an image.",
-    "added": "2016-01-01 11:30:47 UTC",
-    "homepage": "https://github.com/AntonioJMartinez/sketch-ImageAverageColor",
-    "gh_url": "https://github.com/AntonioJMartinez/sketch-ImageAverageColor.git",
-    "gh_updated": "2019-01-02 07:19:26 UTC",
-    "gh_stars": 31,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.antoniojmartinez.sketch.imageAverageColor",
-    "man_version": "1.1",
-    "man_compatible_version": "3"
+    "added": "2016-01-01 11:30:47 UTC"
   },
   {
     "name": "Framer-Inventory-for-Sketch",
@@ -7920,7 +7904,7 @@
     "homepage": "https://github.com/ahmedmigo/overrideit-sketchplugin",
     "gh_url": "https://github.com/ahmedmigo/overrideit-sketchplugin.git",
     "gh_updated": "2019-03-12 09:43:32 UTC",
-    "gh_stars": 98,
+    "gh_stars": 99,
     "gh_issues": 10,
     "gh_branch": "master",
     "man_identifier": "overrideit.plugin",
@@ -9475,7 +9459,14 @@
     "title": "Dribbble",
     "description": "Share your creative process directly to the Dribbble community from within Sketch.",
     "homepage": "https://github.com/dribbble/dribbble-sketch",
-    "added": "2019-02-20 16:00:57 UTC"
+    "added": "2019-02-20 16:00:57 UTC",
+    "gh_url": "https://github.com/dribbble/dribbble-sketch.git",
+    "gh_updated": "2019-02-06 16:32:00 UTC",
+    "gh_stars": 4,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.dribbble.sketch-plugin",
+    "man_compatible_version": "3"
   },
   {
     "name": "Escriba",
@@ -9503,7 +9494,7 @@
     "added": "2019-02-20 16:00:57 UTC",
     "homepage": "https://github.com/KevinvBre/Sketch-Line2Rect",
     "gh_url": "https://github.com/KevinvBre/Sketch-Line2Rect.git",
-    "gh_updated": "2019-02-21 16:13:48 UTC",
+    "gh_updated": "2019-02-21 16:16:47 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
     "gh_branch": "master",

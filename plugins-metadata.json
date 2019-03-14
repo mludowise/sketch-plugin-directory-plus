@@ -1472,7 +1472,10 @@
     "gh_updated": "2018-02-22 08:09:16 UTC",
     "gh_stars": 659,
     "gh_issues": 9,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.getflourish.sketch.colorcontrastanalyser",
+    "man_version": "2.0",
+    "man_compatible_version": "4"
   },
   {
     "name": "Sketch-Set-Line-Height-Plugin",
@@ -1825,15 +1828,7 @@
     "author": "Ken Moore",
     "title": "Relabel Button",
     "description": "Update a button's label and it gets resized automatically, preserving existing padding.",
-    "added": "2015-01-12 09:28:25 UTC",
-    "homepage": "https://github.com/kenmoore/sketch-relabel-button",
-    "gh_url": "https://github.com/kenmoore/sketch-relabel-button.git",
-    "gh_updated": "2019-03-07 04:53:55 UTC",
-    "gh_stars": 353,
-    "gh_issues": 17,
-    "gh_branch": "master",
-    "man_identifier": "com.kenmoore.sketch.relabelbutton",
-    "man_version": "1.10"
+    "added": "2015-01-12 09:28:25 UTC"
   },
   {
     "name": "sketch-pull-to-center",

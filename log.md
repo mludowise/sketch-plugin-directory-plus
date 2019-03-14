@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-14 17:01:38 UTC
+Updated 2019-03-14 18:01:45 UTC
 
 Total plugins: 602
 
@@ -63,7 +63,7 @@ Total plugins: 602
 
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
 
-[getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) manifest.json contains extra commas
+**[getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) missing manifest.json**
 
 [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/Sketch-Set-Line-Height-Plugin) manifest.json contains extra commas
 
@@ -84,8 +84,6 @@ Total plugins: 602
 [hamidp/sketchtextsourcer](https://github.com/hamidp/sketchtextsourcer) manifest.json contains extra commas
 
 [jamztang/MagicMirror](https://github.com/jamztang/MagicMirror) manifest.json contains extra commas
-
-**[bunguu/SketchExportForRepliaPlugin](https://github.com/bunguu/SketchExportForRepliaPlugin) has no repo**
 
 [stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers) manifest.json contains extra commas
 

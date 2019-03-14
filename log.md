@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-14 15:01:24 UTC
+Updated 2019-03-14 16:02:04 UTC
 
 Total plugins: 602
 
@@ -30,8 +30,6 @@ Total plugins: 602
 **[wwsun/fusion-cool](https://github.com/wwsun/fusion-cool) has no repo**
 
 **/ has no repo**
-
-**[wix-incubator/sketch-symbol-legend](https://github.com/wix-incubator/sketch-symbol-legend) missing manifest.json**
 
 **/ has no repo**
 
@@ -73,6 +71,8 @@ Total plugins: 602
 
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
 
+**[Raureif/sketch-click-dummy](https://github.com/Raureif/sketch-click-dummy) has no repo**
+
 [getflourish/Sketch-Mate](https://github.com/getflourish/Sketch-Mate) manifest.json contains extra commas
 
 [eivindbohler/Sketch-Unlinker](https://github.com/eivindbohler/Sketch-Unlinker) manifest.json contains extra commas
@@ -94,6 +94,8 @@ Total plugins: 602
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 
 **[heysketch/sketch-color-picker-plus](https://github.com/heysketch/sketch-color-picker-plus) has no repo**
+
+**[AntonioJMartinez/sketch-ImageAverageColor](https://github.com/AntonioJMartinez/sketch-ImageAverageColor) has no repo**
 
 [ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
 
@@ -352,8 +354,6 @@ Total plugins: 602
 **[mathieudutour/sketch-styles-hierarchy](https://github.com/mathieudutour/sketch-styles-hierarchy) manifest.json is missing identifier**
 
 **[perrysmotors/symbol-namer](https://github.com/perrysmotors/symbol-namer) manifest.json is missing identifier**
-
-**[dribbble/dribbble-sketch](https://github.com/dribbble/dribbble-sketch) has no repo**
 
 **[Pausansol/Escriba](https://github.com/Pausansol/Escriba) manifest.json is missing identifier**
 

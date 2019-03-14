@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-14 11:01:44 UTC
+Updated 2019-03-14 12:01:40 UTC
 
 Total plugins: 602
 
@@ -296,6 +296,8 @@ Total plugins: 602
 **[yeun/sd-changer](https://github.com/yeun/sd-changer) manifest.json is missing identifier**
 
 **[zaaack/Inker8](https://github.com/zaaack/Inker8) has no repo**
+
+**[tbrasington/text-to-styles](https://github.com/tbrasington/text-to-styles) manifest.json is missing identifier**
 
 **[sensive/sensive-sketch](https://github.com/sensive/sensive-sketch) manifest.json is missing identifier**
 

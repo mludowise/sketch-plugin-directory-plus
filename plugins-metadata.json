@@ -189,9 +189,7 @@
     "gh_updated": "2018-05-23 09:42:25 UTC",
     "gh_stars": 6,
     "gh_issues": 6,
-    "gh_branch": "master",
-    "man_identifier": "com.fed-infra.legend-plugin",
-    "man_version": "2.0.0"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-isometric",
@@ -1205,7 +1203,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6316,
+    "gh_stars": 6317,
     "gh_issues": 291,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -1217,7 +1215,15 @@
     "author": "Timur Carpeev",
     "title": "Content Generator",
     "description": "Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc.",
-    "added": "2014-05-18 14:11:20 UTC"
+    "added": "2014-05-18 14:11:20 UTC",
+    "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
+    "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
+    "gh_updated": "2017-10-27 21:23:58 UTC",
+    "gh_stars": 4396,
+    "gh_issues": 44,
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
+    "man_version": "1.2"
   },
   {
     "name": "sandros-sketch-plugins",
@@ -1576,7 +1582,7 @@
     "added": "2014-10-07 10:45:46 UTC",
     "homepage": "https://github.com/x-raizor/Efficiency",
     "gh_url": "https://github.com/x-raizor/Efficiency.git",
-    "gh_updated": "2018-02-12 21:16:48 UTC",
+    "gh_updated": "2018-02-12 21:16:57 UTC",
     "gh_stars": 118,
     "gh_issues": 3,
     "gh_branch": "master",
@@ -2026,7 +2032,7 @@
     "added": "2017-01-09 14:28:43 UTC",
     "homepage": "https://github.com/preciousforever/sketch-bounding-boxer",
     "gh_url": "https://github.com/preciousforever/sketch-bounding-boxer.git",
-    "gh_updated": "2019-02-04 07:58:33 UTC",
+    "gh_updated": "2019-02-04 07:58:32 UTC",
     "gh_stars": 59,
     "gh_issues": 9,
     "gh_branch": "master",
@@ -3366,7 +3372,7 @@
     "added": "2016-01-14 08:45:27 UTC",
     "homepage": "https://github.com/lewishowles/sketch-bound-with-box",
     "gh_url": "https://github.com/lewishowles/sketch-bound-with-box.git",
-    "gh_updated": "2018-12-20 15:41:53 UTC",
+    "gh_updated": "2017-05-06 21:08:23 UTC",
     "gh_stars": 36,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -9469,14 +9475,7 @@
     "title": "Dribbble",
     "description": "Share your creative process directly to the Dribbble community from within Sketch.",
     "homepage": "https://github.com/dribbble/dribbble-sketch",
-    "added": "2019-02-20 16:00:57 UTC",
-    "gh_url": "https://github.com/dribbble/dribbble-sketch.git",
-    "gh_updated": "2019-02-06 16:32:00 UTC",
-    "gh_stars": 4,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.dribbble.sketch-plugin",
-    "man_compatible_version": "3"
+    "added": "2019-02-20 16:00:57 UTC"
   },
   {
     "name": "Escriba",

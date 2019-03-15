@@ -1,10 +1,12 @@
 # Plugin Metadata
 
-Updated 2019-03-15 11:02:15 UTC
+Updated 2019-03-15 17:02:18 UTC
 
-Total plugins: 602
+Total plugins: 625
 
 ## Problems
+**[AnimaApp/Anima](https://github.com/AnimaApp/Anima) has no repo**
+
 **[Alipay Design/Dapollo](https://github.com/Alipay Design/Dapollo) has no repo**
 
 **[monzo/file-cleaner](https://github.com/monzo/file-cleaner) manifest.json is missing identifier**
@@ -358,4 +360,20 @@ Total plugins: 602
 **[jimboroberts/Droplr](https://github.com/jimboroberts/Droplr) has no repo**
 
 **[TheNounProject/SketchPluginReloader](https://github.com/TheNounProject/SketchPluginReloader) manifest.json is missing identifier**
+
+**[mathieudutour/sketch-a-sketch](https://github.com/mathieudutour/sketch-a-sketch) manifest.json is missing identifier**
+
+**[idriesalbender/iban-sketch-plugin](https://github.com/idriesalbender/iban-sketch-plugin) manifest.json is missing identifier**
+
+**[melsomino/Somino](https://github.com/melsomino/Somino) has no repo**
+
+**[madwaro/MiseEnPlace](https://github.com/madwaro/MiseEnPlace) manifest.json is missing identifier**
+
+**[nOograss/labelizING](https://github.com/nOograss/labelizING) manifest.json is missing identifier**
+
+**[ahadik/chemofill](https://github.com/ahadik/chemofill) manifest.json is missing identifier**
+
+**[Infragistics/Indigo.Design](https://github.com/Infragistics/Indigo.Design) has no repo**
+
+**[Rutger Willems/Airtabledata](https://github.com/Rutger Willems/Airtabledata) has no repo**
 

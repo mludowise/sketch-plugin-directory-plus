@@ -469,7 +469,7 @@
     "added": "2018-09-17 16:00:57 UTC",
     "gh_url": "https://github.com/weixin/Miaow.git",
     "gh_updated": "2019-01-28 03:29:04 UTC",
-    "gh_stars": 2392,
+    "gh_stars": 2393,
     "gh_issues": 18,
     "gh_branch": "master",
     "man_identifier": "cn.wechat",
@@ -7454,7 +7454,7 @@
     "gh_url": "https://github.com/Shopify/polaris-telescope.git",
     "gh_updated": "2019-01-25 23:57:12 UTC",
     "gh_stars": 83,
-    "gh_issues": 2,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "shopify.polaris-telescope.search",
     "man_compatible_version": "3"

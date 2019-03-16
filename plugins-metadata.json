@@ -2475,7 +2475,7 @@
     "homepage": "https://github.com/keremciu/sketch-iconfont",
     "gh_url": "https://github.com/keremciu/sketch-iconfont.git",
     "gh_updated": "2017-12-07 00:42:31 UTC",
-    "gh_stars": 1847,
+    "gh_stars": 1848,
     "gh_issues": 36,
     "gh_branch": "master",
     "man_identifier": "com.keremciu.sketch.iconfont",
@@ -7454,7 +7454,7 @@
     "gh_url": "https://github.com/Shopify/polaris-telescope.git",
     "gh_updated": "2019-01-25 23:57:12 UTC",
     "gh_stars": 83,
-    "gh_issues": 3,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "shopify.polaris-telescope.search",
     "man_compatible_version": "3"

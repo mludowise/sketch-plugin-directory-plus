@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-18 10:02:15 UTC
+Updated 2019-03-18 11:01:47 UTC
 
 Total plugins: 625
 
@@ -136,6 +136,8 @@ Total plugins: 625
 **[amin-nas/Sketch-to-Clickthrough-HTML](https://github.com/amin-nas/Sketch-to-Clickthrough-HTML) manifest.json is missing identifier**
 
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
+
+**[DWilliames/nudge-resize-sketch-plugin](https://github.com/DWilliames/nudge-resize-sketch-plugin) has no repo**
 
 [finchalyzer/slinky](https://github.com/finchalyzer/slinky) manifest.json contains extra commas
 

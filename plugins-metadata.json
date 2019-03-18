@@ -2474,13 +2474,13 @@
     "added": "2015-09-12 20:26:51 UTC",
     "homepage": "https://github.com/keremciu/sketch-iconfont",
     "gh_url": "https://github.com/keremciu/sketch-iconfont.git",
-    "gh_updated": "2017-12-07 00:42:31 UTC",
+    "gh_updated": "2019-03-18 11:03:16 UTC",
     "gh_stars": 1848,
-    "gh_issues": 35,
+    "gh_issues": 24,
     "gh_branch": "master",
     "man_identifier": "com.keremciu.sketch.iconfont",
-    "man_version": "4.6.0",
-    "man_compatible_version": "48"
+    "man_version": "4.7.0",
+    "man_compatible_version": "50"
   },
   {
     "name": "Handy-Tools",
@@ -5500,7 +5500,16 @@
     "author": "David Williames",
     "title": "Nudge Resize",
     "description": "Resize a layer horizontally and vertically from the centre with easy keyboard shortcuts",
-    "added": "2017-03-12 17:02:05 UTC"
+    "added": "2017-03-12 17:02:05 UTC",
+    "homepage": "https://github.com/DWilliames/nudge-resize-sketch-plugin",
+    "gh_url": "https://github.com/DWilliames/nudge-resize-sketch-plugin.git",
+    "gh_updated": "2018-02-25 04:33:29 UTC",
+    "gh_stars": 24,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.davidwilliames.nudge-resize-sketch-plugin",
+    "man_version": "1.1",
+    "man_compatible_version": "39"
   },
   {
     "name": "nudge-corner-radius-sketch-plugin",
@@ -6802,7 +6811,7 @@
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2019-03-05 21:54:06 UTC",
     "gh_stars": 160,
-    "gh_issues": 8,
+    "gh_issues": 9,
     "gh_branch": "master",
     "man_compatible_version": "50"
   },
@@ -9695,7 +9704,7 @@
     "homepage": "https://github.com/nOograss/labelizING",
     "added": "2019-03-15 17:02:18 UTC",
     "gh_url": "https://github.com/nOograss/labelizer.git",
-    "gh_updated": "2019-03-15 09:49:49 UTC",
+    "gh_updated": "2019-03-18 11:38:45 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
     "gh_branch": "master",

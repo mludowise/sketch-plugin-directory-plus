@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-03-19 16:02:19 UTC
+Updated 2019-03-19 17:01:39 UTC
 
-Total plugins: 625
+Total plugins: 627
 
 ## Problems
 **[AnimaApp/Anima](https://github.com/AnimaApp/Anima) has no repo**
@@ -60,6 +60,8 @@ Total plugins: 625
 [herrhelms/radial-lines-sketch](https://github.com/herrhelms/radial-lines-sketch) manifest.json contains extra commas
 
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
+
+**[goodpatch/Prott-Sketch-Plugin](https://github.com/goodpatch/Prott-Sketch-Plugin) missing manifest.json**
 
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
 

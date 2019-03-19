@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-19 12:01:48 UTC
+Updated 2019-03-19 13:02:12 UTC
 
 Total plugins: 625
 
@@ -116,6 +116,8 @@ Total plugins: 625
 **Atomic.io/ has no repo**
 
 **/ has no repo**
+
+**[contentsync/SketchContentSync](https://github.com/contentsync/SketchContentSync) missing manifest.json**
 
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
 

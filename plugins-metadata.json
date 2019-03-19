@@ -979,7 +979,10 @@
     "gh_updated": "2018-12-07 01:49:08 UTC",
     "gh_stars": 27,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.goodpatch.prott.prott-sketch-plugin",
+    "man_version": "2.0.9",
+    "man_compatible_version": "3"
   },
   {
     "name": "Checkpoints-Plugin-for-Sketch",
@@ -3710,7 +3713,7 @@
     "homepage": "http://AnimateMate.com",
     "gh_url": "https://github.com/Creatide/AnimateMate.git",
     "gh_updated": "2017-07-14 05:21:52 UTC",
-    "gh_stars": 1292,
+    "gh_stars": 1293,
     "gh_issues": 16,
     "gh_branch": "master",
     "man_identifier": "com.creatide.sketch.animatemate",

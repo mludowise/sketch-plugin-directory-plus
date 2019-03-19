@@ -302,7 +302,9 @@
     "gh_updated": "2017-11-09 15:40:45 UTC",
     "gh_stars": 3,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_version": "0.1.0",
+    "man_compatible_version": "3"
   },
   {
     "name": "indigo-sketch-plugin",
@@ -2059,7 +2061,7 @@
     "gh_url": "https://github.com/preciousforever/data-populator.git",
     "gh_updated": "2018-11-11 23:19:12 UTC",
     "gh_stars": 1534,
-    "gh_issues": 26,
+    "gh_issues": 27,
     "gh_branch": "master"
   },
   {
@@ -3942,7 +3944,7 @@
     "added": "2016-05-31 15:16:43 UTC",
     "gh_url": "https://github.com/BohemianCoding/svgo-compressor.git",
     "gh_updated": "2019-03-12 20:18:12 UTC",
-    "gh_stars": 968,
+    "gh_stars": 969,
     "gh_issues": 8,
     "gh_branch": "develop",
     "man_identifier": "com.sketchapp.plugins.svgo-compressor",

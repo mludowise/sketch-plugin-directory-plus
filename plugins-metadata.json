@@ -979,10 +979,7 @@
     "gh_updated": "2018-12-07 01:49:08 UTC",
     "gh_stars": 27,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.goodpatch.prott.prott-sketch-plugin",
-    "man_version": "2.0.9",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "Checkpoints-Plugin-for-Sketch",
@@ -9895,5 +9892,39 @@
     "man_version": "2.0.1",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/TheSonOfThomp/Batch-Export-Rename/master/batch-rename-export.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "name": "Sketch-Case-Converter",
+    "owner": "ozgurgunes",
+    "author": "Özgür Güneş",
+    "title": "Case Converter",
+    "description": "Convert text layers, symbols or all instances of a symbol.",
+    "homepage": "https://github.com/ozgurgunes/Sketch-Case-Converter",
+    "added": "2019-03-19 17:01:39 UTC",
+    "gh_url": "https://github.com/ozgurgunes/Sketch-Case-Converter.git",
+    "gh_updated": "2019-03-18 21:01:17 UTC",
+    "gh_stars": 1,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.gunesozgur.sketch.case-converter",
+    "man_compatible_version": "3"
+  },
+  {
+    "name": "sketch-camera-hotkeys",
+    "owner": "jayhxmo",
+    "author": "Jay Mo",
+    "title": "sketch-camera-hotkeys",
+    "description": "Navigate around and present more efficiently",
+    "homepage": "https://github.com/jayhxmo/sketch-camera-hotkeys",
+    "added": "2019-03-19 17:01:39 UTC",
+    "gh_url": "https://github.com/jayhxmo/sketch-camera-hotkeys.git",
+    "gh_updated": "2019-03-18 23:01:00 UTC",
+    "gh_stars": 2,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "io.jaymo.sketch-camera-hotkeys",
+    "man_version": "1.0.1",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/jayhxmo/sketch-camera-hotkeys/master/sketch-camera-hotkeys.sketchplugin/Contents/Resources/icon.png"
   }
 ]

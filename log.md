@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-19 13:02:12 UTC
+Updated 2019-03-19 14:02:12 UTC
 
 Total plugins: 625
 
@@ -45,7 +45,7 @@ Total plugins: 625
 
 **[udi-gindi/sendTo](https://github.com/udi-gindi/sendTo) manifest.json is missing identifier**
 
-[LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) manifest.json contains extra commas
+**[LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) has no repo**
 
 **/ has no repo**
 
@@ -73,6 +73,8 @@ Total plugins: 625
 
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
 
+**[t32k/material-design-color-palette](https://github.com/t32k/material-design-color-palette) has no repo**
+
 [getflourish/Sketch-Mate](https://github.com/getflourish/Sketch-Mate) manifest.json contains extra commas
 
 [eivindbohler/Sketch-Unlinker](https://github.com/eivindbohler/Sketch-Unlinker) manifest.json contains extra commas
@@ -88,6 +90,8 @@ Total plugins: 625
 [jamztang/MagicMirror](https://github.com/jamztang/MagicMirror) manifest.json contains extra commas
 
 [stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers) manifest.json contains extra commas
+
+**[schwa23/cleanupsfui](https://github.com/schwa23/cleanupsfui) missing manifest.json**
 
 [JohnCoates/CSSketch](https://github.com/JohnCoates/CSSketch) manifest.json contains extra commas
 
@@ -116,8 +120,6 @@ Total plugins: 625
 **Atomic.io/ has no repo**
 
 **/ has no repo**
-
-**[contentsync/SketchContentSync](https://github.com/contentsync/SketchContentSync) missing manifest.json**
 
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
 

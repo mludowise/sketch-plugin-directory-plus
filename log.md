@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-19 15:01:47 UTC
+Updated 2019-03-19 16:02:19 UTC
 
 Total plugins: 625
 
@@ -43,7 +43,7 @@ Total plugins: 625
 
 **[mjkaufer/smudge](https://github.com/mjkaufer/smudge) manifest.json is missing identifier**
 
-**[udi-gindi/sendTo](https://github.com/udi-gindi/sendTo) missing manifest.json**
+**[udi-gindi/sendTo](https://github.com/udi-gindi/sendTo) manifest.json is missing identifier**
 
 [LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) manifest.json contains extra commas
 

@@ -3417,7 +3417,7 @@
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2019-02-26 12:56:37 UTC",
     "gh_stars": 2318,
-    "gh_issues": 28,
+    "gh_issues": 29,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
     "man_compatible_version": "3",
@@ -8102,7 +8102,7 @@
     "homepage": "https://kitchen.alipay.com/",
     "gh_url": "https://github.com/ant-design/kitchen.git",
     "gh_updated": "2018-11-13 14:23:37 UTC",
-    "gh_stars": 66,
+    "gh_stars": 67,
     "gh_issues": 6,
     "gh_branch": "master"
   },

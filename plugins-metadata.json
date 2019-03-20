@@ -4706,12 +4706,12 @@
     "added": "2016-09-28 14:25:23 UTC",
     "homepage": "https://github.com/sonburn/symbol-organizer",
     "gh_url": "https://github.com/sonburn/symbol-organizer.git",
-    "gh_updated": "2019-03-19 21:44:18 UTC",
+    "gh_updated": "2019-03-20 01:34:06 UTC",
     "gh_stars": 702,
-    "gh_issues": 31,
+    "gh_issues": 30,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-organizer",
-    "man_version": "15.8",
+    "man_version": "15.9",
     "icon": "https://raw.githubusercontent.com/sonburn/symbol-organizer/master/Symbol%20Organizer.sketchplugin/Contents/Resources/icon.png"
   },
   {

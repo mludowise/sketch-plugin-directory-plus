@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-20 15:01:55 UTC
+Updated 2019-03-20 16:01:46 UTC
 
 Total plugins: 627
 
@@ -44,8 +44,6 @@ Total plugins: 627
 **[mjkaufer/smudge](https://github.com/mjkaufer/smudge) manifest.json is missing identifier**
 
 **[udi-gindi/sendTo](https://github.com/udi-gindi/sendTo) manifest.json is missing identifier**
-
-**[indigostudio/indigo-sketch-plugin](https://github.com/indigostudio/indigo-sketch-plugin) missing manifest.json**
 
 [LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) manifest.json contains extra commas
 
@@ -136,8 +134,6 @@ Total plugins: 627
 [eaugustine/Sketch-Color-Contrast-Analyzer](https://github.com/eaugustine/Sketch-Color-Contrast-Analyzer) manifest.json contains extra commas
 
 **[amin-nas/Sketch-to-Clickthrough-HTML](https://github.com/amin-nas/Sketch-to-Clickthrough-HTML) manifest.json is missing identifier**
-
-**[bigxixi/Sketch2AE](https://github.com/bigxixi/Sketch2AE) missing manifest.json**
 
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
 
@@ -261,7 +257,7 @@ Total plugins: 627
 
 **[toyboxsystems/roller](https://github.com/toyboxsystems/roller) manifest.json is missing identifier**
 
-**[perrysmotors/sketch-unsplasher](https://github.com/perrysmotors/sketch-unsplasher) missing manifest.json**
+**[perrysmotors/sketch-unsplasher](https://github.com/perrysmotors/sketch-unsplasher) manifest.json is missing identifier**
 
 **[youngxkk/AutoFixiOSTextLineHeight-Sketch-Plugin](https://github.com/youngxkk/AutoFixiOSTextLineHeight-Sketch-Plugin) has no repo**
 

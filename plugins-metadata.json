@@ -318,7 +318,10 @@
     "gh_updated": "2017-11-16 13:42:14 UTC",
     "gh_stars": 3,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.infragistics.indigo.exportplugin",
+    "man_version": "1.0.0",
+    "man_compatible_version": "47.1"
   },
   {
     "name": "loose-sketch-plugin",
@@ -838,7 +841,7 @@
     "added": "2016-10-11 11:01:32 UTC",
     "homepage": "https://github.com/emrerussia/sketch-clear-export-options",
     "gh_url": "https://github.com/emrerussia/sketch-clear-export-options.git",
-    "gh_updated": "2018-11-14 20:30:06 UTC",
+    "gh_updated": "2018-11-14 20:30:05 UTC",
     "gh_stars": 3,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -1922,7 +1925,7 @@
     "homepage": "https://github.com/PEZ/SketchDistributor",
     "gh_url": "https://github.com/PEZ/SketchDistributor.git",
     "gh_updated": "2018-05-31 06:23:28 UTC",
-    "gh_stars": 335,
+    "gh_stars": 336,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.betterthantomorrow.sketch.distributor",
@@ -2087,7 +2090,7 @@
     "added": "2015-06-06 18:14:49 UTC",
     "homepage": "https://github.com/kumo/sketch-tiles",
     "gh_url": "https://github.com/kumo/sketch-tiles.git",
-    "gh_updated": "2018-06-28 07:43:10 UTC",
+    "gh_updated": "2018-06-28 07:43:09 UTC",
     "gh_stars": 30,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -4885,9 +4888,7 @@
     "gh_updated": "2018-09-08 06:27:45 UTC",
     "gh_stars": 69,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "io.mamuso.sketch.text-truncate-text-lines",
-    "man_version": "0.0.1"
+    "gh_branch": "master"
   },
   {
     "name": "butter-sketch-plugin",
@@ -5237,7 +5238,9 @@
     "gh_updated": "2018-07-23 07:29:56 UTC",
     "gh_stars": 156,
     "gh_issues": 5,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sketch.bigxixi.Sketch2AE",
+    "man_version": "2.04"
   },
   {
     "name": "Sketch_Swatches",
@@ -7961,7 +7964,8 @@
     "gh_updated": "2018-10-03 11:07:56 UTC",
     "gh_stars": 49,
     "gh_issues": 4,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_compatible_version": "52"
   },
   {
     "name": "Sketch-Plugin",
@@ -9201,7 +9205,7 @@
     "homepage": "https://spectrum.chat/sketch-arrows",
     "gh_url": "https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows.git",
     "gh_updated": "2019-03-18 20:36:39 UTC",
-    "gh_stars": 90,
+    "gh_stars": 93,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "me.sabitov.sketch.connectionFlowArrows",
@@ -9419,7 +9423,7 @@
     "added": "2019-02-20 17:00:18 UTC",
     "gh_url": "https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows.git",
     "gh_updated": "2019-03-18 20:36:39 UTC",
-    "gh_stars": 90,
+    "gh_stars": 93,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "me.sabitov.sketch.connectionFlowArrows",

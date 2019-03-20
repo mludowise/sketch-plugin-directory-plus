@@ -4344,12 +4344,12 @@
     "added": "2017-03-22 12:51:18 UTC",
     "homepage": "https://github.com/contentsync/SketchContentSync",
     "gh_url": "https://github.com/contentsync/SketchContentSync.git",
-    "gh_updated": "2019-02-14 20:24:15 UTC",
+    "gh_updated": "2019-03-20 03:55:49 UTC",
     "gh_stars": 253,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.syncify.sketch.contentsync",
-    "man_version": "6.0.1",
+    "man_version": "6.1.0",
     "man_compatible_version": "3.7"
   },
   {
@@ -6225,7 +6225,7 @@
     "homepage": "https://websiddu.github.io/sketch-material",
     "gh_url": "https://github.com/websiddu/sketch-material.git",
     "gh_updated": "2019-01-08 17:35:45 UTC",
-    "gh_stars": 823,
+    "gh_stars": 824,
     "gh_issues": 10,
     "gh_branch": "master",
     "man_identifier": "com.google.material2.active",
@@ -6374,11 +6374,11 @@
     "added": "2017-08-14 08:52:27 UTC",
     "homepage": "https://github.com/d4rekanguok/sketch-slicer",
     "gh_url": "https://github.com/d4rekanguok/sketch-slicer.git",
-    "gh_updated": "2017-08-13 12:56:50 UTC",
+    "gh_updated": "2019-03-20 03:56:57 UTC",
     "gh_stars": 31,
-    "gh_issues": 2,
+    "gh_issues": 0,
     "gh_branch": "master",
-    "man_version": "0.1.0",
+    "man_version": "0.1.1",
     "man_compatible_version": "3"
   },
   {

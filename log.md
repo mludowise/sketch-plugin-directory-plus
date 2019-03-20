@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-20 13:01:36 UTC
+Updated 2019-03-20 14:01:52 UTC
 
 Total plugins: 627
 
@@ -90,6 +90,8 @@ Total plugins: 627
 [stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers) manifest.json contains extra commas
 
 [JohnCoates/CSSketch](https://github.com/JohnCoates/CSSketch) manifest.json contains extra commas
+
+**[acollurafici/Sketch-Nearest-8](https://github.com/acollurafici/Sketch-Nearest-8) has no repo**
 
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 

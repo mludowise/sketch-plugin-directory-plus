@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-20 21:01:55 UTC
+Updated 2019-03-20 22:02:13 UTC
 
 Total plugins: 627
 
@@ -278,8 +278,6 @@ Total plugins: 627
 **/ has no repo**
 
 **[ziven27/Sketch-IconScope](https://github.com/ziven27/Sketch-IconScope) manifest.json is missing identifier**
-
-**[Cracker9/cracker9-sketch-plugin](https://github.com/Cracker9/cracker9-sketch-plugin) has no repo**
 
 **[wantedly/sketch-wt-design](https://github.com/wantedly/sketch-wt-design) manifest.json is missing identifier**
 

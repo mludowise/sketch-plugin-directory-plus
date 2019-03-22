@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-22 16:02:08 UTC
+Updated 2019-03-22 17:02:02 UTC
 
 Total plugins: 627
 
@@ -100,8 +100,6 @@ Total plugins: 627
 [LaloMrtnz/Prism](https://github.com/LaloMrtnz/Prism) manifest.json contains extra commas
 
 **SketchRunner/ has no repo**
-
-**[wuwa/sketch-copy-to-all](https://github.com/wuwa/sketch-copy-to-all) missing manifest.json**
 
 [lessthanzero/Formr](https://github.com/lessthanzero/Formr) manifest.json contains extra commas
 

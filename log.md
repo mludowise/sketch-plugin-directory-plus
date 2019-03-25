@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-25 17:02:25 UTC
+Updated 2019-03-25 18:02:33 UTC
 
 Total plugins: 627
 
@@ -60,8 +60,6 @@ Total plugins: 627
 [herrhelms/radial-lines-sketch](https://github.com/herrhelms/radial-lines-sketch) manifest.json contains extra commas
 
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
-
-**[thetylerwolf/sketch-data-studio](https://github.com/thetylerwolf/sketch-data-studio) missing manifest.json**
 
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
 

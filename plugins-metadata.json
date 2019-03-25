@@ -973,16 +973,7 @@
     "author": "Goodpatch Inc.",
     "title": "Prott Sketch Plugin",
     "description": "Sync Sketch artboards to Prott like a boss.",
-    "added": "2015-07-24 09:02:37 UTC",
-    "homepage": "https://prottapp.com",
-    "gh_url": "https://github.com/goodpatch/Prott-Sketch-Plugin.git",
-    "gh_updated": "2018-12-07 01:49:08 UTC",
-    "gh_stars": 27,
-    "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.goodpatch.prott.prott-sketch-plugin",
-    "man_version": "2.0.9",
-    "man_compatible_version": "3"
+    "added": "2015-07-24 09:02:37 UTC"
   },
   {
     "name": "Checkpoints-Plugin-for-Sketch",
@@ -1114,10 +1105,7 @@
     "gh_updated": "2015-10-26 21:34:20 UTC",
     "gh_stars": 1,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "me.sebj.remove-fills-borders",
-    "man_version": "1.0",
-    "man_compatible_version": "3.3"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-preview",
@@ -1332,7 +1320,9 @@
     "gh_updated": "2017-06-08 14:26:13 UTC",
     "gh_stars": 101,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "net.creative-tweet.css-sprite-mixin",
+    "man_version": "1.3.3"
   },
   {
     "name": "Switch-Text-Spacing",
@@ -1743,7 +1733,9 @@
     "gh_updated": "2017-06-11 16:51:29 UTC",
     "gh_stars": 66,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.elihorne.smartboards",
+    "man_version": "1.3"
   },
   {
     "name": "Sketch-Better-Android-Export",
@@ -1973,10 +1965,7 @@
     "gh_updated": "2015-05-12 11:43:03 UTC",
     "gh_stars": 39,
     "gh_issues": 8,
-    "gh_branch": "master",
-    "man_identifier": "com.eivindbohler.sketch-unlinker",
-    "man_version": "1.1",
-    "man_compatible_version": "3.3"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-mail-merge",
@@ -4242,7 +4231,7 @@
     "homepage": "https://github.com/cute/SketchI18N",
     "gh_url": "https://github.com/cute/SketchI18N.git",
     "gh_updated": "2019-01-17 13:57:14 UTC",
-    "gh_stars": 1185,
+    "gh_stars": 1186,
     "gh_issues": 24,
     "gh_branch": "master",
     "man_identifier": "com.liguangming.sketch-i18n",
@@ -6892,11 +6881,7 @@
     "gh_updated": "2018-10-11 19:02:29 UTC",
     "gh_stars": 24,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.bryanberger.sketch-wcag",
-    "man_version": "1.1.0",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/bryanberger/sketch-wcag/master/sketch-wcag.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "caravel.sketchplugin",

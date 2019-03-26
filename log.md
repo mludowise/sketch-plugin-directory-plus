@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-26 20:01:54 UTC
+Updated 2019-03-26 21:01:29 UTC
 
 Total plugins: 627
 
@@ -9,7 +9,7 @@ Total plugins: 627
 
 **[Alipay Design/Dapollo](https://github.com/Alipay Design/Dapollo) has no repo**
 
-**[monzo/file-cleaner](https://github.com/monzo/file-cleaner) manifest.json is missing identifier**
+**[monzo/file-cleaner](https://github.com/monzo/file-cleaner) missing manifest.json**
 
 **[Webkul/Renamer](https://github.com/Webkul/Renamer) manifest.json is missing identifier**
 
@@ -107,6 +107,8 @@ Total plugins: 627
 
 [MagicSketch/MagicPresenter](https://github.com/MagicSketch/MagicPresenter) manifest.json contains extra commas
 
+**[BohemianCoding/svgo-compressor](https://github.com/BohemianCoding/svgo-compressor) missing manifest.json**
+
 [screenfork/ScreenFork](https://github.com/screenfork/ScreenFork) manifest.json contains extra commas
 
 **vmdanilov/ has no repo**
@@ -142,6 +144,8 @@ Total plugins: 627
 [Rezaaa/english-and-persian-lorem-ipsum](https://github.com/Rezaaa/english-and-persian-lorem-ipsum) manifest.json contains extra commas
 
 [partyka1/Fontily](https://github.com/partyka1/Fontily) manifest.json contains extra commas
+
+**[FrancisVega/sketch-copy-paste-layout-settings](https://github.com/FrancisVega/sketch-copy-paste-layout-settings) has no repo**
 
 [freeman990/Freeman-FinChart-SketchPlugin](https://github.com/freeman990/Freeman-FinChart-SketchPlugin) manifest.json contains extra commas
 
@@ -206,6 +210,8 @@ Total plugins: 627
 **[reqfire/sketch-user-flows](https://github.com/reqfire/sketch-user-flows) manifest.json is missing identifier**
 
 [kupe517/sketch-split-shape](https://github.com/kupe517/sketch-split-shape) manifest.json contains extra commas
+
+**[wescraig/Transpose](https://github.com/wescraig/Transpose) missing manifest.json**
 
 **[zcallan/sketch-bacon-ipsum](https://github.com/zcallan/sketch-bacon-ipsum) manifest.json is missing identifier**
 
@@ -345,11 +351,9 @@ Total plugins: 627
 
 **[inthepocket/hubble-sketch-plugin](https://github.com/inthepocket/hubble-sketch-plugin) manifest.json is missing identifier**
 
-**[enriquezgomez/datazier-lens](https://github.com/enriquezgomez/datazier-lens) manifest.json is missing identifier**
+**[enriquezgomez/datazier-lens](https://github.com/enriquezgomez/datazier-lens) has no repo**
 
 [faridsabitov/Sketch-Connection-Flow-Arrows](https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows) and [faridsabitov/Sketch-user-flows](https://github.com/faridsabitov/Sketch-user-flows) use the same manifest identifier, __me.sabitov.sketch.connectionFlowArrows__
-
-**[mathieudutour/sketch-styles-hierarchy](https://github.com/mathieudutour/sketch-styles-hierarchy) manifest.json is missing identifier**
 
 **[perrysmotors/symbol-namer](https://github.com/perrysmotors/symbol-namer) manifest.json is missing identifier**
 

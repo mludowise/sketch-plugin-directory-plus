@@ -29,8 +29,7 @@
     "gh_updated": "2019-02-22 17:03:07 UTC",
     "gh_stars": 45,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "Renamer",
@@ -153,7 +152,7 @@
     "homepage": "https://github.com/symdesign/sketch-auto-translate",
     "added": "2018-05-04 16:02:20 UTC",
     "gh_url": "https://github.com/symdesign/sketch-auto-translate.git",
-    "gh_updated": "2019-03-17 14:57:55 UTC",
+    "gh_updated": "2019-03-26 20:59:32 UTC",
     "gh_stars": 25,
     "gh_issues": 3,
     "gh_branch": "master",
@@ -811,9 +810,7 @@
     "gh_updated": "2017-07-24 18:48:11 UTC",
     "gh_stars": 10,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.yargies.selectexportables",
-    "man_version": "1.1.0"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-quickexport",
@@ -1958,7 +1955,7 @@
     "homepage": "https://github.com/frankko/Artboard-Tools",
     "gh_url": "https://github.com/frankko/Artboard-Tools.git",
     "gh_updated": "2018-11-21 16:20:21 UTC",
-    "gh_stars": 109,
+    "gh_stars": 108,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "io.kolo.sketch.artboard-tools",
@@ -2140,7 +2137,7 @@
     "added": "2015-07-08 12:27:44 UTC",
     "gh_url": "https://github.com/tudou527/marketch.git",
     "gh_updated": "2018-12-10 03:42:55 UTC",
-    "gh_stars": 2808,
+    "gh_stars": 2809,
     "gh_issues": 47,
     "gh_branch": "master",
     "man_identifier": "com.marketch.cosa.98908c77-3d38-48fa-8c7c-1bb465f67eb8",
@@ -2792,7 +2789,7 @@
     "added": "2015-10-06 06:52:25 UTC",
     "homepage": "https://github.com/romashamin/sort-me-sketch",
     "gh_url": "https://github.com/romashamin/sort-me-sketch.git",
-    "gh_updated": "2017-08-01 12:05:02 UTC",
+    "gh_updated": "2017-08-01 12:05:16 UTC",
     "gh_stars": 526,
     "gh_issues": 7,
     "gh_branch": "master",
@@ -2861,7 +2858,7 @@
     "homepage": "https://github.com/wonderbit/sketch-select-similar-layers",
     "gh_url": "https://github.com/wonderbit/sketch-select-similar-layers.git",
     "gh_updated": "2019-02-05 07:12:49 UTC",
-    "gh_stars": 254,
+    "gh_stars": 255,
     "gh_issues": 16,
     "gh_branch": "master",
     "man_identifier": "me.wessley.selectSimilarLayers",
@@ -3272,9 +3269,7 @@
     "gh_updated": "2018-01-23 21:43:24 UTC",
     "gh_stars": 82,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "me.kangchen.export-scale-generator",
-    "man_version": "1.1.1"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-ImageAverageColor",
@@ -3946,9 +3941,7 @@
     "gh_updated": "2019-03-12 20:18:12 UTC",
     "gh_stars": 970,
     "gh_issues": 8,
-    "gh_branch": "develop",
-    "man_identifier": "com.sketchapp.plugins.svgo-compressor",
-    "man_compatible_version": "3.8"
+    "gh_branch": "develop"
   },
   {
     "name": "ScreenFork",
@@ -5436,7 +5429,7 @@
     "added": "2017-02-28 09:09:28 UTC",
     "homepage": "https://github.com/ScottSavarie/Enumerator",
     "gh_url": "https://github.com/ScottSavarie/Enumerator.git",
-    "gh_updated": "2017-02-27 09:09:20 UTC",
+    "gh_updated": "2017-02-27 09:09:21 UTC",
     "gh_stars": 46,
     "gh_issues": 3,
     "gh_branch": "master",
@@ -5929,17 +5922,7 @@
     "author": "Francis",
     "title": "Sketch Copy Paste Layout Settings",
     "description": "Copy layout settings from one artboard and paste into multiples artboards.",
-    "added": "2017-05-17 10:01:12 UTC",
-    "homepage": "https://github.com/FrancisVega/sketch-copy-paste-layout-settings",
-    "gh_url": "https://github.com/FrancisVega/sketch-copy-paste-layout-settings.git",
-    "gh_updated": "2018-10-27 10:59:58 UTC",
-    "gh_stars": 36,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.layoutsettings",
-    "man_version": "1.3",
-    "man_compatible_version": "40",
-    "icon": "https://raw.githubusercontent.com/FrancisVega/sketch-copy-paste-layout-settings/master/sketch-layout-settings.sketchplugin/Contents/Resources/icon.png"
+    "added": "2017-05-17 10:01:12 UTC"
   },
   {
     "name": "Skatter",
@@ -6629,7 +6612,7 @@
     "added": "2017-10-26 07:40:25 UTC",
     "homepage": "https://github.com/pranusarna94/Swappr",
     "gh_url": "https://github.com/pranusarna94/Swappr.git",
-    "gh_updated": "2017-11-04 17:35:48 UTC",
+    "gh_updated": "2018-05-26 16:23:04 UTC",
     "gh_stars": 5,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -7272,9 +7255,7 @@
     "gh_updated": "2018-03-08 05:08:50 UTC",
     "gh_stars": 5,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.wescraig.sketch.transpose",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Smart-Style-Switcher",
@@ -7996,7 +7977,7 @@
     "homepage": "https://github.com/Frontify/sketch",
     "added": "2018-06-19 09:00:41 UTC",
     "gh_url": "https://github.com/Frontify/sketch.git",
-    "gh_updated": "2019-03-26 16:53:01 UTC",
+    "gh_updated": "2019-03-26 20:29:59 UTC",
     "gh_stars": 5,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -9389,13 +9370,7 @@
     "title": "Datazier Lens",
     "description": "Inspect and sort your local font book",
     "homepage": "https://github.com/enriquezgomez/datazier-lens",
-    "added": "2019-01-29 10:02:36 UTC",
-    "gh_url": "https://github.com/enriquezgomez/datazier-lens.git",
-    "gh_updated": "2019-01-25 02:14:05 UTC",
-    "gh_stars": 1,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_compatible_version": "3"
+    "added": "2019-01-29 10:02:36 UTC"
   },
   {
     "name": "iconify-sketch",
@@ -9461,8 +9436,7 @@
     "gh_updated": "2019-02-09 16:13:15 UTC",
     "gh_stars": 24,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "symbol-namer",

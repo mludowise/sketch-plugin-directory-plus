@@ -1656,16 +1656,7 @@
     "author": "Michael Fouquet",
     "title": "Color Copier",
     "description": "Sketch Plugin to quickly copy color RGB/HEX values.",
-    "added": "2014-11-10 08:30:49 UTC",
-    "homepage": "https://github.com/mfouquet/Color-Copier",
-    "gh_url": "https://github.com/mfouquet/Color-Copier.git",
-    "gh_updated": "2017-01-27 21:20:55 UTC",
-    "gh_stars": 21,
-    "gh_issues": 6,
-    "gh_branch": "master",
-    "man_identifier": "com.mfouquet.sketch.color-copier",
-    "man_version": "2.1",
-    "man_compatible_version": "3"
+    "added": "2014-11-10 08:30:49 UTC"
   },
   {
     "name": "Sketch-Notebook",
@@ -1811,9 +1802,7 @@
     "gh_updated": "2017-03-22 07:10:13 UTC",
     "gh_stars": 52,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.longzheng.sketch.randomsize",
-    "man_version": "2.0"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Better-Paste",
@@ -2675,7 +2664,7 @@
     "added": "2017-07-10 08:01:36 UTC",
     "homepage": "https://github.com/thierryc/Sketch-Find-And-Replace",
     "gh_url": "https://github.com/thierryc/Sketch-Find-And-Replace.git",
-    "gh_updated": "2019-03-26 17:07:09 UTC",
+    "gh_updated": "2019-03-26 18:15:07 UTC",
     "gh_stars": 605,
     "gh_issues": 25,
     "gh_branch": "master",
@@ -3316,15 +3305,7 @@
     "author": "Siddhartha Gudipati",
     "title": "Symbol Me",
     "description": "Convert all your similar layers to symbols with a single click.",
-    "added": "2016-01-12 16:29:00 UTC",
-    "homepage": "https://github.com/websiddu/sketch-symbol-me",
-    "gh_url": "https://github.com/websiddu/sketch-symbol-me.git",
-    "gh_updated": "2016-02-05 05:55:33 UTC",
-    "gh_stars": 79,
-    "gh_issues": 4,
-    "gh_branch": "master",
-    "man_identifier": "com.websiddu.sketch-symbol-me",
-    "man_version": "1.1.1"
+    "added": "2016-01-12 16:29:00 UTC"
   },
   {
     "name": "copy-color-as-hsla",
@@ -5555,7 +5536,7 @@
     "added": "2017-03-15 10:07:31 UTC",
     "gh_url": "https://github.com/lucaorio/sketch-styles-generator.git",
     "gh_updated": "2018-10-06 02:31:16 UTC",
-    "gh_stars": 435,
+    "gh_stars": 436,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.sketch.styles.generator",
@@ -6810,7 +6791,7 @@
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2019-03-05 21:54:06 UTC",
-    "gh_stars": 161,
+    "gh_stars": 162,
     "gh_issues": 10,
     "gh_branch": "master",
     "man_compatible_version": "50"
@@ -7453,7 +7434,7 @@
     "added": "2018-03-31 15:02:37 UTC",
     "gh_url": "https://github.com/Shopify/polaris-telescope.git",
     "gh_updated": "2019-01-25 23:57:12 UTC",
-    "gh_stars": 84,
+    "gh_stars": 85,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "shopify.polaris-telescope.search",

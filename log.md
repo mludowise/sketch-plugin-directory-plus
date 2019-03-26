@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-26 19:02:06 UTC
+Updated 2019-03-26 20:01:54 UTC
 
 Total plugins: 627
 
@@ -71,7 +71,7 @@ Total plugins: 627
 
 **[ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) manifest.json is missing identifier**
 
-**[mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) has no repo**
+[mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
 
 [getflourish/Sketch-Mate](https://github.com/getflourish/Sketch-Mate) manifest.json contains extra commas
 
@@ -94,8 +94,6 @@ Total plugins: 627
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 
 **[heysketch/sketch-color-picker-plus](https://github.com/heysketch/sketch-color-picker-plus) has no repo**
-
-**[websiddu/sketch-symbol-me](https://github.com/websiddu/sketch-symbol-me) has no repo**
 
 [ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
 

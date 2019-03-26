@@ -1214,7 +1214,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6340,
+    "gh_stars": 6341,
     "gh_issues": 292,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -3255,7 +3255,10 @@
     "gh_updated": "2017-05-10 17:18:46 UTC",
     "gh_stars": 68,
     "gh_issues": 4,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "nl.pixelpillow.copypasteguides",
+    "man_version": "0.8.0",
+    "man_compatible_version": "3.4.2"
   },
   {
     "name": "sketch-export-generator",

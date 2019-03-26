@@ -1656,7 +1656,16 @@
     "author": "Michael Fouquet",
     "title": "Color Copier",
     "description": "Sketch Plugin to quickly copy color RGB/HEX values.",
-    "added": "2014-11-10 08:30:49 UTC"
+    "added": "2014-11-10 08:30:49 UTC",
+    "homepage": "https://github.com/mfouquet/Color-Copier",
+    "gh_url": "https://github.com/mfouquet/Color-Copier.git",
+    "gh_updated": "2017-01-27 21:20:55 UTC",
+    "gh_stars": 21,
+    "gh_issues": 6,
+    "gh_branch": "master",
+    "man_identifier": "com.mfouquet.sketch.color-copier",
+    "man_version": "2.1",
+    "man_compatible_version": "3"
   },
   {
     "name": "Sketch-Notebook",
@@ -1802,7 +1811,9 @@
     "gh_updated": "2017-03-22 07:10:13 UTC",
     "gh_stars": 52,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.longzheng.sketch.randomsize",
+    "man_version": "2.0"
   },
   {
     "name": "Sketch-Better-Paste",
@@ -2664,9 +2675,9 @@
     "added": "2017-07-10 08:01:36 UTC",
     "homepage": "https://github.com/thierryc/Sketch-Find-And-Replace",
     "gh_url": "https://github.com/thierryc/Sketch-Find-And-Replace.git",
-    "gh_updated": "2019-03-26 18:15:07 UTC",
-    "gh_stars": 605,
-    "gh_issues": 25,
+    "gh_updated": "2019-03-26 19:54:02 UTC",
+    "gh_stars": 606,
+    "gh_issues": 21,
     "gh_branch": "master",
     "man_identifier": "cx.ap.sketch-find-and-replace",
     "man_version": "2.0",
@@ -3305,7 +3316,15 @@
     "author": "Siddhartha Gudipati",
     "title": "Symbol Me",
     "description": "Convert all your similar layers to symbols with a single click.",
-    "added": "2016-01-12 16:29:00 UTC"
+    "added": "2016-01-12 16:29:00 UTC",
+    "homepage": "https://github.com/websiddu/sketch-symbol-me",
+    "gh_url": "https://github.com/websiddu/sketch-symbol-me.git",
+    "gh_updated": "2016-02-05 05:55:33 UTC",
+    "gh_stars": 79,
+    "gh_issues": 4,
+    "gh_branch": "master",
+    "man_identifier": "com.websiddu.sketch-symbol-me",
+    "man_version": "1.1.1"
   },
   {
     "name": "copy-color-as-hsla",
@@ -3694,7 +3713,7 @@
     "homepage": "http://AnimateMate.com",
     "gh_url": "https://github.com/Creatide/AnimateMate.git",
     "gh_updated": "2017-07-14 05:21:52 UTC",
-    "gh_stars": 1293,
+    "gh_stars": 1294,
     "gh_issues": 16,
     "gh_branch": "master",
     "man_identifier": "com.creatide.sketch.animatemate",
@@ -6757,7 +6776,7 @@
     "homepage": "http://www.jacopocolo.com/p5sketchplugin/",
     "gh_url": "https://github.com/jacopocolo/p5-sketchplugin.git",
     "gh_updated": "2018-10-03 07:16:37 UTC",
-    "gh_stars": 208,
+    "gh_stars": 209,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.jacopocolo.sketch.p5",

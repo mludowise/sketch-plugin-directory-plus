@@ -3255,10 +3255,7 @@
     "gh_updated": "2017-05-10 17:18:46 UTC",
     "gh_stars": 68,
     "gh_issues": 4,
-    "gh_branch": "master",
-    "man_identifier": "nl.pixelpillow.copypasteguides",
-    "man_version": "0.8.0",
-    "man_compatible_version": "3.4.2"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-export-generator",
@@ -4445,7 +4442,8 @@
     "gh_updated": "2018-06-12 10:52:13 UTC",
     "gh_stars": 9,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   },
   {
     "name": "select-children",
@@ -5915,7 +5913,7 @@
     "added": "2017-05-16 09:01:21 UTC",
     "homepage": "https://github.com/partyka1/Fontily",
     "gh_url": "https://github.com/partyka1/Fontily.git",
-    "gh_updated": "2018-05-26 16:26:00 UTC",
+    "gh_updated": "2016-12-29 06:35:13 UTC",
     "gh_stars": 101,
     "gh_issues": 3,
     "gh_branch": "master",
@@ -6333,7 +6331,7 @@
     "added": "2017-08-04 11:09:34 UTC",
     "homepage": "https://github.com/oodesign/merge-duplicate-symbols",
     "gh_url": "https://github.com/oodesign/merge-duplicate-symbols.git",
-    "gh_updated": "2018-09-23 04:19:59 UTC",
+    "gh_updated": "2019-03-26 14:02:54 UTC",
     "gh_stars": 218,
     "gh_issues": 4,
     "gh_branch": "master",
@@ -6461,7 +6459,7 @@
     "added": "2017-09-12 21:08:28 UTC",
     "homepage": "https://sketchpacks.com/Hemmingsson/Sketch-Title-Case/",
     "gh_url": "https://github.com/Hemmingsson/Sketch-Title-Case.git",
-    "gh_updated": "2018-01-08 15:58:32 UTC",
+    "gh_updated": "2018-01-08 15:58:31 UTC",
     "gh_stars": 10,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -7513,7 +7511,7 @@
     "added": "2018-04-10 11:02:33 UTC",
     "homepage": "https://github.com/oodesign/icon-tools",
     "gh_url": "https://github.com/oodesign/icon-tools.git",
-    "gh_updated": "2019-02-22 08:50:04 UTC",
+    "gh_updated": "2019-03-26 14:05:56 UTC",
     "gh_stars": 36,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -7755,7 +7753,7 @@
     "homepage": "https://github.com/perrysmotors/photo-grid",
     "gh_url": "https://github.com/perrysmotors/photo-grid.git",
     "gh_updated": "2019-03-01 14:21:53 UTC",
-    "gh_stars": 87,
+    "gh_stars": 88,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "Photo Grid",
@@ -9209,6 +9207,9 @@
     "gh_stars": 141,
     "gh_issues": 0,
     "gh_branch": "master",
+    "man_identifier": "me.sabitov.sketch.connectionFlowArrows",
+    "man_version": "2.7.1",
+    "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/faridsabitov/Sketch-user-flows/master/arrows.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -9400,7 +9401,16 @@
     "title": "iconify",
     "description": "Iconify integration. Import MDI, FontAwesome, Jam, EmojiOne and many other icons to Sketch document.",
     "homepage": "https://github.com/iconify-design/iconify-sketch",
-    "added": "2019-02-20 17:00:18 UTC"
+    "added": "2019-02-20 17:00:18 UTC",
+    "gh_url": "https://github.com/iconify-design/iconify-sketch.git",
+    "gh_updated": "2019-03-22 15:52:38 UTC",
+    "gh_stars": 9,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "iconify",
+    "man_version": "1.1.2",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/iconify-design/iconify-sketch/master/iconify.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "Sketch-Connection-Flow-Arrows",
@@ -9738,7 +9748,7 @@
     "added": "2019-03-15 17:02:18 UTC",
     "gh_url": "https://github.com/ozgurgunes/Sketch-Symbol-States.git",
     "gh_updated": "2019-03-23 12:54:41 UTC",
-    "gh_stars": 13,
+    "gh_stars": 14,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.gunesozgur.sketch.symbol-states",

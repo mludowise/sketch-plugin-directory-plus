@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-26 13:02:25 UTC
+Updated 2019-03-26 14:02:14 UTC
 
 Total plugins: 627
 
@@ -95,6 +95,8 @@ Total plugins: 627
 
 **[heysketch/sketch-color-picker-plus](https://github.com/heysketch/sketch-color-picker-plus) has no repo**
 
+**[pixelpillow/copy-paste-guides](https://github.com/pixelpillow/copy-paste-guides) missing manifest.json**
+
 [ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
 
 [LaloMrtnz/Prism](https://github.com/LaloMrtnz/Prism) manifest.json contains extra commas
@@ -119,7 +121,7 @@ Total plugins: 627
 
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
 
-**[ErikFontanel/sketch-toggle-constrain-proportions](https://github.com/ErikFontanel/sketch-toggle-constrain-proportions) missing manifest.json**
+**[ErikFontanel/sketch-toggle-constrain-proportions](https://github.com/ErikFontanel/sketch-toggle-constrain-proportions) manifest.json is missing identifier**
 
 [marianomike/sketch-exportsymbols](https://github.com/marianomike/sketch-exportsymbols) manifest.json contains extra commas
 
@@ -339,8 +341,6 @@ Total plugins: 627
 
 **[BaguetteEngineering/annotations-sketch-plugin](https://github.com/BaguetteEngineering/annotations-sketch-plugin) manifest.json is missing identifier**
 
-**[faridsabitov/Sketch-user-flows](https://github.com/faridsabitov/Sketch-user-flows) missing manifest.json**
-
 **[taobaofed/imgcook](https://github.com/taobaofed/imgcook) missing manifest.json**
 
 [pratikjshah/Sketch-Guides](https://github.com/pratikjshah/Sketch-Guides) and [pratikjshah/PS-Guides](https://github.com/pratikjshah/PS-Guides) use the same manifest identifier, __website.pratikshah.guides__
@@ -349,7 +349,7 @@ Total plugins: 627
 
 **[enriquezgomez/datazier-lens](https://github.com/enriquezgomez/datazier-lens) manifest.json is missing identifier**
 
-**[iconify-design/iconify-sketch](https://github.com/iconify-design/iconify-sketch) has no repo**
+[faridsabitov/Sketch-Connection-Flow-Arrows](https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows) and [faridsabitov/Sketch-user-flows](https://github.com/faridsabitov/Sketch-user-flows) use the same manifest identifier, __me.sabitov.sketch.connectionFlowArrows__
 
 **[mathieudutour/sketch-styles-hierarchy](https://github.com/mathieudutour/sketch-styles-hierarchy) manifest.json is missing identifier**
 

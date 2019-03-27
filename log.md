@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-03-27 09:01:41 UTC
+Updated 2019-03-27 10:01:34 UTC
 
-Total plugins: 627
+Total plugins: 626
 
 ## Problems
 **[AnimaApp/Anima](https://github.com/AnimaApp/Anima) has no repo**
@@ -180,8 +180,6 @@ Total plugins: 627
 [pranusarna94/Swappr](https://github.com/pranusarna94/Swappr) manifest.json contains extra commas
 
 **[heytitle/latex-sketch-plugin](https://github.com/heytitle/latex-sketch-plugin) manifest.json is missing identifier**
-
-**[kannonboy/sketch-gifme-plugin](https://github.com/kannonboy/sketch-gifme-plugin) manifest.json is missing identifier**
 
 **[danielguillan/sketch-syntax-highlighter](https://github.com/danielguillan/sketch-syntax-highlighter) manifest.json is missing identifier**
 

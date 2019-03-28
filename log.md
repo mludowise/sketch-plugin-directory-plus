@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-28 12:01:29 UTC
+Updated 2019-03-28 13:02:05 UTC
 
 Total plugins: 628
 
@@ -343,7 +343,7 @@ Total plugins: 628
 
 **[inthepocket/hubble-sketch-plugin](https://github.com/inthepocket/hubble-sketch-plugin) manifest.json is missing identifier**
 
-**[enriquezgomez/datazier-lens](https://github.com/enriquezgomez/datazier-lens) missing manifest.json**
+**[enriquezgomez/datazier-lens](https://github.com/enriquezgomez/datazier-lens) manifest.json is missing identifier**
 
 [faridsabitov/Sketch-Connection-Flow-Arrows](https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows) and [faridsabitov/Sketch-user-flows](https://github.com/faridsabitov/Sketch-user-flows) use the same manifest identifier, __me.sabitov.sketch.connectionFlowArrows__
 

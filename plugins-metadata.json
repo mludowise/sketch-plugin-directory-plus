@@ -2391,7 +2391,7 @@
     "added": "2015-08-05 03:01:56 UTC",
     "gh_url": "https://github.com/MagicSketch/MagicMirror.git",
     "gh_updated": "2019-02-13 13:07:02 UTC",
-    "gh_stars": 479,
+    "gh_stars": 478,
     "gh_issues": 38,
     "gh_branch": "master",
     "man_identifier": "design.magicmirror",
@@ -3249,16 +3249,7 @@
     "author": "Pixelpillow",
     "title": "Copy & Paste Guides",
     "description": "Easily copy, paste or remove guides from/to your artboard(s).",
-    "added": "2015-12-15 09:13:37 UTC",
-    "homepage": "https://github.com/pixelpillow/copy-paste-guides",
-    "gh_url": "https://github.com/pixelpillow/copy-paste-guides.git",
-    "gh_updated": "2017-05-10 17:18:46 UTC",
-    "gh_stars": 68,
-    "gh_issues": 4,
-    "gh_branch": "master",
-    "man_identifier": "nl.pixelpillow.copypasteguides",
-    "man_version": "0.8.0",
-    "man_compatible_version": "3.4.2"
+    "added": "2015-12-15 09:13:37 UTC"
   },
   {
     "name": "sketch-export-generator",
@@ -5070,10 +5061,7 @@
     "gh_updated": "2017-04-06 10:44:36 UTC",
     "gh_stars": 115,
     "gh_issues": 4,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.perfecter",
-    "man_version": "1.0",
-    "man_compatible_version": "1"
+    "gh_branch": "master"
   },
   {
     "name": "HSL_Color_Picker",
@@ -6207,7 +6195,7 @@
     "homepage": "https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin.git",
     "gh_updated": "2018-11-18 05:33:37 UTC",
-    "gh_stars": 232,
+    "gh_stars": 233,
     "gh_issues": 16,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugins.google-sheets-content-sync",
@@ -7302,7 +7290,7 @@
     "homepage": "https://github.com/Hito01/artboards-explorer",
     "added": "2018-03-05 10:01:33 UTC",
     "gh_url": "https://github.com/Hito01/artboards-explorer.git",
-    "gh_updated": "2018-03-03 16:25:08 UTC",
+    "gh_updated": "2018-03-03 16:25:14 UTC",
     "gh_stars": 3,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -8928,10 +8916,7 @@
     "gh_updated": "2019-02-12 17:01:28 UTC",
     "gh_stars": 2,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "nl.kevinvanbreemaat.renameArtboards",
-    "man_version": "0.1",
-    "icon": "https://raw.githubusercontent.com/KevinvBre/Sketch-Rename-Artboards/master/Rename%20Artboards.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "owner": null,
@@ -9194,11 +9179,7 @@
     "gh_updated": "2019-03-18 20:36:39 UTC",
     "gh_stars": 148,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "me.sabitov.sketch.connectionFlowArrows",
-    "man_version": "2.7.1",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/faridsabitov/Sketch-user-flows/master/arrows.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "svg-composite",

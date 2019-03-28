@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-03-28 02:01:39 UTC
+Updated 2019-03-28 03:02:16 UTC
 
 Total plugins: 628
 
@@ -95,8 +95,6 @@ Total plugins: 628
 
 **[heysketch/sketch-color-picker-plus](https://github.com/heysketch/sketch-color-picker-plus) has no repo**
 
-**[pixelpillow/copy-paste-guides](https://github.com/pixelpillow/copy-paste-guides) has no repo**
-
 [ryanmclaughlin/styledrop](https://github.com/ryanmclaughlin/styledrop) manifest.json contains extra commas
 
 [LaloMrtnz/Prism](https://github.com/LaloMrtnz/Prism) manifest.json contains extra commas
@@ -136,8 +134,6 @@ Total plugins: 628
 [eaugustine/Sketch-Color-Contrast-Analyzer](https://github.com/eaugustine/Sketch-Color-Contrast-Analyzer) manifest.json contains extra commas
 
 **[amin-nas/Sketch-to-Clickthrough-HTML](https://github.com/amin-nas/Sketch-to-Clickthrough-HTML) manifest.json is missing identifier**
-
-**[Volorf/Perfecter](https://github.com/Volorf/Perfecter) missing manifest.json**
 
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
 
@@ -323,6 +319,8 @@ Total plugins: 628
 
 [yudiz-solutions/paste-direct](https://github.com/yudiz-solutions/paste-direct) manifest.json contains extra commas
 
+[KevinvBre/Sketch-Rename-Artboards](https://github.com/KevinvBre/Sketch-Rename-Artboards) manifest.json contains extra commas
+
 **/ has no repo**
 
 **/pointbreak has no repo**
@@ -346,6 +344,8 @@ Total plugins: 628
 **[inthepocket/hubble-sketch-plugin](https://github.com/inthepocket/hubble-sketch-plugin) manifest.json is missing identifier**
 
 **[enriquezgomez/datazier-lens](https://github.com/enriquezgomez/datazier-lens) manifest.json is missing identifier**
+
+[faridsabitov/Sketch-Connection-Flow-Arrows](https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows) and [faridsabitov/Sketch-user-flows](https://github.com/faridsabitov/Sketch-user-flows) use the same manifest identifier, __me.sabitov.sketch.connectionFlowArrows__
 
 **[mathieudutour/sketch-styles-hierarchy](https://github.com/mathieudutour/sketch-styles-hierarchy) manifest.json is missing identifier**
 

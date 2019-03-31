@@ -1230,7 +1230,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
-    "gh_stars": 4401,
+    "gh_stars": 4400,
     "gh_issues": 44,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -7783,7 +7783,7 @@
     "added": "2018-05-17 08:02:49 UTC",
     "gh_url": "https://github.com/futantan/sketch-style-to-react-native.git",
     "gh_updated": "2018-05-16 01:37:11 UTC",
-    "gh_stars": 27,
+    "gh_stars": 28,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

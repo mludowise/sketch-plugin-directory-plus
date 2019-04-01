@@ -2009,7 +2009,7 @@
     "homepage": "https://github.com/abynim/UserFlows",
     "gh_url": "https://github.com/abynim/UserFlows.git",
     "gh_updated": "2019-03-03 10:11:25 UTC",
-    "gh_stars": 1384,
+    "gh_stars": 1385,
     "gh_issues": 55,
     "gh_branch": "v2",
     "man_identifier": "com.abynim.sketchplugins.userflows",
@@ -9965,5 +9965,32 @@
     "man_version": "0.1.0",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/radermacher/sketch-number-artboards-by-position/master/NumberArtboardsByPosition.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "name": "Artboard History",
+    "owner": "jan-patrick",
+    "author": "Jan Schneider",
+    "title": "Artboard History",
+    "description": "A Sketch plugin to switch faster between your latest artboards.",
+    "homepage": "https://github.com/jan-patrick/sketch_artboard-history",
+    "added": "2019-04-01 13:01:52 UTC"
+  },
+  {
+    "name": "jerryipsum",
+    "owner": "vinceangeloni",
+    "author": "Vince Angeloni",
+    "title": "jerryipsum",
+    "description": "A Seinfeld data plugin for Sketch.",
+    "homepage": "https://github.com/vinceangeloni/jerryipsum",
+    "added": "2019-04-01 13:01:52 UTC",
+    "gh_url": "https://github.com/vinceangeloni/jerryipsum.git",
+    "gh_updated": "2019-03-30 17:38:26 UTC",
+    "gh_stars": 1,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "jerryipsum",
+    "man_version": "0.8.5",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/vinceangeloni/jerryipsum/master/jerryipsum.sketchplugin/Contents/Resources/icon.png"
   }
 ]

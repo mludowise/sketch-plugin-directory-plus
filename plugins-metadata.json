@@ -1214,7 +1214,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6355,
+    "gh_stars": 6356,
     "gh_issues": 295,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -5103,7 +5103,7 @@
     "homepage": "https://github.com/cshdllr/Notes",
     "gh_url": "https://github.com/cshdllr/Notes.git",
     "gh_updated": "2019-03-08 19:18:13 UTC",
-    "gh_stars": 71,
+    "gh_stars": 72,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.jasoncashdollar.sketchplugins.notes",
@@ -9947,5 +9947,23 @@
     "man_identifier": "com.chenzhicheng.snatch",
     "man_version": "0.1.0",
     "man_compatible_version": "3"
+  },
+  {
+    "name": "sketch-number-artboards-by-position",
+    "owner": "radermacher",
+    "author": "Richard Radermacher",
+    "title": "Sketch Number Artboards by Position",
+    "description": "Sketch plugin to number artboards in order of position.",
+    "homepage": "https://github.com/radermacher/sketch-number-artboards-by-position",
+    "added": "2019-04-01 09:01:32 UTC",
+    "gh_url": "https://github.com/radermacher/sketch-number-artboards-by-position.git",
+    "gh_updated": "2019-03-27 18:15:54 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "io.radermacher.sketch.number-artboards-by-position",
+    "man_version": "0.1.0",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/radermacher/sketch-number-artboards-by-position/master/NumberArtboardsByPosition.sketchplugin/Contents/Resources/icon.png"
   }
 ]

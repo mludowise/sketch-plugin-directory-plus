@@ -2763,7 +2763,9 @@
     "gh_updated": "2018-05-21 10:03:09 UTC",
     "gh_stars": 1311,
     "gh_issues": 8,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.bouchenoiremarc.sketch-constraints",
+    "man_version": "1.0.2"
   },
   {
     "name": "Sketch-Maps",

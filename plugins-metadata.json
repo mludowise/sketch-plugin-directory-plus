@@ -1232,7 +1232,9 @@
     "gh_updated": "2017-10-27 21:23:58 UTC",
     "gh_stars": 4401,
     "gh_issues": 44,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
+    "man_version": "1.2"
   },
   {
     "name": "sandros-sketch-plugins",
@@ -1429,7 +1431,9 @@
     "gh_updated": "2018-09-01 12:46:15 UTC",
     "gh_stars": 88,
     "gh_issues": 4,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "pw.accky.sketch.splitdivide",
+    "man_version": "1.0"
   },
   {
     "name": "Duplicator",
@@ -9952,7 +9956,7 @@
     "added": "2019-04-01 09:01:32 UTC",
     "gh_url": "https://github.com/radermacher/sketch-number-artboards-by-position.git",
     "gh_updated": "2019-03-27 18:15:54 UTC",
-    "gh_stars": 0,
+    "gh_stars": 1,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "io.radermacher.sketch.number-artboards-by-position",

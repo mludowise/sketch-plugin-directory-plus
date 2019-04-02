@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-02 11:02:10 UTC
+Updated 2019-04-02 12:01:44 UTC
 
 Total plugins: 631
 
@@ -63,7 +63,11 @@ Total plugins: 631
 
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
 
+**[timuric/Content-generator-sketch-plugin](https://github.com/timuric/Content-generator-sketch-plugin) missing manifest.json**
+
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
+
+**[KrevedAccky/SketchSplitDivide](https://github.com/KrevedAccky/SketchSplitDivide) missing manifest.json**
 
 [getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) manifest.json contains extra commas
 

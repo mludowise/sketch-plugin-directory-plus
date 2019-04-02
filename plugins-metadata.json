@@ -2494,7 +2494,10 @@
     "gh_updated": "2017-05-03 07:31:18 UTC",
     "gh_stars": 128,
     "gh_issues": 3,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.hikiny.sketch.handytools",
+    "man_version": "1.1",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-import-symbols",
@@ -3397,7 +3400,7 @@
     "homepage": "https://github.com/ScottSavarie/Clipboard-Fill",
     "gh_url": "https://github.com/ScottSavarie/Clipboard-Fill.git",
     "gh_updated": "2017-10-11 18:17:12 UTC",
-    "gh_stars": 431,
+    "gh_stars": 432,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.7ee74bdc-1af8-4b23-bfc8-f051f8c64992",

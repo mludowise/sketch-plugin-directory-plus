@@ -4788,7 +4788,7 @@
     "homepage": "https://github.com/work4blue/sketch-app-asset-export",
     "gh_url": "https://github.com/work4blue/sketch-app-asset-export.git",
     "gh_updated": "2017-02-14 14:01:23 UTC",
-    "gh_stars": 120,
+    "gh_stars": 121,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "cn.bluedrum.sketch-app-aasset-export",
@@ -9112,12 +9112,10 @@
     "homepage": "https://github.com/envato/extensions-sketch-plugin",
     "added": "2018-12-18 22:01:49 UTC",
     "gh_url": "https://github.com/envato/extensions-sketch-plugin.git",
-    "gh_updated": "2019-02-27 01:04:51 UTC",
+    "gh_updated": "2019-04-02 00:48:03 UTC",
     "gh_stars": 16,
     "gh_issues": 0,
     "gh_branch": "master",
-    "man_identifier": "Envato Elements - Beta",
-    "man_version": "0.1.5",
     "man_compatible_version": "3"
   },
   {

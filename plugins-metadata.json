@@ -3186,7 +3186,7 @@
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
     "gh_updated": "2019-04-03 11:48:31 UTC",
-    "gh_stars": 558,
+    "gh_stars": 559,
     "gh_issues": 11,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
@@ -4596,9 +4596,7 @@
     "gh_updated": "2016-09-02 11:03:45 UTC",
     "gh_stars": 11,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.fliptopbox.sketch.random-ipsom",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-grid-master",

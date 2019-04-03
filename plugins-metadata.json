@@ -3186,7 +3186,7 @@
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
     "gh_updated": "2019-04-03 11:48:31 UTC",
-    "gh_stars": 556,
+    "gh_stars": 558,
     "gh_issues": 11,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
@@ -8661,7 +8661,9 @@
     "gh_updated": "2018-12-03 15:32:38 UTC",
     "gh_stars": 8,
     "gh_issues": 3,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "lazybearcreations.lazyboards",
+    "man_compatible_version": "3"
   },
   {
     "name": "Sketch-Stuffing",

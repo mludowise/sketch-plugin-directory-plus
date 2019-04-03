@@ -3713,7 +3713,7 @@
     "homepage": "http://AnimateMate.com",
     "gh_url": "https://github.com/Creatide/AnimateMate.git",
     "gh_updated": "2017-07-14 05:21:52 UTC",
-    "gh_stars": 1298,
+    "gh_stars": 1299,
     "gh_issues": 16,
     "gh_branch": "master",
     "man_identifier": "com.creatide.sketch.animatemate",
@@ -5170,7 +5170,7 @@
     "homepage": "https://github.com/JJYing/Fake-Chinese-Name-for-Sketch",
     "gh_url": "https://github.com/JJYing/Fake-Chinese-Name-for-Sketch.git",
     "gh_updated": "2018-09-01 18:00:00 UTC",
-    "gh_stars": 131,
+    "gh_stars": 132,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.jjying.sketch.fake-chinese-name",
@@ -7355,7 +7355,7 @@
     "added": "2018-03-08 23:01:04 UTC",
     "gh_url": "https://github.com/romannurik/Sketch-FlowExporter.git",
     "gh_updated": "2019-03-22 13:29:34 UTC",
-    "gh_stars": 91,
+    "gh_stars": 92,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.flowexporter",
@@ -9781,7 +9781,7 @@
     "author": "Infragistics",
     "title": "Indigo.Design",
     "description": "Create, edit, and apply themes to your Indigo.Design UI Kit based designs and publish them as prototypes to the Indigo.Design cloud.",
-    "homepage": "https://cloud.indigo.design/home",
+    "homepage": "https://cloud.indigo.design/resources",
     "added": "2019-03-15 17:02:18 UTC"
   },
   {
@@ -9990,5 +9990,23 @@
     "man_version": "0.8.5",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/vinceangeloni/jerryipsum/master/jerryipsum.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "name": "areanow",
+    "owner": "norman-woz",
+    "author": "norman-woz",
+    "title": "areanow",
+    "description": "Get the total area of selected rectangle layers.",
+    "homepage": "https://github.com/norman-woz/areanow",
+    "added": "2019-04-03 09:01:36 UTC",
+    "gh_url": "https://github.com/norman-woz/areanow.git",
+    "gh_updated": "2019-04-02 21:14:42 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "areanow",
+    "man_version": "0.1",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/norman-woz/areanow/master/AreaNow.sketchplugin/Contents/Resources/icon.png"
   }
 ]

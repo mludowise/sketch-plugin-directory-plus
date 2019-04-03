@@ -5667,15 +5667,7 @@
     "author": "Finch.io",
     "title": "Slinky",
     "description": "Export your Sketch designs as HTML email templates",
-    "added": "2017-04-04 10:35:38 UTC",
-    "homepage": "https://github.com/finchalyzer/slinky",
-    "gh_url": "https://github.com/finchalyzer/slinky.git",
-    "gh_updated": "2017-12-04 14:27:29 UTC",
-    "gh_stars": 576,
-    "gh_issues": 21,
-    "gh_branch": "master",
-    "man_identifier": "com.sketchapp.slinky-plugin",
-    "man_version": "0.1.5"
+    "added": "2017-04-04 10:35:38 UTC"
   },
   {
     "name": "sketch-flip-size",

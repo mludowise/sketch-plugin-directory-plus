@@ -3386,7 +3386,9 @@
     "gh_updated": "2017-05-06 21:08:23 UTC",
     "gh_stars": 36,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.sketch-bound-with-box",
+    "man_version": "1.5"
   },
   {
     "name": "Clipboard-Fill",
@@ -4473,7 +4475,7 @@
     "homepage": "https://github.com/Ashung/Android_Res_Export",
     "gh_url": "https://github.com/Ashung/Android_Res_Export.git",
     "gh_updated": "2019-03-14 12:37:11 UTC",
-    "gh_stars": 175,
+    "gh_stars": 176,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.android_res_export",
@@ -4900,7 +4902,7 @@
     "homepage": "https://github.com/pberrecloth/butter-sketch-plugin",
     "gh_url": "https://github.com/pberrecloth/butter-sketch-plugin.git",
     "gh_updated": "2019-04-02 18:30:31 UTC",
-    "gh_stars": 221,
+    "gh_stars": 222,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.butter.sketchplugin",
@@ -7742,6 +7744,9 @@
     "gh_stars": 89,
     "gh_issues": 1,
     "gh_branch": "master",
+    "man_identifier": "Photo Grid",
+    "man_version": "3.1.2",
+    "man_compatible_version": "49",
     "icon": "https://raw.githubusercontent.com/perrysmotors/photo-grid/master/PhotoGrid.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -8656,9 +8661,7 @@
     "gh_updated": "2018-12-03 15:32:38 UTC",
     "gh_stars": 8,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "lazybearcreations.lazyboards",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Stuffing",

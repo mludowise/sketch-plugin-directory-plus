@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-03 21:02:07 UTC
+Updated 2019-04-03 22:01:44 UTC
 
 Total plugins: 632
 
@@ -137,7 +137,7 @@ Total plugins: 632
 
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
 
-[finchalyzer/slinky](https://github.com/finchalyzer/slinky) manifest.json contains extra commas
+**[finchalyzer/slinky](https://github.com/finchalyzer/slinky) has no repo**
 
 [Rezaaa/english-and-persian-lorem-ipsum](https://github.com/Rezaaa/english-and-persian-lorem-ipsum) manifest.json contains extra commas
 

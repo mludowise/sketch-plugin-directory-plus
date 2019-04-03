@@ -692,7 +692,7 @@
     "gh_url": "https://github.com/sureskumar/Looper.git",
     "gh_updated": "2019-02-08 18:34:17 UTC",
     "gh_stars": 442,
-    "gh_issues": 4,
+    "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.sureskumar.sketch.looper",
     "man_version": "3.1.0",
@@ -3386,9 +3386,7 @@
     "gh_updated": "2017-05-06 21:08:23 UTC",
     "gh_stars": 36,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.sketch-bound-with-box",
-    "man_version": "1.5"
+    "gh_branch": "master"
   },
   {
     "name": "Clipboard-Fill",
@@ -7744,9 +7742,6 @@
     "gh_stars": 89,
     "gh_issues": 1,
     "gh_branch": "master",
-    "man_identifier": "Photo Grid",
-    "man_version": "3.1.2",
-    "man_compatible_version": "49",
     "icon": "https://raw.githubusercontent.com/perrysmotors/photo-grid/master/PhotoGrid.sketchplugin/Contents/Resources/icon.png"
   },
   {

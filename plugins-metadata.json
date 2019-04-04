@@ -6437,23 +6437,6 @@
     "icon": "https://raw.githubusercontent.com/mcansh/squash-sketchplugin/master/squash.sketchplugin/Contents/Resources/icon.png"
   },
   {
-    "name": "jira-cloud-for-sketch",
-    "owner": "atlassian",
-    "author": "Atlassian",
-    "title": "Jira Cloud for Sketch",
-    "description": "Export designs, assets, and feedback to Jira Cloud.",
-    "homepage": "https://sketch.atlassian.com/",
-    "added": "2017-09-12 21:00:31 UTC",
-    "gh_url": "https://github.com/atlassian/jira-cloud-for-sketch.git",
-    "gh_updated": "2018-11-01 01:45:12 UTC",
-    "gh_stars": 40,
-    "gh_issues": 12,
-    "gh_branch": "master",
-    "man_identifier": "com.atlassian.sketch.jira-plugin",
-    "man_version": "1.1.3",
-    "man_compatible_version": "3"
-  },
-  {
     "name": "Sketch-Title-Case",
     "owner": "Hemmingsson",
     "author": "Mattias Hemmingsson",

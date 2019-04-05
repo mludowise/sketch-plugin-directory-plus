@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-05 12:02:22 UTC
+Updated 2019-04-05 13:01:57 UTC
 
 Total plugins: 634
 
@@ -66,6 +66,8 @@ Total plugins: 634
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
 
 [getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) manifest.json contains extra commas
+
+[getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/Sketch-Set-Line-Height-Plugin) manifest.json contains extra commas
 
 **[ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) manifest.json is missing identifier**
 

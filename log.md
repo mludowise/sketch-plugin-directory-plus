@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-05 22:01:58 UTC
+Updated 2019-04-05 23:02:24 UTC
 
 Total plugins: 634
 
@@ -81,7 +81,7 @@ Total plugins: 634
 
 [ozzik/swap-styles](https://github.com/ozzik/swap-styles) manifest.json contains extra commas
 
-**[soutaro/Align-text-baseline-sketch-plugin](https://github.com/soutaro/Align-text-baseline-sketch-plugin) missing manifest.json**
+[soutaro/Align-text-baseline-sketch-plugin](https://github.com/soutaro/Align-text-baseline-sketch-plugin) manifest.json contains extra commas
 
 [hamidp/sketchtextsourcer](https://github.com/hamidp/sketchtextsourcer) manifest.json contains extra commas
 

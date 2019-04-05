@@ -2173,7 +2173,7 @@
     "homepage": "https://github.com/hrescak/Sketch-Flex-Layout",
     "gh_url": "https://github.com/hrescak/Sketch-Flex-Layout.git",
     "gh_updated": "2016-09-25 17:00:13 UTC",
-    "gh_stars": 1767,
+    "gh_stars": 1766,
     "gh_issues": 15,
     "gh_branch": "master",
     "man_identifier": "com.hrescak.flexlayout",
@@ -2260,10 +2260,7 @@
     "gh_updated": "2016-05-07 13:12:32 UTC",
     "gh_stars": 67,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.soutaro.align-text-baseline",
-    "man_version": "1.0",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "sketchy-pies",
@@ -6938,7 +6935,7 @@
     "added": "2018-01-04 12:26:15 UTC",
     "gh_url": "https://github.com/AMoreaux/Sketch-Icons.git",
     "gh_updated": "2019-02-05 17:58:16 UTC",
-    "gh_stars": 765,
+    "gh_stars": 766,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.amoreaux.sketch-icons",

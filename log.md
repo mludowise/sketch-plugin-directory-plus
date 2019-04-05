@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-04-05 07:01:56 UTC
+Updated 2019-04-05 08:02:25 UTC
 
-Total plugins: 631
+Total plugins: 634
 
 ## Problems
 **[AnimaApp/Anima](https://github.com/AnimaApp/Anima) has no repo**
@@ -376,4 +376,6 @@ Total plugins: 631
 **[Rutger Willems/Airtabledata](https://github.com/Rutger Willems/Airtabledata) has no repo**
 
 **[jan-patrick/Artboard History](https://github.com/jan-patrick/Artboard History) has no repo**
+
+**[bomberstudios/install-library-bundle](https://github.com/bomberstudios/install-library-bundle) manifest.json is missing identifier**
 

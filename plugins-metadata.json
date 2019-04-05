@@ -1179,7 +1179,7 @@
     "added": "2014-05-14 03:43:43 UTC",
     "gh_url": "https://github.com/rodi01/RenameIt.git",
     "gh_updated": "2019-01-17 19:34:52 UTC",
-    "gh_stars": 1270,
+    "gh_stars": 1271,
     "gh_issues": 27,
     "gh_branch": "master",
     "man_identifier": "com.taptap.ninja.rename-it",
@@ -1214,7 +1214,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6362,
+    "gh_stars": 6363,
     "gh_issues": 298,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -1498,10 +1498,7 @@
     "gh_updated": "2016-10-28 09:00:55 UTC",
     "gh_stars": 128,
     "gh_issues": 4,
-    "gh_branch": "master",
-    "man_identifier": "com.getflourish.setlineheight",
-    "man_version": "2.0",
-    "man_compatible_version": "3.9"
+    "gh_branch": "master"
   },
   {
     "name": "Swap-Fill-Border",
@@ -10019,7 +10016,7 @@
     "added": "2019-04-05 08:02:25 UTC",
     "gh_url": "https://github.com/KikeSz/Method-Sketch-Plugin.git",
     "gh_updated": "2019-04-04 18:20:56 UTC",
-    "gh_stars": 0,
+    "gh_stars": 1,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.kikesainz.sketch-method",

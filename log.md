@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-05 10:02:10 UTC
+Updated 2019-04-05 11:01:54 UTC
 
 Total plugins: 634
 
@@ -374,8 +374,6 @@ Total plugins: 634
 **[Infragistics/Indigo.Design](https://github.com/Infragistics/Indigo.Design) has no repo**
 
 **[Rutger Willems/Airtabledata](https://github.com/Rutger Willems/Airtabledata) has no repo**
-
-**[jayhxmo/sketch-camera-hotkeys](https://github.com/jayhxmo/sketch-camera-hotkeys) missing manifest.json**
 
 **[jan-patrick/Artboard History](https://github.com/jan-patrick/Artboard History) has no repo**
 

@@ -2260,7 +2260,10 @@
     "gh_updated": "2016-05-07 13:12:32 UTC",
     "gh_stars": 67,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.soutaro.align-text-baseline",
+    "man_version": "1.0",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketchy-pies",

@@ -1926,7 +1926,7 @@
     "gh_url": "https://github.com/PEZ/SketchDistributor.git",
     "gh_updated": "2018-05-31 06:23:28 UTC",
     "gh_stars": 340,
-    "gh_issues": 7,
+    "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.betterthantomorrow.sketch.distributor",
     "man_version": "1.2.2"
@@ -9804,7 +9804,7 @@
     "added": "2019-03-15 17:02:18 UTC",
     "gh_url": "https://github.com/google/sketch2ae.git",
     "gh_updated": "2019-03-14 20:18:48 UTC",
-    "gh_stars": 232,
+    "gh_stars": 233,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.wearesumux.AEUX",

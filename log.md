@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-08 10:02:21 UTC
+Updated 2019-04-08 11:01:56 UTC
 
 Total plugins: 634
 
@@ -368,6 +368,8 @@ Total plugins: 634
 **[nOograss/labelizING](https://github.com/nOograss/labelizING) manifest.json is missing identifier**
 
 **[ahadik/chemofill](https://github.com/ahadik/chemofill) manifest.json is missing identifier**
+
+**[jdwolk/sketch-csv-mailmerge](https://github.com/jdwolk/sketch-csv-mailmerge) missing manifest.json**
 
 **[Infragistics/Indigo.Design](https://github.com/Infragistics/Indigo.Design) has no repo**
 

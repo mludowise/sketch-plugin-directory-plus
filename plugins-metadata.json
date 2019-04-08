@@ -1197,7 +1197,7 @@
     "homepage": "https://github.com/hrescak/Sketch-Layer-Tools",
     "gh_url": "https://github.com/hrescak/Sketch-Layer-Tools.git",
     "gh_updated": "2017-02-04 22:31:51 UTC",
-    "gh_stars": 127,
+    "gh_stars": 126,
     "gh_issues": 13,
     "gh_branch": "master",
     "man_identifier": "com.hrescak.matej-sketch-plugins",
@@ -1464,7 +1464,10 @@
     "gh_updated": "2017-03-15 11:58:43 UTC",
     "gh_stars": 441,
     "gh_issues": 9,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.geertwille.sketch.export-assets",
+    "man_version": "2.3",
+    "man_compatible_version": "3"
   },
   {
     "name": "Sketch-Color-Contrast-Analyser",
@@ -2536,7 +2539,16 @@
     "author": "Andrew Fiorillo",
     "title": "Character Count",
     "description": "Sketch plugin to count number of characters in a text layer",
-    "added": "2015-09-04 09:06:23 UTC"
+    "added": "2015-09-04 09:06:23 UTC",
+    "homepage": "https://github.com/andrewfiorillo/sketch-character-count",
+    "gh_url": "https://github.com/andrewfiorillo/sketch-character-count.git",
+    "gh_updated": "2018-11-07 22:32:22 UTC",
+    "gh_stars": 27,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.andrewfiorillo.sketch.sketch-character-count",
+    "man_version": "1.0",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-scrollmotion",
@@ -3174,7 +3186,7 @@
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
     "gh_updated": "2019-04-04 06:03:35 UTC",
-    "gh_stars": 563,
+    "gh_stars": 562,
     "gh_issues": 10,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
@@ -4234,7 +4246,7 @@
     "homepage": "https://github.com/cute/SketchI18N",
     "gh_url": "https://github.com/cute/SketchI18N.git",
     "gh_updated": "2019-01-17 13:57:14 UTC",
-    "gh_stars": 1208,
+    "gh_stars": 1209,
     "gh_issues": 24,
     "gh_branch": "master",
     "man_identifier": "com.liguangming.sketch-i18n",
@@ -4584,9 +4596,7 @@
     "gh_updated": "2016-09-02 11:03:45 UTC",
     "gh_stars": 11,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.fliptopbox.sketch.random-ipsom",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-grid-master",
@@ -4695,7 +4705,7 @@
     "homepage": "https://github.com/sonburn/symbol-organizer",
     "gh_url": "https://github.com/sonburn/symbol-organizer.git",
     "gh_updated": "2019-03-29 17:20:38 UTC",
-    "gh_stars": 717,
+    "gh_stars": 715,
     "gh_issues": 33,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-organizer",
@@ -5378,9 +5388,7 @@
     "gh_updated": "2018-08-15 03:36:42 UTC",
     "gh_stars": 139,
     "gh_issues": 12,
-    "gh_branch": "master",
-    "man_identifier": "com.peachscript.pluginMonster",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "RandomColors",
@@ -8899,10 +8907,7 @@
     "gh_updated": "2019-02-12 17:01:28 UTC",
     "gh_stars": 2,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "nl.kevinvanbreemaat.renameArtboards",
-    "man_version": "0.1",
-    "icon": "https://raw.githubusercontent.com/KevinvBre/Sketch-Rename-Artboards/master/Rename%20Artboards.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "owner": null,
@@ -9049,14 +9054,7 @@
     "title": "Sketch AFUX Tools",
     "description": "Sketch tools for AFUX",
     "homepage": "https://github.com/canisminor1990/sketch-afux-tools",
-    "added": "2018-12-04 12:02:17 UTC",
-    "gh_url": "https://github.com/canisminor1990/anto.git",
-    "gh_updated": "2019-04-04 07:11:21 UTC",
-    "gh_stars": 24,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "sketch.plugin.anto",
-    "man_compatible_version": "3"
+    "added": "2018-12-04 12:02:17 UTC"
   },
   {
     "name": "anto",
@@ -9195,7 +9193,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taobaofed/imgcook.git",
     "gh_updated": "2019-03-15 10:19:51 UTC",
-    "gh_stars": 232,
+    "gh_stars": 233,
     "gh_issues": 6,
     "gh_branch": "master"
   },
@@ -10024,7 +10022,7 @@
     "added": "2019-04-05 08:02:25 UTC",
     "gh_url": "https://github.com/bomberstudios/install-library-bundle.git",
     "gh_updated": "2019-04-04 11:30:30 UTC",
-    "gh_stars": 14,
+    "gh_stars": 15,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

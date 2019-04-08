@@ -6779,7 +6779,7 @@
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2019-03-05 21:54:06 UTC",
     "gh_stars": 162,
-    "gh_issues": 10,
+    "gh_issues": 11,
     "gh_branch": "master",
     "man_compatible_version": "50"
   },
@@ -8772,7 +8772,7 @@
     "homepage": "https://github.com/protoship/codegen-sketch-client",
     "added": "2018-11-15 11:02:15 UTC",
     "gh_url": "https://github.com/protoship/codegen-sketch-client.git",
-    "gh_updated": "2019-02-27 14:49:24 UTC",
+    "gh_updated": "2019-02-27 14:49:12 UTC",
     "gh_stars": 17,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -9175,11 +9175,7 @@
     "gh_updated": "2019-03-18 20:36:39 UTC",
     "gh_stars": 164,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "me.sabitov.sketch.connectionFlowArrows",
-    "man_version": "2.7.1",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/faridsabitov/Sketch-user-flows/master/arrows.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "svg-composite",
@@ -10036,7 +10032,7 @@
     "added": "2019-04-05 08:02:25 UTC",
     "gh_url": "https://github.com/bomberstudios/install-library-bundle.git",
     "gh_updated": "2019-04-04 11:30:30 UTC",
-    "gh_stars": 13,
+    "gh_stars": 14,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

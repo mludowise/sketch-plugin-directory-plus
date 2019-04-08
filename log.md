@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-08 14:01:28 UTC
+Updated 2019-04-08 15:02:17 UTC
 
 Total plugins: 634
 
@@ -65,8 +65,6 @@ Total plugins: 634
 
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
 
-**[GeertWille/sketch-export-assets](https://github.com/GeertWille/sketch-export-assets) missing manifest.json**
-
 [getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) manifest.json contains extra commas
 
 [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/Sketch-Set-Line-Height-Plugin) manifest.json contains extra commas
@@ -88,8 +86,6 @@ Total plugins: 634
 [hamidp/sketchtextsourcer](https://github.com/hamidp/sketchtextsourcer) manifest.json contains extra commas
 
 [jamztang/MagicMirror](https://github.com/jamztang/MagicMirror) manifest.json contains extra commas
-
-**[andrewfiorillo/sketch-character-count](https://github.com/andrewfiorillo/sketch-character-count) has no repo**
 
 [stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers) manifest.json contains extra commas
 
@@ -319,15 +315,13 @@ Total plugins: 634
 
 [yudiz-solutions/paste-direct](https://github.com/yudiz-solutions/paste-direct) manifest.json contains extra commas
 
-[KevinvBre/Sketch-Rename-Artboards](https://github.com/KevinvBre/Sketch-Rename-Artboards) manifest.json contains extra commas
-
 **/ has no repo**
 
 **/pointbreak has no repo**
 
 **[VKCOM/vkdata-sketchplugin](https://github.com/VKCOM/vkdata-sketchplugin) manifest.json is missing identifier**
 
-[canisminor1990/anto](https://github.com/canisminor1990/anto) and [canisminor1990/sketch-afux-tools](https://github.com/canisminor1990/sketch-afux-tools) use the same manifest identifier, __sketch.plugin.anto__
+**[canisminor1990/sketch-afux-tools](https://github.com/canisminor1990/sketch-afux-tools) has no repo**
 
 **[envato/extensions-sketch-plugin](https://github.com/envato/extensions-sketch-plugin) manifest.json is missing identifier**
 

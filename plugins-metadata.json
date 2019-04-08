@@ -512,7 +512,7 @@
     "added": "2017-06-21 16:02:10 UTC",
     "gh_url": "https://github.com/sureskumar/super-shapes.git",
     "gh_updated": "2018-10-03 21:54:39 UTC",
-    "gh_stars": 62,
+    "gh_stars": 63,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.sureskumar.supershapes",
@@ -691,7 +691,7 @@
     "homepage": "http://www.sureskumar.com/looper/",
     "gh_url": "https://github.com/sureskumar/Looper.git",
     "gh_updated": "2019-02-08 18:34:17 UTC",
-    "gh_stars": 443,
+    "gh_stars": 444,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.sureskumar.sketch.looper",
@@ -4596,7 +4596,9 @@
     "gh_updated": "2016-09-02 11:03:45 UTC",
     "gh_stars": 11,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.fliptopbox.sketch.random-ipsom",
+    "man_version": "1.0"
   },
   {
     "name": "sketch-grid-master",
@@ -5388,7 +5390,9 @@
     "gh_updated": "2018-08-15 03:36:42 UTC",
     "gh_stars": 139,
     "gh_issues": 12,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.peachscript.pluginMonster",
+    "man_compatible_version": "3"
   },
   {
     "name": "RandomColors",
@@ -5980,7 +5984,7 @@
     "homepage": "https://github.com/canisminor1990/sketch-move-half-pixel",
     "gh_url": "https://github.com/canisminor1990/sketch-move-half-pixel.git",
     "gh_updated": "2017-08-07 07:22:49 UTC",
-    "gh_stars": 17,
+    "gh_stars": 18,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "cm.sketch.movehalfpixel",
@@ -8907,7 +8911,10 @@
     "gh_updated": "2019-02-12 17:01:28 UTC",
     "gh_stars": 2,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "nl.kevinvanbreemaat.renameArtboards",
+    "man_version": "0.1",
+    "icon": "https://raw.githubusercontent.com/KevinvBre/Sketch-Rename-Artboards/master/Rename%20Artboards.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "owner": null,
@@ -9054,7 +9061,14 @@
     "title": "Sketch AFUX Tools",
     "description": "Sketch tools for AFUX",
     "homepage": "https://github.com/canisminor1990/sketch-afux-tools",
-    "added": "2018-12-04 12:02:17 UTC"
+    "added": "2018-12-04 12:02:17 UTC",
+    "gh_url": "https://github.com/canisminor1990/anto.git",
+    "gh_updated": "2019-04-04 07:11:21 UTC",
+    "gh_stars": 24,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "sketch.plugin.anto",
+    "man_compatible_version": "3"
   },
   {
     "name": "anto",
@@ -9326,7 +9340,7 @@
     "added": "2019-01-29 11:01:42 UTC",
     "gh_url": "https://github.com/KevinGutowski/betterTypePanel.git",
     "gh_updated": "2019-02-19 05:26:04 UTC",
-    "gh_stars": 61,
+    "gh_stars": 62,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "betterTypePanel",
@@ -10000,12 +10014,12 @@
     "owner": "KikeSz",
     "author": "KikeSz",
     "title": "Method",
-    "description": "",
+    "description": "Tool to apply your methodology systems",
     "homepage": "https://github.com/KikeSz/Method-Sketch-Plugin",
     "added": "2019-04-05 08:02:25 UTC",
     "gh_url": "https://github.com/KikeSz/Method-Sketch-Plugin.git",
     "gh_updated": "2019-04-05 13:12:44 UTC",
-    "gh_stars": 5,
+    "gh_stars": 6,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.kikesainz.sketch-method",
@@ -10026,5 +10040,23 @@
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"
+  },
+  {
+    "name": "Label_Layers",
+    "owner": "franklymrshankly",
+    "author": "franklymrshankly",
+    "title": "Label-layers",
+    "description": "A Sketch plugin that labels selected layers",
+    "homepage": "https://github.com/franklymrshankly/Label_Layers",
+    "added": "2019-04-08 16:01:50 UTC",
+    "gh_url": "https://github.com/franklymrshankly/Label_Layers.git",
+    "gh_updated": "2019-04-08 10:12:47 UTC",
+    "gh_stars": 1,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "Label-layers",
+    "man_version": "0.1.0",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/franklymrshankly/Label_Layers/master/label-layers.sketchplugin/Contents/Resources/icon.png"
   }
 ]

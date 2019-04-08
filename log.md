@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-04-08 15:02:17 UTC
+Updated 2019-04-08 16:01:50 UTC
 
-Total plugins: 634
+Total plugins: 635
 
 ## Problems
 **[AnimaApp/Anima](https://github.com/AnimaApp/Anima) has no repo**
@@ -315,13 +315,15 @@ Total plugins: 634
 
 [yudiz-solutions/paste-direct](https://github.com/yudiz-solutions/paste-direct) manifest.json contains extra commas
 
+[KevinvBre/Sketch-Rename-Artboards](https://github.com/KevinvBre/Sketch-Rename-Artboards) manifest.json contains extra commas
+
 **/ has no repo**
 
 **/pointbreak has no repo**
 
 **[VKCOM/vkdata-sketchplugin](https://github.com/VKCOM/vkdata-sketchplugin) manifest.json is missing identifier**
 
-**[canisminor1990/sketch-afux-tools](https://github.com/canisminor1990/sketch-afux-tools) has no repo**
+[canisminor1990/anto](https://github.com/canisminor1990/anto) and [canisminor1990/sketch-afux-tools](https://github.com/canisminor1990/sketch-afux-tools) use the same manifest identifier, __sketch.plugin.anto__
 
 **[envato/extensions-sketch-plugin](https://github.com/envato/extensions-sketch-plugin) manifest.json is missing identifier**
 

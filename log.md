@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-11 18:01:46 UTC
+Updated 2019-04-11 19:02:22 UTC
 
 Total plugins: 634
 
@@ -94,6 +94,8 @@ Total plugins: 634
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 
 **[heysketch/sketch-color-picker-plus](https://github.com/heysketch/sketch-color-picker-plus) has no repo**
+
+**[peterwooley/copy-color-as-hsla](https://github.com/peterwooley/copy-color-as-hsla) has no repo**
 
 [LaloMrtnz/Prism](https://github.com/LaloMrtnz/Prism) manifest.json contains extra commas
 

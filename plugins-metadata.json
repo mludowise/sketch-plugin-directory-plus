@@ -1095,7 +1095,7 @@
     "homepage": "https://www.workingon.co",
     "added": "2015-04-06 04:56:55 UTC",
     "gh_url": "https://github.com/WorkingOn/SketchingOn.git",
-    "gh_updated": "2017-05-07 01:22:47 UTC",
+    "gh_updated": "2017-05-07 01:19:03 UTC",
     "gh_stars": 19,
     "gh_issues": 2,
     "gh_branch": "master",
@@ -3332,7 +3332,15 @@
     "author": "Peter Wooley",
     "title": "Copy Color as HSLA",
     "description": "A plugin to copy the fill, border, or text color of the selected layer to the clipboard as HSLA.",
-    "added": "2016-01-12 06:23:11 UTC"
+    "added": "2016-01-12 06:23:11 UTC",
+    "homepage": "https://github.com/peterwooley/copy-color-as-hsla",
+    "gh_url": "https://github.com/peterwooley/copy-color-as-hsla.git",
+    "gh_updated": "2016-01-12 17:22:17 UTC",
+    "gh_stars": 2,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.peterwooley.sketch.copy-color-as-hsla",
+    "man_version": "1.0"
   },
   {
     "name": "sketch-replace-colour",
@@ -3478,7 +3486,9 @@
     "gh_updated": "2018-05-11 12:13:28 UTC",
     "gh_stars": 38,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.copy-paste-shadows",
+    "man_version": "0.3"
   },
   {
     "name": "Sketch-Mobile-Sizes",

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-11 16:01:31 UTC
+Updated 2019-04-11 17:02:06 UTC
 
 Total plugins: 634
 
@@ -370,8 +370,6 @@ Total plugins: 634
 **[jan-patrick/Artboard History](https://github.com/jan-patrick/Artboard History) has no repo**
 
 **[bomberstudios/install-library-bundle](https://github.com/bomberstudios/install-library-bundle) manifest.json is missing identifier**
-
-**[franklymrshankly/Label_Layers](https://github.com/franklymrshankly/Label_Layers) manifest.json is missing identifier**
 
 **[mathieudutour/import-svg-as-artboard](https://github.com/mathieudutour/import-svg-as-artboard) manifest.json is missing identifier**
 

@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-04-08 16:01:50 UTC
+Updated 2019-04-11 13:01:28 UTC
 
-Total plugins: 635
+Total plugins: 634
 
 ## Problems
 **[AnimaApp/Anima](https://github.com/AnimaApp/Anima) has no repo**
@@ -45,7 +45,7 @@ Total plugins: 635
 
 **[udi-gindi/sendTo](https://github.com/udi-gindi/sendTo) manifest.json is missing identifier**
 
-[LaloMrtnz/Chain](https://github.com/LaloMrtnz/Chain) manifest.json contains extra commas
+[lalomts/Chain](https://github.com/lalomts/Chain) manifest.json contains extra commas
 
 **/ has no repo**
 
@@ -157,8 +157,6 @@ Total plugins: 635
 
 [bunnieabc/Blender](https://github.com/bunnieabc/Blender) manifest.json is invalid
 
-**lstore.graphics/ has no repo**
-
 **[d4rekanguok/sketch-slicer](https://github.com/d4rekanguok/sketch-slicer) manifest.json is missing identifier**
 
 **[awkward/sketch-palette-generator](https://github.com/awkward/sketch-palette-generator) manifest.json is missing identifier**
@@ -188,8 +186,6 @@ Total plugins: 635
 **/SketchTurbo has no repo**
 
 **/Clipboard2TilledFill has no repo**
-
-**/ has no repo**
 
 **[ziven27/Sketch-topographic](https://github.com/ziven27/Sketch-topographic) manifest.json is missing identifier**
 
@@ -256,8 +252,6 @@ Total plugins: 635
 **[youngxkk/AutoFixiOSTextLineHeight-Sketch-Plugin](https://github.com/youngxkk/AutoFixiOSTextLineHeight-Sketch-Plugin) has no repo**
 
 [KevinvBre/Align-and-resize-to-layout](https://github.com/KevinvBre/Align-and-resize-to-layout) manifest.json contains extra commas
-
-**/ has no repo**
 
 **[buames/typesettings-sketch-plugin](https://github.com/buames/typesettings-sketch-plugin) manifest.json is missing identifier**
 
@@ -376,4 +370,6 @@ Total plugins: 635
 **[jan-patrick/Artboard History](https://github.com/jan-patrick/Artboard History) has no repo**
 
 **[bomberstudios/install-library-bundle](https://github.com/bomberstudios/install-library-bundle) manifest.json is missing identifier**
+
+**[mathieudutour/import-svg-as-artboard](https://github.com/mathieudutour/import-svg-as-artboard) manifest.json is missing identifier**
 

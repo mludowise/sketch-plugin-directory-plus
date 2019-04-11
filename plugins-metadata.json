@@ -4768,15 +4768,7 @@
     "author": "Big XiXi",
     "title": "Font Packer",
     "description": "A Sketch plugin to collect font files you used in your sketch file.",
-    "added": "2016-10-10 09:58:51 UTC",
-    "homepage": "https://github.com/bigxixi/Font-Packer",
-    "gh_url": "https://github.com/bigxixi/Font-Packer.git",
-    "gh_updated": "2019-02-25 07:22:53 UTC",
-    "gh_stars": 244,
-    "gh_issues": 5,
-    "gh_branch": "master",
-    "man_identifier": "com.sketch.bigxixi.FontPacker",
-    "man_version": "1.21"
+    "added": "2016-10-10 09:58:51 UTC"
   },
   {
     "name": "sketch-app-asset-export",
@@ -5104,7 +5096,7 @@
     "gh_url": "https://github.com/cshdllr/Notes.git",
     "gh_updated": "2019-03-08 19:18:13 UTC",
     "gh_stars": 73,
-    "gh_issues": 2,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.jasoncashdollar.sketchplugins.notes",
     "man_version": "2.3",
@@ -5672,7 +5664,7 @@
     "gh_url": "https://github.com/finchalyzer/slinky.git",
     "gh_updated": "2017-12-04 14:27:29 UTC",
     "gh_stars": 578,
-    "gh_issues": 21,
+    "gh_issues": 22,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.slinky-plugin",
     "man_version": "0.1.5"

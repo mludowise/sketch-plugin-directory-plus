@@ -1316,9 +1316,7 @@
     "gh_updated": "2017-06-13 14:34:15 UTC",
     "gh_stars": 29,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "net.creative-tweet.regexp-rename",
-    "man_version": "1.2.0"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-CSS-Sprite-Mixin",
@@ -6114,7 +6112,7 @@
     "homepage": "https://imageoptim.com/mac",
     "gh_url": "https://github.com/ImageOptim/Sketch-plugin.git",
     "gh_updated": "2017-05-11 21:51:31 UTC",
-    "gh_stars": 113,
+    "gh_stars": 114,
     "gh_issues": 4,
     "gh_branch": "master"
   },

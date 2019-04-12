@@ -4659,7 +4659,7 @@
     "homepage": "https://github.com/nathco/Export-More",
     "gh_url": "https://github.com/nathco/Export-More.git",
     "gh_updated": "2018-01-08 20:01:37 UTC",
-    "gh_stars": 230,
+    "gh_stars": 231,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.plugin.Export-More",
@@ -6888,7 +6888,7 @@
     "homepage": "https://github.com/ahmedmigo/Move-to-library-sketchplugin",
     "gh_url": "https://github.com/ahmedmigo/Move-to-library-sketchplugin.git",
     "gh_updated": "2019-04-10 10:25:39 UTC",
-    "gh_stars": 155,
+    "gh_stars": 156,
     "gh_issues": 6,
     "gh_branch": "master",
     "icon": "https://raw.githubusercontent.com/ahmedmigo/Move-to-library-sketchplugin/master/move-to-library.sketchplugin/Contents/Resources/icon.png"
@@ -10012,7 +10012,7 @@
     "added": "2019-04-05 08:02:25 UTC",
     "gh_url": "https://github.com/bomberstudios/install-library-bundle.git",
     "gh_updated": "2019-04-04 11:30:30 UTC",
-    "gh_stars": 16,
+    "gh_stars": 17,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

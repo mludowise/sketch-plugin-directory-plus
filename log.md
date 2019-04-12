@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-12 13:02:20 UTC
+Updated 2019-04-12 14:01:55 UTC
 
 Total plugins: 639
 
@@ -72,6 +72,8 @@ Total plugins: 639
 **[ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) manifest.json is missing identifier**
 
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
+
+**[delighted/sketch-scale-all-in-place](https://github.com/delighted/sketch-scale-all-in-place) missing manifest.json**
 
 [getflourish/Sketch-Mate](https://github.com/getflourish/Sketch-Mate) manifest.json contains extra commas
 
@@ -225,7 +227,7 @@ Total plugins: 639
 
 **[perrysmotors/sketch-library-unlinker](https://github.com/perrysmotors/sketch-library-unlinker) manifest.json is missing identifier**
 
-**[perrysmotors/format-symbol-names](https://github.com/perrysmotors/format-symbol-names) has no repo**
+**[perrysmotors/format-symbol-names](https://github.com/perrysmotors/format-symbol-names) manifest.json is missing identifier**
 
 **[perrysmotors/reset-image-aspect-ratio](https://github.com/perrysmotors/reset-image-aspect-ratio) manifest.json is missing identifier**
 

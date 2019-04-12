@@ -213,7 +213,7 @@
     "gh_url": "https://github.com/sureskumar/sketch-isometric.git",
     "gh_updated": "2019-02-08 18:23:02 UTC",
     "gh_stars": 1560,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.sureskumar.sketchisometric",
     "man_version": "4.2.0",
@@ -737,16 +737,7 @@
     "author": "Andrey Shakhmin",
     "title": "Wanderer",
     "description": "Frictionless, Finder like navigation in layer list by using beloved arrow keys and simple shortcuts.",
-    "added": "2017-01-30 09:09:50 UTC",
-    "homepage": "https://github.com/turbobabr/sketch-wanderer",
-    "gh_url": "https://github.com/turbobabr/sketch-wanderer.git",
-    "gh_updated": "2018-03-16 07:52:59 UTC",
-    "gh_stars": 165,
-    "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.turbobabr.sketch.wanderer",
-    "man_version": "1.0.1",
-    "man_compatible_version": "3"
+    "added": "2017-01-30 09:09:50 UTC"
   },
   {
     "name": "sketch-html-export",
@@ -1876,7 +1867,10 @@
     "gh_updated": "2018-05-22 20:54:36 UTC",
     "gh_stars": 37,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.delighted.scale-all-in-place",
+    "man_version": "3.1.2",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-upload-to-cloudapp",
@@ -6577,7 +6571,7 @@
     "homepage": "https://github.com/sonburn/symbol-swapper",
     "gh_url": "https://github.com/sonburn/symbol-swapper.git",
     "gh_updated": "2019-04-11 20:55:21 UTC",
-    "gh_stars": 144,
+    "gh_stars": 145,
     "gh_issues": 17,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-swapper",

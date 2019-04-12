@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-12 15:01:52 UTC
+Updated 2019-04-12 16:01:24 UTC
 
 Total plugins: 639
 
@@ -55,13 +55,13 @@ Total plugins: 639
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
 
-**[turbobabr/sketch-wanderer](https://github.com/turbobabr/sketch-wanderer) has no repo**
-
 [AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) and [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) use the same manifest identifier, __com.animaapp.stc-sketch-plugin__
 
 [herrhelms/radial-lines-sketch](https://github.com/herrhelms/radial-lines-sketch) manifest.json contains extra commas
 
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
+
+**[einancunlu/Sketch-State-Switch-Master](https://github.com/einancunlu/Sketch-State-Switch-Master) missing manifest.json**
 
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
 

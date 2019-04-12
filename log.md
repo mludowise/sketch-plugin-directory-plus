@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-12 12:02:14 UTC
+Updated 2019-04-12 13:02:20 UTC
 
 Total plugins: 639
 
@@ -225,7 +225,7 @@ Total plugins: 639
 
 **[perrysmotors/sketch-library-unlinker](https://github.com/perrysmotors/sketch-library-unlinker) manifest.json is missing identifier**
 
-**[perrysmotors/format-symbol-names](https://github.com/perrysmotors/format-symbol-names) manifest.json is missing identifier**
+**[perrysmotors/format-symbol-names](https://github.com/perrysmotors/format-symbol-names) has no repo**
 
 **[perrysmotors/reset-image-aspect-ratio](https://github.com/perrysmotors/reset-image-aspect-ratio) manifest.json is missing identifier**
 

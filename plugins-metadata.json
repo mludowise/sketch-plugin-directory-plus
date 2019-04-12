@@ -7583,14 +7583,7 @@
     "author": "Giles Perry",
     "title": "Format Symbol Names",
     "description": "A Sketch plugin to nicely format the names of all artboards or symbol masters on the current page",
-    "added": "2018-04-23 23:02:34 UTC",
-    "homepage": "https://github.com/perrysmotors/format-symbol-names",
-    "gh_url": "https://github.com/perrysmotors/format-symbol-names.git",
-    "gh_updated": "2018-10-22 15:33:49 UTC",
-    "gh_stars": 3,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_compatible_version": "3"
+    "added": "2018-04-23 23:02:34 UTC"
   },
   {
     "name": "reset-image-aspect-ratio",
@@ -10084,7 +10077,7 @@
     "homepage": "https://github.com/themainingredient/colormate",
     "added": "2019-04-12 10:01:58 UTC",
     "gh_url": "https://github.com/themainingredient/colormate.git",
-    "gh_updated": "2019-04-12 10:04:13 UTC",
+    "gh_updated": "2019-04-12 13:09:34 UTC",
     "gh_stars": 0,
     "gh_issues": 3,
     "gh_branch": "develop",

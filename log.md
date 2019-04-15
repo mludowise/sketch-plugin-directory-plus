@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-15 13:02:19 UTC
+Updated 2019-04-15 14:01:48 UTC
 
 Total plugins: 639
 
@@ -200,8 +200,6 @@ Total plugins: 639
 **[zcallan/sketch-bacon-ipsum](https://github.com/zcallan/sketch-bacon-ipsum) manifest.json is missing identifier**
 
 **/ has no repo**
-
-**[juliussohn/sketch-textbox-fit-content](https://github.com/juliussohn/sketch-textbox-fit-content) manifest.json is missing identifier**
 
 **[nichenqin/draw-and-render-sketch-plugin](https://github.com/nichenqin/draw-and-render-sketch-plugin) manifest.json is missing identifier**
 

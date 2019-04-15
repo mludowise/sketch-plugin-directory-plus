@@ -2475,7 +2475,7 @@
     "homepage": "https://github.com/keremciu/sketch-iconfont",
     "gh_url": "https://github.com/keremciu/sketch-iconfont.git",
     "gh_updated": "2019-03-20 16:33:30 UTC",
-    "gh_stars": 1858,
+    "gh_stars": 1859,
     "gh_issues": 24,
     "gh_branch": "master",
     "man_identifier": "com.keremciu.sketch.iconfont",
@@ -7348,10 +7348,7 @@
     "gh_updated": "2018-06-22 14:23:45 UTC",
     "gh_stars": 45,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_version": "1.4.0",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/juliussohn/sketch-textbox-fit-content/master/sketch-textbox-fit-content.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "draw-and-render-sketch-plugin",
@@ -9780,7 +9777,7 @@
     "added": "2019-03-15 17:02:18 UTC",
     "gh_url": "https://github.com/google/sketch2ae.git",
     "gh_updated": "2019-03-14 20:18:48 UTC",
-    "gh_stars": 234,
+    "gh_stars": 235,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.wearesumux.AEUX",

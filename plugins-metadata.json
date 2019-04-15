@@ -153,13 +153,13 @@
     "homepage": "https://github.com/symdesign/sketch-auto-translate",
     "added": "2018-05-04 16:02:20 UTC",
     "gh_url": "https://github.com/symdesign/sketch-auto-translate.git",
-    "gh_updated": "2019-04-14 21:58:03 UTC",
+    "gh_updated": "2019-04-15 06:42:34 UTC",
     "gh_stars": 28,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "design.sym.sketch-auto-translate",
     "man_version": "2.0",
-    "man_compatible_version": "52.2"
+    "man_compatible_version": "53.2"
   },
   {
     "name": "sketch-reverse",
@@ -4246,7 +4246,7 @@
     "homepage": "https://github.com/cute/SketchI18N",
     "gh_url": "https://github.com/cute/SketchI18N.git",
     "gh_updated": "2019-01-17 13:57:14 UTC",
-    "gh_stars": 1214,
+    "gh_stars": 1213,
     "gh_issues": 24,
     "gh_branch": "master",
     "man_identifier": "com.liguangming.sketch-i18n",
@@ -5486,7 +5486,7 @@
     "homepage": "https://github.com/DWilliames/PDF-export-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/PDF-export-sketch-plugin.git",
     "gh_updated": "2018-11-18 05:36:45 UTC",
-    "gh_stars": 197,
+    "gh_stars": 198,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch.pdf-export",

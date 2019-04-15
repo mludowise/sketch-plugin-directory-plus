@@ -3233,15 +3233,7 @@
     "author": "Atsushi NAGASE",
     "title": "Copy Swift Code",
     "description": "A Sketch Plugin for generating UIColor and NSColor initializer Swift code from fill color of selected layers.",
-    "added": "2015-12-10 08:51:55 UTC",
-    "homepage": "http://ngs.io/2015/12/11/sketch-swift-color/",
-    "gh_url": "https://github.com/ngs/sketchplugin-swift-color.git",
-    "gh_updated": "2018-02-23 06:04:58 UTC",
-    "gh_stars": 57,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "io.ngs.sketchplugin.swift-color",
-    "man_version": "1.0"
+    "added": "2015-12-10 08:51:55 UTC"
   },
   {
     "name": "copy-paste-guides",

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-15 15:02:08 UTC
+Updated 2019-04-15 16:01:52 UTC
 
 Total plugins: 639
 
@@ -54,8 +54,6 @@ Total plugins: 639
 [3raxton/foreignipsum](https://github.com/3raxton/foreignipsum) manifest.json contains extra commas
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
-
-**[LeonardPauli/LayerRenamer](https://github.com/LeonardPauli/LayerRenamer) missing manifest.json**
 
 [AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) and [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) use the same manifest identifier, __com.animaapp.stc-sketch-plugin__
 

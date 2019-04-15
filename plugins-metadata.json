@@ -497,6 +497,9 @@
     "gh_stars": 19,
     "gh_issues": 0,
     "gh_branch": "master",
+    "man_identifier": "com.sureskumar.palettestripes",
+    "man_version": "2.0.0",
+    "man_compatible_version": "51.0",
     "icon": "https://raw.githubusercontent.com/sureskumar/palette-stripes/master/Palette-Stripes.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -6094,7 +6097,7 @@
     "added": "2017-07-10 10:02:05 UTC",
     "gh_url": "https://github.com/RealtimeBoard/sketch_plugin.git",
     "gh_updated": "2019-04-15 08:03:01 UTC",
-    "gh_stars": 44,
+    "gh_stars": 45,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.realtimeboard.sketch.plugin",
@@ -9974,7 +9977,7 @@
     "homepage": "https://github.com/maxdavid/sketch-foodreau",
     "added": "2019-04-05 08:02:25 UTC",
     "gh_url": "https://github.com/maxdavid/sketch-foodreau.git",
-    "gh_updated": "2019-04-09 21:48:12 UTC",
+    "gh_updated": "2019-04-11 18:36:18 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
     "gh_branch": "master",

@@ -497,9 +497,6 @@
     "gh_stars": 19,
     "gh_issues": 0,
     "gh_branch": "master",
-    "man_identifier": "com.sureskumar.palettestripes",
-    "man_version": "2.0.0",
-    "man_compatible_version": "51.0",
     "icon": "https://raw.githubusercontent.com/sureskumar/palette-stripes/master/Palette-Stripes.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -691,7 +688,7 @@
     "homepage": "http://www.sureskumar.com/looper/",
     "gh_url": "https://github.com/sureskumar/Looper.git",
     "gh_updated": "2019-02-08 18:34:17 UTC",
-    "gh_stars": 446,
+    "gh_stars": 447,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.sureskumar.sketch.looper",
@@ -9977,7 +9974,7 @@
     "homepage": "https://github.com/maxdavid/sketch-foodreau",
     "added": "2019-04-05 08:02:25 UTC",
     "gh_url": "https://github.com/maxdavid/sketch-foodreau.git",
-    "gh_updated": "2019-04-05 18:23:48 UTC",
+    "gh_updated": "2019-04-09 21:48:12 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -10084,7 +10081,7 @@
     "added": "2019-04-12 10:01:58 UTC",
     "gh_url": "https://github.com/themainingredient/colormate.git",
     "gh_updated": "2019-04-15 09:06:44 UTC",
-    "gh_stars": 1,
+    "gh_stars": 2,
     "gh_issues": 3,
     "gh_branch": "develop",
     "man_compatible_version": "3"
@@ -10099,7 +10096,7 @@
     "added": "2019-04-12 10:01:58 UTC",
     "gh_url": "https://github.com/mathieudutour/prototypes-invision-sketch.git",
     "gh_updated": "2019-04-11 15:15:51 UTC",
-    "gh_stars": 3,
+    "gh_stars": 4,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

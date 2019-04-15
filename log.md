@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-15 20:01:43 UTC
+Updated 2019-04-15 21:02:31 UTC
 
 Total plugins: 639
 
@@ -48,8 +48,6 @@ Total plugins: 639
 [lalomts/Chain](https://github.com/lalomts/Chain) manifest.json contains extra commas
 
 **/ has no repo**
-
-**[sureskumar/palette-stripes](https://github.com/sureskumar/palette-stripes) missing manifest.json**
 
 **/ has no repo**
 

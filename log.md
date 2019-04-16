@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-16 13:01:39 UTC
+Updated 2019-04-16 14:01:55 UTC
 
 Total plugins: 641
 
@@ -87,6 +87,8 @@ Total plugins: 641
 
 [jamztang/MagicMirror](https://github.com/jamztang/MagicMirror) manifest.json contains extra commas
 
+**[kmerc/sketch-import-symbols](https://github.com/kmerc/sketch-import-symbols) has no repo**
+
 [stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers) manifest.json contains extra commas
 
 [JohnCoates/CSSketch](https://github.com/JohnCoates/CSSketch) manifest.json contains extra commas
@@ -94,6 +96,8 @@ Total plugins: 641
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 
 **[heysketch/sketch-color-picker-plus](https://github.com/heysketch/sketch-color-picker-plus) has no repo**
+
+**[pixelpillow/copy-paste-guides](https://github.com/pixelpillow/copy-paste-guides) missing manifest.json**
 
 [LaloMrtnz/Prism](https://github.com/LaloMrtnz/Prism) manifest.json contains extra commas
 
@@ -330,6 +334,8 @@ Total plugins: 641
 **[BaguetteEngineering/annotations-sketch-plugin](https://github.com/BaguetteEngineering/annotations-sketch-plugin) manifest.json is missing identifier**
 
 **[taobaofed/imgcook](https://github.com/taobaofed/imgcook) missing manifest.json**
+
+**[SimonTakman/BillUI](https://github.com/SimonTakman/BillUI) has no repo**
 
 [pratikjshah/Sketch-Guides](https://github.com/pratikjshah/Sketch-Guides) and [pratikjshah/PS-Guides](https://github.com/pratikjshah/PS-Guides) use the same manifest identifier, __website.pratikshah.guides__
 

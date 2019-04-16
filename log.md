@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-16 15:01:51 UTC
+Updated 2019-04-16 16:02:05 UTC
 
 Total plugins: 641
 
@@ -125,11 +125,7 @@ Total plugins: 641
 
 [marianomike/sketch-duplicatesymbol](https://github.com/marianomike/sketch-duplicatesymbol) manifest.json contains extra commas
 
-**[ANGIstudio/Sketch-Keyboard-Resize](https://github.com/ANGIstudio/Sketch-Keyboard-Resize) missing manifest.json**
-
 [luvmex/Sketch-Guides](https://github.com/luvmex/Sketch-Guides) manifest.json contains extra commas
-
-**[tomoyukikashiro/Sketch-bootstrap-guides](https://github.com/tomoyukikashiro/Sketch-bootstrap-guides) has no repo**
 
 [pberrecloth/rotator-sketch-plugin](https://github.com/pberrecloth/rotator-sketch-plugin) manifest.json contains extra commas
 

@@ -352,7 +352,10 @@
     "gh_updated": "2018-02-28 14:04:59 UTC",
     "gh_stars": 23,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.animaapp.fontbuddy",
+    "man_version": "1.0.3",
+    "man_compatible_version": "49"
   },
   {
     "name": "Sketch-Play",
@@ -1210,7 +1213,7 @@
     "added": "2014-05-14 03:43:43 UTC",
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
-    "gh_updated": "2019-03-13 21:08:58 UTC",
+    "gh_updated": "2018-10-17 15:24:23 UTC",
     "gh_stars": 6390,
     "gh_issues": 304,
     "gh_branch": "master",
@@ -2456,7 +2459,7 @@
     "homepage": "https://github.com/romannurik/Sketch-ArtboardTricks",
     "gh_url": "https://github.com/romannurik/Sketch-ArtboardTricks.git",
     "gh_updated": "2019-03-20 20:47:37 UTC",
-    "gh_stars": 303,
+    "gh_stars": 304,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.artboardtricks",
@@ -3100,7 +3103,10 @@
     "gh_updated": "2015-11-15 17:43:51 UTC",
     "gh_stars": 14,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "org.degoo.qrcode-for-local-sharing",
+    "man_version": "0.1",
+    "man_compatible_version": "3.4"
   },
   {
     "name": "Comma",
@@ -3180,7 +3186,7 @@
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
     "gh_updated": "2019-04-11 11:34:42 UTC",
-    "gh_stars": 579,
+    "gh_stars": 580,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
@@ -4752,7 +4758,9 @@
     "gh_updated": "2016-11-12 20:04:47 UTC",
     "gh_stars": 17,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.keyboardresize",
+    "man_version": "1.0"
   },
   {
     "name": "Font-Packer",
@@ -4861,7 +4869,7 @@
     "added": "2016-10-26 19:23:03 UTC",
     "homepage": "https://github.com/mamuso/sketch-designdoc",
     "gh_url": "https://github.com/mamuso/sketch-designdoc.git",
-    "gh_updated": "2016-12-06 19:39:02 UTC",
+    "gh_updated": "2016-12-06 19:39:08 UTC",
     "gh_stars": 227,
     "gh_issues": 6,
     "gh_branch": "master",
@@ -4924,7 +4932,15 @@
     "author": "Tomoyuki Kashiro",
     "title": "Bootstrap Guides",
     "description": "Generate guides along with twitter bootstrap grid system.",
-    "added": "2016-11-07 16:37:06 UTC"
+    "added": "2016-11-07 16:37:06 UTC",
+    "homepage": "https://github.com/tomoyukikashiro/Sketch-bootstrap-guides",
+    "gh_url": "https://github.com/tomoyukikashiro/Sketch-bootstrap-guides.git",
+    "gh_updated": "2016-12-25 22:58:32 UTC",
+    "gh_stars": 29,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "me.tomoyukikashiro.sketch_bootstrap_guides",
+    "man_version": "1.1.0"
   },
   {
     "name": "SketchTape.sketchplugin",
@@ -8618,7 +8634,7 @@
     "added": "2018-10-25 19:01:32 UTC",
     "gh_url": "https://github.com/Ashung/Sketch-Stuffing.git",
     "gh_updated": "2019-01-10 13:11:43 UTC",
-    "gh_stars": 23,
+    "gh_stars": 24,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.stuffing",
@@ -9613,7 +9629,7 @@
     "added": "2019-03-15 17:02:18 UTC",
     "gh_url": "https://github.com/jan-dh/sketch-tailwind.git",
     "gh_updated": "2019-03-23 20:04:01 UTC",
-    "gh_stars": 59,
+    "gh_stars": 60,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "sketch-tailwind",
@@ -9630,7 +9646,7 @@
     "homepage": "https://github.com/nOograss/labelizING",
     "added": "2019-03-15 17:02:18 UTC",
     "gh_url": "https://github.com/nOograss/labelizer.git",
-    "gh_updated": "2019-03-18 11:38:52 UTC",
+    "gh_updated": "2019-03-18 11:38:45 UTC",
     "gh_stars": 0,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -10027,9 +10043,9 @@
     "homepage": "https://github.com/chriswetterman/sketch-find-and-replace-text",
     "added": "2019-04-11 13:01:28 UTC",
     "gh_url": "https://github.com/chriswetterman/sketch-find-and-replace-text.git",
-    "gh_updated": "2019-04-14 15:03:20 UTC",
+    "gh_updated": "2019-04-16 15:57:11 UTC",
     "gh_stars": 6,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.chriswetterman.sketch.find-and-replace-text-plugin",
     "man_compatible_version": "53"

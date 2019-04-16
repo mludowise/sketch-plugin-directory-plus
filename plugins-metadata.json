@@ -352,10 +352,7 @@
     "gh_updated": "2018-02-28 14:04:59 UTC",
     "gh_stars": 23,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.animaapp.fontbuddy",
-    "man_version": "1.0.3",
-    "man_compatible_version": "49"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Play",
@@ -1213,7 +1210,7 @@
     "added": "2014-05-14 03:43:43 UTC",
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
-    "gh_updated": "2018-10-17 15:24:23 UTC",
+    "gh_updated": "2019-03-13 21:08:58 UTC",
     "gh_stars": 6390,
     "gh_issues": 304,
     "gh_branch": "master",
@@ -2505,7 +2502,16 @@
     "author": "kmerc",
     "title": "Import Symbols",
     "description": "Easily import symbols from another Sketch file",
-    "added": "2015-08-27 06:41:24 UTC"
+    "added": "2015-08-27 06:41:24 UTC",
+    "homepage": "https://github.com/kmerc/sketch-import-symbols",
+    "gh_url": "https://github.com/kmerc/sketch-import-symbols.git",
+    "gh_updated": "2017-06-14 07:18:23 UTC",
+    "gh_stars": 84,
+    "gh_issues": 5,
+    "gh_branch": "master",
+    "man_identifier": "com.kmerc.sketch.import-plugin",
+    "man_version": "5.0",
+    "man_compatible_version": "1"
   },
   {
     "name": "sketch-logo-fetcher",
@@ -3094,10 +3100,7 @@
     "gh_updated": "2015-11-15 17:43:51 UTC",
     "gh_stars": 14,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "org.degoo.qrcode-for-local-sharing",
-    "man_version": "0.1",
-    "man_compatible_version": "3.4"
+    "gh_branch": "master"
   },
   {
     "name": "Comma",
@@ -3246,7 +3249,10 @@
     "gh_updated": "2017-05-10 17:18:46 UTC",
     "gh_stars": 68,
     "gh_issues": 4,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "nl.pixelpillow.copypasteguides",
+    "man_version": "0.8.0",
+    "man_compatible_version": "3.4.2"
   },
   {
     "name": "sketch-export-generator",
@@ -4746,9 +4752,7 @@
     "gh_updated": "2016-11-12 20:04:47 UTC",
     "gh_stars": 17,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.sketchapp.keyboardresize",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "Font-Packer",
@@ -4920,15 +4924,7 @@
     "author": "Tomoyuki Kashiro",
     "title": "Bootstrap Guides",
     "description": "Generate guides along with twitter bootstrap grid system.",
-    "added": "2016-11-07 16:37:06 UTC",
-    "homepage": "https://github.com/tomoyukikashiro/Sketch-bootstrap-guides",
-    "gh_url": "https://github.com/tomoyukikashiro/Sketch-bootstrap-guides.git",
-    "gh_updated": "2016-12-25 22:58:32 UTC",
-    "gh_stars": 29,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "me.tomoyukikashiro.sketch_bootstrap_guides",
-    "man_version": "1.1.0"
+    "added": "2016-11-07 16:37:06 UTC"
   },
   {
     "name": "SketchTape.sketchplugin",
@@ -6055,7 +6051,9 @@
     "gh_updated": "2017-06-23 17:50:27 UTC",
     "gh_stars": 2,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.plugins.show-layer-info",
+    "man_version": "1.0"
   },
   {
     "name": "sketch-numbering-machine",
@@ -7712,7 +7710,7 @@
     "added": "2018-05-07 10:02:23 UTC",
     "gh_url": "https://github.com/romannurik/Sketch-Stickers.git",
     "gh_updated": "2019-03-29 17:21:21 UTC",
-    "gh_stars": 148,
+    "gh_stars": 149,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.stickers",
@@ -9180,7 +9178,16 @@
     "title": "BillUI",
     "description": "Interactive artificial evolutionary tool in order to help you come up with design suggestions that are similar to your initial design.",
     "homepage": "https://github.com/SimonTakman/BillUI",
-    "added": "2019-01-18 10:01:59 UTC"
+    "added": "2019-01-18 10:01:59 UTC",
+    "gh_url": "https://github.com/SimonTakman/BillUI.git",
+    "gh_updated": "2019-01-14 11:06:12 UTC",
+    "gh_stars": 20,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "BillUI",
+    "man_version": "1.0",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/SimonTakman/BillUI/master/billui.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "2o3t-Sketch-Tools",
@@ -9227,7 +9234,7 @@
     "homepage": "http://guides.pratikshah.website/",
     "added": "2019-01-10 12:02:22 UTC",
     "gh_url": "https://github.com/pratikjshah/Sketch-Guides.git",
-    "gh_updated": "2019-01-17 06:30:04 UTC",
+    "gh_updated": "2019-01-17 06:29:21 UTC",
     "gh_stars": 69,
     "gh_issues": 2,
     "gh_branch": "master",
@@ -9293,7 +9300,7 @@
     "added": "2019-01-29 11:01:42 UTC",
     "gh_url": "https://github.com/KevinGutowski/betterTypePanel.git",
     "gh_updated": "2019-02-19 05:26:04 UTC",
-    "gh_stars": 64,
+    "gh_stars": 65,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "betterTypePanel",
@@ -9495,7 +9502,7 @@
     "homepage": "https://github.com/idriesalbender/iban-sketch-plugin",
     "added": "2019-03-15 17:02:18 UTC",
     "gh_url": "https://github.com/idriesalbender/iban-sketch-plugin.git",
-    "gh_updated": "2019-02-21 11:01:47 UTC",
+    "gh_updated": "2019-02-21 11:01:41 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -9623,7 +9630,7 @@
     "homepage": "https://github.com/nOograss/labelizING",
     "added": "2019-03-15 17:02:18 UTC",
     "gh_url": "https://github.com/nOograss/labelizer.git",
-    "gh_updated": "2019-03-18 11:38:45 UTC",
+    "gh_updated": "2019-03-18 11:38:52 UTC",
     "gh_stars": 0,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -10062,7 +10069,7 @@
     "gh_url": "https://github.com/themainingredient/colormate.git",
     "gh_updated": "2019-04-15 09:06:44 UTC",
     "gh_stars": 2,
-    "gh_issues": 3,
+    "gh_issues": 4,
     "gh_branch": "develop",
     "man_compatible_version": "3"
   },

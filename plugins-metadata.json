@@ -2391,7 +2391,7 @@
     "added": "2015-08-05 03:01:56 UTC",
     "gh_url": "https://github.com/MagicSketch/MagicMirror.git",
     "gh_updated": "2019-02-13 13:07:02 UTC",
-    "gh_stars": 478,
+    "gh_stars": 477,
     "gh_issues": 38,
     "gh_branch": "master",
     "man_identifier": "design.magicmirror",
@@ -6770,7 +6770,7 @@
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2019-04-11 21:21:52 UTC",
-    "gh_stars": 164,
+    "gh_stars": 165,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_compatible_version": "50"

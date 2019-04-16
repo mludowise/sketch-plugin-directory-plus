@@ -1529,7 +1529,7 @@
     "homepage": "https://github.com/getflourish/Sketch-Style-Inventory",
     "gh_url": "https://github.com/getflourish/Sketch-Style-Inventory.git",
     "gh_updated": "2018-04-14 11:55:42 UTC",
-    "gh_stars": 1861,
+    "gh_stars": 1862,
     "gh_issues": 33,
     "gh_branch": "master",
     "man_identifier": "com.getflourish.sketch.styleinventory",
@@ -1614,7 +1614,9 @@
     "gh_updated": "2017-08-02 17:15:04 UTC",
     "gh_stars": 139,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.ichord.sketch.divine-proportions",
+    "man_version": "1.0.2"
   },
   {
     "name": "RemoveAllGuides",
@@ -3414,7 +3416,7 @@
     "homepage": "https://mathieudutour.github.io/git-sketch-plugin",
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2019-02-26 12:56:37 UTC",
-    "gh_stars": 2323,
+    "gh_stars": 2324,
     "gh_issues": 32,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",

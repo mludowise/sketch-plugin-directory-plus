@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-17 15:02:20 UTC
+Updated 2019-04-17 16:01:30 UTC
 
 Total plugins: 641
 
@@ -132,8 +132,6 @@ Total plugins: 641
 [eaugustine/Sketch-Color-Contrast-Analyzer](https://github.com/eaugustine/Sketch-Color-Contrast-Analyzer) manifest.json contains extra commas
 
 **[amin-nas/Sketch-to-Clickthrough-HTML](https://github.com/amin-nas/Sketch-to-Clickthrough-HTML) manifest.json is missing identifier**
-
-**[Volorf/Perfecter](https://github.com/Volorf/Perfecter) has no repo**
 
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
 
@@ -343,7 +341,7 @@ Total plugins: 641
 
 **[mathieudutour/sketch-styles-hierarchy](https://github.com/mathieudutour/sketch-styles-hierarchy) manifest.json is missing identifier**
 
-**[perrysmotors/symbol-namer](https://github.com/perrysmotors/symbol-namer) manifest.json is missing identifier**
+**[perrysmotors/symbol-namer](https://github.com/perrysmotors/symbol-namer) missing manifest.json**
 
 **[Pausansol/Escriba](https://github.com/Pausansol/Escriba) manifest.json is missing identifier**
 

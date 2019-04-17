@@ -286,7 +286,9 @@
     "gh_updated": "2017-11-25 03:25:53 UTC",
     "gh_stars": 3,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_version": "0.1.0",
+    "man_compatible_version": "3"
   },
   {
     "name": "sendTo",
@@ -527,7 +529,7 @@
     "added": "2017-06-10 18:01:18 UTC",
     "gh_url": "https://github.com/novemberfiveco/symbol-spacer-sketch-plugin.git",
     "gh_updated": "2017-10-19 22:41:52 UTC",
-    "gh_stars": 79,
+    "gh_stars": 80,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "be.novemberfive.symbol-spacer",
@@ -2275,9 +2277,7 @@
     "gh_updated": "2016-11-13 04:10:04 UTC",
     "gh_stars": 171,
     "gh_issues": 6,
-    "gh_branch": "master",
-    "man_identifier": "com.abynim.plugins.sketchypies",
-    "man_version": "1.1"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-artwork-fetcher",
@@ -2457,7 +2457,7 @@
     "homepage": "https://github.com/romannurik/Sketch-ArtboardTricks",
     "gh_url": "https://github.com/romannurik/Sketch-ArtboardTricks.git",
     "gh_updated": "2019-03-20 20:47:37 UTC",
-    "gh_stars": 304,
+    "gh_stars": 305,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.artboardtricks",
@@ -3976,9 +3976,7 @@
     "gh_updated": "2016-06-06 08:16:50 UTC",
     "gh_stars": 7,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "org.projectrhinestone.sketch.sfuifontfixer",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-PathPrefixRemover",
@@ -5049,7 +5047,7 @@
     "added": "2016-11-28 16:49:08 UTC",
     "homepage": "https://github.com/philsinatra/Sketch-Color-Vars",
     "gh_url": "https://github.com/philsinatra/Sketch-Color-Vars.git",
-    "gh_updated": "2018-10-15 23:16:22 UTC",
+    "gh_updated": "2018-10-15 23:17:57 UTC",
     "gh_stars": 38,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -5062,16 +5060,7 @@
     "author": "Oleg Frolov",
     "title": "Perfecter",
     "description": "Make great typography [Sketch plugin]",
-    "added": "2016-11-29 23:07:37 UTC",
-    "homepage": "https://github.com/Volorf/Perfecter",
-    "gh_url": "https://github.com/Volorf/Perfecter.git",
-    "gh_updated": "2017-04-06 10:44:36 UTC",
-    "gh_stars": 118,
-    "gh_issues": 4,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.perfecter",
-    "man_version": "1.0",
-    "man_compatible_version": "1"
+    "added": "2016-11-29 23:07:37 UTC"
   },
   {
     "name": "HSL_Color_Picker",
@@ -5117,7 +5106,7 @@
     "added": "2016-12-11 21:36:07 UTC",
     "homepage": "https://github.com/devinmancuso/sketch-rtl",
     "gh_url": "https://github.com/devinmancuso/sketch-rtl.git",
-    "gh_updated": "2018-05-28 23:37:33 UTC",
+    "gh_updated": "2018-05-28 23:37:32 UTC",
     "gh_stars": 57,
     "gh_issues": 1,
     "gh_branch": "master",

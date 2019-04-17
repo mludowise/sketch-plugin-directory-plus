@@ -5554,7 +5554,7 @@
     "homepage": "https://github.com/lucaorio/sketch-styles-generator",
     "added": "2017-03-15 10:07:31 UTC",
     "gh_url": "https://github.com/lucaorio/sketch-styles-generator.git",
-    "gh_updated": "2019-04-09 06:54:49 UTC",
+    "gh_updated": "2019-04-17 00:53:03 UTC",
     "gh_stars": 452,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -6114,7 +6114,7 @@
     "homepage": "https://imageoptim.com/mac",
     "gh_url": "https://github.com/ImageOptim/Sketch-plugin.git",
     "gh_updated": "2017-05-11 21:51:31 UTC",
-    "gh_stars": 113,
+    "gh_stars": 114,
     "gh_issues": 4,
     "gh_branch": "master"
   },
@@ -10085,7 +10085,7 @@
     "gh_url": "https://github.com/themainingredient/colormate.git",
     "gh_updated": "2019-04-15 09:06:44 UTC",
     "gh_stars": 2,
-    "gh_issues": 4,
+    "gh_issues": 5,
     "gh_branch": "develop",
     "man_compatible_version": "3"
   },

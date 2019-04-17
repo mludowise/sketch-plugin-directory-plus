@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-17 16:01:30 UTC
+Updated 2019-04-17 17:02:11 UTC
 
 Total plugins: 641
 
@@ -341,7 +341,7 @@ Total plugins: 641
 
 **[mathieudutour/sketch-styles-hierarchy](https://github.com/mathieudutour/sketch-styles-hierarchy) manifest.json is missing identifier**
 
-**[perrysmotors/symbol-namer](https://github.com/perrysmotors/symbol-namer) missing manifest.json**
+**[perrysmotors/symbol-namer](https://github.com/perrysmotors/symbol-namer) manifest.json is missing identifier**
 
 **[Pausansol/Escriba](https://github.com/Pausansol/Escriba) manifest.json is missing identifier**
 

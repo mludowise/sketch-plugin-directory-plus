@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-17 14:02:15 UTC
+Updated 2019-04-17 15:02:20 UTC
 
 Total plugins: 641
 
@@ -41,7 +41,7 @@ Total plugins: 641
 
 **/ has no repo**
 
-**[mjkaufer/smudge](https://github.com/mjkaufer/smudge) missing manifest.json**
+**[mjkaufer/smudge](https://github.com/mjkaufer/smudge) manifest.json is missing identifier**
 
 **[udi-gindi/sendTo](https://github.com/udi-gindi/sendTo) manifest.json is missing identifier**
 
@@ -132,6 +132,8 @@ Total plugins: 641
 [eaugustine/Sketch-Color-Contrast-Analyzer](https://github.com/eaugustine/Sketch-Color-Contrast-Analyzer) manifest.json contains extra commas
 
 **[amin-nas/Sketch-to-Clickthrough-HTML](https://github.com/amin-nas/Sketch-to-Clickthrough-HTML) manifest.json is missing identifier**
+
+**[Volorf/Perfecter](https://github.com/Volorf/Perfecter) has no repo**
 
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
 

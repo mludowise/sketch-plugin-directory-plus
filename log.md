@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-17 13:01:54 UTC
+Updated 2019-04-17 14:02:15 UTC
 
 Total plugins: 641
 
@@ -41,7 +41,7 @@ Total plugins: 641
 
 **/ has no repo**
 
-**[mjkaufer/smudge](https://github.com/mjkaufer/smudge) manifest.json is missing identifier**
+**[mjkaufer/smudge](https://github.com/mjkaufer/smudge) missing manifest.json**
 
 **[udi-gindi/sendTo](https://github.com/udi-gindi/sendTo) manifest.json is missing identifier**
 

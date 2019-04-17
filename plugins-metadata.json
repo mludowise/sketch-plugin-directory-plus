@@ -2277,7 +2277,9 @@
     "gh_updated": "2016-11-13 04:10:04 UTC",
     "gh_stars": 171,
     "gh_issues": 6,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.abynim.plugins.sketchypies",
+    "man_version": "1.1"
   },
   {
     "name": "sketch-artwork-fetcher",
@@ -3976,7 +3978,9 @@
     "gh_updated": "2016-06-06 08:16:50 UTC",
     "gh_stars": 7,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "org.projectrhinestone.sketch.sfuifontfixer",
+    "man_version": "1.0"
   },
   {
     "name": "Sketch-PathPrefixRemover",
@@ -5047,7 +5051,7 @@
     "added": "2016-11-28 16:49:08 UTC",
     "homepage": "https://github.com/philsinatra/Sketch-Color-Vars",
     "gh_url": "https://github.com/philsinatra/Sketch-Color-Vars.git",
-    "gh_updated": "2018-10-15 23:17:57 UTC",
+    "gh_updated": "2018-10-15 23:16:22 UTC",
     "gh_stars": 38,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -5060,7 +5064,16 @@
     "author": "Oleg Frolov",
     "title": "Perfecter",
     "description": "Make great typography [Sketch plugin]",
-    "added": "2016-11-29 23:07:37 UTC"
+    "added": "2016-11-29 23:07:37 UTC",
+    "homepage": "https://github.com/Volorf/Perfecter",
+    "gh_url": "https://github.com/Volorf/Perfecter.git",
+    "gh_updated": "2017-04-06 10:44:36 UTC",
+    "gh_stars": 118,
+    "gh_issues": 4,
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.perfecter",
+    "man_version": "1.0",
+    "man_compatible_version": "1"
   },
   {
     "name": "HSL_Color_Picker",
@@ -5174,7 +5187,7 @@
     "homepage": "https://github.com/Tallwave/sketch-spellcheck-all-layers",
     "gh_url": "https://github.com/Tallwave/sketch-spellcheck-all-layers.git",
     "gh_updated": "2018-08-02 14:41:52 UTC",
-    "gh_stars": 118,
+    "gh_stars": 119,
     "gh_issues": 11,
     "gh_branch": "master",
     "man_identifier": "com.tallwave.spellcheckwholepage",
@@ -6322,7 +6335,7 @@
     "homepage": "https://github.com/oodesign/merge-duplicate-symbols",
     "gh_url": "https://github.com/oodesign/merge-duplicate-symbols.git",
     "gh_updated": "2019-04-12 07:28:30 UTC",
-    "gh_stars": 223,
+    "gh_stars": 224,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.oodesign.mergeduplicatesymbols",
@@ -9405,8 +9418,7 @@
     "gh_updated": "2019-02-22 19:27:39 UTC",
     "gh_stars": 11,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_compatible_version": "53"
+    "gh_branch": "master"
   },
   {
     "name": "dribbble-sketch",
@@ -10086,7 +10098,7 @@
     "added": "2019-04-12 10:01:58 UTC",
     "gh_url": "https://github.com/mathieudutour/prototypes-invision-sketch.git",
     "gh_updated": "2019-04-11 15:15:51 UTC",
-    "gh_stars": 5,
+    "gh_stars": 6,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

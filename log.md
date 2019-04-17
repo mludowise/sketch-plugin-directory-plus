@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-17 17:02:11 UTC
+Updated 2019-04-17 18:01:29 UTC
 
 Total plugins: 641
 
@@ -366,6 +366,8 @@ Total plugins: 641
 **[Infragistics/Indigo.Design](https://github.com/Infragistics/Indigo.Design) has no repo**
 
 **[Rutger Willems/Airtabledata](https://github.com/Rutger Willems/Airtabledata) has no repo**
+
+**[radermacher/sketch-number-artboards-by-position](https://github.com/radermacher/sketch-number-artboards-by-position) missing manifest.json**
 
 **[jan-patrick/Artboard History](https://github.com/jan-patrick/Artboard History) has no repo**
 

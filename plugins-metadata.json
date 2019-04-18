@@ -2137,7 +2137,14 @@
     "title": "Marketch",
     "description": "Marketch is a Sketch 3 plug-in for automatically generating html page that can measure and get CSS styles on it.",
     "homepage": "http://tudou527.github.io/marketch/",
-    "added": "2015-07-08 12:27:44 UTC"
+    "added": "2015-07-08 12:27:44 UTC",
+    "gh_url": "https://github.com/tudou527/marketch.git",
+    "gh_updated": "2018-12-10 03:42:55 UTC",
+    "gh_stars": 2816,
+    "gh_issues": 47,
+    "gh_branch": "master",
+    "man_identifier": "com.marketch.cosa.98908c77-3d38-48fa-8c7c-1bb465f67eb8",
+    "man_version": "1.0.24"
   },
   {
     "name": "IconSlate-sketchplugin",
@@ -2737,7 +2744,7 @@
     "homepage": "https://github.com/andrewfiorillo/sketch-palettes",
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
     "gh_updated": "2019-02-12 02:17:39 UTC",
-    "gh_stars": 2121,
+    "gh_stars": 2122,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
@@ -8903,7 +8910,7 @@
     "homepage": "https://github.com/hiradarshadi/PersianSupplier",
     "gh_url": "https://github.com/hiradarshadi/PersianSupplier.git",
     "gh_updated": "2019-02-13 14:30:53 UTC",
-    "gh_stars": 37,
+    "gh_stars": 38,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.box.persiansupplier",

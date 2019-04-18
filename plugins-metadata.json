@@ -283,7 +283,7 @@
     "homepage": "https://github.com/mjkaufer/smudge",
     "added": "2018-01-24 10:01:29 UTC",
     "gh_url": "https://github.com/mjkaufer/Smudge.git",
-    "gh_updated": "2017-11-25 03:25:53 UTC",
+    "gh_updated": "2017-11-25 03:25:58 UTC",
     "gh_stars": 3,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -531,9 +531,7 @@
     "gh_updated": "2017-10-19 22:41:52 UTC",
     "gh_stars": 80,
     "gh_issues": 7,
-    "gh_branch": "master",
-    "man_identifier": "be.novemberfive.symbol-spacer",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "Reselect",
@@ -3416,7 +3414,7 @@
     "homepage": "https://mathieudutour.github.io/git-sketch-plugin",
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2019-02-26 12:56:37 UTC",
-    "gh_stars": 2325,
+    "gh_stars": 2326,
     "gh_issues": 32,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
@@ -10044,7 +10042,7 @@
     "added": "2019-04-11 13:01:28 UTC",
     "gh_url": "https://github.com/chriswetterman/sketch-find-and-replace-text.git",
     "gh_updated": "2019-04-16 15:57:11 UTC",
-    "gh_stars": 7,
+    "gh_stars": 8,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.chriswetterman.sketch.find-and-replace-text-plugin",
@@ -10085,7 +10083,7 @@
     "gh_url": "https://github.com/themainingredient/colormate.git",
     "gh_updated": "2019-04-18 13:08:08 UTC",
     "gh_stars": 2,
-    "gh_issues": 2,
+    "gh_issues": 4,
     "gh_branch": "develop",
     "man_compatible_version": "3"
   },

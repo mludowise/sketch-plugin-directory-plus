@@ -153,13 +153,13 @@
     "homepage": "https://github.com/symdesign/sketch-auto-translate",
     "added": "2018-05-04 16:02:20 UTC",
     "gh_url": "https://github.com/symdesign/sketch-auto-translate.git",
-    "gh_updated": "2019-04-18 09:51:55 UTC",
+    "gh_updated": "2019-04-18 13:03:45 UTC",
     "gh_stars": 28,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "design.sym.sketch-auto-translate",
     "man_version": "2.0",
-    "man_compatible_version": "53.2"
+    "man_compatible_version": "54.1"
   },
   {
     "name": "sketch-reverse",
@@ -10083,9 +10083,9 @@
     "homepage": "https://github.com/themainingredient/colormate",
     "added": "2019-04-12 10:01:58 UTC",
     "gh_url": "https://github.com/themainingredient/colormate.git",
-    "gh_updated": "2019-04-18 13:05:27 UTC",
+    "gh_updated": "2019-04-18 13:08:08 UTC",
     "gh_stars": 2,
-    "gh_issues": 3,
+    "gh_issues": 2,
     "gh_branch": "develop",
     "man_compatible_version": "3"
   },

@@ -6035,9 +6035,7 @@
     "gh_updated": "2017-06-08 05:11:37 UTC",
     "gh_stars": 131,
     "gh_issues": 21,
-    "gh_branch": "master",
-    "man_identifier": "com.google.sketch.synctoslides",
-    "man_version": "2.2"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-search-everywhere",

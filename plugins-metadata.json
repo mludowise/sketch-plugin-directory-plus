@@ -27,7 +27,7 @@
     "added": "2019-03-05 11:02:16 UTC",
     "gh_url": "https://github.com/monzo/file-cleaner.git",
     "gh_updated": "2019-02-22 17:03:07 UTC",
-    "gh_stars": 47,
+    "gh_stars": 48,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"
@@ -6225,7 +6225,7 @@
     "homepage": "https://websiddu.github.io/sketch-material",
     "gh_url": "https://github.com/websiddu/sketch-material.git",
     "gh_updated": "2019-01-08 17:35:45 UTC",
-    "gh_stars": 826,
+    "gh_stars": 825,
     "gh_issues": 10,
     "gh_branch": "master",
     "man_identifier": "com.google.material2.active",

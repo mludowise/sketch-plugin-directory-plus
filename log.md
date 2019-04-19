@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-19 20:01:59 UTC
+Updated 2019-04-19 21:02:13 UTC
 
 Total plugins: 641
 
@@ -144,6 +144,8 @@ Total plugins: 641
 [freeman990/Freeman-FinChart-SketchPlugin](https://github.com/freeman990/Freeman-FinChart-SketchPlugin) manifest.json contains extra commas
 
 [canisminor1990/sketch-move-half-pixel](https://github.com/canisminor1990/sketch-move-half-pixel) manifest.json contains extra commas
+
+**[websiddu/sync-to-slides](https://github.com/websiddu/sync-to-slides) missing manifest.json**
 
 **[ImageOptim/sketch-plugin](https://github.com/ImageOptim/sketch-plugin) missing manifest.json**
 

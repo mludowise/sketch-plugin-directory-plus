@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-19 09:02:11 UTC
+Updated 2019-04-19 10:01:21 UTC
 
 Total plugins: 641
 
@@ -374,8 +374,6 @@ Total plugins: 641
 **[mathieudutour/import-svg-as-artboard](https://github.com/mathieudutour/import-svg-as-artboard) manifest.json is missing identifier**
 
 **[MockingBot/MockingBot](https://github.com/MockingBot/MockingBot) has no repo**
-
-**[themainingredient/colormate](https://github.com/themainingredient/colormate) manifest.json is missing identifier**
 
 **[mathieudutour/prototypes-invision-sketch](https://github.com/mathieudutour/prototypes-invision-sketch) manifest.json is missing identifier**
 

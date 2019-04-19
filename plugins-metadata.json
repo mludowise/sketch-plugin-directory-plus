@@ -10083,11 +10083,12 @@
     "homepage": "https://github.com/themainingredient/colormate",
     "added": "2019-04-12 10:01:58 UTC",
     "gh_url": "https://github.com/themainingredient/colormate.git",
-    "gh_updated": "2019-04-19 15:17:30 UTC",
+    "gh_updated": "2019-04-19 17:27:52 UTC",
     "gh_stars": 2,
     "gh_issues": 4,
     "gh_branch": "develop",
     "man_identifier": "com.colormate.plugin",
+    "man_version": "1.4.4",
     "man_compatible_version": "3"
   },
   {

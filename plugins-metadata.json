@@ -2009,7 +2009,7 @@
     "homepage": "https://github.com/abynim/UserFlows",
     "gh_url": "https://github.com/abynim/UserFlows.git",
     "gh_updated": "2019-03-03 10:11:25 UTC",
-    "gh_stars": 1389,
+    "gh_stars": 1390,
     "gh_issues": 55,
     "gh_branch": "v2",
     "man_identifier": "com.abynim.sketchplugins.userflows",
@@ -5814,15 +5814,7 @@
     "author": "Poyi",
     "title": "CopyColor",
     "description": "Plugin that provides shortcut to copy layer fill color, border color, or text color to your clipboard for Sketch 4",
-    "added": "2017-04-25 11:01:43 UTC",
-    "homepage": "https://github.com/poyi/CopyColor",
-    "gh_url": "https://github.com/poyi/CopyColor.git",
-    "gh_updated": "2018-05-29 17:52:21 UTC",
-    "gh_stars": 11,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.sketchapp.examples.copy-color",
-    "man_version": "2.1"
+    "added": "2017-04-25 11:01:43 UTC"
   },
   {
     "name": "justinmind-sketch",

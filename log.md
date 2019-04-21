@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-21 04:02:02 UTC
+Updated 2019-04-21 05:02:20 UTC
 
 Total plugins: 641
 
@@ -138,8 +138,6 @@ Total plugins: 641
 [finchalyzer/slinky](https://github.com/finchalyzer/slinky) manifest.json contains extra commas
 
 [Rezaaa/english-and-persian-lorem-ipsum](https://github.com/Rezaaa/english-and-persian-lorem-ipsum) manifest.json contains extra commas
-
-**[poyi/CopyColor](https://github.com/poyi/CopyColor) has no repo**
 
 [partyka1/Fontily](https://github.com/partyka1/Fontily) manifest.json contains extra commas
 

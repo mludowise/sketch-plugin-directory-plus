@@ -1114,10 +1114,7 @@
     "gh_updated": "2015-10-26 21:34:20 UTC",
     "gh_stars": 1,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "me.sebj.remove-fills-borders",
-    "man_version": "1.0",
-    "man_compatible_version": "3.3"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-preview",
@@ -3400,7 +3397,7 @@
     "homepage": "https://github.com/ScottSavarie/Clipboard-Fill",
     "gh_url": "https://github.com/ScottSavarie/Clipboard-Fill.git",
     "gh_updated": "2017-10-11 18:17:12 UTC",
-    "gh_stars": 434,
+    "gh_stars": 435,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.7ee74bdc-1af8-4b23-bfc8-f051f8c64992",
@@ -7438,8 +7435,7 @@
     "gh_updated": "2018-04-03 23:53:45 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "owner": null,

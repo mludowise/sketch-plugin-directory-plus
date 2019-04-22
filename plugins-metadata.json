@@ -1312,7 +1312,7 @@
     "gh_url": "https://github.com/littlebusters/Regexp-Rename.git",
     "gh_updated": "2017-06-13 14:34:15 UTC",
     "gh_stars": 29,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "net.creative-tweet.regexp-rename",
     "man_version": "1.2.0"
@@ -3631,9 +3631,7 @@
     "gh_updated": "2016-06-08 14:14:55 UTC",
     "gh_stars": 5,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.eachandother.artboardsToPages",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Navigator",
@@ -5117,7 +5115,7 @@
     "homepage": "https://github.com/devinmancuso/sketch-rtl",
     "gh_url": "https://github.com/devinmancuso/sketch-rtl.git",
     "gh_updated": "2018-05-28 23:37:32 UTC",
-    "gh_stars": 57,
+    "gh_stars": 58,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.devinmancuso.sketch-rtl-plugin",
@@ -7435,7 +7433,8 @@
     "gh_updated": "2018-04-03 23:53:45 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   },
   {
     "owner": null,
@@ -9179,7 +9178,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taobaofed/imgcook.git",
     "gh_updated": "2019-04-17 08:10:36 UTC",
-    "gh_stars": 238,
+    "gh_stars": 239,
     "gh_issues": 5,
     "gh_branch": "master"
   },
@@ -10097,7 +10096,7 @@
     "added": "2019-04-12 10:01:58 UTC",
     "gh_url": "https://github.com/mathieudutour/prototypes-invision-sketch.git",
     "gh_updated": "2019-04-17 23:48:05 UTC",
-    "gh_stars": 6,
+    "gh_stars": 7,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

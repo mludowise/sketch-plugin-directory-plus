@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-22 12:01:46 UTC
+Updated 2019-04-22 13:02:11 UTC
 
 Total plugins: 641
 
@@ -62,8 +62,6 @@ Total plugins: 641
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
 
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
-
-**[sebj/Remove-Fills-and-Borders](https://github.com/sebj/Remove-Fills-and-Borders) missing manifest.json**
 
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
 

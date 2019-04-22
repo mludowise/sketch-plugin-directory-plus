@@ -1114,7 +1114,10 @@
     "gh_updated": "2015-10-26 21:34:20 UTC",
     "gh_stars": 1,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "me.sebj.remove-fills-borders",
+    "man_version": "1.0",
+    "man_compatible_version": "3.3"
   },
   {
     "name": "sketch-preview",
@@ -2741,7 +2744,7 @@
     "homepage": "https://github.com/andrewfiorillo/sketch-palettes",
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
     "gh_updated": "2019-02-12 02:17:39 UTC",
-    "gh_stars": 2122,
+    "gh_stars": 2123,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
@@ -3631,7 +3634,9 @@
     "gh_updated": "2016-06-08 14:14:55 UTC",
     "gh_stars": 5,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.eachandother.artboardsToPages",
+    "man_version": "1.0"
   },
   {
     "name": "Sketch-Navigator",
@@ -7168,11 +7173,7 @@
     "gh_updated": "2018-10-08 13:52:14 UTC",
     "gh_stars": 160,
     "gh_issues": 7,
-    "gh_branch": "master",
-    "man_identifier": "io.designcode.Angle",
-    "man_version": "1.1.3",
-    "man_compatible_version": "50",
-    "icon": "https://raw.githubusercontent.com/MengTo/Angle-Sketch-Plugin/master/Angle.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-fast-text-transfer",
@@ -10080,7 +10081,7 @@
     "gh_url": "https://github.com/themainingredient/colormate.git",
     "gh_updated": "2019-04-19 17:27:52 UTC",
     "gh_stars": 2,
-    "gh_issues": 4,
+    "gh_issues": 5,
     "gh_branch": "develop",
     "man_identifier": "com.colormate.plugin",
     "man_version": "1.4.4",

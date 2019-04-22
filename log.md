@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-22 11:01:51 UTC
+Updated 2019-04-22 12:01:46 UTC
 
 Total plugins: 641
 
@@ -62,6 +62,8 @@ Total plugins: 641
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
 
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
+
+**[sebj/Remove-Fills-and-Borders](https://github.com/sebj/Remove-Fills-and-Borders) missing manifest.json**
 
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
 
@@ -209,7 +211,7 @@ Total plugins: 641
 
 **[pranusarna94/Perfecto-](https://github.com/pranusarna94/Perfecto-) manifest.json is missing identifier**
 
-**[liangjingyang/SketchReloadPlugins](https://github.com/liangjingyang/SketchReloadPlugins) missing manifest.json**
+**[liangjingyang/SketchReloadPlugins](https://github.com/liangjingyang/SketchReloadPlugins) manifest.json is missing identifier**
 
 **/ has no repo**
 

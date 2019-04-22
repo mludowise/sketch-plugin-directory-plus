@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-22 10:02:10 UTC
+Updated 2019-04-22 11:01:51 UTC
 
 Total plugins: 641
 
@@ -209,7 +209,7 @@ Total plugins: 641
 
 **[pranusarna94/Perfecto-](https://github.com/pranusarna94/Perfecto-) manifest.json is missing identifier**
 
-**[liangjingyang/SketchReloadPlugins](https://github.com/liangjingyang/SketchReloadPlugins) manifest.json is missing identifier**
+**[liangjingyang/SketchReloadPlugins](https://github.com/liangjingyang/SketchReloadPlugins) missing manifest.json**
 
 **/ has no repo**
 

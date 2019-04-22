@@ -213,7 +213,7 @@
     "gh_url": "https://github.com/sureskumar/sketch-isometric.git",
     "gh_updated": "2019-02-08 18:23:02 UTC",
     "gh_stars": 1560,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.sureskumar.sketchisometric",
     "man_version": "4.2.0",
@@ -2308,7 +2308,7 @@
     "homepage": "https://tpgrf.ru",
     "gh_url": "https://github.com/dezonik/Typograph.git",
     "gh_updated": "2019-02-25 14:25:45 UTC",
-    "gh_stars": 67,
+    "gh_stars": 68,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.typograph",
@@ -3913,9 +3913,7 @@
     "gh_updated": "2017-10-24 10:59:47 UTC",
     "gh_stars": 74,
     "gh_issues": 10,
-    "gh_branch": "master",
-    "man_identifier": "design.magicmirror.presenter",
-    "man_version": "1.1.1"
+    "gh_branch": "master"
   },
   {
     "name": "Save-with-Frame",
@@ -4707,7 +4705,7 @@
     "homepage": "https://github.com/sonburn/symbol-organizer",
     "gh_url": "https://github.com/sonburn/symbol-organizer.git",
     "gh_updated": "2019-04-11 21:40:05 UTC",
-    "gh_stars": 725,
+    "gh_stars": 726,
     "gh_issues": 34,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-organizer",

@@ -760,7 +760,10 @@
     "gh_updated": "2017-07-07 18:49:33 UTC",
     "gh_stars": 143,
     "gh_issues": 5,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.mludowise.htmlexport",
+    "man_version": "0.2",
+    "man_compatible_version": "45.1"
   },
   {
     "name": "click-thru-prototype",
@@ -789,7 +792,7 @@
     "added": "2016-12-30 12:11:40 UTC",
     "gh_url": "https://github.com/AnimaApp/Auto-Layout.git",
     "gh_updated": "2019-02-13 20:32:04 UTC",
-    "gh_stars": 799,
+    "gh_stars": 798,
     "gh_issues": 63,
     "gh_branch": "master",
     "man_identifier": "com.animaapp.stc-sketch-plugin",
@@ -1227,7 +1230,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
-    "gh_stars": 4402,
+    "gh_stars": 4401,
     "gh_issues": 44,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -2741,7 +2744,7 @@
     "homepage": "https://github.com/andrewfiorillo/sketch-palettes",
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
     "gh_updated": "2019-02-12 02:17:39 UTC",
-    "gh_stars": 2123,
+    "gh_stars": 2122,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
@@ -4146,7 +4149,7 @@
     "homepage": "https://github.com/auxdesigner/Sketch-to-VR",
     "gh_url": "https://github.com/auxdesigner/Sketch-to-VR.git",
     "gh_updated": "2016-11-08 20:13:58 UTC",
-    "gh_stars": 458,
+    "gh_stars": 459,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.liuliu.sketch2vr",
@@ -5900,9 +5903,7 @@
     "gh_updated": "2017-12-24 13:37:19 UTC",
     "gh_stars": 198,
     "gh_issues": 4,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.d701dfe6-8995-454b-ba89-e5f894208334",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "Fontily",
@@ -6576,12 +6577,12 @@
     "added": "2017-10-19 09:26:53 UTC",
     "homepage": "https://github.com/sonburn/symbol-swapper",
     "gh_url": "https://github.com/sonburn/symbol-swapper.git",
-    "gh_updated": "2019-04-11 20:55:21 UTC",
+    "gh_updated": "2019-04-23 15:10:15 UTC",
     "gh_stars": 146,
     "gh_issues": 20,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-swapper",
-    "man_version": "0.16",
+    "man_version": "0.17",
     "icon": "https://raw.githubusercontent.com/sonburn/symbol-swapper/master/Symbol%20Swapper.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -6972,15 +6973,7 @@
     "title": "Sketch Show Bounding Boxes",
     "description": "Sketch plugin that shows bounding boxes of all layers",
     "homepage": "https://github.com/pravdomil/Sketch-Show-Bounding-Boxes",
-    "added": "2018-01-22 09:56:09 UTC",
-    "gh_url": "https://github.com/pravdomil/Sketch-Show-Bounding-Boxes.git",
-    "gh_updated": "2018-07-07 13:35:51 UTC",
-    "gh_stars": 28,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.pravdomil.showBoundingBoxes",
-    "man_version": "0.0.6",
-    "man_compatible_version": "40"
+    "added": "2018-01-22 09:56:09 UTC"
   },
   {
     "name": "StyleClip",

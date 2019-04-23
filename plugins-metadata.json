@@ -454,10 +454,7 @@
     "gh_updated": "2018-05-21 19:34:35 UTC",
     "gh_stars": 16,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.nathan5x.sketch.selectplus",
-    "man_version": "1.0.0",
-    "man_compatible_version": "49.3"
+    "gh_branch": "master"
   },
   {
     "name": "Miaow",
@@ -526,14 +523,7 @@
     "title": "Symbol Spacer Sketch Plugin",
     "description": "Automatically resize spacing symbols to correct size when changing to different one",
     "homepage": "https://github.com/novemberfiveco/symbol-spacer-sketch-plugin",
-    "added": "2017-06-10 18:01:18 UTC",
-    "gh_url": "https://github.com/novemberfiveco/symbol-spacer-sketch-plugin.git",
-    "gh_updated": "2017-10-19 22:41:52 UTC",
-    "gh_stars": 80,
-    "gh_issues": 7,
-    "gh_branch": "master",
-    "man_identifier": "be.novemberfive.symbol-spacer",
-    "man_compatible_version": "3"
+    "added": "2017-06-10 18:01:18 UTC"
   },
   {
     "name": "Reselect",

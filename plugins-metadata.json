@@ -469,7 +469,7 @@
     "added": "2018-09-17 16:00:57 UTC",
     "gh_url": "https://github.com/weixin/Miaow.git",
     "gh_updated": "2019-01-28 03:29:04 UTC",
-    "gh_stars": 2410,
+    "gh_stars": 2411,
     "gh_issues": 18,
     "gh_branch": "master",
     "man_identifier": "cn.wechat",
@@ -4246,7 +4246,7 @@
     "homepage": "https://github.com/cute/SketchI18N",
     "gh_url": "https://github.com/cute/SketchI18N.git",
     "gh_updated": "2019-01-17 13:57:14 UTC",
-    "gh_stars": 1219,
+    "gh_stars": 1220,
     "gh_issues": 24,
     "gh_branch": "master",
     "man_identifier": "com.liguangming.sketch-i18n",
@@ -6888,7 +6888,7 @@
     "homepage": "https://github.com/ahmedmigo/Move-to-library-sketchplugin",
     "gh_url": "https://github.com/ahmedmigo/Move-to-library-sketchplugin.git",
     "gh_updated": "2019-04-15 08:22:04 UTC",
-    "gh_stars": 157,
+    "gh_stars": 158,
     "gh_issues": 6,
     "gh_branch": "master",
     "icon": "https://raw.githubusercontent.com/ahmedmigo/Move-to-library-sketchplugin/master/move-to-library.sketchplugin/Contents/Resources/icon.png"
@@ -7568,14 +7568,7 @@
     "author": "Giles Perry",
     "title": "Sketch Library Unlinker",
     "description": "Unlink symbols linked to a specific library, or unlink symbols that have been deleted in their libraries.",
-    "added": "2018-04-23 23:02:34 UTC",
-    "homepage": "https://github.com/perrysmotors/sketch-library-unlinker",
-    "gh_url": "https://github.com/perrysmotors/sketch-library-unlinker.git",
-    "gh_updated": "2019-02-24 09:40:50 UTC",
-    "gh_stars": 17,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_compatible_version": "49"
+    "added": "2018-04-23 23:02:34 UTC"
   },
   {
     "name": "format-symbol-names",
@@ -9183,7 +9176,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taobaofed/imgcook.git",
     "gh_updated": "2019-04-17 08:10:36 UTC",
-    "gh_stars": 239,
+    "gh_stars": 240,
     "gh_issues": 4,
     "gh_branch": "master"
   },

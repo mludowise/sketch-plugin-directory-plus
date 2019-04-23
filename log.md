@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-23 10:01:31 UTC
+Updated 2019-04-23 11:01:24 UTC
 
 Total plugins: 641
 
@@ -223,7 +223,7 @@ Total plugins: 641
 
 **[alex-matt/sketch-lightwire-plugin](https://github.com/alex-matt/sketch-lightwire-plugin) manifest.json is missing identifier**
 
-**[perrysmotors/sketch-library-unlinker](https://github.com/perrysmotors/sketch-library-unlinker) has no repo**
+**[perrysmotors/sketch-library-unlinker](https://github.com/perrysmotors/sketch-library-unlinker) manifest.json is missing identifier**
 
 **[perrysmotors/format-symbol-names](https://github.com/perrysmotors/format-symbol-names) manifest.json is missing identifier**
 

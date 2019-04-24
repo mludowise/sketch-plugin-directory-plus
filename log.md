@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-24 10:02:05 UTC
+Updated 2019-04-24 11:02:18 UTC
 
 Total plugins: 641
 
@@ -84,6 +84,8 @@ Total plugins: 641
 [soutaro/Align-text-baseline-sketch-plugin](https://github.com/soutaro/Align-text-baseline-sketch-plugin) manifest.json contains extra commas
 
 [hamidp/sketchtextsourcer](https://github.com/hamidp/sketchtextsourcer) manifest.json contains extra commas
+
+**[matt-curtis/Sketch-Server](https://github.com/matt-curtis/Sketch-Server) missing manifest.json**
 
 [jamztang/MagicMirror](https://github.com/jamztang/MagicMirror) manifest.json contains extra commas
 

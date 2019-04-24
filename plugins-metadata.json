@@ -1761,7 +1761,9 @@
     "gh_updated": "2017-01-25 18:30:04 UTC",
     "gh_stars": 60,
     "gh_issues": 5,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.nickstamas.better-android-export",
+    "man_version": "1.0.0"
   },
   {
     "name": "sketch-click-dummy",
@@ -2058,7 +2060,7 @@
     "homepage": "https://github.com/preciousforever/data-populator",
     "gh_url": "https://github.com/preciousforever/data-populator.git",
     "gh_updated": "2018-11-11 23:19:12 UTC",
-    "gh_stars": 1546,
+    "gh_stars": 1547,
     "gh_issues": 30,
     "gh_branch": "master"
   },
@@ -5638,10 +5640,7 @@
     "gh_updated": "2018-11-14 03:30:53 UTC",
     "gh_stars": 13,
     "gh_issues": 6,
-    "gh_branch": "master",
-    "man_identifier": "com.mfouquet.sketch.nudgepushshove",
-    "man_version": "1.3.1",
-    "man_compatible_version": "4.1"
+    "gh_branch": "master"
   },
   {
     "name": "diverseui-sketch-plugin",
@@ -6175,7 +6174,7 @@
     "homepage": "https://github.com/Iconscout/logodrop",
     "gh_url": "https://github.com/Iconscout/logodrop.git",
     "gh_updated": "2017-09-09 08:42:58 UTC",
-    "gh_stars": 130,
+    "gh_stars": 131,
     "gh_issues": 2,
     "gh_branch": "master"
   },
@@ -8986,7 +8985,7 @@
     "homepage": "https://github.com/VKCOM/vkdata-sketchplugin",
     "added": "2018-11-22 11:02:24 UTC",
     "gh_url": "https://github.com/VKCOM/vkdata-sketchplugin.git",
-    "gh_updated": "2019-04-10 20:14:35 UTC",
+    "gh_updated": "2019-04-24 15:23:59 UTC",
     "gh_stars": 12,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -9133,7 +9132,7 @@
     "gh_url": "https://github.com/BaguetteEngineering/annotations-sketch-plugin.git",
     "gh_updated": "2019-01-12 11:49:25 UTC",
     "gh_stars": 17,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },
@@ -9385,7 +9384,9 @@
     "gh_updated": "2019-02-20 17:00:55 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.derekatkinson.unlockallselectedlayers",
+    "man_version": "1.0.1"
   },
   {
     "name": "sketch-styles-hierarchy",
@@ -9908,7 +9909,16 @@
     "title": "Sketch Number Artboards by Position",
     "description": "Sketch plugin to number artboards in order of position.",
     "homepage": "https://github.com/radermacher/sketch-number-artboards-by-position",
-    "added": "2019-04-01 09:01:32 UTC"
+    "added": "2019-04-01 09:01:32 UTC",
+    "gh_url": "https://github.com/radermacher/sketch-number-artboards-by-position.git",
+    "gh_updated": "2019-03-27 18:15:54 UTC",
+    "gh_stars": 1,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "io.radermacher.sketch.number-artboards-by-position",
+    "man_version": "0.1.0",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/radermacher/sketch-number-artboards-by-position/master/NumberArtboardsByPosition.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "Artboard History",

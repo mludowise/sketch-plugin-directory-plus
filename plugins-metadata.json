@@ -1413,7 +1413,7 @@
     "homepage": "https://github.com/tadija/AEFlowchart",
     "gh_url": "https://github.com/tadija/AEFlowchart.git",
     "gh_updated": "2018-11-04 17:58:14 UTC",
-    "gh_stars": 376,
+    "gh_stars": 375,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "net.tadija.sketch.AEFlowchart",
@@ -2376,10 +2376,7 @@
     "gh_updated": "2016-02-22 15:26:09 UTC",
     "gh_stars": 72,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.matt-curtis.sketch.sketch-server",
-    "man_version": "1.6.3",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "MagicMirror",
@@ -8133,12 +8130,12 @@
     "added": "2018-07-17 09:02:33 UTC",
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
-    "gh_updated": "2019-04-08 11:59:03 UTC",
+    "gh_updated": "2019-04-24 10:29:32 UTC",
     "gh_stars": 97,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.cloudblue.sketch.exporter",
-    "man_version": "5.15.0",
+    "man_version": "5.15.1",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/MaxBazarov/exporter/master/Exporter.sketchplugin/Contents/Resources/icon.png"
   },

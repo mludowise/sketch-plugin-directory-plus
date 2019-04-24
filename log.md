@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-24 15:02:16 UTC
+Updated 2019-04-24 16:02:00 UTC
 
 Total plugins: 641
 
@@ -134,6 +134,8 @@ Total plugins: 641
 **[amin-nas/Sketch-to-Clickthrough-HTML](https://github.com/amin-nas/Sketch-to-Clickthrough-HTML) manifest.json is missing identifier**
 
 [mmilano/sketch-rotate-artboards](https://github.com/mmilano/sketch-rotate-artboards) manifest.json contains extra commas
+
+**[mfouquet/NudgePushShove](https://github.com/mfouquet/NudgePushShove) missing manifest.json**
 
 [finchalyzer/slinky](https://github.com/finchalyzer/slinky) manifest.json contains extra commas
 
@@ -339,8 +341,6 @@ Total plugins: 641
 
 [faridsabitov/Sketch-Connection-Flow-Arrows](https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows) and [faridsabitov/Sketch-user-flows](https://github.com/faridsabitov/Sketch-user-flows) use the same manifest identifier, __me.sabitov.sketch.connectionFlowArrows__
 
-**[derekatkinson/sketch-unlock-all-selected-layers](https://github.com/derekatkinson/sketch-unlock-all-selected-layers) missing manifest.json**
-
 **[mathieudutour/sketch-styles-hierarchy](https://github.com/mathieudutour/sketch-styles-hierarchy) manifest.json is missing identifier**
 
 **[perrysmotors/symbol-namer](https://github.com/perrysmotors/symbol-namer) manifest.json is missing identifier**
@@ -368,8 +368,6 @@ Total plugins: 641
 **[Infragistics/Indigo.Design](https://github.com/Infragistics/Indigo.Design) has no repo**
 
 **[Rutger Willems/Airtabledata](https://github.com/Rutger Willems/Airtabledata) has no repo**
-
-**[radermacher/sketch-number-artboards-by-position](https://github.com/radermacher/sketch-number-artboards-by-position) has no repo**
 
 **[jan-patrick/Artboard History](https://github.com/jan-patrick/Artboard History) has no repo**
 

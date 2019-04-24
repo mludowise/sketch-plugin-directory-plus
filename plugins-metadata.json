@@ -633,11 +633,7 @@
     "gh_updated": "2019-04-09 12:13:40 UTC",
     "gh_stars": 26,
     "gh_issues": 5,
-    "gh_branch": "master",
-    "man_identifier": "com.mfouquet.sketch.stark",
-    "man_version": "2.5",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/master/Stark.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "owner": null,
@@ -1809,7 +1805,7 @@
     "homepage": "https://github.com/longzheng/sketch-randomSize",
     "gh_url": "https://github.com/longzheng/sketch-randomSize.git",
     "gh_updated": "2017-03-22 07:10:13 UTC",
-    "gh_stars": 52,
+    "gh_stars": 53,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.longzheng.sketch.randomsize",
@@ -2677,7 +2673,7 @@
     "gh_url": "https://github.com/thierryc/Sketch-Find-And-Replace.git",
     "gh_updated": "2019-04-15 14:45:53 UTC",
     "gh_stars": 614,
-    "gh_issues": 19,
+    "gh_issues": 18,
     "gh_branch": "master",
     "man_identifier": "cx.ap.sketch-find-and-replace",
     "man_version": "2.5.0",
@@ -3782,16 +3778,7 @@
     "author": "Alexander Katin",
     "title": "Formr",
     "description": "Helps to maintain simple proportions of layers and artboards",
-    "added": "2016-04-15 15:14:10 UTC",
-    "homepage": "https://readymag.com/sashakatin/527315/",
-    "gh_url": "https://github.com/lessthanzero/Formr.git",
-    "gh_updated": "2018-02-01 20:41:43 UTC",
-    "gh_stars": 49,
-    "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.formr",
-    "man_version": "2.1.3",
-    "man_compatible_version": "42"
+    "added": "2016-04-15 15:14:10 UTC"
   },
   {
     "name": "sketch-pixel-cleanup",

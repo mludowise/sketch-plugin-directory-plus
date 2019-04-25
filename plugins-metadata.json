@@ -657,7 +657,7 @@
     "homepage": "https://github.com/3raxton/ForeignIpsum",
     "gh_url": "https://github.com/3raxton/ForeignIpsum.git",
     "gh_updated": "2018-10-11 23:00:16 UTC",
-    "gh_stars": 36,
+    "gh_stars": 37,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.braxtonhuff.foreignipsum",
@@ -3305,7 +3305,10 @@
     "gh_updated": "2018-03-08 14:55:26 UTC",
     "gh_stars": 285,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.addleimb.framer-inventory",
+    "man_version": "3.3.0",
+    "man_compatible_version": "4.9"
   },
   {
     "name": "sketch-symbol-me",
@@ -6333,7 +6336,7 @@
     "gh_url": "https://github.com/oodesign/merge-duplicate-symbols.git",
     "gh_updated": "2019-04-12 07:28:30 UTC",
     "gh_stars": 225,
-    "gh_issues": 2,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.oodesign.mergeduplicatesymbols",
     "man_version": "4.0.3",
@@ -8130,7 +8133,7 @@
     "added": "2018-07-17 09:02:33 UTC",
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
-    "gh_updated": "2019-04-25 15:41:19 UTC",
+    "gh_updated": "2019-04-25 16:31:53 UTC",
     "gh_stars": 98,
     "gh_issues": 2,
     "gh_branch": "master",

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-04-25 15:02:19 UTC
+Updated 2019-04-25 16:02:29 UTC
 
 Total plugins: 641
 
@@ -94,6 +94,8 @@ Total plugins: 641
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 
 **[heysketch/sketch-color-picker-plus](https://github.com/heysketch/sketch-color-picker-plus) has no repo**
+
+**[timurnurutdinov/Framer-Inventory-for-Sketch](https://github.com/timurnurutdinov/Framer-Inventory-for-Sketch) missing manifest.json**
 
 [LaloMrtnz/Prism](https://github.com/LaloMrtnz/Prism) manifest.json contains extra commas
 

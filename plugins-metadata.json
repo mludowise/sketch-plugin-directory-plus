@@ -8450,7 +8450,9 @@
     "gh_updated": "2019-02-19 08:17:00 UTC",
     "gh_stars": 33,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.mishaheesakkers.sketch.skew",
+    "man_version": "3.0"
   },
   {
     "name": "scssketch",
@@ -10082,7 +10084,7 @@
     "added": "2019-04-12 10:01:58 UTC",
     "gh_url": "https://github.com/themainingredient/colormate.git",
     "gh_updated": "2019-04-19 17:27:52 UTC",
-    "gh_stars": 2,
+    "gh_stars": 3,
     "gh_issues": 6,
     "gh_branch": "develop",
     "man_identifier": "com.colormate.plugin",

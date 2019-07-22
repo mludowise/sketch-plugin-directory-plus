@@ -3910,7 +3910,16 @@
     "author": "Jocelyn Lin",
     "title": "arrowfy",
     "description": "Add simple arrowhead to end of selected paths. Matches color and weight.",
-    "added": "2016-05-02 19:04:07 UTC"
+    "added": "2016-05-02 19:04:07 UTC",
+    "homepage": "https://github.com/joclin/arrowfy",
+    "gh_url": "https://github.com/joclin/arrowfy.git",
+    "gh_updated": "2018-07-22 04:36:09 UTC",
+    "gh_stars": 100,
+    "gh_issues": 2,
+    "gh_branch": "master",
+    "man_identifier": "com.jocelynlin.sketch.arrowfy",
+    "man_version": "2.1",
+    "man_compatible_version": "50"
   },
   {
     "name": "sketch-adjust-button-shape",
@@ -7057,7 +7066,7 @@
     "homepage": "https://github.com/pavelkuligin/chart",
     "gh_url": "https://github.com/pavelkuligin/chart.git",
     "gh_updated": "2019-07-07 21:13:27 UTC",
-    "gh_stars": 944,
+    "gh_stars": 945,
     "gh_issues": 4,
     "gh_branch": "master"
   },
@@ -10816,7 +10825,7 @@
     "added": "2019-07-22 11:01:36 UTC",
     "gh_url": "https://github.com/KevinGutowski/Truncat.git",
     "gh_updated": "2019-07-22 08:38:53 UTC",
-    "gh_stars": 8,
+    "gh_stars": 9,
     "gh_issues": 0,
     "gh_branch": "master"
   }

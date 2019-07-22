@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-07-22 11:01:36 UTC
+Updated 2019-07-22 12:01:26 UTC
 
 Total plugins: 686
 
@@ -110,8 +110,6 @@ Total plugins: 686
 [lessthanzero/Formr](https://github.com/lessthanzero/Formr) manifest.json contains extra commas
 
 **opencolor-tools/ has no repo**
-
-**[joclin/arrowfy](https://github.com/joclin/arrowfy) has no repo**
 
 [MagicSketch/MagicPresenter](https://github.com/MagicSketch/MagicPresenter) manifest.json contains extra commas
 

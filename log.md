@@ -1,10 +1,18 @@
 # Plugin Metadata
 
-Updated 2019-04-25 22:01:51 UTC
+Updated 2019-07-22 11:01:36 UTC
 
-Total plugins: 642
+Total plugins: 686
 
 ## Problems
+**[Alexander Käßner/Custom Zoom](https://github.com/Alexander Käßner/Custom Zoom) has no repo**
+
+**[PhraseApp/PhraseApp Sketch Plugin](https://github.com/PhraseApp/PhraseApp Sketch Plugin) has no repo**
+
+**[Sparkle App/Sparkle Export Plugin](https://github.com/Sparkle App/Sparkle Export Plugin) has no repo**
+
+**[Mockplus/Mockplus iDoc](https://github.com/Mockplus/Mockplus iDoc) has no repo**
+
 **[AnimaApp/Anima](https://github.com/AnimaApp/Anima) has no repo**
 
 **[Alipay Design/Dapollo](https://github.com/Alipay Design/Dapollo) has no repo**
@@ -103,6 +111,8 @@ Total plugins: 642
 
 **opencolor-tools/ has no repo**
 
+**[joclin/arrowfy](https://github.com/joclin/arrowfy) has no repo**
+
 [MagicSketch/MagicPresenter](https://github.com/MagicSketch/MagicPresenter) manifest.json contains extra commas
 
 [screenfork/ScreenFork](https://github.com/screenfork/ScreenFork) manifest.json contains extra commas
@@ -138,8 +148,6 @@ Total plugins: 642
 [finchalyzer/slinky](https://github.com/finchalyzer/slinky) manifest.json contains extra commas
 
 [Rezaaa/english-and-persian-lorem-ipsum](https://github.com/Rezaaa/english-and-persian-lorem-ipsum) manifest.json contains extra commas
-
-[partyka1/Fontily](https://github.com/partyka1/Fontily) manifest.json contains extra commas
 
 [freeman990/Freeman-FinChart-SketchPlugin](https://github.com/freeman990/Freeman-FinChart-SketchPlugin) manifest.json contains extra commas
 
@@ -188,6 +196,8 @@ Total plugins: 642
 **/Clipboard2TilledFill has no repo**
 
 **[ziven27/Sketch-topographic](https://github.com/ziven27/Sketch-topographic) manifest.json is missing identifier**
+
+**[pavelkuligin/chart](https://github.com/pavelkuligin/chart) missing manifest.json**
 
 **/ has no repo**
 
@@ -378,4 +388,42 @@ Total plugins: 642
 **[mathieudutour/prototypes-invision-sketch](https://github.com/mathieudutour/prototypes-invision-sketch) manifest.json is missing identifier**
 
 **/bolt has no repo**
+
+**[kbirgoren/Translate From JSON](https://github.com/kbirgoren/Translate From JSON) has no repo**
+
+**[mathieudutour/sketch-remove-bg](https://github.com/mathieudutour/sketch-remove-bg) manifest.json is missing identifier**
+
+**[anavarromartin/sketch-color-locator](https://github.com/anavarromartin/sketch-color-locator) manifest.json is missing identifier**
+
+**[dannymcclain/swap-width-height](https://github.com/dannymcclain/swap-width-height) manifest.json is missing identifier**
+
+**[dannymcclain/fit-to-parent](https://github.com/dannymcclain/fit-to-parent) manifest.json is missing identifier**
+
+**[dbilyk/QuickTextOverride](https://github.com/dbilyk/QuickTextOverride) manifest.json is missing identifier**
+
+**[ajgagnon/projecthuddle-sketch-sync](https://github.com/ajgagnon/projecthuddle-sketch-sync) manifest.json is missing identifier**
+
+**[Atomatic/SVG BEM](https://github.com/Atomatic/SVG BEM) has no repo**
+
+**[Pratik Shah/Symbol Browser](https://github.com/Pratik Shah/Symbol Browser) has no repo**
+
+**[brandfolder/sketch-plugin-brandfolder](https://github.com/brandfolder/sketch-plugin-brandfolder) manifest.json is missing identifier**
+
+**[avk/Tabula-Rasa](https://github.com/avk/Tabula-Rasa) has no repo**
+
+**[mupixa/sketch-plugin-mupixa](https://github.com/mupixa/sketch-plugin-mupixa) manifest.json is missing identifier**
+
+**[funfungo/ImageCodeExporter](https://github.com/funfungo/ImageCodeExporter) manifest.json is missing identifier**
+
+**[BohemianCoding/sketch-ipsum](https://github.com/BohemianCoding/sketch-ipsum) manifest.json is missing identifier**
+
+**[IxCO/Keygaroo](https://github.com/IxCO/Keygaroo) has no repo**
+
+**[lifeofmle/symbol-insert](https://github.com/lifeofmle/symbol-insert) manifest.json is missing identifier**
+
+**[explorador/sketch-copy-text-only](https://github.com/explorador/sketch-copy-text-only) manifest.json is missing identifier**
+
+**[Sketch Manager/Sketch Manager Plugin](https://github.com/Sketch Manager/Sketch Manager Plugin) has no repo**
+
+**[KevinGutowski/Truncat](https://github.com/KevinGutowski/Truncat) manifest.json is missing identifier**
 

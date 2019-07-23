@@ -5241,7 +5241,7 @@
     "homepage": "https://github.com/eddiesigner/sketch-map-generator",
     "gh_url": "https://github.com/eddiesigner/sketch-map-generator.git",
     "gh_updated": "2019-06-23 16:42:14 UTC",
-    "gh_stars": 747,
+    "gh_stars": 746,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "io.eduardogomez.sketch.map-generator",
@@ -6544,10 +6544,7 @@
     "gh_updated": "2018-05-28 06:02:11 UTC",
     "gh_stars": 22,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "net.pixelflut.sketch.symbol-and-artboard-organizerl",
-    "man_version": "1.0.2",
-    "man_compatible_version": "47"
+    "gh_branch": "master"
   },
   {
     "name": "library-symbol-replacer",

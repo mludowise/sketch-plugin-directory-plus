@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-07-23 13:01:47 UTC
+Updated 2019-07-23 14:01:19 UTC
 
 Total plugins: 686
 
@@ -71,6 +71,8 @@ Total plugins: 686
 
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
 
+**[joshwayne/jw-sketch-plugins](https://github.com/joshwayne/jw-sketch-plugins) missing manifest.json**
+
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
 
 [getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) manifest.json contains extra commas
@@ -98,6 +100,8 @@ Total plugins: 686
 [stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers) manifest.json contains extra commas
 
 [JohnCoates/CSSketch](https://github.com/JohnCoates/CSSketch) manifest.json contains extra commas
+
+**[tomorrowkey/sketch3-mosaic-plugin](https://github.com/tomorrowkey/sketch3-mosaic-plugin) has no repo**
 
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 
@@ -253,7 +257,7 @@ Total plugins: 686
 
 **[jordansinger/Assistant](https://github.com/jordansinger/Assistant) manifest.json is missing identifier**
 
-**[toyboxsystems/roller](https://github.com/toyboxsystems/roller) has no repo**
+**[toyboxsystems/roller](https://github.com/toyboxsystems/roller) manifest.json is missing identifier**
 
 **[perrysmotors/sketch-unsplasher](https://github.com/perrysmotors/sketch-unsplasher) manifest.json is missing identifier**
 

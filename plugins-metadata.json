@@ -471,7 +471,7 @@
     "added": "2017-07-10 10:02:05 UTC",
     "homepage": "https://github.com/alanfraneo/sketch-neo-preview",
     "gh_url": "https://github.com/alanfraneo/sketch-neo-preview.git",
-    "gh_updated": "2019-07-23 12:20:43 UTC",
+    "gh_updated": "2019-07-23 14:13:05 UTC",
     "gh_stars": 4,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -1202,7 +1202,9 @@
     "gh_updated": "2016-10-01 00:27:55 UTC",
     "gh_stars": 89,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.joshwayne.sketch.split-combine-text",
+    "man_version": "3.0"
   },
   {
     "name": "RenameIt",
@@ -1891,7 +1893,7 @@
     "added": "2015-01-22 09:53:53 UTC",
     "homepage": "https://github.com/delighted/sketch-pull-to-center",
     "gh_url": "https://github.com/delighted/sketch-pull-to-center.git",
-    "gh_updated": "2018-05-22 20:57:49 UTC",
+    "gh_updated": "2018-05-22 20:58:00 UTC",
     "gh_stars": 20,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -2991,7 +2993,15 @@
     "author": "Tomoki Yamashita",
     "title": "Mosaic",
     "description": "A plugin for Sketch3 to apply mosaic easily.",
-    "added": "2015-10-19 20:54:12 UTC"
+    "added": "2015-10-19 20:54:12 UTC",
+    "homepage": "https://github.com/tomorrowkey/sketch3-mosaic-plugin",
+    "gh_url": "https://github.com/tomorrowkey/sketch3-mosaic-plugin.git",
+    "gh_updated": "2015-09-19 06:13:46 UTC",
+    "gh_stars": 15,
+    "gh_issues": 2,
+    "gh_branch": "master",
+    "man_identifier": "jp.tomorrowkey.sketch3.mosaic",
+    "man_version": "1.0.0"
   },
   {
     "name": "Sketch-Sass-Colors",
@@ -9871,9 +9881,9 @@
     "homepage": "https://github.com/TheSonOfThomp/Batch-Export-Rename",
     "added": "2019-03-15 17:02:18 UTC",
     "gh_url": "https://github.com/TheSonOfThomp/Batch-Export-Rename.git",
-    "gh_updated": "2019-06-06 14:37:47 UTC",
+    "gh_updated": "2019-07-23 14:48:52 UTC",
     "gh_stars": 10,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.adamthompson.sketch.batch-export-rename",
     "man_version": "2.1.0",

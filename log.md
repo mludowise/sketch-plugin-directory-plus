@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-07-23 12:00:25 UTC
+Updated 2019-07-23 13:01:47 UTC
 
 Total plugins: 686
 
@@ -173,8 +173,6 @@ Total plugins: 686
 
 **[mcansh/sketch-find-all-instances-of-symbol](https://github.com/mcansh/sketch-find-all-instances-of-symbol) manifest.json is missing identifier**
 
-**[Myrronth/symbol-and-artboard-organizer](https://github.com/Myrronth/symbol-and-artboard-organizer) missing manifest.json**
-
 **/ has no repo**
 
 **/ has no repo**
@@ -255,7 +253,7 @@ Total plugins: 686
 
 **[jordansinger/Assistant](https://github.com/jordansinger/Assistant) manifest.json is missing identifier**
 
-**[toyboxsystems/roller](https://github.com/toyboxsystems/roller) manifest.json is missing identifier**
+**[toyboxsystems/roller](https://github.com/toyboxsystems/roller) has no repo**
 
 **[perrysmotors/sketch-unsplasher](https://github.com/perrysmotors/sketch-unsplasher) manifest.json is missing identifier**
 

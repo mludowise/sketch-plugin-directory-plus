@@ -354,10 +354,7 @@
     "gh_updated": "2017-11-16 13:42:14 UTC",
     "gh_stars": 3,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.infragistics.indigo.exportplugin",
-    "man_version": "1.0.0",
-    "man_compatible_version": "47.1"
+    "gh_branch": "master"
   },
   {
     "name": "loose-sketch-plugin",
@@ -3222,12 +3219,12 @@
     "added": "2015-11-26 11:11:02 UTC",
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
-    "gh_updated": "2019-07-19 03:15:10 UTC",
+    "gh_updated": "2019-07-23 09:23:34 UTC",
     "gh_stars": 654,
-    "gh_issues": 13,
+    "gh_issues": 10,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
-    "man_version": "55.2.20190719",
+    "man_version": "55.2.20190723",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/Ashung/Automate-Sketch/master/automate-sketch.sketchplugin/Contents/Resources/icon.png"
   },
@@ -10136,7 +10133,7 @@
     "added": "2019-04-12 10:01:58 UTC",
     "gh_url": "https://github.com/themainingredient/colormate.git",
     "gh_updated": "2019-07-22 09:36:21 UTC",
-    "gh_stars": 9,
+    "gh_stars": 10,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.colormate.plugin",

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-07-24 11:02:05 UTC
+Updated 2019-07-24 12:02:27 UTC
 
 Total plugins: 686
 
@@ -384,6 +384,8 @@ Total plugins: 686
 **[MockingBot/MockingBot](https://github.com/MockingBot/MockingBot) has no repo**
 
 **[mathieudutour/prototypes-invision-sketch](https://github.com/mathieudutour/prototypes-invision-sketch) manifest.json is missing identifier**
+
+**[franklymrshankly/Paddit](https://github.com/franklymrshankly/Paddit) has no repo**
 
 **/bolt has no repo**
 

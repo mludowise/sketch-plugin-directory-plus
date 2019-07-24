@@ -5311,9 +5311,7 @@
     "gh_updated": "2017-06-05 01:12:14 UTC",
     "gh_stars": 6,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.phantomtype.sketch.hback",
-    "man_version": "0.3"
+    "gh_branch": "master"
   },
   {
     "name": "sketch_fix_styles",
@@ -8221,7 +8219,7 @@
     "homepage": "https://github.com/mheesakkers/sketch-plugin-convert-to-grayscale",
     "gh_url": "https://github.com/mheesakkers/sketch-plugin-convert-to-grayscale.git",
     "gh_updated": "2018-10-11 18:55:51 UTC",
-    "gh_stars": 59,
+    "gh_stars": 60,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.mheesakkers.sketchplugins.converttograyscale",

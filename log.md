@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-07-24 15:21:59 UTC
+Updated 2019-07-24 16:02:47 UTC
 
 Total plugins: 686
 
@@ -153,7 +153,7 @@ Total plugins: 686
 
 **[ImageOptim/sketch-plugin](https://github.com/ImageOptim/sketch-plugin) missing manifest.json**
 
-**[MattCowBoy/giancartboard](https://github.com/MattCowBoy/giancartboard) missing manifest.json**
+[MattCowBoy/giancartboard](https://github.com/MattCowBoy/giancartboard) manifest.json contains extra commas
 
 **[Iconscout/logodrop](https://github.com/Iconscout/logodrop) manifest.json is missing identifier**
 

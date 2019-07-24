@@ -10201,7 +10201,16 @@
     "title": "Paddit",
     "description": "Inspired by Falkeyn's Modulizer, a Sketch plugin that adjusts a group's background to the content with padding.",
     "homepage": "https://github.com/franklymrshankly/Paddit",
-    "added": "2019-04-16 11:02:06 UTC"
+    "added": "2019-04-16 11:02:06 UTC",
+    "gh_url": "https://github.com/franklymrshankly/Paddit.git",
+    "gh_updated": "2019-07-18 09:57:51 UTC",
+    "gh_stars": 7,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.github.franklymrshankly.Paddit",
+    "man_version": "0.2.0",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/franklymrshankly/Paddit/master/paddit.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "Grid-Layer",

@@ -6185,6 +6185,8 @@
     "gh_stars": 12,
     "gh_issues": 2,
     "gh_branch": "master",
+    "man_identifier": "giancArtboard.plugin",
+    "man_version": "2.0",
     "icon": "https://raw.githubusercontent.com/MattCowBoy/giancartboard/master/GiancArtboard.sketchplugin/Contents/Resources/icon.png"
   },
   {

@@ -1251,8 +1251,8 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2018-10-17 15:24:23 UTC",
-    "gh_stars": 6523,
-    "gh_issues": 316,
+    "gh_stars": 6524,
+    "gh_issues": 317,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.7.7"
@@ -1765,7 +1765,7 @@
     "gh_url": "https://github.com/zeplin/zeplin-sketch-plugin.git",
     "gh_updated": "2019-07-18 13:12:35 UTC",
     "gh_stars": 141,
-    "gh_issues": 11,
+    "gh_issues": 10,
     "gh_branch": "master",
     "man_identifier": "io.zeplin.sketch-plugin",
     "man_version": "1.9"
@@ -3454,7 +3454,7 @@
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2019-02-26 12:56:37 UTC",
     "gh_stars": 2365,
-    "gh_issues": 36,
+    "gh_issues": 37,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
     "man_compatible_version": "3",
@@ -5311,7 +5311,9 @@
     "gh_updated": "2017-06-05 01:12:14 UTC",
     "gh_stars": 6,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.phantomtype.sketch.hback",
+    "man_version": "0.3"
   },
   {
     "name": "sketch_fix_styles",
@@ -5953,7 +5955,7 @@
     "homepage": "https://github.com/partyka1/Fontily",
     "gh_url": "https://github.com/partyka1/Fontily.git",
     "gh_updated": "2019-07-08 17:13:31 UTC",
-    "gh_stars": 105,
+    "gh_stars": 106,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.partyka.fontily",

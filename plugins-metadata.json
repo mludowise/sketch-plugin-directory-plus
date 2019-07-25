@@ -9201,7 +9201,7 @@
     "homepage": "https://spectrum.chat/sketch-arrows",
     "gh_url": "https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows.git",
     "gh_updated": "2019-03-18 20:36:39 UTC",
-    "gh_stars": 203,
+    "gh_stars": 202,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "me.sabitov.sketch.connectionFlowArrows",
@@ -9419,7 +9419,7 @@
     "added": "2019-02-20 17:00:18 UTC",
     "gh_url": "https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows.git",
     "gh_updated": "2019-03-18 20:36:39 UTC",
-    "gh_stars": 203,
+    "gh_stars": 202,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "me.sabitov.sketch.connectionFlowArrows",
@@ -10497,7 +10497,14 @@
     "title": "projecthuddle",
     "description": "",
     "homepage": "https://github.com/ajgagnon/projecthuddle-sketch-sync",
-    "added": "2019-07-22 11:01:36 UTC"
+    "added": "2019-07-22 11:01:36 UTC",
+    "gh_url": "https://github.com/ajgagnon/projecthuddle-sketch-sync.git",
+    "gh_updated": "2019-05-30 18:29:22 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_version": "0.0.1",
+    "man_compatible_version": "55"
   },
   {
     "name": "Disconnector",

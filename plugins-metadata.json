@@ -995,7 +995,7 @@
     "added": "2015-09-09 05:00:25 UTC",
     "homepage": "https://github.com/Freakland/sketch-browser-preview",
     "gh_url": "https://github.com/Freakland/sketch-browser-preview.git",
-    "gh_updated": "2017-02-24 19:57:43 UTC",
+    "gh_updated": "2016-11-18 04:38:54 UTC",
     "gh_stars": 56,
     "gh_issues": 4,
     "gh_branch": "master",
@@ -1766,7 +1766,9 @@
     "gh_updated": "2019-07-18 13:12:35 UTC",
     "gh_stars": 141,
     "gh_issues": 10,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "io.zeplin.sketch-plugin",
+    "man_version": "1.9"
   },
   {
     "name": "smartboards",

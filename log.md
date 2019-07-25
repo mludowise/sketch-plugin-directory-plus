@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-07-25 11:02:11 UTC
+Updated 2019-07-25 12:02:39 UTC
 
 Total plugins: 686
 
@@ -308,8 +308,6 @@ Total plugins: 686
 **[tgfjt/sketch-add-trailing-space](https://github.com/tgfjt/sketch-add-trailing-space) manifest.json is missing identifier**
 
 **[zehfernandes/sketch-pochette](https://github.com/zehfernandes/sketch-pochette) manifest.json is missing identifier**
-
-**[markaleksanderh/100-shapesum](https://github.com/markaleksanderh/100-shapesum) has no repo**
 
 **[realvjy/uiLogos](https://github.com/realvjy/uiLogos) missing manifest.json**
 

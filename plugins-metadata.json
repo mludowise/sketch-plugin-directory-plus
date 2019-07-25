@@ -995,7 +995,7 @@
     "added": "2015-09-09 05:00:25 UTC",
     "homepage": "https://github.com/Freakland/sketch-browser-preview",
     "gh_url": "https://github.com/Freakland/sketch-browser-preview.git",
-    "gh_updated": "2016-11-18 04:38:54 UTC",
+    "gh_updated": "2017-02-24 19:57:43 UTC",
     "gh_stars": 56,
     "gh_issues": 4,
     "gh_branch": "master",
@@ -1766,9 +1766,7 @@
     "gh_updated": "2019-07-18 13:12:35 UTC",
     "gh_stars": 141,
     "gh_issues": 10,
-    "gh_branch": "master",
-    "man_identifier": "io.zeplin.sketch-plugin",
-    "man_version": "1.9"
+    "gh_branch": "master"
   },
   {
     "name": "smartboards",
@@ -6374,7 +6372,7 @@
     "gh_url": "https://github.com/oodesign/merge-duplicate-symbols.git",
     "gh_updated": "2019-06-01 07:31:37 UTC",
     "gh_stars": 244,
-    "gh_issues": 6,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.oodesign.mergeduplicatesymbols",
     "man_version": "4.0.11",
@@ -6968,7 +6966,7 @@
     "added": "2018-01-04 12:26:15 UTC",
     "gh_url": "https://github.com/AMoreaux/Sketch-Icons.git",
     "gh_updated": "2019-02-05 17:58:16 UTC",
-    "gh_stars": 806,
+    "gh_stars": 807,
     "gh_issues": 11,
     "gh_branch": "master",
     "man_identifier": "com.amoreaux.sketch-icons",
@@ -8764,7 +8762,16 @@
     "title": "100 Shapesum",
     "description": "Lorem Ipsum Sketch plugin based on 100 Shapes tone of voice.",
     "homepage": "https://github.com/markaleksanderh/100-shapesum",
-    "added": "2018-11-15 11:02:15 UTC"
+    "added": "2018-11-15 11:02:15 UTC",
+    "gh_url": "https://github.com/markaleksanderh/100-shapesum.git",
+    "gh_updated": "2018-11-13 12:15:43 UTC",
+    "gh_stars": 1,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "100-shapesum",
+    "man_version": "1.0.0",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/markaleksanderh/100-shapesum/master/100-shapesum.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "uiLogos",
@@ -10702,7 +10709,7 @@
     "added": "2019-07-22 11:01:36 UTC",
     "gh_url": "https://github.com/BohemianCoding/sketch-ipsum.git",
     "gh_updated": "2019-07-23 10:26:25 UTC",
-    "gh_stars": 3,
+    "gh_stars": 4,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

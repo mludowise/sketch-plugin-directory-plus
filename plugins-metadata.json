@@ -4907,7 +4907,7 @@
     "added": "2016-10-26 19:23:03 UTC",
     "homepage": "https://github.com/mamuso/sketch-designdoc",
     "gh_url": "https://github.com/mamuso/sketch-designdoc.git",
-    "gh_updated": "2016-12-06 19:39:08 UTC",
+    "gh_updated": "2016-12-06 19:39:02 UTC",
     "gh_stars": 225,
     "gh_issues": 6,
     "gh_branch": "master",
@@ -8764,16 +8764,7 @@
     "title": "100 Shapesum",
     "description": "Lorem Ipsum Sketch plugin based on 100 Shapes tone of voice.",
     "homepage": "https://github.com/markaleksanderh/100-shapesum",
-    "added": "2018-11-15 11:02:15 UTC",
-    "gh_url": "https://github.com/markaleksanderh/100-shapesum.git",
-    "gh_updated": "2018-11-13 12:15:43 UTC",
-    "gh_stars": 1,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "100-shapesum",
-    "man_version": "1.0.0",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/markaleksanderh/100-shapesum/master/100-shapesum.sketchplugin/Contents/Resources/icon.png"
+    "added": "2018-11-15 11:02:15 UTC"
   },
   {
     "name": "uiLogos",
@@ -10751,9 +10742,9 @@
     "homepage": "https://github.com/lifeofmle/symbol-insert",
     "added": "2019-07-22 11:01:36 UTC",
     "gh_url": "https://github.com/lifeofmle/symbol-insert.git",
-    "gh_updated": "2019-07-22 16:40:19 UTC",
+    "gh_updated": "2019-07-25 10:33:59 UTC",
     "gh_stars": 5,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },

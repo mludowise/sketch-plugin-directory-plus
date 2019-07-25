@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-07-25 01:01:49 UTC
+Updated 2019-07-25 02:02:23 UTC
 
 Total plugins: 686
 
@@ -182,8 +182,6 @@ Total plugins: 686
 **[heytitle/latex-sketch-plugin](https://github.com/heytitle/latex-sketch-plugin) manifest.json is missing identifier**
 
 **[danielguillan/sketch-syntax-highlighter](https://github.com/danielguillan/sketch-syntax-highlighter) manifest.json is missing identifier**
-
-**[aparajita/sketch-style-master](https://github.com/aparajita/sketch-style-master) has no repo**
 
 **[skpm/sketch-dev-tools](https://github.com/skpm/sketch-dev-tools) manifest.json is missing identifier**
 

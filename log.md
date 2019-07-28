@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-07-28 21:01:57 UTC
+Updated 2019-07-28 22:00:38 UTC
 
 Total plugins: 686
 
@@ -194,6 +194,8 @@ Total plugins: 686
 **/Clipboard2TilledFill has no repo**
 
 **[ziven27/Sketch-topographic](https://github.com/ziven27/Sketch-topographic) manifest.json is missing identifier**
+
+**[liawesomesaucer/StyleClip](https://github.com/liawesomesaucer/StyleClip) has no repo**
 
 **[pavelkuligin/chart](https://github.com/pavelkuligin/chart) missing manifest.json**
 

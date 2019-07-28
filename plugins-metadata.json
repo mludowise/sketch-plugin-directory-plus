@@ -7029,7 +7029,15 @@
     "author": "Vincent",
     "title": "StyleClip",
     "description": "Sketch plugin that copies an element's styles directly to your Mac clipboard. Supports CSS & SCSS",
-    "added": "2018-01-22 09:56:09 UTC"
+    "added": "2018-01-22 09:56:09 UTC",
+    "homepage": "https://github.com/liawesomesaucer/StyleClip",
+    "gh_url": "https://github.com/liawesomesaucer/StyleClip.git",
+    "gh_updated": "2018-05-26 16:41:53 UTC",
+    "gh_stars": 39,
+    "gh_issues": 3,
+    "gh_branch": "master",
+    "man_identifier": "style.clip",
+    "man_version": "1.0"
   },
   {
     "name": "HandyMenu-SketchPlugin",

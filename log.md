@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-07-29 10:00:51 UTC
+Updated 2019-07-29 11:00:59 UTC
 
-Total plugins: 686
+Total plugins: 689
 
 ## Problems
 **[Alexander Käßner/Custom Zoom](https://github.com/Alexander Käßner/Custom Zoom) has no repo**
@@ -424,4 +424,8 @@ Total plugins: 686
 **[Sketch Manager/Sketch Manager Plugin](https://github.com/Sketch Manager/Sketch Manager Plugin) has no repo**
 
 **[KevinGutowski/Truncat](https://github.com/KevinGutowski/Truncat) manifest.json is missing identifier**
+
+**[loceye/sketch-visualeyes](https://github.com/loceye/sketch-visualeyes) manifest.json is missing identifier**
+
+**[GetContext.app/Context](https://github.com/GetContext.app/Context) has no repo**
 

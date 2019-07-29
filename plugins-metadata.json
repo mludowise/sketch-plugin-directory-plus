@@ -9997,6 +9997,9 @@
     "gh_stars": 7,
     "gh_issues": 0,
     "gh_branch": "master",
+    "man_identifier": "jerryipsum",
+    "man_version": "0.8.5",
+    "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/vinceangeloni/jerryipsum/master/jerryipsum.sketchplugin/Contents/Resources/icon.png"
   },
   {

@@ -4616,7 +4616,10 @@
     "gh_updated": "2018-05-29 14:59:18 UTC",
     "gh_stars": 31,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "sketch-markup-listify",
+    "man_version": "1.1",
+    "man_compatible_version": "46"
   },
   {
     "name": "random-ipsom",
@@ -4773,7 +4776,7 @@
     "added": "2016-10-10 08:18:24 UTC",
     "homepage": "https://github.com/ajilderda/Sketch-Copy-Paste-Position-Size",
     "gh_url": "https://github.com/ajilderda/Sketch-Copy-Paste-Position-Size.git",
-    "gh_updated": "2019-02-15 19:34:25 UTC",
+    "gh_updated": "2019-02-15 19:34:20 UTC",
     "gh_stars": 123,
     "gh_issues": 2,
     "gh_branch": "master",
@@ -10821,7 +10824,7 @@
     "homepage": "https://github.com/KevinGutowski/Truncat",
     "added": "2019-07-22 11:01:36 UTC",
     "gh_url": "https://github.com/KevinGutowski/Truncat.git",
-    "gh_updated": "2019-07-30 04:53:00 UTC",
+    "gh_updated": "2019-07-30 05:07:55 UTC",
     "gh_stars": 12,
     "gh_issues": 0,
     "gh_branch": "master"

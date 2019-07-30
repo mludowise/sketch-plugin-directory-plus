@@ -1251,7 +1251,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2019-07-26 14:32:10 UTC",
-    "gh_stars": 6535,
+    "gh_stars": 6536,
     "gh_issues": 321,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -4616,10 +4616,7 @@
     "gh_updated": "2018-05-29 14:59:18 UTC",
     "gh_stars": 31,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "sketch-markup-listify",
-    "man_version": "1.1",
-    "man_compatible_version": "46"
+    "gh_branch": "master"
   },
   {
     "name": "random-ipsom",
@@ -4776,7 +4773,7 @@
     "added": "2016-10-10 08:18:24 UTC",
     "homepage": "https://github.com/ajilderda/Sketch-Copy-Paste-Position-Size",
     "gh_url": "https://github.com/ajilderda/Sketch-Copy-Paste-Position-Size.git",
-    "gh_updated": "2019-02-15 19:34:20 UTC",
+    "gh_updated": "2019-02-15 19:34:25 UTC",
     "gh_stars": 123,
     "gh_issues": 2,
     "gh_branch": "master",
@@ -6215,7 +6212,7 @@
     "homepage": "https://github.com/Iconscout/logodrop",
     "gh_url": "https://github.com/Iconscout/logodrop.git",
     "gh_updated": "2019-05-11 07:54:12 UTC",
-    "gh_stars": 137,
+    "gh_stars": 136,
     "gh_issues": 0,
     "gh_branch": "master"
   },
@@ -7501,7 +7498,7 @@
     "homepage": "https://github.com/oodesign/icon-tools",
     "gh_url": "https://github.com/oodesign/icon-tools.git",
     "gh_updated": "2019-04-12 06:59:42 UTC",
-    "gh_stars": 38,
+    "gh_stars": 37,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.0a887f2f-c79f-4316-b19f-ca74b889bbc8",
@@ -10824,7 +10821,7 @@
     "homepage": "https://github.com/KevinGutowski/Truncat",
     "added": "2019-07-22 11:01:36 UTC",
     "gh_url": "https://github.com/KevinGutowski/Truncat.git",
-    "gh_updated": "2019-07-30 02:02:22 UTC",
+    "gh_updated": "2019-07-30 04:53:00 UTC",
     "gh_stars": 12,
     "gh_issues": 0,
     "gh_branch": "master"

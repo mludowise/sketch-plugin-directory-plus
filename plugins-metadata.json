@@ -3453,7 +3453,7 @@
     "homepage": "https://mathieudutour.github.io/git-sketch-plugin",
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2019-02-26 12:56:37 UTC",
-    "gh_stars": 2366,
+    "gh_stars": 2365,
     "gh_issues": 37,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
@@ -6791,7 +6791,7 @@
     "homepage": "https://github.com/dploeger/sketch-plugin-units",
     "gh_url": "https://github.com/dploeger/sketch-plugin-units.git",
     "gh_updated": "2019-04-11 05:50:47 UTC",
-    "gh_stars": 27,
+    "gh_stars": 28,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "de.dieploegers.sketch.units",
@@ -10737,7 +10737,10 @@
     "gh_updated": "2019-07-07 08:22:49 UTC",
     "gh_stars": 7,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.afnizarnur.sketchplugins.context",
+    "man_version": "1.0.1",
+    "man_compatible_version": "3.0"
   },
   {
     "name": "symbol-insert",

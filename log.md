@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-07-30 11:01:13 UTC
+Updated 2019-07-30 12:01:47 UTC
 
 Total plugins: 689
 
@@ -82,6 +82,8 @@ Total plugins: 689
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
 
 [getflourish/Sketch-Mate](https://github.com/getflourish/Sketch-Mate) manifest.json contains extra commas
+
+**[PEZ/SketchDistributor](https://github.com/PEZ/SketchDistributor) missing manifest.json**
 
 [eivindbohler/Sketch-Unlinker](https://github.com/eivindbohler/Sketch-Unlinker) manifest.json contains extra commas
 
@@ -316,6 +318,8 @@ Total plugins: 689
 **[sunkibaek/Seoul](https://github.com/sunkibaek/Seoul) manifest.json is missing identifier**
 
 [yudiz-solutions/paste-direct](https://github.com/yudiz-solutions/paste-direct) manifest.json contains extra commas
+
+**[buba447/Lottie-Sketch-Export](https://github.com/buba447/Lottie-Sketch-Export) has no repo**
 
 [KevinvBre/Sketch-Rename-Artboards](https://github.com/KevinvBre/Sketch-Rename-Artboards) manifest.json contains extra commas
 

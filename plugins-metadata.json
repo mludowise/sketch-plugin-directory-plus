@@ -2714,7 +2714,7 @@
     "gh_url": "https://github.com/thierryc/Sketch-Find-And-Replace.git",
     "gh_updated": "2019-04-15 14:45:53 UTC",
     "gh_stars": 634,
-    "gh_issues": 19,
+    "gh_issues": 18,
     "gh_branch": "master",
     "man_identifier": "cx.ap.sketch-find-and-replace",
     "man_version": "2.5.0",
@@ -3242,7 +3242,7 @@
     "gh_url": "https://github.com/dawidw/move-it.git",
     "gh_updated": "2017-02-01 12:15:03 UTC",
     "gh_stars": 43,
-    "gh_issues": 2,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.5e5693a0-fcd9-4b54-990d-649a41482f79",
     "man_version": "1.0"
@@ -10752,7 +10752,7 @@
     "added": "2019-07-22 11:01:36 UTC",
     "gh_url": "https://github.com/lifeofmle/symbol-insert.git",
     "gh_updated": "2019-07-25 10:33:59 UTC",
-    "gh_stars": 6,
+    "gh_stars": 7,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

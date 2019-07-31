@@ -1134,7 +1134,9 @@
     "gh_updated": "2017-05-07 01:19:03 UTC",
     "gh_stars": 19,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.sketchingon",
+    "man_version": "1.1.0"
   },
   {
     "name": "Remove-Fills-and-Borders",
@@ -6132,12 +6134,12 @@
     "homepage": "https://github.com/RealtimeBoard/sketch_plugin",
     "added": "2017-07-10 10:02:05 UTC",
     "gh_url": "https://github.com/RealtimeBoard/sketch_plugin.git",
-    "gh_updated": "2019-04-17 11:57:09 UTC",
+    "gh_updated": "2019-07-31 12:13:29 UTC",
     "gh_stars": 49,
     "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "com.realtimeboard.sketch.plugin",
-    "man_version": "1.5.1",
+    "man_version": "1.5.2",
     "icon": "https://raw.githubusercontent.com/RealtimeBoard/sketch_plugin/master/RealtimeBoard.sketchplugin/Contents/Resources/icon.png"
   },
   {

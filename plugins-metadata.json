@@ -2314,7 +2314,9 @@
     "gh_updated": "2019-05-16 06:17:15 UTC",
     "gh_stars": 180,
     "gh_issues": 6,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.abynim.plugins.sketchypies",
+    "man_version": "1.1"
   },
   {
     "name": "sketch-artwork-fetcher",

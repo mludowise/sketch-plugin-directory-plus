@@ -6774,7 +6774,7 @@
     "homepage": "http://www.jacopocolo.com/p5sketchplugin/",
     "gh_url": "https://github.com/jacopocolo/p5-sketchplugin.git",
     "gh_updated": "2018-10-03 07:16:37 UTC",
-    "gh_stars": 214,
+    "gh_stars": 215,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.jacopocolo.sketch.p5",
@@ -9125,7 +9125,7 @@
     "gh_url": "https://github.com/envato/extensions-sketch-plugin.git",
     "gh_updated": "2019-07-18 07:13:15 UTC",
     "gh_stars": 21,
-    "gh_issues": 6,
+    "gh_issues": 7,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },

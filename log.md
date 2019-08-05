@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-08-05 09:01:41 UTC
+Updated 2019-08-05 10:02:25 UTC
 
 Total plugins: 689
 
@@ -128,6 +128,8 @@ Total plugins: 689
 **[ErikFontanel/sketch-toggle-constrain-proportions](https://github.com/ErikFontanel/sketch-toggle-constrain-proportions) manifest.json is missing identifier**
 
 [marianomike/sketch-exportsymbols](https://github.com/marianomike/sketch-exportsymbols) manifest.json contains extra commas
+
+**[KivyGogh/coffee-slice](https://github.com/KivyGogh/coffee-slice) missing manifest.json**
 
 [marianomike/sketch-organizesymbols](https://github.com/marianomike/sketch-organizesymbols) manifest.json contains extra commas
 

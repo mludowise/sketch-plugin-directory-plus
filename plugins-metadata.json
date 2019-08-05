@@ -3223,7 +3223,7 @@
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
     "gh_updated": "2019-07-23 09:23:34 UTC",
-    "gh_stars": 657,
+    "gh_stars": 658,
     "gh_issues": 12,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
@@ -10009,7 +10009,16 @@
     "title": "areanow",
     "description": "Get the total area of selected rectangle layers.",
     "homepage": "https://github.com/norman-woz/areanow",
-    "added": "2019-04-03 09:01:36 UTC"
+    "added": "2019-04-03 09:01:36 UTC",
+    "gh_url": "https://github.com/norman-woz/areanow.git",
+    "gh_updated": "2019-07-01 21:00:51 UTC",
+    "gh_stars": 1,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "areanow",
+    "man_version": "0.1",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/norman-woz/areanow/master/AreaNow.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "sketch-foodreau",

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-08-05 16:01:06 UTC
+Updated 2019-08-05 17:00:36 UTC
 
 Total plugins: 689
 
@@ -376,8 +376,6 @@ Total plugins: 689
 **[Rutger Willems/Airtabledata](https://github.com/Rutger Willems/Airtabledata) has no repo**
 
 **[jan-patrick/Artboard History](https://github.com/jan-patrick/Artboard History) has no repo**
-
-**[norman-woz/areanow](https://github.com/norman-woz/areanow) has no repo**
 
 **[bomberstudios/install-library-bundle](https://github.com/bomberstudios/install-library-bundle) manifest.json is missing identifier**
 

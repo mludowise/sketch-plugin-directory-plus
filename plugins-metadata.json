@@ -7207,7 +7207,11 @@
     "gh_updated": "2018-10-08 13:52:14 UTC",
     "gh_stars": 169,
     "gh_issues": 10,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "io.designcode.Angle",
+    "man_version": "1.1.3",
+    "man_compatible_version": "50",
+    "icon": "https://raw.githubusercontent.com/MengTo/Angle-Sketch-Plugin/master/Angle.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "sketch-fast-text-transfer",

@@ -4810,7 +4810,7 @@
     "gh_url": "https://github.com/bigxixi/Font-Packer.git",
     "gh_updated": "2019-02-25 07:22:53 UTC",
     "gh_stars": 247,
-    "gh_issues": 5,
+    "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.sketch.bigxixi.FontPacker",
     "man_version": "1.21"
@@ -6437,7 +6437,7 @@
     "homepage": "https://github.com/awkward/sketch-palette-generator",
     "gh_url": "https://github.com/awkward/sketch-palette-generator.git",
     "gh_updated": "2018-04-06 12:27:18 UTC",
-    "gh_stars": 139,
+    "gh_stars": 140,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"
@@ -9235,7 +9235,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taofed/imgcook.git",
     "gh_updated": "2019-07-21 13:19:23 UTC",
-    "gh_stars": 317,
+    "gh_stars": 318,
     "gh_issues": 3,
     "gh_branch": "master"
   },
@@ -9368,7 +9368,7 @@
     "added": "2019-01-29 11:01:42 UTC",
     "gh_url": "https://github.com/KevinGutowski/betterTypePanel.git",
     "gh_updated": "2019-08-02 05:49:55 UTC",
-    "gh_stars": 74,
+    "gh_stars": 75,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "betterTypePanel",
@@ -10188,11 +10188,7 @@
     "gh_updated": "2019-07-11 15:14:53 UTC",
     "gh_stars": 2,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "Sequence Artboard Names",
-    "man_version": "0.1.4",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/tbrasington/Sequence-Sketch-Artboards/master/sequence-artboard-names.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "Paddit",

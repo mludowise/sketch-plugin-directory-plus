@@ -666,12 +666,12 @@
     "homepage": "http://www.getstark.co",
     "added": "2017-04-21 18:02:00 UTC",
     "gh_url": "https://github.com/stark-contrast/stark-sketch-plugin.git",
-    "gh_updated": "2019-06-13 12:45:32 UTC",
+    "gh_updated": "2019-08-07 18:39:28 UTC",
     "gh_stars": 33,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.mfouquet.sketch.stark",
-    "man_version": "2.6",
+    "man_version": "2.7",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/master/Stark.sketchplugin/Contents/Resources/icon.png"
   },
@@ -10112,7 +10112,7 @@
     "added": "2019-04-11 13:01:28 UTC",
     "gh_url": "https://github.com/mathieudutour/import-svg-as-artboard.git",
     "gh_updated": "2019-07-13 15:58:53 UTC",
-    "gh_stars": 9,
+    "gh_stars": 10,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

@@ -1585,9 +1585,7 @@
     "gh_updated": "2018-01-02 07:47:16 UTC",
     "gh_stars": 56,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "com.github.arkkimaagi.artboardzoom",
-    "man_version": "1.2.3"
+    "gh_branch": "master"
   },
   {
     "name": "Bookmark",
@@ -1962,7 +1960,7 @@
     "homepage": "https://github.com/PEZ/SketchDistributor",
     "gh_url": "https://github.com/PEZ/SketchDistributor.git",
     "gh_updated": "2018-05-31 06:23:28 UTC",
-    "gh_stars": 347,
+    "gh_stars": 348,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.betterthantomorrow.sketch.distributor",
@@ -8684,7 +8682,7 @@
     "added": "2018-10-25 19:01:32 UTC",
     "gh_url": "https://github.com/Ashung/Sketch-Stuffing.git",
     "gh_updated": "2019-01-10 13:11:43 UTC",
-    "gh_stars": 24,
+    "gh_stars": 25,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.stuffing",

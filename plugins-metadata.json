@@ -3175,7 +3175,10 @@
     "gh_updated": "2018-10-22 18:14:05 UTC",
     "gh_stars": 164,
     "gh_issues": 5,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "io.kolo.sketch.place-linked-bitmap",
+    "man_version": "1.52.0",
+    "man_compatible_version": "48"
   },
   {
     "name": "Watch-Icon",
@@ -3977,7 +3980,7 @@
     "homepage": "https://sketchapp.com/extensions/plugins/svgo-compressor/",
     "added": "2016-05-31 15:16:43 UTC",
     "gh_url": "https://github.com/BohemianCoding/svgo-compressor.git",
-    "gh_updated": "2019-07-11 07:40:34 UTC",
+    "gh_updated": "2019-07-11 07:40:29 UTC",
     "gh_stars": 993,
     "gh_issues": 10,
     "gh_branch": "develop",
@@ -7100,7 +7103,7 @@
     "homepage": "https://github.com/PEZ/SketchSeparateShapes",
     "gh_url": "https://github.com/PEZ/SketchSeparateShapes.git",
     "gh_updated": "2019-03-26 21:15:59 UTC",
-    "gh_stars": 162,
+    "gh_stars": 163,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.betterthantomorrow.sketch.separate",

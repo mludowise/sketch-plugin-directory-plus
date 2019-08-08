@@ -1878,7 +1878,7 @@
     "homepage": "https://github.com/kenmoore/sketch-relabel-button",
     "gh_url": "https://github.com/kenmoore/sketch-relabel-button.git",
     "gh_updated": "2019-03-07 04:53:55 UTC",
-    "gh_stars": 363,
+    "gh_stars": 364,
     "gh_issues": 18,
     "gh_branch": "master",
     "man_identifier": "com.kenmoore.sketch.relabelbutton",
@@ -3175,10 +3175,7 @@
     "gh_updated": "2018-10-22 18:14:05 UTC",
     "gh_stars": 164,
     "gh_issues": 5,
-    "gh_branch": "master",
-    "man_identifier": "io.kolo.sketch.place-linked-bitmap",
-    "man_version": "1.52.0",
-    "man_compatible_version": "48"
+    "gh_branch": "master"
   },
   {
     "name": "Watch-Icon",
@@ -3980,7 +3977,7 @@
     "homepage": "https://sketchapp.com/extensions/plugins/svgo-compressor/",
     "added": "2016-05-31 15:16:43 UTC",
     "gh_url": "https://github.com/BohemianCoding/svgo-compressor.git",
-    "gh_updated": "2019-07-11 07:40:29 UTC",
+    "gh_updated": "2019-07-11 07:40:34 UTC",
     "gh_stars": 993,
     "gh_issues": 10,
     "gh_branch": "develop",
@@ -10276,7 +10273,7 @@
     "added": "2019-07-22 11:01:36 UTC",
     "gh_url": "https://github.com/franklymrshankly/Symbol-Override-Padding.git",
     "gh_updated": "2019-07-18 10:17:52 UTC",
-    "gh_stars": 5,
+    "gh_stars": 6,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.github.franklymrshankly.Symbol-Override-Padding",

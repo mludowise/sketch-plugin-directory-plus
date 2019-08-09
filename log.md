@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-08-09 16:00:47 UTC
+Updated 2019-08-09 17:00:20 UTC
 
 Total plugins: 689
 
@@ -148,6 +148,8 @@ Total plugins: 689
 [Rezaaa/english-and-persian-lorem-ipsum](https://github.com/Rezaaa/english-and-persian-lorem-ipsum) manifest.json contains extra commas
 
 [freeman990/Freeman-FinChart-SketchPlugin](https://github.com/freeman990/Freeman-FinChart-SketchPlugin) manifest.json contains extra commas
+
+[canisminor1990/sketch-move-half-pixel](https://github.com/canisminor1990/sketch-move-half-pixel) manifest.json contains extra commas
 
 **[ImageOptim/sketch-plugin](https://github.com/ImageOptim/sketch-plugin) missing manifest.json**
 

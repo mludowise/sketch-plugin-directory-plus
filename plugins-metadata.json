@@ -3223,7 +3223,7 @@
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
     "gh_updated": "2019-07-23 09:23:34 UTC",
-    "gh_stars": 661,
+    "gh_stars": 662,
     "gh_issues": 15,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
@@ -8919,7 +8919,11 @@
     "gh_updated": "2019-02-12 16:16:41 UTC",
     "gh_stars": 53,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.withrow.sketch.lottie-export",
+    "man_version": "0.4",
+    "man_compatible_version": "52",
+    "icon": "https://raw.githubusercontent.com/buba447/Lottie-Sketch-Export/master/Lottie-Export.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "Sketch-Rename-Artboards",

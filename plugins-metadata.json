@@ -1534,7 +1534,7 @@
     "gh_url": "https://github.com/getflourish/Sketch-Set-Line-Height-Plugin.git",
     "gh_updated": "2016-10-28 09:00:55 UTC",
     "gh_stars": 128,
-    "gh_issues": 4,
+    "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.getflourish.setlineheight",
     "man_version": "2.0",
@@ -6877,7 +6877,10 @@
     "gh_updated": "2018-07-17 09:12:22 UTC",
     "gh_stars": 64,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.pravdomil.FixSketchTrackpadSpeed",
+    "man_version": "1.0.1",
+    "man_compatible_version": "40"
   },
   {
     "name": "sketch-wcag",

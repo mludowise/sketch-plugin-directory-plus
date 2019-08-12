@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-08-12 22:01:19 UTC
+Updated 2019-08-12 23:01:12 UTC
 
 Total plugins: 690
 
@@ -184,8 +184,6 @@ Total plugins: 690
 **[danielguillan/sketch-syntax-highlighter](https://github.com/danielguillan/sketch-syntax-highlighter) manifest.json is missing identifier**
 
 **[skpm/sketch-dev-tools](https://github.com/skpm/sketch-dev-tools) manifest.json is missing identifier**
-
-**[pravdomil/FixSketchTrackpadSpeed](https://github.com/pravdomil/FixSketchTrackpadSpeed) missing manifest.json**
 
 **[ahmedmigo/Move-to-library-sketchplugin](https://github.com/ahmedmigo/Move-to-library-sketchplugin) manifest.json is missing identifier**
 

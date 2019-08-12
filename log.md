@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-08-12 18:01:27 UTC
+Updated 2019-08-12 20:02:28 UTC
 
-Total plugins: 689
+Total plugins: 690
 
 ## Problems
 **[Alexander Käßner/Custom Zoom](https://github.com/Alexander Käßner/Custom Zoom) has no repo**
@@ -428,4 +428,6 @@ Total plugins: 689
 **[loceye/sketch-visualeyes](https://github.com/loceye/sketch-visualeyes) manifest.json is missing identifier**
 
 **[GetContext.app/Context](https://github.com/GetContext.app/Context) has no repo**
+
+**[Stash/Stash](https://github.com/Stash/Stash) has no repo**
 

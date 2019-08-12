@@ -6877,10 +6877,7 @@
     "gh_updated": "2018-07-17 09:12:22 UTC",
     "gh_stars": 64,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.pravdomil.FixSketchTrackpadSpeed",
-    "man_version": "1.0.1",
-    "man_compatible_version": "40"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-wcag",

@@ -6313,7 +6313,7 @@
     "gh_url": "https://github.com/Iconscout/icondrop.git",
     "gh_updated": "2019-08-09 10:48:25 UTC",
     "gh_stars": 147,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.iconscout.sketch.icondrop",
     "man_version": "2.1.0",
@@ -10571,7 +10571,10 @@
     "gh_updated": "2019-08-02 07:33:02 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.github.jan-patrick.sketch_mugsy",
+    "man_version": "0.1.4",
+    "man_compatible_version": "54.1"
   },
   {
     "name": "SVG BEM",

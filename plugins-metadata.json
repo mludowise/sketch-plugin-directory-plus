@@ -744,7 +744,7 @@
     "added": "2017-01-30 09:11:04 UTC",
     "homepage": "https://github.com/leonardpauli/layer-renamer",
     "gh_url": "https://github.com/leonardpauli/layer-renamer.git",
-    "gh_updated": "2018-07-13 14:03:45 UTC",
+    "gh_updated": "2018-06-22 16:13:40 UTC",
     "gh_stars": 47,
     "gh_issues": 8,
     "gh_branch": "master",
@@ -7185,7 +7185,15 @@
     "author": "kupe517",
     "title": "Sketch Split Shape",
     "description": "Sketch plugin to split up a rectangle evenly by a user generated value",
-    "added": "2018-02-22 12:01:24 UTC"
+    "added": "2018-02-22 12:01:24 UTC",
+    "homepage": "https://github.com/kupe517/sketch-split-shape",
+    "gh_url": "https://github.com/kupe517/sketch-split-shape.git",
+    "gh_updated": "2019-06-12 16:35:11 UTC",
+    "gh_stars": 97,
+    "gh_issues": 2,
+    "gh_branch": "master",
+    "man_identifier": "https://github.com/kupe517/sketch-split-shape",
+    "man_version": "2.0"
   },
   {
     "name": "Angle-Sketch-Plugin",
@@ -9226,7 +9234,7 @@
     "homepage": "https://github.com/taobaofed/imgcook",
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taofed/imgcook.git",
-    "gh_updated": "2019-08-12 11:35:35 UTC",
+    "gh_updated": "2019-08-13 11:39:37 UTC",
     "gh_stars": 329,
     "gh_issues": 3,
     "gh_branch": "master"
@@ -10129,7 +10137,7 @@
     "gh_url": "https://github.com/themainingredient/colormate.git",
     "gh_updated": "2019-07-22 09:36:21 UTC",
     "gh_stars": 12,
-    "gh_issues": 6,
+    "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.colormate.plugin",
     "man_version": "1.5.0",

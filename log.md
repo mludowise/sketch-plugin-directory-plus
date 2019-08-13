@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-08-13 10:01:57 UTC
+Updated 2019-08-13 11:02:12 UTC
 
 Total plugins: 690
 
@@ -203,7 +203,7 @@ Total plugins: 690
 
 **[reqfire/sketch-user-flows](https://github.com/reqfire/sketch-user-flows) manifest.json is missing identifier**
 
-[kupe517/sketch-split-shape](https://github.com/kupe517/sketch-split-shape) manifest.json contains extra commas
+**[kupe517/sketch-split-shape](https://github.com/kupe517/sketch-split-shape) has no repo**
 
 **[zcallan/sketch-bacon-ipsum](https://github.com/zcallan/sketch-bacon-ipsum) manifest.json is missing identifier**
 

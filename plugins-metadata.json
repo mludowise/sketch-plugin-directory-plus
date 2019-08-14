@@ -5242,7 +5242,7 @@
     "gh_url": "https://github.com/eddiesigner/sketch-map-generator.git",
     "gh_updated": "2019-08-12 10:02:44 UTC",
     "gh_stars": 749,
-    "gh_issues": 5,
+    "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "io.eduardogomez.sketch.map-generator",
     "man_version": "3.1.2",
@@ -10097,7 +10097,7 @@
     "gh_url": "https://github.com/chriswetterman/sketch-find-and-replace-text.git",
     "gh_updated": "2019-06-20 16:49:24 UTC",
     "gh_stars": 26,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.chriswetterman.sketch.find-and-replace-text-plugin",
     "man_compatible_version": "53"

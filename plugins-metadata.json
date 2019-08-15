@@ -5411,10 +5411,7 @@
     "gh_updated": "2018-10-10 15:39:28 UTC",
     "gh_stars": 65,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.sketchapp.examples.image-replaste",
-    "man_version": "1.o",
-    "icon": "https://raw.githubusercontent.com/mheesakkers/sketch-image-replaste/master/Image%20Replaste.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-plugin-monster",
@@ -5956,7 +5953,7 @@
     "gh_url": "https://github.com/partyka1/Fontily.git",
     "gh_updated": "2019-07-08 17:13:31 UTC",
     "gh_stars": 107,
-    "gh_issues": 3,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.partyka.fontily",
     "man_version": "1.1"
@@ -8917,7 +8914,7 @@
     "homepage": "https://github.com/buba447/Lottie-Sketch-Export",
     "gh_url": "https://github.com/buba447/Lottie-Sketch-Export.git",
     "gh_updated": "2019-02-12 16:16:41 UTC",
-    "gh_stars": 53,
+    "gh_stars": 54,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.withrow.sketch.lottie-export",
@@ -10375,7 +10372,7 @@
     "gh_url": "https://github.com/anavarromartin/sketch-color-locator.git",
     "gh_updated": "2019-05-21 13:54:46 UTC",
     "gh_stars": 1,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master"
   },
   {
@@ -10606,8 +10603,7 @@
     "gh_updated": "2019-06-17 23:30:52 UTC",
     "gh_stars": 5,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "Design-Token-Exporter",

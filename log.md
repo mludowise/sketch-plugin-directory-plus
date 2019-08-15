@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-08-15 17:02:40 UTC
+Updated 2019-08-15 18:00:54 UTC
 
 Total plugins: 690
 
@@ -405,7 +405,7 @@ Total plugins: 690
 
 **[Pratik Shah/Symbol Browser](https://github.com/Pratik Shah/Symbol Browser) has no repo**
 
-**[brandfolder/sketch-plugin-brandfolder](https://github.com/brandfolder/sketch-plugin-brandfolder) missing manifest.json**
+**[brandfolder/sketch-plugin-brandfolder](https://github.com/brandfolder/sketch-plugin-brandfolder) manifest.json is missing identifier**
 
 **[avk/Tabula-Rasa](https://github.com/avk/Tabula-Rasa) has no repo**
 

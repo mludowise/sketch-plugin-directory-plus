@@ -5240,12 +5240,12 @@
     "added": "2016-12-22 09:55:55 UTC",
     "homepage": "https://github.com/eddiesigner/sketch-map-generator",
     "gh_url": "https://github.com/eddiesigner/sketch-map-generator.git",
-    "gh_updated": "2019-08-15 17:48:23 UTC",
+    "gh_updated": "2019-08-15 21:39:08 UTC",
     "gh_stars": 749,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "io.eduardogomez.sketch.map-generator",
-    "man_version": "3.5.1",
+    "man_version": "3.5.2",
     "man_compatible_version": "4",
     "icon": "https://raw.githubusercontent.com/eddiesigner/sketch-map-generator/master/Map%20Generator.sketchplugin/Contents/Resources/icon.png"
   },
@@ -9040,11 +9040,11 @@
     "homepage": "https://github.com/VKCOM/vkdata-sketchplugin",
     "added": "2018-11-22 11:02:24 UTC",
     "gh_url": "https://github.com/VKCOM/vkdata-sketchplugin.git",
-    "gh_updated": "2019-07-24 07:33:39 UTC",
+    "gh_updated": "2019-08-15 21:11:46 UTC",
     "gh_stars": 14,
     "gh_issues": 0,
     "gh_branch": "master",
-    "man_compatible_version": "49"
+    "man_compatible_version": "54"
   },
   {
     "name": "DesignToken2Code",
@@ -10295,7 +10295,7 @@
     "gh_url": "https://github.com/mathieudutour/sketch-remove-bg.git",
     "gh_updated": "2019-07-13 15:59:37 UTC",
     "gh_stars": 61,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },

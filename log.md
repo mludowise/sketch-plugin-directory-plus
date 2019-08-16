@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-08-16 13:00:59 UTC
+Updated 2019-08-16 14:02:41 UTC
 
 Total plugins: 691
 
@@ -431,5 +431,5 @@ Total plugins: 691
 
 **[Stash/Stash](https://github.com/Stash/Stash) has no repo**
 
-**[mathieudutour/glueprint-sketch-plugin](https://github.com/mathieudutour/glueprint-sketch-plugin) manifest.json is missing identifier**
+**[mathieudutour/glueprint-sketch-plugin](https://github.com/mathieudutour/glueprint-sketch-plugin) has no repo**
 

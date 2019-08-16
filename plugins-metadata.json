@@ -3015,7 +3015,9 @@
     "gh_updated": "2016-12-15 06:46:23 UTC",
     "gh_stars": 72,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "io.arshad.sketch-sass-colors",
+    "man_version": "1.2"
   },
   {
     "name": "Toggle-NoPrint-Visibility-Sketch-Plugin",
@@ -6806,7 +6808,7 @@
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2019-08-16 08:24:51 UTC",
-    "gh_stars": 196,
+    "gh_stars": 197,
     "gh_issues": 10,
     "gh_branch": "master",
     "man_compatible_version": "50"
@@ -8078,7 +8080,7 @@
     "homepage": "https://kitchen.alipay.com/",
     "gh_url": "https://github.com/ant-design/kitchen.git",
     "gh_updated": "2018-11-13 14:23:37 UTC",
-    "gh_stars": 72,
+    "gh_stars": 73,
     "gh_issues": 14,
     "gh_branch": "master"
   },
@@ -9089,7 +9091,7 @@
     "homepage": "https://github.com/canisminor1990/sketch-afux-tools",
     "added": "2018-12-04 12:02:17 UTC",
     "gh_url": "https://github.com/canisminor1990/anto.git",
-    "gh_updated": "2019-08-14 09:36:24 UTC",
+    "gh_updated": "2019-08-16 09:46:33 UTC",
     "gh_stars": 37,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -9105,7 +9107,7 @@
     "homepage": "https://github.com/canisminor1990/anto",
     "added": "2018-12-18 22:01:49 UTC",
     "gh_url": "https://github.com/canisminor1990/anto.git",
-    "gh_updated": "2019-08-14 09:36:24 UTC",
+    "gh_updated": "2019-08-16 09:46:33 UTC",
     "gh_stars": 37,
     "gh_issues": 0,
     "gh_branch": "master",

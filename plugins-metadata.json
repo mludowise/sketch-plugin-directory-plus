@@ -667,7 +667,7 @@
     "added": "2017-04-21 18:02:00 UTC",
     "gh_url": "https://github.com/stark-contrast/stark-sketch-plugin.git",
     "gh_updated": "2019-08-07 18:39:28 UTC",
-    "gh_stars": 33,
+    "gh_stars": 34,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.mfouquet.sketch.stark",
@@ -7067,7 +7067,7 @@
     "gh_url": "https://github.com/pavelkuligin/chart.git",
     "gh_updated": "2019-07-07 21:13:27 UTC",
     "gh_stars": 949,
-    "gh_issues": 5,
+    "gh_issues": 3,
     "gh_branch": "master"
   },
   {
@@ -10711,7 +10711,7 @@
     "added": "2019-07-22 11:01:36 UTC",
     "gh_url": "https://github.com/BohemianCoding/sketch-ipsum.git",
     "gh_updated": "2019-07-23 10:26:25 UTC",
-    "gh_stars": 12,
+    "gh_stars": 13,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_compatible_version": "3"

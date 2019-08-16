@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-08-16 08:02:06 UTC
+Updated 2019-08-16 09:02:25 UTC
 
-Total plugins: 690
+Total plugins: 691
 
 ## Problems
 **[Alexander Käßner/Custom Zoom](https://github.com/Alexander Käßner/Custom Zoom) has no repo**
@@ -430,4 +430,6 @@ Total plugins: 690
 **[GetContext.app/Context](https://github.com/GetContext.app/Context) has no repo**
 
 **[Stash/Stash](https://github.com/Stash/Stash) has no repo**
+
+**[mathieudutour/glueprint-sketch-plugin](https://github.com/mathieudutour/glueprint-sketch-plugin) manifest.json is missing identifier**
 

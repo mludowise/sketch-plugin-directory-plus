@@ -727,7 +727,7 @@
     "homepage": "http://www.sureskumar.com/looper/",
     "gh_url": "https://github.com/sureskumar/Looper.git",
     "gh_updated": "2019-02-08 18:34:17 UTC",
-    "gh_stars": 465,
+    "gh_stars": 466,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.sureskumar.sketch.looper",
@@ -7067,7 +7067,7 @@
     "gh_url": "https://github.com/pavelkuligin/chart.git",
     "gh_updated": "2019-07-07 21:13:27 UTC",
     "gh_stars": 949,
-    "gh_issues": 4,
+    "gh_issues": 5,
     "gh_branch": "master"
   },
   {
@@ -9745,7 +9745,7 @@
     "added": "2019-03-15 17:02:18 UTC",
     "gh_url": "https://github.com/ozgurgunes/Sketch-Symbol-States.git",
     "gh_updated": "2019-08-01 11:27:08 UTC",
-    "gh_stars": 19,
+    "gh_stars": 20,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.gunesozgur.sketch.symbol-states",
@@ -10886,11 +10886,6 @@
     "title": "GluePrint",
     "description": "Open the selected layer in GluePrint with a single click",
     "homepage": "https://github.com/mathieudutour/glueprint-sketch-plugin",
-    "added": "2019-08-16 09:02:25 UTC",
-    "gh_url": "https://github.com/mathieudutour/glueprint-sketch-plugin.git",
-    "gh_updated": "2019-08-16 07:17:31 UTC",
-    "gh_stars": 1,
-    "gh_issues": 0,
-    "gh_branch": "master"
+    "added": "2019-08-16 09:02:25 UTC"
   }
 ]

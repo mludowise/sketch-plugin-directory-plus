@@ -3015,9 +3015,7 @@
     "gh_updated": "2016-12-15 06:46:23 UTC",
     "gh_stars": 72,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "io.arshad.sketch-sass-colors",
-    "man_version": "1.2"
+    "gh_branch": "master"
   },
   {
     "name": "Toggle-NoPrint-Visibility-Sketch-Plugin",
@@ -6391,7 +6389,7 @@
     "homepage": "https://github.com/bunnieabc/Blender",
     "gh_url": "https://github.com/bunnieabc/Blender.git",
     "gh_updated": "2019-02-06 05:27:07 UTC",
-    "gh_stars": 370,
+    "gh_stars": 371,
     "gh_issues": 8,
     "gh_branch": "master"
   },
@@ -6807,7 +6805,7 @@
     "homepage": "https://github.com/skpm/sketch-dev-tools",
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
-    "gh_updated": "2019-07-11 07:37:48 UTC",
+    "gh_updated": "2019-08-16 08:24:51 UTC",
     "gh_stars": 196,
     "gh_issues": 10,
     "gh_branch": "master",
@@ -8057,7 +8055,7 @@
     "added": "2018-06-26 09:02:21 UTC",
     "gh_url": "https://github.com/jasondonnette/sketch-copy-as-react-component.git",
     "gh_updated": "2018-06-28 03:48:02 UTC",
-    "gh_stars": 67,
+    "gh_stars": 68,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"
@@ -10767,7 +10765,7 @@
     "added": "2019-07-22 11:01:36 UTC",
     "gh_url": "https://github.com/acollurafici/PinIt.git",
     "gh_updated": "2019-07-16 12:32:24 UTC",
-    "gh_stars": 47,
+    "gh_stars": 48,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "PinIt",
@@ -10878,5 +10876,19 @@
     "description": "Import artboards from Stash to Sketch",
     "homepage": "https://www.stash.diamonds",
     "added": "2019-08-12 20:02:28 UTC"
+  },
+  {
+    "name": "glueprint-sketch-plugin",
+    "owner": "mathieudutour",
+    "author": "mathieudutour",
+    "title": "GluePrint",
+    "description": "Open the selected layer in GluePrint with a single click",
+    "homepage": "https://github.com/mathieudutour/glueprint-sketch-plugin",
+    "added": "2019-08-16 09:02:25 UTC",
+    "gh_url": "https://github.com/mathieudutour/glueprint-sketch-plugin.git",
+    "gh_updated": "2019-08-16 07:17:31 UTC",
+    "gh_stars": 1,
+    "gh_issues": 0,
+    "gh_branch": "master"
   }
 ]

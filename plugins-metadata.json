@@ -2781,7 +2781,7 @@
     "homepage": "https://github.com/andrewfiorillo/sketch-palettes",
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
     "gh_updated": "2019-04-28 22:42:42 UTC",
-    "gh_stars": 2163,
+    "gh_stars": 2164,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
@@ -8096,10 +8096,7 @@
     "gh_updated": "2019-07-01 19:26:57 UTC",
     "gh_stars": 148,
     "gh_issues": 2,
-    "gh_branch": "develop",
-    "man_identifier": "io.zeplin.sketchPlugin.autocomplete",
-    "man_version": "1.2",
-    "man_compatible_version": "3"
+    "gh_branch": "develop"
   },
   {
     "name": "SymbolNameAutocomplete",

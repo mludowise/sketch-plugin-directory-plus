@@ -8096,7 +8096,10 @@
     "gh_updated": "2019-07-01 19:26:57 UTC",
     "gh_stars": 148,
     "gh_issues": 2,
-    "gh_branch": "develop"
+    "gh_branch": "develop",
+    "man_identifier": "io.zeplin.sketchPlugin.autocomplete",
+    "man_version": "1.2",
+    "man_compatible_version": "3"
   },
   {
     "name": "SymbolNameAutocomplete",

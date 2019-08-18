@@ -6083,7 +6083,15 @@
     "author": "捻捻转儿",
     "title": "Sketch Search Everywhere",
     "description": "Search layer and select it, by matching textValue, name or ObjectID.",
-    "added": "2017-06-19 08:01:32 UTC"
+    "added": "2017-06-19 08:01:32 UTC",
+    "homepage": "https://github.com/MrPeak/sketch-search-everywhere",
+    "gh_url": "https://github.com/MrPeak/sketch-search-everywhere.git",
+    "gh_updated": "2017-06-25 04:37:27 UTC",
+    "gh_stars": 50,
+    "gh_issues": 5,
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.examples.search-text",
+    "man_version": "1.0"
   },
   {
     "name": "sketch-show-layer-info",

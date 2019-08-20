@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-08-20 14:01:04 UTC
+Updated 2019-08-20 15:01:10 UTC
 
 Total plugins: 691
 
@@ -274,6 +274,8 @@ Total plugins: 691
 **/ has no repo**
 
 **[ziven27/Sketch-IconScope](https://github.com/ziven27/Sketch-IconScope) manifest.json is missing identifier**
+
+**[MaxBazarov/exporter](https://github.com/MaxBazarov/exporter) missing manifest.json**
 
 **[wantedly/sketch-wt-design](https://github.com/wantedly/sketch-wt-design) manifest.json is missing identifier**
 

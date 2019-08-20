@@ -8184,14 +8184,10 @@
     "added": "2018-07-17 09:02:33 UTC",
     "homepage": "https://github.com/MaxBazarov/exporter",
     "gh_url": "https://github.com/MaxBazarov/exporter.git",
-    "gh_updated": "2019-08-20 09:59:32 UTC",
+    "gh_updated": "2019-08-20 14:13:03 UTC",
     "gh_stars": 131,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.cloudblue.sketch.exporter",
-    "man_version": "8.0.0",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/MaxBazarov/exporter/master/Exporter.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "cracker9-sketch-plugin",

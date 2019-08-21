@@ -1267,7 +1267,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
-    "gh_stars": 4416,
+    "gh_stars": 4417,
     "gh_issues": 46,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -2394,7 +2394,7 @@
     "homepage": "https://github.com/wodory/flowmate",
     "gh_url": "https://github.com/wodory/flowmate.git",
     "gh_updated": "2017-05-10 13:18:52 UTC",
-    "gh_stars": 128,
+    "gh_stars": 129,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.flowmate",
@@ -3836,16 +3836,7 @@
     "author": "Stackdevelopment",
     "title": "Sketch Pixel Cleanup",
     "description": "A plugin for Sketch to fix all of those partial pixels",
-    "added": "2016-04-18 08:41:59 UTC",
-    "homepage": "https://github.com/stackdevelopment/sketch-pixel-cleanup",
-    "gh_url": "https://github.com/stackdevelopment/sketch-pixel-cleanup.git",
-    "gh_updated": "2018-05-26 19:59:36 UTC",
-    "gh_stars": 72,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.wearestack.com.sketch-cleanup",
-    "man_version": "0.5",
-    "man_compatible_version": "3.4"
+    "added": "2016-04-18 08:41:59 UTC"
   },
   {
     "name": "sketchplugin-objc-color",
@@ -6374,7 +6365,7 @@
     "gh_url": "https://github.com/oodesign/merge-duplicate-symbols.git",
     "gh_updated": "2019-07-26 15:35:23 UTC",
     "gh_stars": 244,
-    "gh_issues": 5,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.oodesign.mergeduplicatesymbols",
     "man_version": "4.0.12",
@@ -9697,8 +9688,7 @@
     "gh_updated": "2019-05-17 13:46:46 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "chemofill",

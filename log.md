@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-08-21 15:01:31 UTC
+Updated 2019-08-21 16:00:34 UTC
 
 Total plugins: 691
 
@@ -83,7 +83,7 @@ Total plugins: 691
 
 [getflourish/Sketch-Mate](https://github.com/getflourish/Sketch-Mate) manifest.json contains extra commas
 
-**[eivindbohler/Sketch-Unlinker](https://github.com/eivindbohler/Sketch-Unlinker) has no repo**
+[eivindbohler/Sketch-Unlinker](https://github.com/eivindbohler/Sketch-Unlinker) manifest.json contains extra commas
 
 **[preciousforever/sketch-data-populator](https://github.com/preciousforever/sketch-data-populator) missing manifest.json**
 

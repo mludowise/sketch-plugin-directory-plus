@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-08-21 22:01:41 UTC
+Updated 2019-08-21 23:01:43 UTC
 
 Total plugins: 691
 
@@ -108,8 +108,6 @@ Total plugins: 691
 **SketchRunner/ has no repo**
 
 [lessthanzero/Formr](https://github.com/lessthanzero/Formr) manifest.json contains extra commas
-
-**[stackdevelopment/sketch-pixel-cleanup](https://github.com/stackdevelopment/sketch-pixel-cleanup) has no repo**
 
 **opencolor-tools/ has no repo**
 
@@ -371,7 +369,7 @@ Total plugins: 691
 
 **[madwaro/MiseEnPlace](https://github.com/madwaro/MiseEnPlace) manifest.json is missing identifier**
 
-**[nOograss/labelizING](https://github.com/nOograss/labelizING) missing manifest.json**
+**[nOograss/labelizING](https://github.com/nOograss/labelizING) manifest.json is missing identifier**
 
 **[ahadik/chemofill](https://github.com/ahadik/chemofill) manifest.json is missing identifier**
 

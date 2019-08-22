@@ -9549,7 +9549,13 @@
     "title": "Sketch a Sketch",
     "description": "Bringing the iconic knobs from the famous toy to Sketch.",
     "homepage": "https://github.com/mathieudutour/sketch-a-sketch",
-    "added": "2019-03-15 17:02:18 UTC"
+    "added": "2019-03-15 17:02:18 UTC",
+    "gh_url": "https://github.com/mathieudutour/sketch-a-sketch.git",
+    "gh_updated": "2019-07-12 16:57:01 UTC",
+    "gh_stars": 5,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   },
   {
     "name": "iban-sketch-plugin",

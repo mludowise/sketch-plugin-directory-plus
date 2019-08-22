@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-08-22 02:01:44 UTC
+Updated 2019-08-22 03:01:32 UTC
 
 Total plugins: 691
 
@@ -361,7 +361,7 @@ Total plugins: 691
 
 **[TheNounProject/SketchPluginReloader](https://github.com/TheNounProject/SketchPluginReloader) manifest.json is missing identifier**
 
-**[mathieudutour/sketch-a-sketch](https://github.com/mathieudutour/sketch-a-sketch) has no repo**
+**[mathieudutour/sketch-a-sketch](https://github.com/mathieudutour/sketch-a-sketch) manifest.json is missing identifier**
 
 **[idriesalbender/iban-sketch-plugin](https://github.com/idriesalbender/iban-sketch-plugin) manifest.json is missing identifier**
 

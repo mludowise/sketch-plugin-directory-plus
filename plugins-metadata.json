@@ -6808,7 +6808,7 @@
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2019-08-16 08:24:51 UTC",
-    "gh_stars": 201,
+    "gh_stars": 202,
     "gh_issues": 12,
     "gh_branch": "master",
     "man_compatible_version": "50"
@@ -9398,7 +9398,7 @@
     "gh_url": "https://github.com/iconify/iconify-sketch.git",
     "gh_updated": "2019-07-30 12:51:30 UTC",
     "gh_stars": 29,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "iconify",
     "man_version": "1.1.4",

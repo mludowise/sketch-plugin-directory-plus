@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-08-23 16:02:09 UTC
+Updated 2019-08-23 17:00:42 UTC
 
 Total plugins: 692
 
@@ -403,7 +403,7 @@ Total plugins: 692
 
 **[dbilyk/QuickTextOverride](https://github.com/dbilyk/QuickTextOverride) manifest.json is missing identifier**
 
-**[ajgagnon/projecthuddle-sketch-sync](https://github.com/ajgagnon/projecthuddle-sketch-sync) manifest.json is missing identifier**
+**[ajgagnon/projecthuddle-sketch-sync](https://github.com/ajgagnon/projecthuddle-sketch-sync) missing manifest.json**
 
 **[Atomatic/SVG BEM](https://github.com/Atomatic/SVG BEM) has no repo**
 

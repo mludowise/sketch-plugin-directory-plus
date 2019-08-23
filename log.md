@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-08-23 09:02:50 UTC
+Updated 2019-08-23 10:02:36 UTC
 
-Total plugins: 691
+Total plugins: 692
 
 ## Problems
 **[Alexander Käßner/Custom Zoom](https://github.com/Alexander Käßner/Custom Zoom) has no repo**
@@ -275,7 +275,9 @@ Total plugins: 691
 
 **[ziven27/Sketch-IconScope](https://github.com/ziven27/Sketch-IconScope) manifest.json is missing identifier**
 
-**[MaxBazarov/exporter](https://github.com/MaxBazarov/exporter) missing manifest.json**
+**[MaxBazarov/puzzle-publisher](https://github.com/MaxBazarov/puzzle-publisher) has no repo**
+
+**[MaxBazarov/puzzle-tokens](https://github.com/MaxBazarov/puzzle-tokens) has no repo**
 
 **[wantedly/sketch-wt-design](https://github.com/wantedly/sketch-wt-design) manifest.json is missing identifier**
 
@@ -433,5 +435,5 @@ Total plugins: 691
 
 **[Stash/Stash](https://github.com/Stash/Stash) has no repo**
 
-**[mathieudutour/glueprint-sketch-plugin](https://github.com/mathieudutour/glueprint-sketch-plugin) has no repo**
+**[StyleShare/Gretel](https://github.com/StyleShare/Gretel) manifest.json is missing identifier**
 

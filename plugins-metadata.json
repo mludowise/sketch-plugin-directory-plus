@@ -794,7 +794,7 @@
     "homepage": "https://github.com/mludowise/Sketch-HTML-Export",
     "gh_url": "https://github.com/mludowise/Sketch-HTML-Export.git",
     "gh_updated": "2017-07-07 18:49:33 UTC",
-    "gh_stars": 151,
+    "gh_stars": 152,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.mludowise.htmlexport",
@@ -1667,8 +1667,7 @@
     "gh_updated": "2019-06-14 18:24:54 UTC",
     "gh_stars": 22,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "AlignTo",
@@ -10502,7 +10501,9 @@
     "gh_updated": "2019-05-30 18:29:22 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_version": "0.0.1",
+    "man_compatible_version": "55"
   },
   {
     "name": "Disconnector",

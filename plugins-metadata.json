@@ -5359,7 +5359,7 @@
     "homepage": "https://github.com/samlfsun/SketchSize",
     "gh_url": "https://github.com/samlfsun/SketchSize.git",
     "gh_updated": "2017-09-15 06:22:13 UTC",
-    "gh_stars": 44,
+    "gh_stars": 45,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.tencent.sketch.0ccd0daf-7e9c-4c57-83bb-09a089d551f4",
@@ -8176,18 +8176,22 @@
     "man_compatible_version": "3"
   },
   {
-    "name": "exporter",
+    "name": "puzzle-publisher",
     "owner": "MaxBazarov",
     "author": "MaxBazarov",
-    "title": "exporter",
-    "description": "Exports Sketch artboards into linked HTML files.",
-    "added": "2018-07-17 09:02:33 UTC",
-    "homepage": "https://github.com/MaxBazarov/exporter",
-    "gh_url": "https://github.com/MaxBazarov/exporter.git",
-    "gh_updated": "2019-08-20 14:13:03 UTC",
-    "gh_stars": 131,
-    "gh_issues": 1,
-    "gh_branch": "master"
+    "title": "Puzzle Publisher",
+    "description": "Exports Sketch artboards into linked HTML files and publish it on external site using SFTP.",
+    "homepage": "https://github.com/ingrammicro/puzzle-publisher",
+    "added": "2019-08-23 10:02:36 UTC"
+  },
+  {
+    "name": "puzzle-tokens",
+    "owner": "MaxBazarov",
+    "author": "MaxBazarov",
+    "title": "Puzzle Tokens",
+    "description": "Sketch.app plugin to apply design tokens to Sketch layers",
+    "homepage": "https://github.com/ingrammicro/puzzle-tokens",
+    "added": "2019-08-23 10:02:36 UTC"
   },
   {
     "name": "cracker9-sketch-plugin",
@@ -10133,7 +10137,7 @@
     "gh_url": "https://github.com/themainingredient/colormate.git",
     "gh_updated": "2019-08-16 10:47:50 UTC",
     "gh_stars": 12,
-    "gh_issues": 9,
+    "gh_issues": 10,
     "gh_branch": "master",
     "man_identifier": "com.colormate.plugin",
     "man_version": "1.5.0",
@@ -10876,12 +10880,17 @@
     "added": "2019-08-12 20:02:28 UTC"
   },
   {
-    "name": "glueprint-sketch-plugin",
-    "owner": "mathieudutour",
-    "author": "mathieudutour",
-    "title": "GluePrint",
-    "description": "Open the selected layer in GluePrint with a single click",
-    "homepage": "https://github.com/mathieudutour/glueprint-sketch-plugin",
-    "added": "2019-08-16 09:02:25 UTC"
+    "name": "Gretel",
+    "owner": "StyleShare",
+    "author": "Suyeol Jeon",
+    "title": "gretel",
+    "description": "A Sketch plugin that flattens files after exporting.",
+    "homepage": "https://github.com/StyleShare/Gretel",
+    "added": "2019-08-23 10:02:36 UTC",
+    "gh_url": "https://github.com/StyleShare/Gretel.git",
+    "gh_updated": "2019-08-22 21:58:06 UTC",
+    "gh_stars": 3,
+    "gh_issues": 0,
+    "gh_branch": "master"
   }
 ]

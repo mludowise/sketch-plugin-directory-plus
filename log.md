@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-08-23 17:00:42 UTC
+Updated 2019-08-23 18:01:51 UTC
 
 Total plugins: 692
 
@@ -76,8 +76,6 @@ Total plugins: 692
 [getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) manifest.json contains extra commas
 
 [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/Sketch-Set-Line-Height-Plugin) manifest.json contains extra commas
-
-**[ichik/RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) manifest.json is missing identifier**
 
 [mfouquet/Color-Copier](https://github.com/mfouquet/Color-Copier) manifest.json contains extra commas
 
@@ -403,7 +401,7 @@ Total plugins: 692
 
 **[dbilyk/QuickTextOverride](https://github.com/dbilyk/QuickTextOverride) manifest.json is missing identifier**
 
-**[ajgagnon/projecthuddle-sketch-sync](https://github.com/ajgagnon/projecthuddle-sketch-sync) missing manifest.json**
+**[ajgagnon/projecthuddle-sketch-sync](https://github.com/ajgagnon/projecthuddle-sketch-sync) manifest.json is missing identifier**
 
 **[Atomatic/SVG BEM](https://github.com/Atomatic/SVG BEM) has no repo**
 

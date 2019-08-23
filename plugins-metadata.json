@@ -1267,7 +1267,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
-    "gh_stars": 4416,
+    "gh_stars": 4417,
     "gh_issues": 46,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -10445,13 +10445,13 @@
     "description": "Plugin to copy paste shadows across layers",
     "homepage": "https://github.com/iarthstar/copy-paste-shadows",
     "added": "2019-07-22 11:01:36 UTC",
-    "gh_url": "https://github.com/iarthstar/copy-paste-shadows.git",
-    "gh_updated": "2019-07-10 06:34:46 UTC",
+    "gh_url": "https://github.com/iarthstar/Shadows-Utilities.git",
+    "gh_updated": "2019-08-23 16:25:15 UTC",
     "gh_stars": 11,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.iarthstar.shadows-utilities",
-    "man_version": "1.0.0",
+    "man_version": "2.0.0",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/iarthstar/copy-paste-shadows/master/Shadows-Utilities.sketchplugin/Contents/Resources/icon.png"
   },
@@ -10502,9 +10502,7 @@
     "gh_updated": "2019-05-30 18:29:22 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_version": "0.0.1",
-    "man_compatible_version": "55"
+    "gh_branch": "master"
   },
   {
     "name": "Disconnector",

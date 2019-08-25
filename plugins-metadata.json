@@ -7065,7 +7065,7 @@
     "added": "2018-01-23 11:02:55 UTC",
     "homepage": "https://github.com/pavelkuligin/chart",
     "gh_url": "https://github.com/pavelkuligin/chart.git",
-    "gh_updated": "2019-07-07 21:13:27 UTC",
+    "gh_updated": "2019-08-25 20:34:28 UTC",
     "gh_stars": 951,
     "gh_issues": 2,
     "gh_branch": "master"
@@ -9681,7 +9681,7 @@
     "added": "2019-03-15 17:02:18 UTC",
     "gh_url": "https://github.com/jan-dh/sketch-tailwind.git",
     "gh_updated": "2019-03-23 20:04:01 UTC",
-    "gh_stars": 86,
+    "gh_stars": 87,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "sketch-tailwind",
@@ -10679,7 +10679,7 @@
     "added": "2019-07-22 11:01:36 UTC",
     "gh_url": "https://github.com/alxrm/sketch-tinypng-compressor.git",
     "gh_updated": "2019-06-22 15:24:15 UTC",
-    "gh_stars": 2,
+    "gh_stars": 3,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.rm.sketch.tinypng-compressor",
@@ -10839,7 +10839,7 @@
     "added": "2019-07-29 11:00:59 UTC",
     "gh_url": "https://github.com/loceye/sketch-visualeyes.git",
     "gh_updated": "2019-08-20 12:04:19 UTC",
-    "gh_stars": 6,
+    "gh_stars": 7,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"
@@ -10889,7 +10889,7 @@
     "added": "2019-08-23 10:02:36 UTC",
     "gh_url": "https://github.com/StyleShare/Gretel.git",
     "gh_updated": "2019-08-22 21:58:06 UTC",
-    "gh_stars": 4,
+    "gh_stars": 5,
     "gh_issues": 0,
     "gh_branch": "master"
   }

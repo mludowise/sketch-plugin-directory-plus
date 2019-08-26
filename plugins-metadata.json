@@ -5709,7 +5709,7 @@
     "homepage": "https://github.com/finchalyzer/slinky",
     "gh_url": "https://github.com/finchalyzer/slinky.git",
     "gh_updated": "2017-12-04 14:27:29 UTC",
-    "gh_stars": 585,
+    "gh_stars": 586,
     "gh_issues": 23,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.slinky-plugin",
@@ -10892,5 +10892,22 @@
     "gh_stars": 5,
     "gh_issues": 0,
     "gh_branch": "master"
+  },
+  {
+    "name": "sketch-aligny",
+    "owner": "stefan0uh",
+    "author": "Stefan Mairbaeurl",
+    "title": "Aligny",
+    "description": "A alignment enhance plugin for sketch",
+    "homepage": "https://github.com/stefan0uh/sketch-aligny",
+    "added": "2019-08-26 11:02:13 UTC",
+    "gh_url": "https://github.com/stefan0uh/sketch-aligny.git",
+    "gh_updated": "2019-08-26 09:28:44 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.stefan.aligny",
+    "man_version": "0.6.2",
+    "icon": "https://raw.githubusercontent.com/stefan0uh/sketch-aligny/master/aligny.sketchplugin/Contents/Resources/icon.png"
   }
 ]

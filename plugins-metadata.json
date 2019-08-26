@@ -2177,7 +2177,7 @@
     "added": "2015-07-08 12:27:44 UTC",
     "gh_url": "https://github.com/tudou527/marketch.git",
     "gh_updated": "2018-12-10 03:42:55 UTC",
-    "gh_stars": 2870,
+    "gh_stars": 2871,
     "gh_issues": 47,
     "gh_branch": "master",
     "man_identifier": "com.marketch.cosa.98908c77-3d38-48fa-8c7c-1bb465f67eb8",
@@ -7982,12 +7982,12 @@
     "homepage": "https://github.com/Frontify/sketch",
     "added": "2018-06-19 09:00:41 UTC",
     "gh_url": "https://github.com/Frontify/sketch.git",
-    "gh_updated": "2019-03-26 20:29:59 UTC",
+    "gh_updated": "2019-08-26 13:28:35 UTC",
     "gh_stars": 5,
     "gh_issues": 2,
     "gh_branch": "master",
-    "man_identifier": "com.frontify.sketch-plugin",
-    "man_compatible_version": "3"
+    "man_identifier": "com.frontify.sketch",
+    "man_compatible_version": "54"
   },
   {
     "name": "AutoFixiOSTextLineHeight-Sketch-Plugin",

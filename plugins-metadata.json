@@ -2113,10 +2113,7 @@
     "gh_updated": "2018-08-19 15:04:20 UTC",
     "gh_stars": 27,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.precious-forever.sketch-aspect-ratio",
-    "man_version": "1.0.1",
-    "icon": "https://raw.githubusercontent.com/preciousforever/sketch-aspect-ratio/master/Sketch%20Aspect%20Ratio.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-tiles",
@@ -6263,7 +6260,7 @@
     "homepage": "https://websiddu.github.io/sketch-material",
     "gh_url": "https://github.com/websiddu/sketch-material.git",
     "gh_updated": "2019-01-08 17:35:45 UTC",
-    "gh_stars": 837,
+    "gh_stars": 838,
     "gh_issues": 12,
     "gh_branch": "master",
     "man_identifier": "com.google.material2.active",
@@ -9168,7 +9165,7 @@
     "added": "2018-12-18 22:01:49 UTC",
     "gh_url": "https://github.com/webkul/coolhue.git",
     "gh_updated": "2019-02-22 15:04:35 UTC",
-    "gh_stars": 2954,
+    "gh_stars": 2955,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "CoolHue",

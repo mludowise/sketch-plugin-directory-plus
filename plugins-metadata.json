@@ -1251,7 +1251,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2019-07-26 14:32:10 UTC",
-    "gh_stars": 6569,
+    "gh_stars": 6570,
     "gh_issues": 334,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -9630,11 +9630,11 @@
     "homepage": "https://github.com/madwaro/MiseEnPlace",
     "added": "2019-03-15 17:02:18 UTC",
     "gh_url": "https://github.com/madwaro/MiseEnPlace.git",
-    "gh_updated": "2019-08-28 18:17:54 UTC",
+    "gh_updated": "2019-08-28 20:50:13 UTC",
     "gh_stars": 4,
     "gh_issues": 1,
     "gh_branch": "master",
-    "man_version": "0.21.0",
+    "man_version": "0.22.0",
     "man_compatible_version": "3"
   },
   {

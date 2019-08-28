@@ -2512,7 +2512,7 @@
     "homepage": "https://github.com/keremciu/sketch-iconfont",
     "gh_url": "https://github.com/keremciu/sketch-iconfont.git",
     "gh_updated": "2019-05-27 09:53:03 UTC",
-    "gh_stars": 1908,
+    "gh_stars": 1909,
     "gh_issues": 27,
     "gh_branch": "master",
     "man_identifier": "com.keremciu.sketch.iconfont",
@@ -9630,11 +9630,11 @@
     "homepage": "https://github.com/madwaro/MiseEnPlace",
     "added": "2019-03-15 17:02:18 UTC",
     "gh_url": "https://github.com/madwaro/MiseEnPlace.git",
-    "gh_updated": "2019-08-28 16:44:11 UTC",
+    "gh_updated": "2019-08-28 18:17:54 UTC",
     "gh_stars": 4,
     "gh_issues": 1,
     "gh_branch": "master",
-    "man_version": "0.20.0",
+    "man_version": "0.21.0",
     "man_compatible_version": "3"
   },
   {

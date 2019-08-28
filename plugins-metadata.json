@@ -9452,7 +9452,7 @@
     "homepage": "https://github.com/mathieudutour/sketch-styles-hierarchy",
     "added": "2019-02-20 17:00:18 UTC",
     "gh_url": "https://github.com/mathieudutour/sketch-styles-hierarchy.git",
-    "gh_updated": "2019-08-27 07:34:19 UTC",
+    "gh_updated": "2019-08-28 22:06:15 UTC",
     "gh_stars": 28,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -9542,7 +9542,7 @@
     "gh_url": "https://github.com/TheNounProject/SketchPluginReloader.git",
     "gh_updated": "2019-04-18 18:29:08 UTC",
     "gh_stars": 4,
-    "gh_issues": 3,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },
@@ -9648,7 +9648,7 @@
     "gh_url": "https://github.com/Ashung/import-colors-sketch.git",
     "gh_updated": "2019-05-31 06:51:45 UTC",
     "gh_stars": 6,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.import-colors-sketch",
     "man_compatible_version": "3"
@@ -10752,7 +10752,7 @@
     "added": "2019-07-22 11:01:36 UTC",
     "gh_url": "https://github.com/lifeofmle/symbol-insert.git",
     "gh_updated": "2019-08-05 01:39:45 UTC",
-    "gh_stars": 10,
+    "gh_stars": 11,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

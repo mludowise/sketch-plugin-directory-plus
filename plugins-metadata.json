@@ -6374,7 +6374,7 @@
     "gh_url": "https://github.com/oodesign/merge-duplicate-symbols.git",
     "gh_updated": "2019-07-26 15:35:23 UTC",
     "gh_stars": 244,
-    "gh_issues": 3,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.oodesign.mergeduplicatesymbols",
     "man_version": "4.0.12",
@@ -8057,7 +8057,7 @@
     "added": "2018-06-26 09:02:21 UTC",
     "gh_url": "https://github.com/jasondonnette/sketch-copy-as-react-component.git",
     "gh_updated": "2018-06-28 03:48:02 UTC",
-    "gh_stars": 68,
+    "gh_stars": 69,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

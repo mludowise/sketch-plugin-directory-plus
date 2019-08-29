@@ -4675,7 +4675,16 @@
     "author": "Marcelino Llano",
     "title": "Sketch Review",
     "description": "Review designs using Emoji.",
-    "added": "2016-09-13 14:03:42 UTC"
+    "added": "2016-09-13 14:03:42 UTC",
+    "homepage": "https://github.com/marcelinollano/sketchreview",
+    "gh_url": "https://github.com/marcelinollano/sketchreview.git",
+    "gh_updated": "2016-09-12 22:48:30 UTC",
+    "gh_stars": 14,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.marcelinollano.review",
+    "man_version": "1.0",
+    "man_compatible_version": "39.1"
   },
   {
     "name": "Export-More",

@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-08-30 07:01:32 UTC
+Updated 2019-08-30 08:02:53 UTC
 
-Total plugins: 693
+Total plugins: 694
 
 ## Problems
 **[Alexander Käßner/Custom Zoom](https://github.com/Alexander Käßner/Custom Zoom) has no repo**
@@ -436,4 +436,6 @@ Total plugins: 693
 **[Stash/Stash](https://github.com/Stash/Stash) has no repo**
 
 **[StyleShare/Gretel](https://github.com/StyleShare/Gretel) manifest.json is missing identifier**
+
+**[Craigtut/liveplanet-sketch-datasupplier](https://github.com/Craigtut/liveplanet-sketch-datasupplier) manifest.json is missing identifier**
 

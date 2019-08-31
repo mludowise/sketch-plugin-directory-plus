@@ -1251,7 +1251,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2019-07-26 14:32:10 UTC",
-    "gh_stars": 6573,
+    "gh_stars": 6575,
     "gh_issues": 336,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -6808,7 +6808,7 @@
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2019-08-26 17:00:00 UTC",
-    "gh_stars": 204,
+    "gh_stars": 203,
     "gh_issues": 12,
     "gh_branch": "master",
     "man_compatible_version": "50"
@@ -8449,13 +8449,7 @@
     "title": "Text to Styles",
     "description": "Generates Sketch type styles programmatically from Artboards",
     "homepage": "https://github.com/tbrasington/text-to-styles",
-    "added": "2018-09-10 14:01:31 UTC",
-    "gh_url": "https://github.com/tbrasington/text-to-styles.git",
-    "gh_updated": "2019-06-07 09:14:26 UTC",
-    "gh_stars": 24,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_compatible_version": "3"
+    "added": "2018-09-10 14:01:31 UTC"
   },
   {
     "name": "Sketch-Contrast",

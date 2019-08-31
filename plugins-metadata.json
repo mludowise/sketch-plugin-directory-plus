@@ -741,7 +741,15 @@
     "author": "Leonard Pauli",
     "title": "Layer Renamer",
     "description": "Find or rename multiple layers at once using RegEx and flags in Sketch (v.45 tested)",
-    "added": "2017-01-30 09:11:04 UTC"
+    "added": "2017-01-30 09:11:04 UTC",
+    "homepage": "https://github.com/leonardpauli/layer-renamer",
+    "gh_url": "https://github.com/leonardpauli/layer-renamer.git",
+    "gh_updated": "2018-06-22 16:13:40 UTC",
+    "gh_stars": 48,
+    "gh_issues": 8,
+    "gh_branch": "master",
+    "man_identifier": "com.leonardpauli.sketch.layerrenamer",
+    "man_version": "1.3"
   },
   {
     "name": "sketch-ace-jump",
@@ -752,10 +760,12 @@
     "added": "2017-01-30 09:09:50 UTC",
     "homepage": "https://github.com/turbobabr/sketch-ace-jump",
     "gh_url": "https://github.com/turbobabr/sketch-ace-jump.git",
-    "gh_updated": "2017-05-29 07:06:46 UTC",
+    "gh_updated": "2017-05-29 07:06:38 UTC",
     "gh_stars": 34,
     "gh_issues": 3,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.turbobabr.ace-jump",
+    "man_version": "0.1.1"
   },
   {
     "name": "sketch-wanderer",
@@ -1033,7 +1043,16 @@
     "author": "Emin İnanç Ünlü",
     "title": "Flatten Plugin for Sketch",
     "description": "Flatten single or multiple layers instantly, create shared artboard styles, keep them all updated like a boss and boost your Sketch document performance.",
-    "added": "2016-01-06 17:48:07 UTC"
+    "added": "2016-01-06 17:48:07 UTC",
+    "homepage": "https://medium.com/@einancunlu/flatten-2-0-sketch-plugin-f53984696990",
+    "gh_url": "https://github.com/einancunlu/Flatten-Plugin-for-Sketch.git",
+    "gh_updated": "2019-02-10 22:03:26 UTC",
+    "gh_stars": 42,
+    "gh_issues": 3,
+    "gh_branch": "master",
+    "man_identifier": "com.einancunlu.sketch-plugins.flatten",
+    "man_version": "2.1.0",
+    "man_compatible_version": "50"
   },
   {
     "name": "Disconnect-for-Sketch",
@@ -1331,7 +1350,7 @@
     "added": "2015-01-23 11:45:02 UTC",
     "homepage": "https://github.com/littlebusters/Regexp-Rename",
     "gh_url": "https://github.com/littlebusters/Regexp-Rename.git",
-    "gh_updated": "2017-06-13 14:34:30 UTC",
+    "gh_updated": "2017-06-13 14:34:15 UTC",
     "gh_stars": 29,
     "gh_issues": 1,
     "gh_branch": "master",
@@ -1499,7 +1518,10 @@
     "gh_updated": "2018-02-22 08:09:16 UTC",
     "gh_stars": 680,
     "gh_issues": 10,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.getflourish.sketch.colorcontrastanalyser",
+    "man_version": "2.0",
+    "man_compatible_version": "4"
   },
   {
     "name": "Sketch-Set-Line-Height-Plugin",
@@ -1905,7 +1927,7 @@
     "added": "2015-01-26 04:30:16 UTC",
     "homepage": "https://github.com/delighted/sketch-upload-to-cloudapp",
     "gh_url": "https://github.com/delighted/sketch-upload-to-cloudapp.git",
-    "gh_updated": "2018-05-13 05:36:49 UTC",
+    "gh_updated": "2018-05-13 05:36:38 UTC",
     "gh_stars": 7,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -1986,7 +2008,16 @@
     "author": "Eivind Bøhler",
     "title": "Sketch Unlinker",
     "description": "Sketch plugin that lets you unlink selected layers and groups from either shared symbols, styles or text styles, en masse.",
-    "added": "2015-04-10 08:03:20 UTC"
+    "added": "2015-04-10 08:03:20 UTC",
+    "homepage": "https://github.com/eivindbohler/Sketch-Unlinker",
+    "gh_url": "https://github.com/eivindbohler/Sketch-Unlinker.git",
+    "gh_updated": "2015-05-12 11:43:03 UTC",
+    "gh_stars": 39,
+    "gh_issues": 8,
+    "gh_branch": "master",
+    "man_identifier": "com.eivindbohler.sketch-unlinker",
+    "man_version": "1.1",
+    "man_compatible_version": "3.3"
   },
   {
     "name": "sketch-mail-merge",
@@ -2293,7 +2324,16 @@
     "author": "Semibold Mammoth",
     "title": "Artwork Fetcher",
     "description": "Sketch.app plugin for fetching artworks from Last.fm web-service and filling selected shapes with them. Allows to fetch artworks by their album and/or artist names.",
-    "added": "2015-07-14 22:22:54 UTC"
+    "added": "2015-07-14 22:22:54 UTC",
+    "homepage": "https://github.com/din/sketch-artwork-fetcher",
+    "gh_url": "https://github.com/din/sketch-artwork-fetcher.git",
+    "gh_updated": "2016-09-07 22:13:41 UTC",
+    "gh_stars": 33,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.f6c1cab6-9e35-47ff-8259-a0cf0cc12a56",
+    "man_version": "1.2",
+    "man_compatible_version": "3.6"
   },
   {
     "name": "Typograph",
@@ -2626,6 +2666,8 @@
     "gh_stars": 77,
     "gh_issues": 1,
     "gh_branch": "master",
+    "man_identifier": "com.silverux.sketchplugins.basealign",
+    "man_version": "1.1",
     "icon": "https://raw.githubusercontent.com/abynim/BaseAlign/master/BaseAlign.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -2674,6 +2716,9 @@
     "gh_stars": 638,
     "gh_issues": 19,
     "gh_branch": "master",
+    "man_identifier": "cx.ap.sketch-find-and-replace",
+    "man_version": "2.5.0",
+    "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/thierryc/Sketch-Find-And-Replace/master/Find-and-replace.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -2682,7 +2727,16 @@
     "author": "shakemno",
     "title": "Replace Images",
     "description": "Sketch 3 plugin to replace (as in update) existing images by name in a sketch document.",
-    "added": "2015-09-21 18:39:39 UTC"
+    "added": "2015-09-21 18:39:39 UTC",
+    "homepage": "https://github.com/shakemno/sketch-replace-images",
+    "gh_url": "https://github.com/shakemno/sketch-replace-images.git",
+    "gh_updated": "2019-08-27 22:12:21 UTC",
+    "gh_stars": 40,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "Sketch Replace Images",
+    "man_version": "0.5.2",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-mouse-pointers",
@@ -2690,7 +2744,16 @@
     "author": "Stuart Romanek",
     "title": "Sketch Mouse Pointers",
     "description": "Add Mouse Pointers to Sketch.",
-    "added": "2015-09-22 20:58:57 UTC"
+    "added": "2015-09-22 20:58:57 UTC",
+    "homepage": "https://github.com/stuartromanek/sketch-mouse-pointers",
+    "gh_url": "https://github.com/stuartromanek/sketch-mouse-pointers.git",
+    "gh_updated": "2015-09-22 15:23:56 UTC",
+    "gh_stars": 4,
+    "gh_issues": 4,
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.mousePointers",
+    "man_version": "1.0",
+    "man_compatible_version": "3"
   },
   {
     "name": "cleanupsfui",
@@ -2886,7 +2949,9 @@
     "gh_updated": "2017-06-08 19:27:57 UTC",
     "gh_stars": 45,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.truthlabs.unlockalllayers",
+    "man_version": "2.1"
   },
   {
     "name": "sketch-any-icon-fetcher",
@@ -2914,7 +2979,7 @@
     "added": "2015-10-19 20:49:50 UTC",
     "homepage": "https://github.com/Creatide/Sketch_Update-Text-Layer-Name",
     "gh_url": "https://github.com/Creatide/Sketch_Update-Text-Layer-Name.git",
-    "gh_updated": "2017-09-05 01:30:06 UTC",
+    "gh_updated": "2015-10-09 20:56:10 UTC",
     "gh_stars": 26,
     "gh_issues": 1,
     "gh_branch": "master",

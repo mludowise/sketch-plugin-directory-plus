@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-08-31 19:02:27 UTC
+Updated 2019-08-31 20:01:08 UTC
 
 Total plugins: 694
 
@@ -63,21 +63,17 @@ Total plugins: 694
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
 
-**[LeonardPauli/LayerRenamer](https://github.com/LeonardPauli/LayerRenamer) has no repo**
-
 [AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) and [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) use the same manifest identifier, __com.animaapp.stc-sketch-plugin__
 
 [herrhelms/radial-lines-sketch](https://github.com/herrhelms/radial-lines-sketch) manifest.json contains extra commas
 
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
 
-**[einancunlu/Flatten-Plugin-for-Sketch](https://github.com/einancunlu/Flatten-Plugin-for-Sketch) has no repo**
-
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
 
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
 
-**[getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) missing manifest.json**
+[getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) manifest.json contains extra commas
 
 [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/Sketch-Set-Line-Height-Plugin) manifest.json contains extra commas
 
@@ -87,7 +83,7 @@ Total plugins: 694
 
 [getflourish/Sketch-Mate](https://github.com/getflourish/Sketch-Mate) manifest.json contains extra commas
 
-**[eivindbohler/Sketch-Unlinker](https://github.com/eivindbohler/Sketch-Unlinker) has no repo**
+[eivindbohler/Sketch-Unlinker](https://github.com/eivindbohler/Sketch-Unlinker) manifest.json contains extra commas
 
 **[preciousforever/sketch-data-populator](https://github.com/preciousforever/sketch-data-populator) missing manifest.json**
 
@@ -95,23 +91,13 @@ Total plugins: 694
 
 [soutaro/Align-text-baseline-sketch-plugin](https://github.com/soutaro/Align-text-baseline-sketch-plugin) manifest.json contains extra commas
 
-**[mmth/sketch-artwork-fetcher](https://github.com/mmth/sketch-artwork-fetcher) has no repo**
-
 [hamidp/sketchtextsourcer](https://github.com/hamidp/sketchtextsourcer) manifest.json contains extra commas
 
 [jamztang/MagicMirror](https://github.com/jamztang/MagicMirror) manifest.json contains extra commas
 
-**[abynim/BaseAlign](https://github.com/abynim/BaseAlign) missing manifest.json**
-
-**[thierryc/Sketch-Find-And-Replace](https://github.com/thierryc/Sketch-Find-And-Replace) missing manifest.json**
-
-**[shakemno/sketch-replace-images](https://github.com/shakemno/sketch-replace-images) has no repo**
-
-**[stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers) has no repo**
+[stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers) manifest.json contains extra commas
 
 [JohnCoates/CSSketch](https://github.com/JohnCoates/CSSketch) manifest.json contains extra commas
-
-**[truthlabs/sketch-unlock-all-layers](https://github.com/truthlabs/sketch-unlock-all-layers) missing manifest.json**
 
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 

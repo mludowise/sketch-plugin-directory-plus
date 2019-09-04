@@ -1251,7 +1251,7 @@
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2019-07-26 14:32:10 UTC",
     "gh_stars": 6577,
-    "gh_issues": 336,
+    "gh_issues": 337,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.8.1"
@@ -4512,7 +4512,7 @@
     "gh_url": "https://github.com/Ashung/Android_Res_Export.git",
     "gh_updated": "2019-09-04 10:20:29 UTC",
     "gh_stars": 183,
-    "gh_issues": 2,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.android_res_export",
     "man_version": "3.8.5",
@@ -10153,7 +10153,7 @@
     "gh_url": "https://github.com/mathieudutour/prototypes-invision-sketch.git",
     "gh_updated": "2019-07-13 15:59:21 UTC",
     "gh_stars": 18,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-09-04 22:00:41 UTC
+Updated 2019-09-04 23:00:58 UTC
 
 Total plugins: 694
 
@@ -306,6 +306,8 @@ Total plugins: 694
 **[Sylvain Leris/fr.y3s.sketch.screenshot](https://github.com/Sylvain Leris/fr.y3s.sketch.screenshot) has no repo**
 
 **/ has no repo**
+
+**[sebcglbailey/sketch-system-styles](https://github.com/sebcglbailey/sketch-system-styles) missing manifest.json**
 
 **[reeli/sketch-svg-to-react-component](https://github.com/reeli/sketch-svg-to-react-component) manifest.json is missing identifier**
 

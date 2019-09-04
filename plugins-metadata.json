@@ -5057,7 +5057,7 @@
     "homepage": "https://github.com/amin-nas/Sketch-to-Clickthrough-HTML",
     "gh_url": "https://github.com/amin-nas/Sketch-to-Clickthrough-HTML.git",
     "gh_updated": "2017-09-20 20:52:00 UTC",
-    "gh_stars": 74,
+    "gh_stars": 75,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_version": "1.2.3"
@@ -5871,7 +5871,7 @@
     "homepage": "https://github.com/vconesa/justinmind-sketch",
     "gh_url": "https://github.com/vconesa/justinmind-sketch.git",
     "gh_updated": "2019-08-01 19:58:43 UTC",
-    "gh_stars": 17,
+    "gh_stars": 18,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.justinmind.exporttojustinmind",
@@ -8056,7 +8056,7 @@
     "added": "2018-06-26 09:02:21 UTC",
     "gh_url": "https://github.com/jasondonnette/sketch-copy-as-react-component.git",
     "gh_updated": "2018-06-28 03:48:02 UTC",
-    "gh_stars": 69,
+    "gh_stars": 70,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

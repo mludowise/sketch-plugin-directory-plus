@@ -8602,6 +8602,9 @@
     "gh_stars": 9,
     "gh_issues": 0,
     "gh_branch": "master",
+    "man_identifier": "com.sketch.system.text.styles",
+    "man_version": "2.0",
+    "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/sebcglbailey/sketch-system-styles/master/system-styles.sketchplugin/Contents/Resources/icon.png"
   },
   {

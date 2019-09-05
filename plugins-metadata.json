@@ -1250,7 +1250,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2019-07-26 14:32:10 UTC",
-    "gh_stars": 6577,
+    "gh_stars": 6576,
     "gh_issues": 337,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -5923,7 +5923,7 @@
     "gh_url": "https://github.com/youwenliang/Table-of-Contents.git",
     "gh_updated": "2019-02-10 02:55:24 UTC",
     "gh_stars": 47,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.example.sketch.tableofcontents",
     "man_version": "1.2"
@@ -10431,7 +10431,10 @@
     "gh_updated": "2019-05-19 21:02:24 UTC",
     "gh_stars": 1,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.rivet",
+    "man_version": "1.0.0",
+    "icon": "https://raw.githubusercontent.com/bheston/rivet-sketch-plugin/master/rivet.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "copy-paste-shadows",

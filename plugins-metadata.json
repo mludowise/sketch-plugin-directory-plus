@@ -1346,7 +1346,15 @@
     "author": "littlebusters",
     "title": "Regexp Rename",
     "description": "You can change the layer name by Regexp in Sketch 3.",
-    "added": "2015-01-23 11:45:02 UTC"
+    "added": "2015-01-23 11:45:02 UTC",
+    "homepage": "https://github.com/littlebusters/Regexp-Rename",
+    "gh_url": "https://github.com/littlebusters/Regexp-Rename.git",
+    "gh_updated": "2017-06-13 14:34:15 UTC",
+    "gh_stars": 29,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "net.creative-tweet.regexp-rename",
+    "man_version": "1.2.0"
   },
   {
     "name": "Sketch-CSS-Sprite-Mixin",

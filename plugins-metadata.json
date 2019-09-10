@@ -1184,6 +1184,9 @@
     "gh_stars": 810,
     "gh_issues": 10,
     "gh_branch": "master",
+    "man_identifier": "com.bomberstudios.sketch.commands",
+    "man_version": "3.6.3",
+    "man_compatible_version": "47",
     "icon": "https://raw.githubusercontent.com/bomberstudios/sketch-commands/master/Sketch%20Commands.sketchplugin/Contents/Resources/icon.png"
   },
   {

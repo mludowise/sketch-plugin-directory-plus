@@ -4593,16 +4593,7 @@
     "author": "Mike Mariano",
     "title": "Sketch Duplicatesymbol",
     "description": "Sketch plugin that creates a new symbol out of a selected symbol",
-    "added": "2016-09-03 08:33:09 UTC",
-    "homepage": "https://github.com/marianomike/sketch-duplicatesymbol",
-    "gh_url": "https://github.com/marianomike/sketch-duplicatesymbol.git",
-    "gh_updated": "2016-09-03 04:19:20 UTC",
-    "gh_stars": 9,
-    "gh_issues": 4,
-    "gh_branch": "master",
-    "man_identifier": "com.marianomike.sketch-plugin.duplicate-symbol",
-    "man_version": "1.0",
-    "man_compatible_version": "3.5"
+    "added": "2016-09-03 08:33:09 UTC"
   },
   {
     "name": "sketch-markup-listify",

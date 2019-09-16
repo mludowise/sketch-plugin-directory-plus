@@ -1,10 +1,12 @@
 # Plugin Metadata
 
-Updated 2019-09-16 09:02:23 UTC
+Updated 2019-09-16 10:00:52 UTC
 
-Total plugins: 694
+Total plugins: 698
 
 ## Problems
+**[Atlassian Design/Atlassian Vendor Sketch Plugin](https://github.com/Atlassian Design/Atlassian Vendor Sketch Plugin) has no repo**
+
 **[Alexander Käßner/Custom Zoom](https://github.com/Alexander Käßner/Custom Zoom) has no repo**
 
 **[PhraseApp/PhraseApp Sketch Plugin](https://github.com/PhraseApp/PhraseApp Sketch Plugin) has no repo**
@@ -438,4 +440,8 @@ Total plugins: 694
 **[StyleShare/Gretel](https://github.com/StyleShare/Gretel) manifest.json is missing identifier**
 
 **[Craigtut/liveplanet-sketch-datasupplier](https://github.com/Craigtut/liveplanet-sketch-datasupplier) manifest.json is missing identifier**
+
+**[robflaherty/sketch-share](https://github.com/robflaherty/sketch-share) manifest.json is missing identifier**
+
+[srbsingh3/autoarrange](https://github.com/srbsingh3/autoarrange) manifest.json contains extra commas
 

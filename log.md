@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-09-17 20:01:10 UTC
+Updated 2019-09-17 21:02:43 UTC
 
 Total plugins: 698
 
@@ -254,8 +254,6 @@ Total plugins: 698
 **[kd-co/charapara-sketch-extension](https://github.com/kd-co/charapara-sketch-extension) manifest.json is missing identifier**
 
 **[jordansinger/Assistant](https://github.com/jordansinger/Assistant) manifest.json is missing identifier**
-
-**[toyboxsystems/roller](https://github.com/toyboxsystems/roller) manifest.json is missing identifier**
 
 **[perrysmotors/sketch-unsplasher](https://github.com/perrysmotors/sketch-unsplasher) manifest.json is missing identifier**
 

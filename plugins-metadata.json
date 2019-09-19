@@ -3463,7 +3463,7 @@
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2019-08-19 12:26:10 UTC",
     "gh_stars": 2384,
-    "gh_issues": 41,
+    "gh_issues": 42,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
     "man_compatible_version": "3",
@@ -5965,7 +5965,7 @@
     "gh_url": "https://github.com/partyka1/Fontily.git",
     "gh_updated": "2019-08-16 01:48:56 UTC",
     "gh_stars": 108,
-    "gh_issues": 0,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.partyka.fontily",
     "man_version": "1.2"

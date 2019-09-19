@@ -1260,8 +1260,8 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2019-07-26 14:32:10 UTC",
-    "gh_stars": 6589,
-    "gh_issues": 338,
+    "gh_stars": 6590,
+    "gh_issues": 337,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.8.1"
@@ -10510,11 +10510,11 @@
     "homepage": "https://github.com/ajgagnon/projecthuddle-sketch-sync",
     "added": "2019-07-22 11:01:36 UTC",
     "gh_url": "https://github.com/ajgagnon/projecthuddle-sketch-sync.git",
-    "gh_updated": "2019-09-16 17:39:09 UTC",
+    "gh_updated": "2019-09-19 17:01:42 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
     "gh_branch": "master",
-    "man_version": "0.0.5",
+    "man_version": "0.0.6",
     "man_compatible_version": "55"
   },
   {

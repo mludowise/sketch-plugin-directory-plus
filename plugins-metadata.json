@@ -6432,7 +6432,9 @@
     "gh_updated": "2018-10-24 09:54:08 UTC",
     "gh_stars": 29,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "io.terence.sketch.mapcreator",
+    "man_version": "1.2.1"
   },
   {
     "name": "sketch-palette-generator",

@@ -2107,7 +2107,7 @@
     "gh_url": "https://github.com/preciousforever/data-populator.git",
     "gh_updated": "2018-11-11 23:19:12 UTC",
     "gh_stars": 1601,
-    "gh_issues": 33,
+    "gh_issues": 34,
     "gh_branch": "master"
   },
   {
@@ -6432,9 +6432,7 @@
     "gh_updated": "2018-10-24 09:54:08 UTC",
     "gh_stars": 29,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "io.terence.sketch.mapcreator",
-    "man_version": "1.2.1"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-palette-generator",
@@ -7364,9 +7362,9 @@
     "homepage": "https://github.com/romannurik/Sketch-FlowExporter",
     "added": "2018-03-08 23:01:04 UTC",
     "gh_url": "https://github.com/romannurik/Sketch-FlowExporter.git",
-    "gh_updated": "2019-09-19 03:22:59 UTC",
+    "gh_updated": "2019-09-19 04:15:18 UTC",
     "gh_stars": 113,
-    "gh_issues": 4,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.flowexporter",
     "man_compatible_version": "49"

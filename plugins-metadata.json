@@ -3233,7 +3233,7 @@
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
     "gh_updated": "2019-08-16 11:57:13 UTC",
     "gh_stars": 675,
-    "gh_issues": 18,
+    "gh_issues": 19,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
     "man_version": "57.1.20190816",
@@ -6818,7 +6818,7 @@
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2019-08-26 17:00:00 UTC",
     "gh_stars": 209,
-    "gh_issues": 12,
+    "gh_issues": 10,
     "gh_branch": "master",
     "man_compatible_version": "50"
   },

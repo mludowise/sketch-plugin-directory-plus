@@ -3759,7 +3759,7 @@
     "homepage": "http://AnimateMate.com",
     "gh_url": "https://github.com/Creatide/AnimateMate.git",
     "gh_updated": "2017-07-14 05:21:52 UTC",
-    "gh_stars": 1327,
+    "gh_stars": 1326,
     "gh_issues": 17,
     "gh_branch": "master",
     "man_identifier": "com.creatide.sketch.animatemate",
@@ -10056,7 +10056,7 @@
     "added": "2019-04-05 08:02:25 UTC",
     "gh_url": "https://github.com/KikeSz/Method-Sketch-Plugin.git",
     "gh_updated": "2019-08-06 11:57:39 UTC",
-    "gh_stars": 23,
+    "gh_stars": 24,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.kikesainz.sketch-method",
@@ -10982,5 +10982,30 @@
     "gh_branch": "master",
     "man_identifier": "AutoArrange.plugin",
     "man_version": "1.0"
+  },
+  {
+    "name": "represent.",
+    "owner": "lpsBetty",
+    "author": "Swipe Circus",
+    "title": "represent.",
+    "description": "Present your UX/UI Designs lightning fast on client's devices without leaving Sketch. 📲",
+    "homepage": "https://getrepresent.com",
+    "added": "2019-09-20 10:01:22 UTC"
+  },
+  {
+    "name": "sketch-retain-text-color",
+    "owner": "johnmcclumpha",
+    "author": "johnmcclumpha",
+    "title": "sketch-retain-text-color",
+    "description": "Retain the original color of text layers when applying a Text Style.",
+    "homepage": "https://github.com/johnmcclumpha/sketch-retain-text-color",
+    "added": "2019-09-20 10:01:22 UTC",
+    "gh_url": "https://github.com/johnmcclumpha/sketch-retain-text-color.git",
+    "gh_updated": "2019-09-20 03:12:20 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "au.com.mcclumpha.retain-text-color",
+    "man_version": "1.0.0"
   }
 ]

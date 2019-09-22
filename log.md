@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-09-22 10:01:21 UTC
+Updated 2019-09-22 11:00:27 UTC
 
 Total plugins: 700
 
@@ -285,7 +285,7 @@ Total plugins: 700
 
 **[Nkzq/advanced-responsive-images-default](https://github.com/Nkzq/advanced-responsive-images-default) manifest.json is missing identifier**
 
-**[reinvanoyen/typex](https://github.com/reinvanoyen/typex) manifest.json is missing identifier**
+**[reinvanoyen/typex](https://github.com/reinvanoyen/typex) has no repo**
 
 **/colorspark-for-sketch has no repo**
 

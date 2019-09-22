@@ -8353,14 +8353,7 @@
     "title": "typex",
     "description": "Highly configurable text styles to web (css, sass, html, json, ...) export plugin",
     "homepage": "https://github.com/reinvanoyen/typex",
-    "added": "2018-09-02 20:01:38 UTC",
-    "gh_url": "https://github.com/reinvanoyen/typex.git",
-    "gh_updated": "2019-06-13 14:42:01 UTC",
-    "gh_stars": 34,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/reinvanoyen/typex/master/typex.sketchplugin/Contents/Resources/icon.png"
+    "added": "2018-09-02 20:01:38 UTC"
   },
   {
     "name": "colorspark-for-sketch",

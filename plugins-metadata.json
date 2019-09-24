@@ -2107,7 +2107,7 @@
     "gh_url": "https://github.com/preciousforever/data-populator.git",
     "gh_updated": "2018-11-11 23:19:12 UTC",
     "gh_stars": 1608,
-    "gh_issues": 36,
+    "gh_issues": 37,
     "gh_branch": "master"
   },
   {
@@ -2321,7 +2321,7 @@
     "homepage": "https://github.com/abynim/sketchy-pies",
     "gh_url": "https://github.com/abynim/sketchy-pies.git",
     "gh_updated": "2019-05-16 06:17:15 UTC",
-    "gh_stars": 183,
+    "gh_stars": 182,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.abynim.plugins.sketchypies",
@@ -6144,7 +6144,7 @@
     "added": "2017-07-10 10:02:05 UTC",
     "gh_url": "https://github.com/RealtimeBoard/sketch_plugin.git",
     "gh_updated": "2019-07-31 12:13:29 UTC",
-    "gh_stars": 52,
+    "gh_stars": 53,
     "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "com.realtimeboard.sketch.plugin",

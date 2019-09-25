@@ -836,13 +836,13 @@
     "homepage": "https://animaapp.github.io/Auto-Layout/",
     "added": "2016-12-30 12:11:40 UTC",
     "gh_url": "https://github.com/AnimaApp/Auto-Layout.git",
-    "gh_updated": "2019-02-13 20:32:04 UTC",
+    "gh_updated": "2019-09-25 15:58:32 UTC",
     "gh_stars": 826,
     "gh_issues": 68,
     "gh_branch": "master",
     "man_identifier": "com.animaapp.stc-sketch-plugin",
-    "man_version": "3.0.7",
-    "man_compatible_version": "53"
+    "man_version": "3.2.0",
+    "man_compatible_version": "59"
   },
   {
     "name": "sketch-select-exportables",
@@ -5250,7 +5250,7 @@
     "homepage": "https://github.com/eddiesigner/sketch-map-generator",
     "gh_url": "https://github.com/eddiesigner/sketch-map-generator.git",
     "gh_updated": "2019-08-15 21:39:08 UTC",
-    "gh_stars": 753,
+    "gh_stars": 754,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "io.eduardogomez.sketch.map-generator",
@@ -11054,5 +11054,23 @@
     "gh_stars": 0,
     "gh_issues": 0,
     "gh_branch": "master"
+  },
+  {
+    "name": "sketch-styler",
+    "owner": "oodesign",
+    "author": "oodesign",
+    "title": "Sketch Styler",
+    "description": "Sketch plugin that assigns styles automatically to all of your unstyled layers.",
+    "homepage": "https://github.com/oodesign/sketch-styler",
+    "added": "2019-09-25 16:00:55 UTC",
+    "gh_url": "https://github.com/oodesign/sketch-styler.git",
+    "gh_updated": "2019-09-23 20:47:08 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.oodesign.sketchstyler",
+    "man_version": "1.2.4",
+    "man_compatible_version": "58",
+    "icon": "https://raw.githubusercontent.com/oodesign/sketch-styler/master/sketch-styler.sketchplugin/Contents/Resources/icon.png"
   }
 ]

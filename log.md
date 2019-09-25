@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-09-25 14:02:40 UTC
+Updated 2019-09-25 15:00:23 UTC
 
-Total plugins: 700
+Total plugins: 703
 
 ## Problems
 **[Atlassian Design/Atlassian Vendor Sketch Plugin](https://github.com/Atlassian Design/Atlassian Vendor Sketch Plugin) has no repo**
@@ -444,4 +444,6 @@ Total plugins: 700
 [srbsingh3/autoarrange](https://github.com/srbsingh3/autoarrange) manifest.json contains extra commas
 
 **[lpsBetty/represent.](https://github.com/lpsBetty/represent.) has no repo**
+
+**[miguelangelnarvaezgo/symbol-master-renamer](https://github.com/miguelangelnarvaezgo/symbol-master-renamer) manifest.json is missing identifier**
 

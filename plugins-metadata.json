@@ -4520,12 +4520,12 @@
     "added": "2016-08-23 08:40:18 UTC",
     "homepage": "https://github.com/Ashung/Android_Res_Export",
     "gh_url": "https://github.com/Ashung/Android_Res_Export.git",
-    "gh_updated": "2019-09-04 10:20:29 UTC",
+    "gh_updated": "2019-09-26 13:22:20 UTC",
     "gh_stars": 183,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.android_res_export",
-    "man_version": "3.8.5",
+    "man_version": "3.8.6",
     "man_compatible_version": "4",
     "icon": "https://raw.githubusercontent.com/Ashung/Android_Res_Export/master/Android_Res_Export.sketchplugin/Contents/Resources/icon.png"
   },
@@ -7074,7 +7074,7 @@
     "added": "2018-01-23 11:02:55 UTC",
     "homepage": "https://github.com/pavelkuligin/chart",
     "gh_url": "https://github.com/pavelkuligin/chart.git",
-    "gh_updated": "2019-08-25 20:34:28 UTC",
+    "gh_updated": "2019-09-26 13:25:59 UTC",
     "gh_stars": 958,
     "gh_issues": 2,
     "gh_branch": "master"

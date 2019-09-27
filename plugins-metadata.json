@@ -6699,7 +6699,7 @@
     "gh_url": "https://github.com/sonburn/unused-style-remover.git",
     "gh_updated": "2019-04-11 21:18:14 UTC",
     "gh_stars": 85,
-    "gh_issues": 2,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.unused-style-remover",
     "man_version": "0.5",
@@ -11036,7 +11036,7 @@
     "gh_url": "https://github.com/kiranpuppala/sketch-to-view.git",
     "gh_updated": "2019-09-22 08:27:58 UTC",
     "gh_stars": 1,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "sketch.view.plugin",
     "man_compatible_version": "3"

@@ -8138,12 +8138,12 @@
     "added": "2019-07-22 11:01:36 UTC",
     "homepage": "https://github.com/griffin-stewie/SymbolNameSync",
     "gh_url": "https://github.com/griffin-stewie/SymbolNameSync.git",
-    "gh_updated": "2019-06-22 07:54:38 UTC",
+    "gh_updated": "2019-10-02 10:20:32 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "net.cyan-stivy.sketchPlugin.symbol-name-sync",
-    "man_version": "0.5.1",
+    "man_version": "0.5.4",
     "man_compatible_version": "3"
   },
   {

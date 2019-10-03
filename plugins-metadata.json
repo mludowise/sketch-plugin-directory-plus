@@ -2272,9 +2272,6 @@
     "gh_stars": 55,
     "gh_issues": 4,
     "gh_branch": "master",
-    "man_identifier": "com.silverux.sketchplugins.xport",
-    "man_version": "1.0",
-    "man_compatible_version": "4.0",
     "icon": "https://raw.githubusercontent.com/abynim/Xport/master/Xport.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -7946,10 +7943,7 @@
     "gh_updated": "2019-09-17 21:11:47 UTC",
     "gh_stars": 213,
     "gh_issues": 5,
-    "gh_branch": "master",
-    "man_identifier": "Roller",
-    "man_version": "2.1.0",
-    "icon": "https://raw.githubusercontent.com/toyboxsystems/roller/master/roller.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-unsplasher",

@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-10-04 08:02:33 UTC
+Updated 2019-10-04 09:02:36 UTC
 
 Total plugins: 704
 
@@ -295,7 +295,7 @@ Total plugins: 704
 
 **[0la0/triangle-fields](https://github.com/0la0/triangle-fields) manifest.json is missing identifier**
 
-**[yeun/sd-changer](https://github.com/yeun/sd-changer) missing manifest.json**
+**[yeun/sd-changer](https://github.com/yeun/sd-changer) manifest.json is missing identifier**
 
 **[zaaack/Inker8](https://github.com/zaaack/Inker8) has no repo**
 

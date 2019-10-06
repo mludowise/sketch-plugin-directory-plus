@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-10-05 23:01:03 UTC
+Updated 2019-10-06 00:03:19 UTC
 
 Total plugins: 704
 
@@ -96,8 +96,6 @@ Total plugins: 704
 [hamidp/sketchtextsourcer](https://github.com/hamidp/sketchtextsourcer) manifest.json contains extra commas
 
 [jamztang/MagicMirror](https://github.com/jamztang/MagicMirror) manifest.json contains extra commas
-
-**[andrewfiorillo/sketch-character-count](https://github.com/andrewfiorillo/sketch-character-count) missing manifest.json**
 
 [stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers) manifest.json contains extra commas
 

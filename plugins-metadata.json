@@ -2591,7 +2591,10 @@
     "gh_updated": "2018-11-07 22:32:22 UTC",
     "gh_stars": 27,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.andrewfiorillo.sketch.sketch-character-count",
+    "man_version": "1.0",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-scrollmotion",

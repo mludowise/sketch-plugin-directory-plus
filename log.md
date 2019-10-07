@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-10-07 13:02:42 UTC
+Updated 2019-10-07 14:00:55 UTC
 
 Total plugins: 704
 
@@ -74,8 +74,6 @@ Total plugins: 704
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
 
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
-
-**[tylergaw/day-player](https://github.com/tylergaw/day-player) has no repo**
 
 [getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) manifest.json contains extra commas
 

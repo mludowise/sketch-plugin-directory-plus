@@ -3712,7 +3712,9 @@
     "gh_updated": "2016-04-12 07:23:27 UTC",
     "gh_stars": 32,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.939a3e1a-7a20-4f0a-bb33-b31955f9a71a",
+    "man_version": "0.1"
   },
   {
     "name": "Prism",
@@ -10352,7 +10354,7 @@
     "gh_url": "https://github.com/BohemianCoding/print-export-sketchplugin.git",
     "gh_updated": "2019-07-18 08:29:45 UTC",
     "gh_stars": 45,
-    "gh_issues": 12,
+    "gh_issues": 13,
     "gh_branch": "master",
     "man_identifier": "com.sketch.print-export",
     "man_compatible_version": "3"

@@ -3712,9 +3712,7 @@
     "gh_updated": "2016-04-12 07:23:27 UTC",
     "gh_stars": 32,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.939a3e1a-7a20-4f0a-bb33-b31955f9a71a",
-    "man_version": "0.1"
+    "gh_branch": "master"
   },
   {
     "name": "Prism",

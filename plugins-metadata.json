@@ -73,7 +73,7 @@
     "gh_url": "https://github.com/monzo/file-cleaner.git",
     "gh_updated": "2019-09-17 13:58:34 UTC",
     "gh_stars": 56,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },
@@ -1322,7 +1322,16 @@
     "author": "Tyler Gaw",
     "title": "Day Player",
     "description": "A collection of Sketch Plugins for creating placeholder images.",
-    "added": "2014-05-18 21:58:58 UTC"
+    "added": "2014-05-18 21:58:58 UTC",
+    "homepage": "https://github.com/tylergaw/day-player",
+    "gh_url": "https://github.com/tylergaw/day-player.git",
+    "gh_updated": "2016-11-13 22:25:51 UTC",
+    "gh_stars": 410,
+    "gh_issues": 7,
+    "gh_branch": "develop",
+    "man_identifier": "com.sketchapp.tylergaw.day-player",
+    "man_version": "3.0.0",
+    "man_compatible_version": "41"
   },
   {
     "name": "JSON-to-Layers",
@@ -6807,9 +6816,9 @@
     "homepage": "https://github.com/skpm/sketch-dev-tools",
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
-    "gh_updated": "2019-08-26 17:00:00 UTC",
+    "gh_updated": "2019-10-07 13:55:01 UTC",
     "gh_stars": 213,
-    "gh_issues": 11,
+    "gh_issues": 9,
     "gh_branch": "master",
     "man_compatible_version": "50"
   },
@@ -10096,9 +10105,9 @@
     "homepage": "https://github.com/chriswetterman/sketch-find-and-replace-text",
     "added": "2019-04-11 13:01:28 UTC",
     "gh_url": "https://github.com/chriswetterman/sketch-find-and-replace-text.git",
-    "gh_updated": "2019-06-20 16:49:24 UTC",
+    "gh_updated": "2019-10-07 13:52:29 UTC",
     "gh_stars": 30,
-    "gh_issues": 2,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.chriswetterman.sketch.find-and-replace-text-plugin",
     "man_compatible_version": "53"

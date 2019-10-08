@@ -71,9 +71,9 @@
     "homepage": "https://github.com/monzo/file-cleaner",
     "added": "2019-03-05 11:02:16 UTC",
     "gh_url": "https://github.com/monzo/file-cleaner.git",
-    "gh_updated": "2019-09-17 13:58:34 UTC",
+    "gh_updated": "2019-10-08 13:09:46 UTC",
     "gh_stars": 56,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },
@@ -5817,7 +5817,7 @@
     "homepage": "https://github.com/laresgoiti/texts_translate",
     "gh_url": "https://github.com/laresgoiti/texts_translate.git",
     "gh_updated": "2017-07-23 15:26:08 UTC",
-    "gh_stars": 26,
+    "gh_stars": 27,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.examples.sketch-translate",
@@ -10836,7 +10836,7 @@
     "gh_url": "https://github.com/KevinGutowski/Truncat.git",
     "gh_updated": "2019-08-14 05:42:53 UTC",
     "gh_stars": 41,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master"
   },
   {

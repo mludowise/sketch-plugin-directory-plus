@@ -8881,7 +8881,8 @@
     "gh_updated": "2018-10-30 22:35:54 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-slice-it",

@@ -4966,7 +4966,7 @@
     "homepage": "https://github.com/sonburn/symbol-instance-renamer",
     "gh_url": "https://github.com/sonburn/symbol-instance-renamer.git",
     "gh_updated": "2019-04-11 21:20:41 UTC",
-    "gh_stars": 153,
+    "gh_stars": 154,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-instance-renamer",
@@ -8881,8 +8881,7 @@
     "gh_updated": "2018-10-30 22:35:54 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-slice-it",
@@ -10629,7 +10628,7 @@
     "added": "2019-07-22 11:01:36 UTC",
     "gh_url": "https://github.com/here-erhe/Design-Token-Exporter.git",
     "gh_updated": "2019-09-17 06:51:41 UTC",
-    "gh_stars": 31,
+    "gh_stars": 32,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "fi.erhe.design-token-exporter",

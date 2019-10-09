@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-10-09 14:02:10 UTC
+Updated 2019-10-09 15:01:08 UTC
 
 Total plugins: 704
 
@@ -317,7 +317,7 @@ Total plugins: 704
 
 **[KevinGutowski/toggleLayers](https://github.com/KevinGutowski/toggleLayers) manifest.json is missing identifier**
 
-**[sunkibaek/Seoul](https://github.com/sunkibaek/Seoul) missing manifest.json**
+**[sunkibaek/Seoul](https://github.com/sunkibaek/Seoul) manifest.json is missing identifier**
 
 [yudiz-solutions/paste-direct](https://github.com/yudiz-solutions/paste-direct) manifest.json contains extra commas
 

@@ -11017,12 +11017,12 @@
     "homepage": "https://github.com/iarthstar/Image2Palette",
     "added": "2019-09-25 15:00:23 UTC",
     "gh_url": "https://github.com/iarthstar/Image2Palette.git",
-    "gh_updated": "2019-10-09 06:02:27 UTC",
+    "gh_updated": "2019-10-09 21:17:20 UTC",
     "gh_stars": 2,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.iarthstar.img-pal-gen",
-    "man_version": "0.3.0",
+    "man_version": "0.3.2",
     "man_compatible_version": "56"
   },
   {

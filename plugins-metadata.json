@@ -4500,7 +4500,16 @@
     "author": "Joshua Fang",
     "title": "Select Child Layers",
     "description": "A sketch plugin to select all the child layers of a group.",
-    "added": "2016-08-22 09:21:11 UTC"
+    "added": "2016-08-22 09:21:11 UTC",
+    "homepage": "https://github.com/jshuaf/select-children",
+    "gh_url": "https://github.com/jshuaf/select-children.git",
+    "gh_updated": "2016-07-29 12:13:24 UTC",
+    "gh_stars": 41,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.joshuafang.select-children",
+    "man_version": "1.0",
+    "man_compatible_version": "3.9"
   },
   {
     "name": "Android_Res_Export",

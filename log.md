@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-10-10 22:00:48 UTC
+Updated 2019-10-10 23:00:23 UTC
 
 Total plugins: 704
 
@@ -128,8 +128,6 @@ Total plugins: 704
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
 
 **[ErikFontanel/sketch-toggle-constrain-proportions](https://github.com/ErikFontanel/sketch-toggle-constrain-proportions) manifest.json is missing identifier**
-
-**[jshuaf/select-children](https://github.com/jshuaf/select-children) has no repo**
 
 [marianomike/sketch-exportsymbols](https://github.com/marianomike/sketch-exportsymbols) manifest.json contains extra commas
 

@@ -2265,7 +2265,17 @@
     "author": "Aby Nimbalkar",
     "title": "Xport",
     "description": "A Sketch Plugin to export image assets directly to Xcode",
-    "added": "2015-07-14 17:34:42 UTC"
+    "added": "2015-07-14 17:34:42 UTC",
+    "homepage": "https://github.com/abynim/Xport",
+    "gh_url": "https://github.com/abynim/Xport.git",
+    "gh_updated": "2016-11-22 13:08:15 UTC",
+    "gh_stars": 55,
+    "gh_issues": 4,
+    "gh_branch": "master",
+    "man_identifier": "com.silverux.sketchplugins.xport",
+    "man_version": "1.0",
+    "man_compatible_version": "4.0",
+    "icon": "https://raw.githubusercontent.com/abynim/Xport/master/Xport.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "ZEN-Sketch",
@@ -7065,7 +7075,7 @@
     "homepage": "https://github.com/pavelkuligin/chart",
     "gh_url": "https://github.com/pavelkuligin/chart.git",
     "gh_updated": "2019-10-08 21:32:48 UTC",
-    "gh_stars": 958,
+    "gh_stars": 959,
     "gh_issues": 3,
     "gh_branch": "master"
   },
@@ -10136,7 +10146,7 @@
     "added": "2019-04-12 10:01:58 UTC",
     "gh_url": "https://github.com/themainingredient/colormate.git",
     "gh_updated": "2019-09-02 12:56:19 UTC",
-    "gh_stars": 18,
+    "gh_stars": 17,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.colormate.plugin",

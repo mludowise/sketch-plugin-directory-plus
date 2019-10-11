@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-10-11 02:01:07 UTC
+Updated 2019-10-11 03:01:49 UTC
 
 Total plugins: 704
 
@@ -93,8 +93,6 @@ Total plugins: 704
 
 [soutaro/Align-text-baseline-sketch-plugin](https://github.com/soutaro/Align-text-baseline-sketch-plugin) manifest.json contains extra commas
 
-**[dezonik/Typograph](https://github.com/dezonik/Typograph) has no repo**
-
 [hamidp/sketchtextsourcer](https://github.com/hamidp/sketchtextsourcer) manifest.json contains extra commas
 
 [jamztang/MagicMirror](https://github.com/jamztang/MagicMirror) manifest.json contains extra commas
@@ -106,10 +104,6 @@ Total plugins: 704
 [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) manifest.json contains extra commas
 
 **[heysketch/sketch-color-picker-plus](https://github.com/heysketch/sketch-color-picker-plus) has no repo**
-
-**[AntonioJMartinez/sketch-ImageAverageColor](https://github.com/AntonioJMartinez/sketch-ImageAverageColor) has no repo**
-
-**[peterwooley/copy-color-as-hsla](https://github.com/peterwooley/copy-color-as-hsla) missing manifest.json**
 
 [LaloMrtnz/Prism](https://github.com/LaloMrtnz/Prism) manifest.json contains extra commas
 
@@ -202,6 +196,8 @@ Total plugins: 704
 **/Clipboard2TilledFill has no repo**
 
 **[ziven27/Sketch-topographic](https://github.com/ziven27/Sketch-topographic) manifest.json is missing identifier**
+
+**[pravdomil/Sketch-Show-Bounding-Boxes](https://github.com/pravdomil/Sketch-Show-Bounding-Boxes) missing manifest.json**
 
 **[pavelkuligin/chart](https://github.com/pavelkuligin/chart) missing manifest.json**
 

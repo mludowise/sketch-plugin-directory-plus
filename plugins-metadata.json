@@ -2350,16 +2350,7 @@
     "author": "Dmitry Gerasimov",
     "title": "Typograph",
     "description": "Typograph — Sketch plugin and js-library",
-    "added": "2015-07-14 22:22:54 UTC",
-    "homepage": "https://tpgrf.ru",
-    "gh_url": "https://github.com/dezonik/Typograph.git",
-    "gh_updated": "2019-02-25 14:25:45 UTC",
-    "gh_stars": 72,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.typograph",
-    "man_version": "1",
-    "man_compatible_version": "3"
+    "added": "2015-07-14 22:22:54 UTC"
   },
   {
     "name": "Sketch-StickyGrid",
@@ -3328,16 +3319,7 @@
     "author": "Antonio J. Martinez",
     "title": "Sketch Image Average Color",
     "description": "A plugin to save and use the average color of an image.",
-    "added": "2016-01-01 11:30:47 UTC",
-    "homepage": "https://github.com/AntonioJMartinez/sketch-ImageAverageColor",
-    "gh_url": "https://github.com/AntonioJMartinez/sketch-ImageAverageColor.git",
-    "gh_updated": "2019-01-02 07:19:26 UTC",
-    "gh_stars": 32,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.antoniojmartinez.sketch.imageAverageColor",
-    "man_version": "1.1",
-    "man_compatible_version": "3"
+    "added": "2016-01-01 11:30:47 UTC"
   },
   {
     "name": "Framer-Inventory-for-Sketch",
@@ -3384,9 +3366,7 @@
     "gh_updated": "2016-01-12 17:22:17 UTC",
     "gh_stars": 2,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.peterwooley.sketch.copy-color-as-hsla",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-replace-colour",
@@ -9179,7 +9159,7 @@
     "added": "2018-12-18 22:01:49 UTC",
     "gh_url": "https://github.com/webkul/coolhue.git",
     "gh_updated": "2019-02-22 15:04:35 UTC",
-    "gh_stars": 2987,
+    "gh_stars": 2988,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "CoolHue",

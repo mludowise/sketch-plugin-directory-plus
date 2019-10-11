@@ -4968,7 +4968,10 @@
     "gh_updated": "2019-04-11 21:20:41 UTC",
     "gh_stars": 154,
     "gh_issues": 6,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.sonburn.sketchplugins.symbol-instance-renamer",
+    "man_version": "2.8",
+    "icon": "https://raw.githubusercontent.com/sonburn/symbol-instance-renamer/master/Symbol%20Instance%20Renamer.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "Sketch-bootstrap-guides",
@@ -7444,7 +7447,7 @@
     "homepage": "https://github.com/Shopify/polaris-telescope",
     "added": "2018-03-31 15:02:37 UTC",
     "gh_url": "https://github.com/Shopify/polaris-telescope.git",
-    "gh_updated": "2019-07-23 16:07:11 UTC",
+    "gh_updated": "2019-07-23 16:07:08 UTC",
     "gh_stars": 92,
     "gh_issues": 2,
     "gh_branch": "master",
@@ -9158,7 +9161,13 @@
     "title": "Renamer",
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
     "homepage": "https://github.com/webkul/renamer",
-    "added": "2018-12-04 12:02:17 UTC"
+    "added": "2018-12-04 12:02:17 UTC",
+    "gh_url": "https://github.com/webkul/renamer.git",
+    "gh_updated": "2018-12-11 18:22:59 UTC",
+    "gh_stars": 16,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   },
   {
     "name": "CoolHue",
@@ -10826,7 +10835,7 @@
     "added": "2019-07-22 11:01:36 UTC",
     "gh_url": "https://github.com/KevinGutowski/Truncat.git",
     "gh_updated": "2019-08-14 05:42:53 UTC",
-    "gh_stars": 42,
+    "gh_stars": 43,
     "gh_issues": 1,
     "gh_branch": "master"
   },

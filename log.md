@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-10-11 11:01:02 UTC
+Updated 2019-10-11 12:00:40 UTC
 
 Total plugins: 704
 
@@ -337,7 +337,7 @@ Total plugins: 704
 
 **[webkul/renamer](https://github.com/webkul/renamer) owner and name correspond to multiple plugins**
 
-**[Webkul/Renamer](https://github.com/Webkul/Renamer) has no repo**
+**[Webkul/Renamer](https://github.com/Webkul/Renamer) manifest.json is missing identifier**
 
 **[BaguetteEngineering/annotations-sketch-plugin](https://github.com/BaguetteEngineering/annotations-sketch-plugin) manifest.json is missing identifier**
 

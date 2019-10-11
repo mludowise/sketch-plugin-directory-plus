@@ -2004,7 +2004,7 @@
     "homepage": "https://github.com/frankko/Artboard-Tools",
     "gh_url": "https://github.com/frankko/Artboard-Tools.git",
     "gh_updated": "2018-11-21 16:20:21 UTC",
-    "gh_stars": 113,
+    "gh_stars": 114,
     "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "io.kolo.sketch.artboard-tools",
@@ -2350,7 +2350,16 @@
     "author": "Dmitry Gerasimov",
     "title": "Typograph",
     "description": "Typograph — Sketch plugin and js-library",
-    "added": "2015-07-14 22:22:54 UTC"
+    "added": "2015-07-14 22:22:54 UTC",
+    "homepage": "https://tpgrf.ru",
+    "gh_url": "https://github.com/dezonik/Typograph.git",
+    "gh_updated": "2019-02-25 14:25:45 UTC",
+    "gh_stars": 72,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.typograph",
+    "man_version": "1",
+    "man_compatible_version": "3"
   },
   {
     "name": "Sketch-StickyGrid",
@@ -3319,7 +3328,16 @@
     "author": "Antonio J. Martinez",
     "title": "Sketch Image Average Color",
     "description": "A plugin to save and use the average color of an image.",
-    "added": "2016-01-01 11:30:47 UTC"
+    "added": "2016-01-01 11:30:47 UTC",
+    "homepage": "https://github.com/AntonioJMartinez/sketch-ImageAverageColor",
+    "gh_url": "https://github.com/AntonioJMartinez/sketch-ImageAverageColor.git",
+    "gh_updated": "2019-01-02 07:19:26 UTC",
+    "gh_stars": 32,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.antoniojmartinez.sketch.imageAverageColor",
+    "man_version": "1.1",
+    "man_compatible_version": "3"
   },
   {
     "name": "Framer-Inventory-for-Sketch",
@@ -3366,7 +3384,9 @@
     "gh_updated": "2016-01-12 17:22:17 UTC",
     "gh_stars": 2,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.peterwooley.sketch.copy-color-as-hsla",
+    "man_version": "1.0"
   },
   {
     "name": "sketch-replace-colour",
@@ -4175,7 +4195,7 @@
     "homepage": "https://github.com/auxdesigner/Sketch-to-VR",
     "gh_url": "https://github.com/auxdesigner/Sketch-to-VR.git",
     "gh_updated": "2016-11-08 20:13:58 UTC",
-    "gh_stars": 468,
+    "gh_stars": 469,
     "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.liuliu.sketch2vr",
@@ -7007,10 +7027,7 @@
     "gh_updated": "2018-07-07 13:35:51 UTC",
     "gh_stars": 29,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.pravdomil.showBoundingBoxes",
-    "man_version": "0.0.6",
-    "man_compatible_version": "40"
+    "gh_branch": "master"
   },
   {
     "name": "StyleClip",

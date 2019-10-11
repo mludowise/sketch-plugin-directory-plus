@@ -2437,7 +2437,7 @@
     "added": "2015-08-05 03:01:56 UTC",
     "gh_url": "https://github.com/MagicSketch/MagicMirror.git",
     "gh_updated": "2019-09-21 14:55:23 UTC",
-    "gh_stars": 474,
+    "gh_stars": 475,
     "gh_issues": 39,
     "gh_branch": "master",
     "man_identifier": "design.magicmirror",
@@ -8343,8 +8343,7 @@
     "gh_updated": "2018-11-02 14:07:01 UTC",
     "gh_stars": 3,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "typex",

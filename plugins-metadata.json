@@ -5502,7 +5502,10 @@
     "gh_updated": "2019-01-17 06:29:21 UTC",
     "gh_stars": 72,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "website.pratikshah.guides",
+    "man_version": "2.0.4",
+    "man_compatible_version": "40"
   },
   {
     "name": "Egmont-plugin",
@@ -7363,7 +7366,7 @@
     "gh_url": "https://github.com/romannurik/Sketch-FlowExporter.git",
     "gh_updated": "2019-09-19 19:41:21 UTC",
     "gh_stars": 118,
-    "gh_issues": 5,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "net.nurik.roman.sketch.flowexporter",
     "man_compatible_version": "49"

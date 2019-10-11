@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-10-11 03:01:49 UTC
+Updated 2019-10-11 04:03:18 UTC
 
 Total plugins: 704
 
@@ -196,8 +196,6 @@ Total plugins: 704
 **/Clipboard2TilledFill has no repo**
 
 **[ziven27/Sketch-topographic](https://github.com/ziven27/Sketch-topographic) manifest.json is missing identifier**
-
-**[pravdomil/Sketch-Show-Bounding-Boxes](https://github.com/pravdomil/Sketch-Show-Bounding-Boxes) missing manifest.json**
 
 **[pavelkuligin/chart](https://github.com/pavelkuligin/chart) missing manifest.json**
 

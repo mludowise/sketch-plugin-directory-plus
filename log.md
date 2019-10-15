@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-10-15 09:00:14 UTC
+Updated 2019-10-15 10:01:26 UTC
 
-Total plugins: 704
+Total plugins: 710
 
 ## Problems
 **[Atlassian Design/Atlassian Vendor Sketch Plugin](https://github.com/Atlassian Design/Atlassian Vendor Sketch Plugin) has no repo**
@@ -446,4 +446,10 @@ Total plugins: 704
 **[lpsBetty/represent.](https://github.com/lpsBetty/represent.) has no repo**
 
 **[miguelangelnarvaezgo/symbol-master-renamer](https://github.com/miguelangelnarvaezgo/symbol-master-renamer) manifest.json is missing identifier**
+
+**[Eunice J. Son/organizeLayers](https://github.com/Eunice J. Son/organizeLayers) has no repo**
+
+**[freeman990/FS_StockInfoFiller](https://github.com/freeman990/FS_StockInfoFiller) manifest.json is missing identifier**
+
+**[pexels/pexels-sketchplugin](https://github.com/pexels/pexels-sketchplugin) manifest.json is missing identifier**
 

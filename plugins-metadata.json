@@ -11091,12 +11091,12 @@
     "homepage": "https://github.com/griffin-stewie/MarginSymbols",
     "added": "2019-10-15 10:01:26 UTC",
     "gh_url": "https://github.com/griffin-stewie/MarginSymbols.git",
-    "gh_updated": "2019-10-14 14:40:29 UTC",
+    "gh_updated": "2019-10-15 11:37:13 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "net.cyan-stivy.sketchPlugin.MarginSymbols",
-    "man_version": "0.4.1",
+    "man_version": "0.4.2",
     "man_compatible_version": "58"
   },
   {

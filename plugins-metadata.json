@@ -2791,7 +2791,7 @@
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
     "gh_updated": "2019-04-28 22:42:42 UTC",
     "gh_stars": 2176,
-    "gh_issues": 6,
+    "gh_issues": 7,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
     "man_version": "2.22",
@@ -7561,7 +7561,7 @@
     "added": "2018-04-14 18:01:16 UTC",
     "gh_url": "https://github.com/mathieudutour/rough-sketch.git",
     "gh_updated": "2019-10-14 12:15:16 UTC",
-    "gh_stars": 59,
+    "gh_stars": 60,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

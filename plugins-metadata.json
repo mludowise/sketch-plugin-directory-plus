@@ -8679,7 +8679,7 @@
     "added": "2018-10-25 19:01:32 UTC",
     "gh_url": "https://github.com/lazybearcreations/sketch-lazyboards.git",
     "gh_updated": "2019-06-13 19:39:05 UTC",
-    "gh_stars": 11,
+    "gh_stars": 12,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "lazybearcreations.lazyboards",
@@ -9891,14 +9891,14 @@
     "homepage": "https://github.com/TheSonOfThomp/Batch-Export-Rename",
     "added": "2019-03-15 17:02:18 UTC",
     "gh_url": "https://github.com/TheSonOfThomp/sketch-flat-export.git",
-    "gh_updated": "2019-10-16 20:35:07 UTC",
+    "gh_updated": "2019-10-16 21:34:48 UTC",
     "gh_stars": 11,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.adamthompson.sketch.batch-export-rename",
-    "man_version": "2.1.0",
+    "man_version": "2.2.0",
     "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/TheSonOfThomp/Batch-Export-Rename/master/batch-rename-export.sketchplugin/Contents/Resources/icon.png"
+    "icon": "https://raw.githubusercontent.com/TheSonOfThomp/Batch-Export-Rename/master/flat-export.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "Sketch-Case-Converter",
@@ -10107,7 +10107,7 @@
     "gh_url": "https://github.com/chriswetterman/sketch-find-and-replace-text.git",
     "gh_updated": "2019-10-07 13:52:29 UTC",
     "gh_stars": 31,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.chriswetterman.sketch.find-and-replace-text-plugin",
     "man_compatible_version": "53"

@@ -71,9 +71,9 @@
     "homepage": "https://github.com/monzo/file-cleaner",
     "added": "2019-03-05 11:02:16 UTC",
     "gh_url": "https://github.com/monzo/file-cleaner.git",
-    "gh_updated": "2019-10-08 13:09:46 UTC",
+    "gh_updated": "2019-10-17 09:38:38 UTC",
     "gh_stars": 56,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },
@@ -258,7 +258,7 @@
     "gh_url": "https://github.com/sureskumar/sketch-isometric.git",
     "gh_updated": "2019-02-08 18:23:02 UTC",
     "gh_stars": 1622,
-    "gh_issues": 3,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.sureskumar.sketchisometric",
     "man_version": "4.2.0",
@@ -9247,7 +9247,7 @@
     "gh_url": "https://github.com/taofed/imgcook.git",
     "gh_updated": "2019-10-17 08:52:52 UTC",
     "gh_stars": 364,
-    "gh_issues": 4,
+    "gh_issues": 0,
     "gh_branch": "master"
   },
   {

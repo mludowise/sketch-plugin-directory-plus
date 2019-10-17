@@ -11066,7 +11066,7 @@
     "gh_url": "https://github.com/oodesign/sketch-styler.git",
     "gh_updated": "2019-10-08 10:42:36 UTC",
     "gh_stars": 8,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.oodesign.sketchstyler",
     "man_version": "1.3.1",
@@ -11139,7 +11139,7 @@
     "added": "2019-10-15 10:01:26 UTC",
     "gh_url": "https://github.com/pexels/pexels-sketchplugin.git",
     "gh_updated": "2019-10-07 14:40:52 UTC",
-    "gh_stars": 6,
+    "gh_stars": 8,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

@@ -1260,7 +1260,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2019-07-26 14:32:10 UTC",
-    "gh_stars": 6614,
+    "gh_stars": 6615,
     "gh_issues": 343,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -2106,7 +2106,7 @@
     "homepage": "https://github.com/preciousforever/data-populator",
     "gh_url": "https://github.com/preciousforever/data-populator.git",
     "gh_updated": "2018-11-11 23:19:12 UTC",
-    "gh_stars": 1611,
+    "gh_stars": 1612,
     "gh_issues": 38,
     "gh_branch": "master"
   },
@@ -9247,7 +9247,7 @@
     "gh_url": "https://github.com/taofed/imgcook.git",
     "gh_updated": "2019-10-17 08:52:52 UTC",
     "gh_stars": 365,
-    "gh_issues": 2,
+    "gh_issues": 1,
     "gh_branch": "master"
   },
   {
@@ -11066,7 +11066,7 @@
     "gh_url": "https://github.com/oodesign/sketch-styler.git",
     "gh_updated": "2019-10-08 10:42:36 UTC",
     "gh_stars": 8,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.oodesign.sketchstyler",
     "man_version": "1.3.1",

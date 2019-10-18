@@ -9247,7 +9247,7 @@
     "gh_url": "https://github.com/taofed/imgcook.git",
     "gh_updated": "2019-10-17 08:52:52 UTC",
     "gh_stars": 364,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master"
   },
   {
@@ -11139,7 +11139,7 @@
     "added": "2019-10-15 10:01:26 UTC",
     "gh_url": "https://github.com/pexels/pexels-sketchplugin.git",
     "gh_updated": "2019-10-07 14:40:52 UTC",
-    "gh_stars": 12,
+    "gh_stars": 13,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_compatible_version": "3"

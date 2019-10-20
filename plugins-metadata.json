@@ -1256,15 +1256,7 @@
     "author": "utom",
     "title": "Sketch Measure",
     "description": "Make it a fun to create spec for developers and teammates! Automatically generating html page with one click, inspect all the design details including CSS Styles on it offline.",
-    "added": "2014-05-14 03:43:43 UTC",
-    "homepage": "http://utom.design/measure",
-    "gh_url": "https://github.com/utom/sketch-measure.git",
-    "gh_updated": "2019-07-26 14:32:10 UTC",
-    "gh_stars": 6615,
-    "gh_issues": 343,
-    "gh_branch": "master",
-    "man_identifier": "com.utom.measure",
-    "man_version": "2.8.1"
+    "added": "2014-05-14 03:43:43 UTC"
   },
   {
     "name": "Content-generator-sketch-plugin",

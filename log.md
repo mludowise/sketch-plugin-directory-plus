@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-10-20 15:00:48 UTC
+Updated 2019-10-20 16:02:01 UTC
 
 Total plugins: 710
 
@@ -72,6 +72,8 @@ Total plugins: 710
 [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) manifest.json contains extra commas
 
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
+
+**[utom/sketch-measure](https://github.com/utom/sketch-measure) has no repo**
 
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
 

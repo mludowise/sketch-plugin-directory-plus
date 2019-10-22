@@ -6161,7 +6161,7 @@
     "homepage": "https://imageoptim.com/mac",
     "gh_url": "https://github.com/ImageOptim/Sketch-plugin.git",
     "gh_updated": "2017-05-11 21:51:31 UTC",
-    "gh_stars": 123,
+    "gh_stars": 124,
     "gh_issues": 5,
     "gh_branch": "master"
   },
@@ -8250,7 +8250,7 @@
     "gh_url": "https://github.com/duyluonganduin/acl-sketch-plugin.git",
     "gh_updated": "2018-08-02 10:33:12 UTC",
     "gh_stars": 0,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "acl-sketch-plugin",
     "man_version": "2.1.2",
@@ -9247,7 +9247,7 @@
     "gh_url": "https://github.com/taofed/imgcook.git",
     "gh_updated": "2019-10-17 08:52:52 UTC",
     "gh_stars": 366,
-    "gh_issues": 1,
+    "gh_issues": 0,
     "gh_branch": "master"
   },
   {

@@ -6610,7 +6610,7 @@
     "homepage": "https://github.com/sonburn/symbol-instance-locator",
     "gh_url": "https://github.com/sonburn/symbol-instance-locator.git",
     "gh_updated": "2019-04-11 21:11:58 UTC",
-    "gh_stars": 130,
+    "gh_stars": 131,
     "gh_issues": 10,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-instance-locator",
@@ -8765,8 +8765,7 @@
     "gh_updated": "2019-01-14 13:23:11 UTC",
     "gh_stars": 47,
     "gh_issues": 4,
-    "gh_branch": "master",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "100-shapesum",
@@ -10670,7 +10669,7 @@
     "homepage": "https://github.com/wousser/SketchExcelContentSync",
     "added": "2019-07-22 11:01:36 UTC",
     "gh_url": "https://github.com/wousser/SketchExcelContentSync.git",
-    "gh_updated": "2019-09-17 21:36:44 UTC",
+    "gh_updated": "2019-09-17 21:36:27 UTC",
     "gh_stars": 7,
     "gh_issues": 1,
     "gh_branch": "master",

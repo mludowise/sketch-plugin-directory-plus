@@ -2642,7 +2642,9 @@
     "gh_updated": "2017-04-18 14:09:42 UTC",
     "gh_stars": 19,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "kr.xoul.sketch.export-sizes-generator",
+    "man_version": "1.2.1"
   },
   {
     "name": "Sketch-Layer-Comps",
@@ -3460,7 +3462,7 @@
     "homepage": "https://mathieudutour.github.io/git-sketch-plugin",
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2019-08-19 12:26:10 UTC",
-    "gh_stars": 2391,
+    "gh_stars": 2393,
     "gh_issues": 45,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
@@ -11134,13 +11136,7 @@
     "title": "sketch-pexels",
     "description": "A Pexels plugin for Sketch",
     "homepage": "https://github.com/pexels/pexels-sketchplugin",
-    "added": "2019-10-15 10:01:26 UTC",
-    "gh_url": "https://github.com/pexels/pexels-sketchplugin.git",
-    "gh_updated": "2019-10-07 14:40:52 UTC",
-    "gh_stars": 15,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_compatible_version": "3"
+    "added": "2019-10-15 10:01:26 UTC"
   },
   {
     "name": "orbison",

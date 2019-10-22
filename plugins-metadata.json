@@ -3462,7 +3462,7 @@
     "homepage": "https://mathieudutour.github.io/git-sketch-plugin",
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2019-08-19 12:26:10 UTC",
-    "gh_stars": 2393,
+    "gh_stars": 2394,
     "gh_issues": 45,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
@@ -11136,7 +11136,13 @@
     "title": "sketch-pexels",
     "description": "A Pexels plugin for Sketch",
     "homepage": "https://github.com/pexels/pexels-sketchplugin",
-    "added": "2019-10-15 10:01:26 UTC"
+    "added": "2019-10-15 10:01:26 UTC",
+    "gh_url": "https://github.com/pexels/pexels-sketchplugin.git",
+    "gh_updated": "2019-10-07 14:40:52 UTC",
+    "gh_stars": 15,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   },
   {
     "name": "orbison",

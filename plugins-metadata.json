@@ -1210,7 +1210,7 @@
     "gh_url": "https://github.com/joshwayne/jw-sketch-plugins.git",
     "gh_updated": "2016-10-01 00:27:55 UTC",
     "gh_stars": 89,
-    "gh_issues": 2,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.joshwayne.sketch.split-combine-text",
     "man_version": "3.0"
@@ -3232,7 +3232,7 @@
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
     "gh_updated": "2019-10-10 11:57:27 UTC",
-    "gh_stars": 686,
+    "gh_stars": 687,
     "gh_issues": 19,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
@@ -9246,7 +9246,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taofed/imgcook.git",
     "gh_updated": "2019-10-23 06:36:29 UTC",
-    "gh_stars": 377,
+    "gh_stars": 378,
     "gh_issues": 0,
     "gh_branch": "master"
   },

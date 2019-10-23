@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-10-23 11:00:48 UTC
+Updated 2019-10-23 12:00:30 UTC
 
 Total plugins: 710
 
@@ -116,8 +116,6 @@ Total plugins: 710
 [MagicSketch/MagicPresenter](https://github.com/MagicSketch/MagicPresenter) manifest.json contains extra commas
 
 [screenfork/ScreenFork](https://github.com/screenfork/ScreenFork) manifest.json contains extra commas
-
-**[romashamin/compo-sketch](https://github.com/romashamin/compo-sketch) has no repo**
 
 **vmdanilov/ has no repo**
 

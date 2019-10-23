@@ -2123,8 +2123,6 @@
     "gh_stars": 28,
     "gh_issues": 2,
     "gh_branch": "master",
-    "man_identifier": "com.precious-forever.sketch-aspect-ratio",
-    "man_version": "1.0.1",
     "icon": "https://raw.githubusercontent.com/preciousforever/sketch-aspect-ratio/master/Sketch%20Aspect%20Ratio.sketchplugin/Contents/Resources/icon.png"
   },
   {
@@ -3462,7 +3460,7 @@
     "homepage": "https://mathieudutour.github.io/git-sketch-plugin",
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2019-08-19 12:26:10 UTC",
-    "gh_stars": 2395,
+    "gh_stars": 2396,
     "gh_issues": 45,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
@@ -5769,9 +5767,7 @@
     "gh_updated": "2018-06-12 08:58:22 UTC",
     "gh_stars": 95,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.d2c66cff-a235-44dd-854e-2a7497e32c1b",
-    "man_version": "1.1"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-query-selection",
@@ -6224,7 +6220,7 @@
     "homepage": "https://github.com/Iconscout/logodrop",
     "gh_url": "https://github.com/Iconscout/logodrop.git",
     "gh_updated": "2019-05-11 07:54:12 UTC",
-    "gh_stars": 138,
+    "gh_stars": 139,
     "gh_issues": 0,
     "gh_branch": "master"
   },
@@ -9246,7 +9242,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taofed/imgcook.git",
     "gh_updated": "2019-10-23 06:36:29 UTC",
-    "gh_stars": 378,
+    "gh_stars": 379,
     "gh_issues": 0,
     "gh_branch": "master"
   },
@@ -10336,7 +10332,7 @@
     "homepage": "https://github.com/BohemianCoding/library-replacer-sketchplugin",
     "added": "2019-07-22 11:01:36 UTC",
     "gh_url": "https://github.com/BohemianCoding/library-replacer-sketchplugin.git",
-    "gh_updated": "2019-05-02 15:52:56 UTC",
+    "gh_updated": "2019-05-02 15:52:49 UTC",
     "gh_stars": 15,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -11066,7 +11062,7 @@
     "gh_url": "https://github.com/oodesign/sketch-styler.git",
     "gh_updated": "2019-10-08 10:42:36 UTC",
     "gh_stars": 11,
-    "gh_issues": 2,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.oodesign.sketchstyler",
     "man_version": "1.3.1",

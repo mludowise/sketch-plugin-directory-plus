@@ -1260,8 +1260,8 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2019-07-26 14:32:10 UTC",
-    "gh_stars": 6617,
-    "gh_issues": 343,
+    "gh_stars": 6618,
+    "gh_issues": 344,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.8.1"
@@ -9246,7 +9246,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taofed/imgcook.git",
     "gh_updated": "2019-10-17 08:52:52 UTC",
-    "gh_stars": 369,
+    "gh_stars": 370,
     "gh_issues": 0,
     "gh_branch": "master"
   },

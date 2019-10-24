@@ -5420,10 +5420,7 @@
     "gh_updated": "2018-10-10 15:39:28 UTC",
     "gh_stars": 63,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.sketchapp.examples.image-replaste",
-    "man_version": "1.o",
-    "icon": "https://raw.githubusercontent.com/mheesakkers/sketch-image-replaste/master/Image%20Replaste.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-plugin-monster",
@@ -11140,7 +11137,7 @@
     "gh_url": "https://github.com/pexels/pexels-sketchplugin.git",
     "gh_updated": "2019-10-07 14:40:52 UTC",
     "gh_stars": 16,
-    "gh_issues": 2,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },

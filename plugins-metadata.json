@@ -3548,7 +3548,9 @@
     "gh_updated": "2016-02-06 02:48:12 UTC",
     "gh_stars": 8,
     "gh_issues": 1,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.3bc31c75-9d90-4f3f-a3b6-072c0e31639d",
+    "man_version": "1.0"
   },
   {
     "name": "Sparkliner",
@@ -6746,7 +6748,7 @@
     "homepage": "https://github.com/aparajita/sketch-style-master",
     "gh_url": "https://github.com/aparajita/sketch-style-master.git",
     "gh_updated": "2019-09-01 19:45:28 UTC",
-    "gh_stars": 172,
+    "gh_stars": 174,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.aparajita.style-master",
@@ -8248,7 +8250,7 @@
     "gh_url": "https://github.com/duyluonganduin/acl-sketch-plugin.git",
     "gh_updated": "2018-08-02 10:33:12 UTC",
     "gh_stars": 0,
-    "gh_issues": 2,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "acl-sketch-plugin",
     "man_version": "2.1.2",

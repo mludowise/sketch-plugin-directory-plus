@@ -3548,9 +3548,7 @@
     "gh_updated": "2016-02-06 02:48:12 UTC",
     "gh_stars": 8,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.3bc31c75-9d90-4f3f-a3b6-072c0e31639d",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "Sparkliner",

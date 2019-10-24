@@ -2790,7 +2790,7 @@
     "homepage": "https://github.com/andrewfiorillo/sketch-palettes",
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
     "gh_updated": "2019-04-28 22:42:42 UTC",
-    "gh_stars": 2178,
+    "gh_stars": 2179,
     "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
@@ -6254,7 +6254,7 @@
     "homepage": "https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin.git",
     "gh_updated": "2018-11-18 05:33:37 UTC",
-    "gh_stars": 256,
+    "gh_stars": 257,
     "gh_issues": 20,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch-plugins.google-sheets-content-sync",
@@ -7099,8 +7099,7 @@
     "gh_updated": "2018-02-06 10:15:38 UTC",
     "gh_stars": 22,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "SketchSeparateShapes",
@@ -9843,7 +9842,7 @@
     "added": "2019-03-15 17:02:18 UTC",
     "gh_url": "https://github.com/google/sketch2ae.git",
     "gh_updated": "2019-06-05 20:06:47 UTC",
-    "gh_stars": 286,
+    "gh_stars": 287,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.wearesumux.AEUX",

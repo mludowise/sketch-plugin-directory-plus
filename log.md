@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-10-24 02:02:30 UTC
+Updated 2019-10-24 03:02:19 UTC
 
 Total plugins: 710
 
@@ -134,8 +134,6 @@ Total plugins: 710
 [marianomike/sketch-organizesymbols](https://github.com/marianomike/sketch-organizesymbols) manifest.json contains extra commas
 
 [marianomike/sketch-duplicatesymbol](https://github.com/marianomike/sketch-duplicatesymbol) manifest.json contains extra commas
-
-**[marcelinollano/sketch-review](https://github.com/marcelinollano/sketch-review) has no repo**
 
 [luvmex/Sketch-Guides](https://github.com/luvmex/Sketch-Guides) manifest.json contains extra commas
 

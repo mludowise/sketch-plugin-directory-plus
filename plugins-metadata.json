@@ -4684,16 +4684,7 @@
     "author": "Marcelino Llano",
     "title": "Sketch Review",
     "description": "Review designs using Emoji.",
-    "added": "2016-09-13 14:03:42 UTC",
-    "homepage": "https://github.com/marcelinollano/sketchreview",
-    "gh_url": "https://github.com/marcelinollano/sketchreview.git",
-    "gh_updated": "2016-09-12 22:48:30 UTC",
-    "gh_stars": 14,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.marcelinollano.review",
-    "man_version": "1.0",
-    "man_compatible_version": "39.1"
+    "added": "2016-09-13 14:03:42 UTC"
   },
   {
     "name": "Export-More",
@@ -4788,9 +4779,7 @@
     "gh_updated": "2019-02-15 19:34:20 UTC",
     "gh_stars": 124,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.sketchapp.copypastepositionsize",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Keyboard-Resize",
@@ -4949,7 +4938,7 @@
     "homepage": "https://github.com/pberrecloth/butter-sketch-plugin",
     "gh_url": "https://github.com/pberrecloth/butter-sketch-plugin.git",
     "gh_updated": "2019-04-02 18:30:31 UTC",
-    "gh_stars": 228,
+    "gh_stars": 229,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.butter.sketchplugin",

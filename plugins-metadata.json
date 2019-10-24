@@ -397,7 +397,10 @@
     "gh_updated": "2018-02-28 14:04:59 UTC",
     "gh_stars": 26,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.animaapp.fontbuddy",
+    "man_version": "1.0.3",
+    "man_compatible_version": "49"
   },
   {
     "name": "Sketch-Play",
@@ -10143,8 +10146,8 @@
     "added": "2019-04-12 10:01:58 UTC",
     "gh_url": "https://github.com/themainingredient/colormate.git",
     "gh_updated": "2019-09-02 12:56:19 UTC",
-    "gh_stars": 19,
-    "gh_issues": 4,
+    "gh_stars": 20,
+    "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.colormate.plugin",
     "man_version": "1.6.0",

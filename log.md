@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-10-24 05:00:59 UTC
+Updated 2019-10-24 06:01:36 UTC
 
 Total plugins: 710
 
@@ -342,8 +342,6 @@ Total plugins: 710
 **[BaguetteEngineering/annotations-sketch-plugin](https://github.com/BaguetteEngineering/annotations-sketch-plugin) manifest.json is missing identifier**
 
 **[taobaofed/imgcook](https://github.com/taobaofed/imgcook) missing manifest.json**
-
-**[2o3t/2o3t-Sketch-Tools](https://github.com/2o3t/2o3t-Sketch-Tools) missing manifest.json**
 
 [pratikjshah/Sketch-Guides](https://github.com/pratikjshah/Sketch-Guides) and [pratikjshah/PS-Guides](https://github.com/pratikjshah/PS-Guides) use the same manifest identifier, __website.pratikshah.guides__
 

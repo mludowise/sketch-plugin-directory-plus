@@ -397,10 +397,7 @@
     "gh_updated": "2018-02-28 14:04:59 UTC",
     "gh_stars": 26,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.animaapp.fontbuddy",
-    "man_version": "1.0.3",
-    "man_compatible_version": "49"
+    "gh_branch": "master"
   },
   {
     "name": "Sketch-Play",
@@ -7099,7 +7096,8 @@
     "gh_updated": "2018-02-06 10:15:38 UTC",
     "gh_stars": 22,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   },
   {
     "name": "SketchSeparateShapes",

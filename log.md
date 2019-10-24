@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-10-24 19:02:34 UTC
+Updated 2019-10-24 20:01:48 UTC
 
-Total plugins: 712
+Total plugins: 715
 
 ## Problems
 **[Atlassian Design/Atlassian Vendor Sketch Plugin](https://github.com/Atlassian Design/Atlassian Vendor Sketch Plugin) has no repo**
@@ -419,7 +419,7 @@ Total plugins: 712
 
 **[BohemianCoding/sketch-ipsum](https://github.com/BohemianCoding/sketch-ipsum) manifest.json is missing identifier**
 
-**[IxCO/Keygaroo](https://github.com/IxCO/Keygaroo) has no repo**
+**[I&CO/Keygaroo](https://github.com/I&CO/Keygaroo) has no repo**
 
 **[lifeofmle/symbol-insert](https://github.com/lifeofmle/symbol-insert) manifest.json is missing identifier**
 
@@ -454,4 +454,6 @@ Total plugins: 712
 **[pexels/pexels-sketchplugin](https://github.com/pexels/pexels-sketchplugin) manifest.json is missing identifier**
 
 **[mathieudutour/sketch-chat](https://github.com/mathieudutour/sketch-chat) manifest.json is missing identifier**
+
+**[afifkhaidir/symbol-finder](https://github.com/afifkhaidir/symbol-finder) manifest.json is missing identifier**
 

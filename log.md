@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-10-24 16:01:44 UTC
+Updated 2019-10-24 17:02:10 UTC
 
 Total plugins: 710
 
@@ -201,7 +201,7 @@ Total plugins: 710
 
 **/ has no repo**
 
-**[fhuel/DeepSelect](https://github.com/fhuel/DeepSelect) missing manifest.json**
+**[fhuel/DeepSelect](https://github.com/fhuel/DeepSelect) manifest.json is missing identifier**
 
 **[reqfire/sketch-user-flows](https://github.com/reqfire/sketch-user-flows) manifest.json is missing identifier**
 

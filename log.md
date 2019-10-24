@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-10-24 18:01:44 UTC
+Updated 2019-10-24 19:02:34 UTC
 
-Total plugins: 710
+Total plugins: 712
 
 ## Problems
 **[Atlassian Design/Atlassian Vendor Sketch Plugin](https://github.com/Atlassian Design/Atlassian Vendor Sketch Plugin) has no repo**
@@ -452,4 +452,6 @@ Total plugins: 710
 **[freeman990/FS_StockInfoFiller](https://github.com/freeman990/FS_StockInfoFiller) manifest.json is missing identifier**
 
 **[pexels/pexels-sketchplugin](https://github.com/pexels/pexels-sketchplugin) manifest.json is missing identifier**
+
+**[mathieudutour/sketch-chat](https://github.com/mathieudutour/sketch-chat) manifest.json is missing identifier**
 

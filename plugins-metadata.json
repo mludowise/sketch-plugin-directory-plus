@@ -1276,7 +1276,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
-    "gh_stars": 4411,
+    "gh_stars": 4412,
     "gh_issues": 46,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -9179,7 +9179,7 @@
     "added": "2018-12-18 22:01:49 UTC",
     "gh_url": "https://github.com/webkul/coolhue.git",
     "gh_updated": "2019-02-22 15:04:35 UTC",
-    "gh_stars": 2997,
+    "gh_stars": 2998,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "CoolHue",
@@ -9281,9 +9281,6 @@
     "gh_stars": 5,
     "gh_issues": 0,
     "gh_branch": "master",
-    "man_identifier": "2O3T Tools",
-    "man_version": "1.2.0",
-    "man_compatible_version": "51",
     "icon": "https://raw.githubusercontent.com/2o3t/2o3t-Sketch-Tools/master/2O3T-Tools.sketchplugin/Contents/Resources/icon.png"
   },
   {

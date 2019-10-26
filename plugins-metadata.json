@@ -1345,7 +1345,10 @@
     "gh_updated": "2017-06-13 14:34:02 UTC",
     "gh_stars": 32,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "net.creative-tweet.json-to-layers",
+    "man_version": "3.2.0",
+    "man_compatible_version": "41"
   },
   {
     "name": "Regexp-Rename",

@@ -3462,7 +3462,7 @@
     "homepage": "https://mathieudutour.github.io/git-sketch-plugin",
     "gh_url": "https://github.com/mathieudutour/git-sketch-plugin.git",
     "gh_updated": "2019-08-19 12:26:10 UTC",
-    "gh_stars": 2395,
+    "gh_stars": 2396,
     "gh_issues": 46,
     "gh_branch": "master",
     "man_identifier": "me.dutour.mathieu.git-plugin",
@@ -6108,7 +6108,15 @@
     "author": "捻捻转儿",
     "title": "Sketch Show Layer Info",
     "description": "Show selected layer's ObjectID, Class and ID. It is of great use for plugin development or file parsing.",
-    "added": "2017-06-23 23:09:04 UTC"
+    "added": "2017-06-23 23:09:04 UTC",
+    "homepage": "https://github.com/MrPeak/sketch-show-layer-info",
+    "gh_url": "https://github.com/MrPeak/sketch-show-layer-info.git",
+    "gh_updated": "2017-06-23 17:50:27 UTC",
+    "gh_stars": 2,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.sketchapp.plugins.show-layer-info",
+    "man_version": "1.0"
   },
   {
     "name": "sketch-numbering-machine",
@@ -8293,7 +8301,7 @@
     "gh_url": "https://github.com/sketch-hq/sketch-image-compressor.git",
     "gh_updated": "2019-08-29 09:50:41 UTC",
     "gh_stars": 327,
-    "gh_issues": 9,
+    "gh_issues": 10,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.plugins.image-compressor",
     "man_compatible_version": "3.8"
@@ -11230,6 +11238,7 @@
     "gh_updated": "2019-10-24 07:23:10 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   }
 ]

@@ -803,7 +803,7 @@
     "homepage": "https://github.com/mludowise/Sketch-HTML-Export",
     "gh_url": "https://github.com/mludowise/Sketch-HTML-Export.git",
     "gh_updated": "2017-07-07 18:49:33 UTC",
-    "gh_stars": 154,
+    "gh_stars": 155,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.mludowise.htmlexport",
@@ -1261,7 +1261,7 @@
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2019-07-26 14:32:10 UTC",
     "gh_stars": 6620,
-    "gh_issues": 345,
+    "gh_issues": 346,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.8.1"
@@ -1345,10 +1345,7 @@
     "gh_updated": "2017-06-13 14:34:02 UTC",
     "gh_stars": 32,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "net.creative-tweet.json-to-layers",
-    "man_version": "3.2.0",
-    "man_compatible_version": "41"
+    "gh_branch": "master"
   },
   {
     "name": "Regexp-Rename",
@@ -2624,7 +2621,7 @@
     "homepage": "https://github.com/ribot/sketch-user-flow-docs",
     "gh_url": "https://github.com/ribot/sketch-user-flow-docs.git",
     "gh_updated": "2016-01-26 10:14:20 UTC",
-    "gh_stars": 20,
+    "gh_stars": 21,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "uk.co.ribot.sketch.user-flow-docs",
@@ -5167,7 +5164,7 @@
     "homepage": "https://github.com/devinmancuso/sketch-rtl",
     "gh_url": "https://github.com/devinmancuso/sketch-rtl.git",
     "gh_updated": "2019-05-16 06:26:55 UTC",
-    "gh_stars": 59,
+    "gh_stars": 60,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.devinmancuso.sketch-rtl-plugin",

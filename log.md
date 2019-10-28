@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-10-28 08:00:21 UTC
+Updated 2019-10-28 09:01:08 UTC
 
 Total plugins: 715
 
@@ -65,7 +65,7 @@ Total plugins: 715
 
 [Volorf/Gridy](https://github.com/Volorf/Gridy) manifest.json contains extra commas
 
-**[AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) has no repo**
+[AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) and [AnimaApp/Launchpad](https://github.com/AnimaApp/Launchpad) use the same manifest identifier, __com.animaapp.stc-sketch-plugin__
 
 [herrhelms/radial-lines-sketch](https://github.com/herrhelms/radial-lines-sketch) manifest.json contains extra commas
 

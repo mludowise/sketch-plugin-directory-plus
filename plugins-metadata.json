@@ -7075,7 +7075,7 @@
     "homepage": "https://github.com/pavelkuligin/chart",
     "gh_url": "https://github.com/pavelkuligin/chart.git",
     "gh_updated": "2019-10-08 21:32:48 UTC",
-    "gh_stars": 959,
+    "gh_stars": 960,
     "gh_issues": 3,
     "gh_branch": "master"
   },
@@ -10175,7 +10175,16 @@
     "title": "Align To Padding",
     "description": "Align layers in a group with padding applied",
     "homepage": "https://github.com/franklymrshankly/Align-to-padding",
-    "added": "2019-04-12 10:01:58 UTC"
+    "added": "2019-04-12 10:01:58 UTC",
+    "gh_url": "https://github.com/franklymrshankly/Align-to-padding.git",
+    "gh_updated": "2019-07-18 09:52:36 UTC",
+    "gh_stars": 4,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.github.franklymrshankly/Align-to-padding",
+    "man_version": "0.1.0",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/franklymrshankly/Align-to-padding/master/align-to-padding.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "Sequence-Sketch-Artboards",

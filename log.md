@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-10-28 20:02:21 UTC
+Updated 2019-10-28 21:00:34 UTC
 
 Total plugins: 715
 
@@ -388,8 +388,6 @@ Total plugins: 715
 **[MockingBot/MockingBot](https://github.com/MockingBot/MockingBot) has no repo**
 
 **[mathieudutour/prototypes-invision-sketch](https://github.com/mathieudutour/prototypes-invision-sketch) manifest.json is missing identifier**
-
-**[franklymrshankly/Align-to-padding](https://github.com/franklymrshankly/Align-to-padding) has no repo**
 
 **/bolt has no repo**
 

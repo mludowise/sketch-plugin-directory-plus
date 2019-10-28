@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-10-28 19:02:33 UTC
+Updated 2019-10-28 20:02:21 UTC
 
 Total plugins: 715
 
@@ -74,8 +74,6 @@ Total plugins: 715
 [WorkingOn/SketchingOn](https://github.com/WorkingOn/SketchingOn) manifest.json contains extra commas
 
 [alssndro/sandros-sketch-plugins](https://github.com/alssndro/sandros-sketch-plugins) manifest.json contains extra commas
-
-**[tylergaw/day-player](https://github.com/tylergaw/day-player) has no repo**
 
 [getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) manifest.json contains extra commas
 
@@ -390,6 +388,8 @@ Total plugins: 715
 **[MockingBot/MockingBot](https://github.com/MockingBot/MockingBot) has no repo**
 
 **[mathieudutour/prototypes-invision-sketch](https://github.com/mathieudutour/prototypes-invision-sketch) manifest.json is missing identifier**
+
+**[franklymrshankly/Align-to-padding](https://github.com/franklymrshankly/Align-to-padding) has no repo**
 
 **/bolt has no repo**
 

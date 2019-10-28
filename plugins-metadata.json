@@ -834,15 +834,7 @@
     "title": "Auto Layout",
     "description": "Responsive design inside Sketch. Design for all screen sizes on one artboard.",
     "homepage": "https://animaapp.github.io/Auto-Layout/",
-    "added": "2016-12-30 12:11:40 UTC",
-    "gh_url": "https://github.com/AnimaApp/Auto-Layout.git",
-    "gh_updated": "2019-09-25 15:58:32 UTC",
-    "gh_stars": 829,
-    "gh_issues": 68,
-    "gh_branch": "master",
-    "man_identifier": "com.animaapp.stc-sketch-plugin",
-    "man_version": "3.2.0",
-    "man_compatible_version": "59"
+    "added": "2016-12-30 12:11:40 UTC"
   },
   {
     "name": "sketch-select-exportables",
@@ -4292,7 +4284,7 @@
     "homepage": "https://github.com/cute/SketchI18N",
     "gh_url": "https://github.com/cute/SketchI18N.git",
     "gh_updated": "2019-01-17 13:57:14 UTC",
-    "gh_stars": 1260,
+    "gh_stars": 1259,
     "gh_issues": 25,
     "gh_branch": "master",
     "man_identifier": "com.liguangming.sketch-i18n",

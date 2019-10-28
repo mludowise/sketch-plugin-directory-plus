@@ -1322,7 +1322,16 @@
     "author": "Tyler Gaw",
     "title": "Day Player",
     "description": "A collection of Sketch Plugins for creating placeholder images.",
-    "added": "2014-05-18 21:58:58 UTC"
+    "added": "2014-05-18 21:58:58 UTC",
+    "homepage": "https://github.com/tylergaw/day-player",
+    "gh_url": "https://github.com/tylergaw/day-player.git",
+    "gh_updated": "2016-11-13 22:25:51 UTC",
+    "gh_stars": 410,
+    "gh_issues": 7,
+    "gh_branch": "develop",
+    "man_identifier": "com.sketchapp.tylergaw.day-player",
+    "man_version": "3.0.0",
+    "man_compatible_version": "41"
   },
   {
     "name": "JSON-to-Layers",
@@ -1533,7 +1542,7 @@
     "homepage": "https://github.com/getflourish/Sketch-Set-Line-Height-Plugin",
     "gh_url": "https://github.com/getflourish/Sketch-Set-Line-Height-Plugin.git",
     "gh_updated": "2016-10-28 09:00:55 UTC",
-    "gh_stars": 128,
+    "gh_stars": 129,
     "gh_issues": 5,
     "gh_branch": "master",
     "man_identifier": "com.getflourish.setlineheight",
@@ -10166,16 +10175,7 @@
     "title": "Align To Padding",
     "description": "Align layers in a group with padding applied",
     "homepage": "https://github.com/franklymrshankly/Align-to-padding",
-    "added": "2019-04-12 10:01:58 UTC",
-    "gh_url": "https://github.com/franklymrshankly/Align-to-padding.git",
-    "gh_updated": "2019-07-18 09:52:36 UTC",
-    "gh_stars": 4,
-    "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.github.franklymrshankly/Align-to-padding",
-    "man_version": "0.1.0",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/franklymrshankly/Align-to-padding/master/align-to-padding.sketchplugin/Contents/Resources/icon.png"
+    "added": "2019-04-12 10:01:58 UTC"
   },
   {
     "name": "Sequence-Sketch-Artboards",

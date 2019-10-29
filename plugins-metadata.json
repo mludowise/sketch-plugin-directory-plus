@@ -9381,7 +9381,11 @@
     "gh_updated": "2019-08-24 20:30:39 UTC",
     "gh_stars": 79,
     "gh_issues": 7,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "betterTypePanel",
+    "man_version": "0.3.3",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/KevinGutowski/betterTypePanel/master/bettertypetool.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "datazier-lens",
@@ -9689,7 +9693,7 @@
     "gh_url": "https://github.com/jan-dh/sketch-tailwind.git",
     "gh_updated": "2019-03-23 20:04:01 UTC",
     "gh_stars": 97,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "sketch-tailwind",
     "man_version": "0.1.0",

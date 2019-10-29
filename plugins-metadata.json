@@ -9381,11 +9381,7 @@
     "gh_updated": "2019-08-24 20:30:39 UTC",
     "gh_stars": 79,
     "gh_issues": 7,
-    "gh_branch": "master",
-    "man_identifier": "betterTypePanel",
-    "man_version": "0.3.3",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/KevinGutowski/betterTypePanel/master/bettertypetool.sketchplugin/Contents/Resources/icon.png"
+    "gh_branch": "master"
   },
   {
     "name": "datazier-lens",

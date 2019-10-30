@@ -8579,7 +8579,7 @@
     "gh_url": "https://github.com/lerte/sketch-qr-code.git",
     "gh_updated": "2019-06-24 10:19:42 UTC",
     "gh_stars": 23,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "design.kola.sketch.qrcode",
     "man_compatible_version": "3"
@@ -11066,7 +11066,7 @@
     "gh_url": "https://github.com/oodesign/sketch-styler.git",
     "gh_updated": "2019-10-29 12:15:31 UTC",
     "gh_stars": 11,
-    "gh_issues": 2,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.oodesign.sketchstyler",
     "man_version": "1.3.2",

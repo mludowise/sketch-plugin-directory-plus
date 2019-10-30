@@ -11219,12 +11219,12 @@
     "homepage": "https://github.com/cloudinary-devs/cloudinary-sketch-plugin",
     "added": "2019-10-24 20:01:48 UTC",
     "gh_url": "https://github.com/cloudinary-devs/cloudinary-sketch-plugin.git",
-    "gh_updated": "2019-10-23 17:19:15 UTC",
+    "gh_updated": "2019-10-30 12:26:28 UTC",
     "gh_stars": 0,
     "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "cloudinary.plugins",
-    "man_version": "0.0.1"
+    "man_version": "0.2.1"
   },
   {
     "name": "symbol-finder",

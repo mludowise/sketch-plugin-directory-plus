@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-10-31 11:01:54 UTC
+Updated 2019-10-31 12:01:48 UTC
 
 Total plugins: 716
 
@@ -124,6 +124,8 @@ Total plugins: 716
 **Atomic.io/ has no repo**
 
 **/ has no repo**
+
+**[codearrows/Sketch-Focus](https://github.com/codearrows/Sketch-Focus) has no repo**
 
 [jorgemartins/sketch-paginate](https://github.com/jorgemartins/sketch-paginate) manifest.json contains extra commas
 

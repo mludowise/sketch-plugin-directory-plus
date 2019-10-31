@@ -4256,15 +4256,7 @@
     "title": "Sketch Focus",
     "description": "A new plugin for Sketch that boosts your productivity by keeping you on-task.",
     "homepage": "https://sketchfocus.com",
-    "added": "2016-09-01 09:18:19 UTC",
-    "gh_url": "https://github.com/codearrows/sketch-focus.git",
-    "gh_updated": "2017-09-28 09:10:35 UTC",
-    "gh_stars": 27,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.codearrows.sketch.SketchFocus",
-    "man_version": "1.2.0",
-    "man_compatible_version": "3.8"
+    "added": "2016-09-01 09:18:19 UTC"
   },
   {
     "name": "FontFinder",

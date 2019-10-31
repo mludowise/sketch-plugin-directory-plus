@@ -8886,7 +8886,7 @@
     "added": "2018-11-15 11:02:15 UTC",
     "gh_url": "https://github.com/deepakshrma/sketch-slice-it.git",
     "gh_updated": "2018-10-28 16:17:00 UTC",
-    "gh_stars": 3,
+    "gh_stars": 4,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "slice-it",
@@ -10640,7 +10640,7 @@
     "gh_url": "https://github.com/mupixa/sketch-plugin-mupixa.git",
     "gh_updated": "2019-06-21 10:58:11 UTC",
     "gh_stars": 0,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },

@@ -1375,7 +1375,7 @@
     "added": "2014-05-19 15:27:48 UTC",
     "homepage": "https://github.com/littlebusters/Sketch-CSS-Sprite-Mixin",
     "gh_url": "https://github.com/littlebusters/Sketch-CSS-Sprite-Mixin.git",
-    "gh_updated": "2017-06-08 14:26:13 UTC",
+    "gh_updated": "2017-06-08 14:26:19 UTC",
     "gh_stars": 104,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -7226,10 +7226,7 @@
     "gh_updated": "2019-08-28 11:54:04 UTC",
     "gh_stars": 39,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.jesperbentzen.sketch.fast-text-transfer",
-    "man_version": "1.0.0",
-    "man_compatible_version": "46.0"
+    "gh_branch": "master"
   },
   {
     "name": "SnipSnap",
@@ -7442,9 +7439,7 @@
     "gh_updated": "2019-07-23 16:07:08 UTC",
     "gh_stars": 93,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "shopify.polaris-telescope.search",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "Perfecto-",
@@ -11155,7 +11150,7 @@
     "added": "2019-10-24 19:02:34 UTC",
     "gh_url": "https://github.com/mathieudutour/sketch-chat.git",
     "gh_updated": "2019-10-29 16:40:26 UTC",
-    "gh_stars": 8,
+    "gh_stars": 9,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_compatible_version": "3"
@@ -11186,7 +11181,7 @@
     "homepage": "https://github.com/VitskyDs/tin-drum",
     "added": "2019-10-24 20:01:48 UTC",
     "gh_url": "https://github.com/VitskyDs/tin-drum.git",
-    "gh_updated": "2019-10-26 12:04:50 UTC",
+    "gh_updated": "2019-11-01 09:26:52 UTC",
     "gh_stars": 4,
     "gh_issues": 0,
     "gh_branch": "master",

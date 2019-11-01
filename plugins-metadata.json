@@ -1375,7 +1375,7 @@
     "added": "2014-05-19 15:27:48 UTC",
     "homepage": "https://github.com/littlebusters/Sketch-CSS-Sprite-Mixin",
     "gh_url": "https://github.com/littlebusters/Sketch-CSS-Sprite-Mixin.git",
-    "gh_updated": "2017-06-08 14:26:19 UTC",
+    "gh_updated": "2017-06-08 14:26:13 UTC",
     "gh_stars": 104,
     "gh_issues": 0,
     "gh_branch": "master",
@@ -3233,7 +3233,7 @@
     "gh_url": "https://github.com/Ashung/Automate-Sketch.git",
     "gh_updated": "2019-10-10 11:57:27 UTC",
     "gh_stars": 689,
-    "gh_issues": 24,
+    "gh_issues": 23,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.automate_sketch",
     "man_version": "58.0.20191010",
@@ -5990,7 +5990,7 @@
     "homepage": "https://github.com/joshdjuric/Skatter",
     "gh_url": "https://github.com/joshdjuric/Skatter.git",
     "gh_updated": "2018-01-10 17:00:37 UTC",
-    "gh_stars": 124,
+    "gh_stars": 125,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.Skatter",
@@ -7226,7 +7226,10 @@
     "gh_updated": "2019-08-28 11:54:04 UTC",
     "gh_stars": 39,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.jesperbentzen.sketch.fast-text-transfer",
+    "man_version": "1.0.0",
+    "man_compatible_version": "46.0"
   },
   {
     "name": "SnipSnap",
@@ -7439,7 +7442,9 @@
     "gh_updated": "2019-07-23 16:07:08 UTC",
     "gh_stars": 93,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "shopify.polaris-telescope.search",
+    "man_compatible_version": "3"
   },
   {
     "name": "Perfecto-",
@@ -11181,7 +11186,7 @@
     "homepage": "https://github.com/VitskyDs/tin-drum",
     "added": "2019-10-24 20:01:48 UTC",
     "gh_url": "https://github.com/VitskyDs/tin-drum.git",
-    "gh_updated": "2019-11-01 09:26:52 UTC",
+    "gh_updated": "2019-11-01 10:26:53 UTC",
     "gh_stars": 4,
     "gh_issues": 0,
     "gh_branch": "master",

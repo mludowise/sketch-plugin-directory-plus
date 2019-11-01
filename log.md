@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-11-01 12:01:51 UTC
+Updated 2019-11-01 13:02:11 UTC
 
 Total plugins: 716
 
@@ -229,7 +229,7 @@ Total plugins: 716
 
 **[mathieudutour/rough-sketch](https://github.com/mathieudutour/rough-sketch) manifest.json is missing identifier**
 
-**[fruitfrills/polyglot](https://github.com/fruitfrills/polyglot) missing manifest.json**
+**[fruitfrills/polyglot](https://github.com/fruitfrills/polyglot) manifest.json is missing identifier**
 
 **[alexjlockwood/sketch2vd](https://github.com/alexjlockwood/sketch2vd) has no repo**
 

@@ -1276,7 +1276,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
-    "gh_stars": 4414,
+    "gh_stars": 4415,
     "gh_issues": 46,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -8725,6 +8725,9 @@
     "gh_stars": 4,
     "gh_issues": 0,
     "gh_branch": "master",
+    "man_identifier": "com.fragment.sketch.drafta",
+    "man_version": "1.0.6",
+    "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/fragmentlv/drafta/master/drafta-export.sketchplugin/Contents/Resources/icon.png"
   },
   {

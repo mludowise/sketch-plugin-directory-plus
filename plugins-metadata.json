@@ -5525,7 +5525,7 @@
     "homepage": "https://github.com/DWilliames/PDF-export-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/PDF-export-sketch-plugin.git",
     "gh_updated": "2018-11-18 05:36:45 UTC",
-    "gh_stars": 210,
+    "gh_stars": 211,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch.pdf-export",
@@ -8349,7 +8349,7 @@
     "gh_url": "https://github.com/reinvanoyen/typex.git",
     "gh_updated": "2019-06-13 14:42:01 UTC",
     "gh_stars": 34,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/reinvanoyen/typex/master/typex.sketchplugin/Contents/Resources/icon.png"

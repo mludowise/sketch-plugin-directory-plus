@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-11-02 04:01:26 UTC
+Updated 2019-11-02 05:01:45 UTC
 
 Total plugins: 716
 
@@ -310,6 +310,8 @@ Total plugins: 716
 **/ has no repo**
 
 **[reeli/sketch-svg-to-react-component](https://github.com/reeli/sketch-svg-to-react-component) manifest.json is missing identifier**
+
+**[fragmentlv/drafta](https://github.com/fragmentlv/drafta) missing manifest.json**
 
 **[tgfjt/sketch-add-trailing-space](https://github.com/tgfjt/sketch-add-trailing-space) manifest.json is missing identifier**
 

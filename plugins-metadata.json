@@ -9633,11 +9633,11 @@
     "homepage": "https://github.com/madwaro/MiseEnPlace",
     "added": "2019-03-15 17:02:18 UTC",
     "gh_url": "https://github.com/madwaro/MiseEnPlace.git",
-    "gh_updated": "2019-11-05 23:26:38 UTC",
+    "gh_updated": "2019-11-06 19:51:21 UTC",
     "gh_stars": 4,
     "gh_issues": 1,
     "gh_branch": "master",
-    "man_version": "0.26.0",
+    "man_version": "0.28.0",
     "man_compatible_version": "3"
   },
   {

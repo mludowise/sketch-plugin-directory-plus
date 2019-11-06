@@ -822,7 +822,10 @@
     "gh_updated": "2017-10-11 12:52:06 UTC",
     "gh_stars": 329,
     "gh_issues": 9,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.markhorgan.sketch.clickThruPrototype",
+    "man_version": "1.1.7",
+    "man_compatible_version": "3"
   },
   {
     "name": "Auto-Layout",
@@ -1257,7 +1260,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2019-07-26 14:32:10 UTC",
-    "gh_stars": 6631,
+    "gh_stars": 6632,
     "gh_issues": 349,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -1968,7 +1971,7 @@
     "homepage": "https://github.com/PEZ/SketchDistributor",
     "gh_url": "https://github.com/PEZ/SketchDistributor.git",
     "gh_updated": "2018-05-31 06:23:28 UTC",
-    "gh_stars": 353,
+    "gh_stars": 354,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.betterthantomorrow.sketch.distributor",
@@ -4067,7 +4070,7 @@
     "homepage": "https://github.com/romashamin/compo-sketch",
     "gh_url": "https://github.com/romashamin/compo-sketch.git",
     "gh_updated": "2019-06-24 07:09:49 UTC",
-    "gh_stars": 481,
+    "gh_stars": 482,
     "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "com.github.romashamin.compo-sketch",
@@ -6261,7 +6264,7 @@
     "homepage": "https://websiddu.github.io/sketch-material",
     "gh_url": "https://github.com/websiddu/sketch-material.git",
     "gh_updated": "2019-01-08 17:35:45 UTC",
-    "gh_stars": 841,
+    "gh_stars": 842,
     "gh_issues": 13,
     "gh_branch": "master",
     "man_identifier": "com.google.material2.active",
@@ -6806,7 +6809,7 @@
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2019-10-23 19:28:08 UTC",
-    "gh_stars": 217,
+    "gh_stars": 218,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_compatible_version": "50"
@@ -9305,10 +9308,7 @@
     "gh_updated": "2019-01-17 06:29:21 UTC",
     "gh_stars": 71,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "website.pratikshah.guides",
-    "man_version": "2.0.4",
-    "man_compatible_version": "40"
+    "gh_branch": "master"
   },
   {
     "name": "french-typography",

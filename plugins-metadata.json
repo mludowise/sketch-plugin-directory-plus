@@ -1260,7 +1260,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2019-07-26 14:32:10 UTC",
-    "gh_stars": 6633,
+    "gh_stars": 6632,
     "gh_issues": 349,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -11220,7 +11220,7 @@
     "gh_url": "https://github.com/afifkhaidir/symbol-finder.git",
     "gh_updated": "2019-10-28 04:57:06 UTC",
     "gh_stars": 0,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },

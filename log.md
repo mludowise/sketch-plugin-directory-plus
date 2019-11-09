@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-11-09 02:02:40 UTC
+Updated 2019-11-09 03:02:01 UTC
 
 Total plugins: 716
 
@@ -310,8 +310,6 @@ Total plugins: 716
 **/ has no repo**
 
 **[reeli/sketch-svg-to-react-component](https://github.com/reeli/sketch-svg-to-react-component) manifest.json is missing identifier**
-
-**[lazybearcreations/sketch-lazyboards](https://github.com/lazybearcreations/sketch-lazyboards) has no repo**
 
 **[tgfjt/sketch-add-trailing-space](https://github.com/tgfjt/sketch-add-trailing-space) manifest.json is missing identifier**
 

@@ -8668,7 +8668,14 @@
     "title": "lazyboards",
     "description": "Artboard tools to help you with tedious batch tasks.",
     "homepage": "https://github.com/lazybearcreations/sketch-lazyboards",
-    "added": "2018-10-25 19:01:32 UTC"
+    "added": "2018-10-25 19:01:32 UTC",
+    "gh_url": "https://github.com/lazybearcreations/sketch-lazyboards.git",
+    "gh_updated": "2019-06-13 19:39:05 UTC",
+    "gh_stars": 12,
+    "gh_issues": 5,
+    "gh_branch": "master",
+    "man_identifier": "lazybearcreations.lazyboards",
+    "man_compatible_version": "3"
   },
   {
     "name": "Sketch-Stuffing",

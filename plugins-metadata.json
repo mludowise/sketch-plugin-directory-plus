@@ -1260,7 +1260,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2019-07-26 14:32:10 UTC",
-    "gh_stars": 6636,
+    "gh_stars": 6637,
     "gh_issues": 349,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -8309,7 +8309,7 @@
     "gh_url": "https://github.com/bomberstudios/artboard-manager.git",
     "gh_updated": "2019-10-22 10:36:56 UTC",
     "gh_stars": 609,
-    "gh_issues": 26,
+    "gh_issues": 27,
     "gh_branch": "master",
     "man_identifier": "com.bomberstudios.sketchplugins.artboard-manager",
     "man_compatible_version": "3"

@@ -1,5 +1,14 @@
 [
   {
+    "name": "Versions",
+    "owner": "Sympli",
+    "author": "Sympli",
+    "title": "Versions",
+    "description": "Version control and collaboration for Sketch.",
+    "homepage": "https://versions.sympli.io/",
+    "added": "2019-11-11 10:01:38 UTC"
+  },
+  {
     "name": "Atlassian Vendor Sketch Plugin",
     "owner": "Atlassian Design",
     "author": "Atlassian Design",
@@ -5243,7 +5252,7 @@
     "gh_url": "https://github.com/eddiesigner/sketch-map-generator.git",
     "gh_updated": "2019-08-15 21:39:08 UTC",
     "gh_stars": 758,
-    "gh_issues": 5,
+    "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "io.eduardogomez.sketch.map-generator",
     "man_version": "3.5.2",
@@ -11219,7 +11228,7 @@
     "added": "2019-10-24 20:01:48 UTC",
     "gh_url": "https://github.com/afifkhaidir/symbol-finder.git",
     "gh_updated": "2019-11-08 03:12:36 UTC",
-    "gh_stars": 2,
+    "gh_stars": 3,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_compatible_version": "3"
@@ -11232,5 +11241,22 @@
     "description": "Upload your artboards to Pixelworm with one click.",
     "homepage": "https://github.com/pixelworm/pixelworm-sketch-plugin-publish",
     "added": "2019-10-30 16:01:03 UTC"
+  },
+  {
+    "name": "sketch-snap",
+    "owner": "charliecm",
+    "author": "Charlie Chao",
+    "title": "Sketch Snap",
+    "description": "A Sketch plugin that lets you snap layers below, above, left of or right of selected layer to one of its edges.",
+    "homepage": "https://github.com/charliecm/sketch-snap",
+    "added": "2019-11-11 10:01:38 UTC",
+    "gh_url": "https://github.com/charliecm/sketch-snap.git",
+    "gh_updated": "2019-11-07 21:25:35 UTC",
+    "gh_stars": 2,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.charliechao.sketch-snap",
+    "man_version": "1.0.1",
+    "man_compatible_version": "57"
   }
 ]

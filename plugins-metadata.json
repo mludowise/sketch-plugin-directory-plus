@@ -27,13 +27,13 @@
     "added": "2019-07-22 11:01:36 UTC"
   },
   {
-    "name": "PhraseApp Sketch Plugin",
-    "owner": "PhraseApp",
-    "author": "PhraseApp",
-    "title": "PhraseApp Sketch Plugin",
-    "description": "Sync your design content from Sketch with PhraseApp",
-    "homepage": "https://phraseapp.com/sketch",
-    "added": "2019-07-22 11:01:36 UTC"
+    "name": "Phrase Sketch Plugin",
+    "owner": "Phrase",
+    "author": "Phrase",
+    "title": "Phrase Sketch Plugin",
+    "description": "Sync your design content from Sketch with Phrase",
+    "homepage": "https://phrase.com/sketch",
+    "added": "2019-11-13 12:00:17 UTC"
   },
   {
     "name": "Sparkle Export Plugin",
@@ -4521,7 +4521,7 @@
     "added": "2016-08-23 08:40:18 UTC",
     "homepage": "https://github.com/Ashung/Android_Res_Export",
     "gh_url": "https://github.com/Ashung/Android_Res_Export.git",
-    "gh_updated": "2019-09-26 13:22:20 UTC",
+    "gh_updated": "2019-11-13 11:13:48 UTC",
     "gh_stars": 190,
     "gh_issues": 2,
     "gh_branch": "master",
@@ -11258,5 +11258,53 @@
     "man_identifier": "com.charliechao.sketch-snap",
     "man_version": "1.0.1",
     "man_compatible_version": "57"
+  },
+  {
+    "name": "sketch-dadjokes",
+    "owner": "domhabersack",
+    "author": "Dom Habersack",
+    "title": "Dad Jokes",
+    "description": "Replace your text with dad jokes.",
+    "homepage": "https://github.com/domhabersack/sketch-dadjokes",
+    "added": "2019-11-13 12:00:17 UTC",
+    "gh_url": "https://github.com/domhabersack/sketch-dadjokes.git",
+    "gh_updated": "2019-11-04 06:05:50 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_compatible_version": "3"
+  },
+  {
+    "name": "design-tokens",
+    "owner": "vjandrei",
+    "author": "Andreas Koutsoukos",
+    "title": "Desingn tokens",
+    "description": "A Sketch plugin that exports design Tokens to JSON format. You can export colors, typography, icons and utilis. A must-have tool for design system project.",
+    "homepage": "https://github.com/vjandrei/design-tokens",
+    "added": "2019-11-13 12:00:17 UTC",
+    "gh_url": "https://github.com/vjandrei/design-tokens.git",
+    "gh_updated": "2019-11-13 09:32:00 UTC",
+    "gh_stars": 5,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "Design Tokens",
+    "man_version": "1.0",
+    "man_compatible_version": "56"
+  },
+  {
+    "name": "tb_colorpool_plugin",
+    "owner": "YanShby",
+    "author": "Shen,Yan",
+    "title": "tb-colorpool",
+    "description": "This is read color pool name plugin only for tieba UE & RD",
+    "homepage": "https://github.com/YanShby/tb_colorpool_plugin",
+    "added": "2019-11-13 12:00:17 UTC",
+    "gh_url": "https://github.com/YanShby/tb_colorpool_plugin.git",
+    "gh_updated": "2019-11-13 05:45:02 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.tbcolorpool.sketch",
+    "man_version": "2.0.7"
   }
 ]

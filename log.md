@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-11-13 11:01:05 UTC
+Updated 2019-11-13 12:00:17 UTC
 
-Total plugins: 718
+Total plugins: 721
 
 ## Problems
 **[Sympli/Versions](https://github.com/Sympli/Versions) has no repo**
@@ -11,7 +11,7 @@ Total plugins: 718
 
 **[Alexander Käßner/Custom Zoom](https://github.com/Alexander Käßner/Custom Zoom) has no repo**
 
-**[PhraseApp/PhraseApp Sketch Plugin](https://github.com/PhraseApp/PhraseApp Sketch Plugin) has no repo**
+**[Phrase/Phrase Sketch Plugin](https://github.com/Phrase/Phrase Sketch Plugin) has no repo**
 
 **[Sparkle App/Sparkle Export Plugin](https://github.com/Sparkle App/Sparkle Export Plugin) has no repo**
 
@@ -464,4 +464,6 @@ Total plugins: 718
 **[afifkhaidir/symbol-finder](https://github.com/afifkhaidir/symbol-finder) manifest.json is missing identifier**
 
 **[Pixelworm/pixelworm-sketch-plugin](https://github.com/Pixelworm/pixelworm-sketch-plugin) has no repo**
+
+**[domhabersack/sketch-dadjokes](https://github.com/domhabersack/sketch-dadjokes) manifest.json is missing identifier**
 

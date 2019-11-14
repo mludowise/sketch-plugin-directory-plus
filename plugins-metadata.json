@@ -1270,7 +1270,7 @@
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2019-07-26 14:32:10 UTC",
     "gh_stars": 6644,
-    "gh_issues": 352,
+    "gh_issues": 353,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.8.1"
@@ -5534,7 +5534,7 @@
     "homepage": "https://github.com/DWilliames/PDF-export-sketch-plugin",
     "gh_url": "https://github.com/DWilliames/PDF-export-sketch-plugin.git",
     "gh_updated": "2018-11-18 05:36:45 UTC",
-    "gh_stars": 213,
+    "gh_stars": 214,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_identifier": "com.davidwilliames.sketch.pdf-export",
@@ -7076,7 +7076,7 @@
     "homepage": "https://github.com/pavelkuligin/chart",
     "gh_url": "https://github.com/pavelkuligin/chart.git",
     "gh_updated": "2019-10-08 21:32:48 UTC",
-    "gh_stars": 961,
+    "gh_stars": 962,
     "gh_issues": 3,
     "gh_branch": "master"
   },

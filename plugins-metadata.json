@@ -895,7 +895,9 @@
     "gh_updated": "2018-11-14 20:30:05 UTC",
     "gh_stars": 3,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "ecc.clearexport",
+    "man_version": "2.0"
   },
   {
     "name": "sketch-align",
@@ -5246,7 +5248,7 @@
     "homepage": "https://github.com/eddiesigner/sketch-map-generator",
     "gh_url": "https://github.com/eddiesigner/sketch-map-generator.git",
     "gh_updated": "2019-08-15 21:39:08 UTC",
-    "gh_stars": 759,
+    "gh_stars": 758,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "io.eduardogomez.sketch.map-generator",
@@ -9839,7 +9841,7 @@
     "added": "2019-03-15 17:02:18 UTC",
     "gh_url": "https://github.com/google/sketch2ae.git",
     "gh_updated": "2019-06-05 20:06:47 UTC",
-    "gh_stars": 288,
+    "gh_stars": 287,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.wearesumux.AEUX",

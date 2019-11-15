@@ -3532,15 +3532,7 @@
     "author": "Ryan Johnson",
     "title": "Copy & Paste Shadows",
     "description": "Copy & paste only shadow styles from layers without others styles getting in the way.",
-    "added": "2016-02-02 09:46:05 UTC",
-    "homepage": "https://github.com/ryanjohnson-me/Sketch-Copy-Paste-Shadows",
-    "gh_url": "https://github.com/ryanjohnson-me/Sketch-Copy-Paste-Shadows.git",
-    "gh_updated": "2018-05-11 12:13:28 UTC",
-    "gh_stars": 38,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.copy-paste-shadows",
-    "man_version": "0.3"
+    "added": "2016-02-02 09:46:05 UTC"
   },
   {
     "name": "Sketch-Mobile-Sizes",
@@ -9244,7 +9236,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taofed/imgcook.git",
     "gh_updated": "2019-10-29 14:07:46 UTC",
-    "gh_stars": 412,
+    "gh_stars": 413,
     "gh_issues": 0,
     "gh_branch": "master"
   },

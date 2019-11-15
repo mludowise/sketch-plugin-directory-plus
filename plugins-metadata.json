@@ -1283,7 +1283,7 @@
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
     "gh_stars": 4416,
-    "gh_issues": 46,
+    "gh_issues": 47,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
     "man_version": "1.2"
@@ -6381,7 +6381,7 @@
     "gh_url": "https://github.com/oodesign/merge-duplicate-symbols.git",
     "gh_updated": "2019-07-26 15:35:23 UTC",
     "gh_stars": 247,
-    "gh_issues": 9,
+    "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "com.oodesign.mergeduplicatesymbols",
     "man_version": "4.0.12",

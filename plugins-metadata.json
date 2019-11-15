@@ -1231,7 +1231,7 @@
     "added": "2014-05-14 03:43:43 UTC",
     "gh_url": "https://github.com/rodi01/RenameIt.git",
     "gh_updated": "2019-10-12 17:21:54 UTC",
-    "gh_stars": 1348,
+    "gh_stars": 1349,
     "gh_issues": 26,
     "gh_branch": "master",
     "man_identifier": "com.taptap.ninja.rename-it",
@@ -3532,7 +3532,15 @@
     "author": "Ryan Johnson",
     "title": "Copy & Paste Shadows",
     "description": "Copy & paste only shadow styles from layers without others styles getting in the way.",
-    "added": "2016-02-02 09:46:05 UTC"
+    "added": "2016-02-02 09:46:05 UTC",
+    "homepage": "https://github.com/ryanjohnson-me/Sketch-Copy-Paste-Shadows",
+    "gh_url": "https://github.com/ryanjohnson-me/Sketch-Copy-Paste-Shadows.git",
+    "gh_updated": "2018-05-11 12:13:28 UTC",
+    "gh_stars": 38,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.example.sketch.copy-paste-shadows",
+    "man_version": "0.3"
   },
   {
     "name": "Sketch-Mobile-Sizes",

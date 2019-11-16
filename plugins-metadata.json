@@ -2546,7 +2546,10 @@
     "gh_updated": "2017-05-03 07:31:18 UTC",
     "gh_stars": 130,
     "gh_issues": 3,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.hikiny.sketch.handytools",
+    "man_version": "1.1",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-import-symbols",
@@ -6377,7 +6380,7 @@
     "homepage": "https://github.com/oodesign/merge-duplicate-symbols",
     "gh_url": "https://github.com/oodesign/merge-duplicate-symbols.git",
     "gh_updated": "2019-07-26 15:35:23 UTC",
-    "gh_stars": 247,
+    "gh_stars": 248,
     "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "com.oodesign.mergeduplicatesymbols",

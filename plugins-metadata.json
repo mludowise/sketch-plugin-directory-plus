@@ -2546,10 +2546,7 @@
     "gh_updated": "2017-05-03 07:31:18 UTC",
     "gh_stars": 130,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "com.hikiny.sketch.handytools",
-    "man_version": "1.1",
-    "man_compatible_version": "3"
+    "gh_branch": "master"
   },
   {
     "name": "sketch-import-symbols",

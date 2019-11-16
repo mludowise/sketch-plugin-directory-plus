@@ -11275,7 +11275,7 @@
     "name": "design-tokens",
     "owner": "vjandrei",
     "author": "Andreas Koutsoukos",
-    "title": "Desingn tokens",
+    "title": "Design Tokens",
     "description": "A Sketch plugin that exports design Tokens to JSON format. You can export colors, typography, icons and utilis. A must-have tool for design system project.",
     "homepage": "https://github.com/vjandrei/design-tokens",
     "added": "2019-11-13 12:00:17 UTC",
@@ -11303,5 +11303,21 @@
     "gh_branch": "master",
     "man_identifier": "com.tbcolorpool.sketch",
     "man_version": "2.0.7"
+  },
+  {
+    "name": "Sketch-Flow",
+    "owner": "hite",
+    "author": "hite",
+    "title": "sketch-flow",
+    "description": "Make Icon Slicing simple for app developers!",
+    "homepage": "https://github.com/hite/Sketch-Flow",
+    "added": "2019-11-16 09:01:16 UTC",
+    "gh_url": "https://github.com/hite/Sketch-Flow.git",
+    "gh_updated": "2019-11-16 02:36:55 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "me.hite.sketch-flow",
+    "man_version": "0.1.1"
   }
 ]

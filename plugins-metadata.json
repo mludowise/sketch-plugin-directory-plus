@@ -5702,9 +5702,7 @@
     "gh_updated": "2019-04-03 18:06:56 UTC",
     "gh_stars": 66,
     "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.diverseui.sketch",
-    "man_version": "1.1"
+    "gh_branch": "master"
   },
   {
     "name": "slinky",

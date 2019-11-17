@@ -5702,7 +5702,9 @@
     "gh_updated": "2019-04-03 18:06:56 UTC",
     "gh_stars": 66,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.diverseui.sketch",
+    "man_version": "1.1"
   },
   {
     "name": "slinky",
@@ -6880,7 +6882,7 @@
     "homepage": "https://pravdomil.com",
     "gh_url": "https://github.com/pravdomil/Fix-Sketch-Trackpad-Speed.git",
     "gh_updated": "2018-07-17 09:12:22 UTC",
-    "gh_stars": 76,
+    "gh_stars": 77,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.pravdomil.FixSketchTrackpadSpeed",

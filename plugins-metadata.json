@@ -8460,11 +8460,12 @@
     "homepage": "https://github.com/tbrasington/text-to-styles",
     "added": "2018-09-10 14:01:31 UTC",
     "gh_url": "https://github.com/tbrasington/text-to-styles.git",
-    "gh_updated": "2019-06-07 09:14:26 UTC",
+    "gh_updated": "2019-11-18 22:26:54 UTC",
     "gh_stars": 25,
-    "gh_issues": 3,
+    "gh_issues": 2,
     "gh_branch": "master",
-    "man_compatible_version": "3"
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/tbrasington/text-to-styles/master/text-to-styles.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "Sketch-Contrast",
@@ -9004,12 +9005,12 @@
     "homepage": "https://github.com/tbrasington/rename-layers-based-on-textstyle",
     "added": "2018-11-17 22:00:22 UTC",
     "gh_url": "https://github.com/tbrasington/rename-layers-based-on-textstyle.git",
-    "gh_updated": "2019-06-07 09:24:19 UTC",
+    "gh_updated": "2019-11-18 22:28:12 UTC",
     "gh_stars": 4,
-    "gh_issues": 3,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "rename-layers-based-on-textstyle",
-    "man_version": "2.2.0",
+    "man_version": "2.3.1",
     "man_compatible_version": "3",
     "icon": "https://raw.githubusercontent.com/tbrasington/rename-layers-based-on-textstyle/master/rename-layers-based-on-textstyle.sketchplugin/Contents/Resources/icon.png"
   },

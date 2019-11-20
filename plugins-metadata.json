@@ -1666,9 +1666,7 @@
     "gh_updated": "2017-08-02 17:15:04 UTC",
     "gh_stars": 145,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.ichord.sketch.divine-proportions",
-    "man_version": "1.0.2"
+    "gh_branch": "master"
   },
   {
     "name": "RemoveAllGuides",
@@ -5115,10 +5113,7 @@
     "gh_updated": "2017-04-06 10:44:36 UTC",
     "gh_stars": 120,
     "gh_issues": 4,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.perfecter",
-    "man_version": "1.0",
-    "man_compatible_version": "1"
+    "gh_branch": "master"
   },
   {
     "name": "HSL_Color_Picker",
@@ -5484,9 +5479,7 @@
     "gh_updated": "2017-02-27 09:09:20 UTC",
     "gh_stars": 48,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "com.example.sketch.7662642c-ab6d-439a-acee-4a6b9bf810df",
-    "man_version": "1.1"
+    "gh_branch": "master"
   },
   {
     "name": "PS-Guides",
@@ -6208,9 +6201,7 @@
     "gh_updated": "2019-04-01 14:37:07 UTC",
     "gh_stars": 23,
     "gh_issues": 3,
-    "gh_branch": "master",
-    "man_identifier": "com.gifmock.sketchplugin",
-    "man_version": "1.1"
+    "gh_branch": "master"
   },
   {
     "name": "logodrop",

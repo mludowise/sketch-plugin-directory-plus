@@ -3996,7 +3996,7 @@
     "added": "2016-05-31 15:16:43 UTC",
     "gh_url": "https://github.com/sketch-hq/svgo-compressor.git",
     "gh_updated": "2019-08-29 09:42:54 UTC",
-    "gh_stars": 1013,
+    "gh_stars": 1014,
     "gh_issues": 11,
     "gh_branch": "develop",
     "man_identifier": "com.sketchapp.plugins.svgo-compressor",
@@ -6666,7 +6666,7 @@
     "added": "2017-10-30 22:04:52 UTC",
     "gh_url": "https://github.com/heytitle/latex-sketch-plugin.git",
     "gh_updated": "2018-06-02 06:33:04 UTC",
-    "gh_stars": 46,
+    "gh_stars": 47,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_compatible_version": "3"

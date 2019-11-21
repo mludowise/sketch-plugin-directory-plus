@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-11-21 04:00:55 UTC
+Updated 2019-11-21 05:00:43 UTC
 
 Total plugins: 722
 
@@ -398,6 +398,8 @@ Total plugins: 722
 **[mathieudutour/prototypes-invision-sketch](https://github.com/mathieudutour/prototypes-invision-sketch) manifest.json is missing identifier**
 
 **/bolt has no repo**
+
+[jingwhale/whale-kit](https://github.com/jingwhale/whale-kit) and [faridsabitov/Sketch-user-flows](https://github.com/faridsabitov/Sketch-user-flows) use the same manifest identifier, __me.sabitov.sketch.connectionFlowArrows__
 
 **[kbirgoren/Translate From JSON](https://github.com/kbirgoren/Translate From JSON) has no repo**
 

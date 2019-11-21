@@ -6283,7 +6283,15 @@
     "author": "Mason Lee",
     "title": "Sketch Number Artboards",
     "description": "Sketch plugin to number artboards in order",
-    "added": "2017-07-17 19:12:45 UTC"
+    "added": "2017-07-17 19:12:45 UTC",
+    "homepage": "https://github.com/mmasonlee/sketch-number-artboards",
+    "gh_url": "https://github.com/mmasonlee/sketch-number-artboards.git",
+    "gh_updated": "2017-08-02 06:36:06 UTC",
+    "gh_stars": 9,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "com.masonlee.sketch.artboard",
+    "man_version": "0.1"
   },
   {
     "name": "sketchplugin-align-artboards",

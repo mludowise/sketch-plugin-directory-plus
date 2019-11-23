@@ -4238,8 +4238,8 @@
     "title": "Sheetie",
     "description": "Sketch 3 Plugin that makes a SpriteSheets to export or use",
     "added": "2016-07-18 09:51:51 UTC",
-    "homepage": "https://github.com/JoeManto/Sheetie",
-    "gh_url": "https://github.com/JoeManto/Sheetie.git",
+    "homepage": "https://github.com/JoeManto/Sprite",
+    "gh_url": "https://github.com/JoeManto/Sprite.git",
     "gh_updated": "2017-04-03 21:25:59 UTC",
     "gh_stars": 23,
     "gh_issues": 1,
@@ -9245,7 +9245,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taofed/imgcook.git",
     "gh_updated": "2019-11-21 06:29:01 UTC",
-    "gh_stars": 425,
+    "gh_stars": 426,
     "gh_issues": 0,
     "gh_branch": "master"
   },
@@ -9426,16 +9426,7 @@
     "title": "Connection Flow Arrows",
     "description": "Plugin for generating easy to use connection flow arrows in Sketch",
     "homepage": "https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows",
-    "added": "2019-02-20 17:00:18 UTC",
-    "gh_url": "https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows.git",
-    "gh_updated": "2019-08-08 20:27:27 UTC",
-    "gh_stars": 230,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "me.sabitov.sketch.connectionFlowArrows",
-    "man_version": "3.0.0",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/faridsabitov/Sketch-Connection-Flow-Arrows/master/arrows.sketchplugin/Contents/Resources/icon.png"
+    "added": "2019-02-20 17:00:18 UTC"
   },
   {
     "name": "sketch-unlock-all-selected-layers",

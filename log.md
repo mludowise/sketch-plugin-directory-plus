@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-11-23 01:00:45 UTC
+Updated 2019-11-23 02:01:34 UTC
 
 Total plugins: 722
 
@@ -124,8 +124,6 @@ Total plugins: 722
 **vmdanilov/ has no repo**
 
 [kylehickinson/Sketch-SF-UI-Font-Fixer](https://github.com/kylehickinson/Sketch-SF-UI-Font-Fixer) manifest.json contains extra commas
-
-**[auxdesigner/Sketch-to-VR](https://github.com/auxdesigner/Sketch-to-VR) has no repo**
 
 **Atomic.io/ has no repo**
 

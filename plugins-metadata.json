@@ -9426,7 +9426,16 @@
     "title": "Connection Flow Arrows",
     "description": "Plugin for generating easy to use connection flow arrows in Sketch",
     "homepage": "https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows",
-    "added": "2019-02-20 17:00:18 UTC"
+    "added": "2019-02-20 17:00:18 UTC",
+    "gh_url": "https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows.git",
+    "gh_updated": "2019-08-08 20:27:27 UTC",
+    "gh_stars": 230,
+    "gh_issues": 1,
+    "gh_branch": "master",
+    "man_identifier": "me.sabitov.sketch.connectionFlowArrows",
+    "man_version": "3.0.0",
+    "man_compatible_version": "3",
+    "icon": "https://raw.githubusercontent.com/faridsabitov/Sketch-Connection-Flow-Arrows/master/arrows.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "sketch-unlock-all-selected-layers",

@@ -8808,12 +8808,12 @@
     "homepage": "https://github.com/protoship/codegen-sketch-client",
     "added": "2018-11-15 11:02:15 UTC",
     "gh_url": "https://github.com/protoship/codegen-sketch-client.git",
-    "gh_updated": "2019-11-09 06:20:35 UTC",
+    "gh_updated": "2019-11-24 07:20:36 UTC",
     "gh_stars": 22,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "io.protoship.sketch.codegen",
-    "man_version": "4.6.1",
+    "man_version": "4.7.0",
     "man_compatible_version": "58"
   },
   {

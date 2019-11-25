@@ -9255,7 +9255,7 @@
     "gh_url": "https://github.com/taofed/imgcook.git",
     "gh_updated": "2019-11-21 06:29:01 UTC",
     "gh_stars": 428,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master"
   },
   {
@@ -11289,7 +11289,7 @@
     "added": "2019-11-13 12:00:17 UTC",
     "gh_url": "https://github.com/vjandrei/design-tokens.git",
     "gh_updated": "2019-11-19 09:06:31 UTC",
-    "gh_stars": 11,
+    "gh_stars": 12,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "Design Tokens",

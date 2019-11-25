@@ -1937,7 +1937,10 @@
     "gh_updated": "2018-05-22 20:54:36 UTC",
     "gh_stars": 39,
     "gh_issues": 2,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.delighted.scale-all-in-place",
+    "man_version": "3.1.2",
+    "man_compatible_version": "3"
   },
   {
     "name": "sketch-upload-to-cloudapp",

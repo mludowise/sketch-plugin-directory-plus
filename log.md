@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-11-26 03:02:44 UTC
+Updated 2019-11-26 04:02:13 UTC
 
 Total plugins: 724
 
@@ -426,8 +426,6 @@ Total plugins: 724
 **[avk/Tabula-Rasa](https://github.com/avk/Tabula-Rasa) has no repo**
 
 **[mupixa/sketch-plugin-mupixa](https://github.com/mupixa/sketch-plugin-mupixa) manifest.json is missing identifier**
-
-**[funfungo/ImageCodeExporter](https://github.com/funfungo/ImageCodeExporter) manifest.json is missing identifier**
 
 **[BohemianCoding/sketch-ipsum](https://github.com/BohemianCoding/sketch-ipsum) manifest.json is missing identifier**
 

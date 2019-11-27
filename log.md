@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-11-27 11:01:04 UTC
+Updated 2019-11-27 12:01:28 UTC
 
-Total plugins: 724
+Total plugins: 725
 
 ## Problems
 **[Matthew Talebi/Sketch-Design-systems-validator](https://github.com/Matthew Talebi/Sketch-Design-systems-validator) has no repo**
@@ -474,4 +474,6 @@ Total plugins: 724
 **[domhabersack/sketch-dadjokes](https://github.com/domhabersack/sketch-dadjokes) manifest.json is missing identifier**
 
 **[mheesakkers/sketch-plugin-metaball](https://github.com/mheesakkers/sketch-plugin-metaball) manifest.json is missing identifier**
+
+**[HugoLis/Magic-Aligner](https://github.com/HugoLis/Magic-Aligner) missing manifest.json**
 

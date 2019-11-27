@@ -10578,7 +10578,10 @@
     "gh_updated": "2019-08-02 07:33:02 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.github.jan-patrick.sketch_mugsy",
+    "man_version": "0.1.4",
+    "man_compatible_version": "54.1"
   },
   {
     "name": "SVG BEM",

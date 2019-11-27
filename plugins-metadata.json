@@ -2805,7 +2805,7 @@
     "homepage": "https://github.com/andrewfiorillo/sketch-palettes",
     "gh_url": "https://github.com/andrewfiorillo/sketch-palettes.git",
     "gh_updated": "2019-04-28 22:42:42 UTC",
-    "gh_stars": 2190,
+    "gh_stars": 2191,
     "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "com.andrewfiorillo.sketch.sketch-palettes",
@@ -9187,7 +9187,7 @@
     "added": "2018-12-18 22:01:49 UTC",
     "gh_url": "https://github.com/webkul/coolhue.git",
     "gh_updated": "2019-02-22 15:04:35 UTC",
-    "gh_stars": 3007,
+    "gh_stars": 3008,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "CoolHue",
@@ -10578,10 +10578,7 @@
     "gh_updated": "2019-08-02 07:33:02 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "com.github.jan-patrick.sketch_mugsy",
-    "man_version": "0.1.4",
-    "man_compatible_version": "54.1"
+    "gh_branch": "master"
   },
   {
     "name": "SVG BEM",

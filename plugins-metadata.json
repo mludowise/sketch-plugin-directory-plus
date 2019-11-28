@@ -11291,10 +11291,7 @@
     "gh_updated": "2019-11-19 09:06:31 UTC",
     "gh_stars": 12,
     "gh_issues": 0,
-    "gh_branch": "master",
-    "man_identifier": "Design Tokens",
-    "man_version": "1.0",
-    "man_compatible_version": "56"
+    "gh_branch": "master"
   },
   {
     "name": "tb_colorpool_plugin",

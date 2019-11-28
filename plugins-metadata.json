@@ -529,7 +529,7 @@
     "added": "2018-09-17 16:00:57 UTC",
     "gh_url": "https://github.com/weixin/Miaow.git",
     "gh_updated": "2019-01-28 03:29:04 UTC",
-    "gh_stars": 2473,
+    "gh_stars": 2472,
     "gh_issues": 19,
     "gh_branch": "master",
     "man_identifier": "cn.wechat",
@@ -3129,7 +3129,7 @@
     "homepage": "https://github.com/matt-curtis/Fluid-for-Sketch",
     "gh_url": "https://github.com/matt-curtis/Fluid-for-Sketch.git",
     "gh_updated": "2018-09-03 16:23:04 UTC",
-    "gh_stars": 2430,
+    "gh_stars": 2429,
     "gh_issues": 35,
     "gh_branch": "master",
     "man_identifier": "com.matt-curtis.sketch.constraints",
@@ -11291,7 +11291,10 @@
     "gh_updated": "2019-11-19 09:06:31 UTC",
     "gh_stars": 12,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "Design Tokens",
+    "man_version": "1.0",
+    "man_compatible_version": "56"
   },
   {
     "name": "tb_colorpool_plugin",

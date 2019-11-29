@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-11-29 13:01:05 UTC
+Updated 2019-11-29 14:02:17 UTC
 
-Total plugins: 725
+Total plugins: 726
 
 ## Problems
 **[Matthew Talebi/Sketch-Design-systems-validator](https://github.com/Matthew Talebi/Sketch-Design-systems-validator) has no repo**
@@ -129,7 +129,7 @@ Total plugins: 725
 
 **Atomic.io/ has no repo**
 
-**/ has no repo**
+**PixelCut/ has no repo**
 
 **[codearrows/Sketch-Focus](https://github.com/codearrows/Sketch-Focus) has no repo**
 
@@ -476,4 +476,6 @@ Total plugins: 725
 **[mheesakkers/sketch-plugin-metaball](https://github.com/mheesakkers/sketch-plugin-metaball) manifest.json is missing identifier**
 
 **[HugoLis/Magic-Aligner](https://github.com/HugoLis/Magic-Aligner) missing manifest.json**
+
+**[Crowdin/sketch-crowdin](https://github.com/Crowdin/sketch-crowdin) manifest.json is missing identifier**
 

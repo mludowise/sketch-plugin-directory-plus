@@ -8000,7 +8000,7 @@
     "homepage": "https://github.com/Frontify/sketch",
     "added": "2018-06-19 09:00:41 UTC",
     "gh_url": "https://github.com/Frontify/sketch.git",
-    "gh_updated": "2019-11-04 08:41:28 UTC",
+    "gh_updated": "2019-12-02 01:08:38 UTC",
     "gh_stars": 5,
     "gh_issues": 2,
     "gh_branch": "master",
@@ -9254,7 +9254,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taofed/imgcook.git",
     "gh_updated": "2019-11-21 06:29:01 UTC",
-    "gh_stars": 442,
+    "gh_stars": 443,
     "gh_issues": 1,
     "gh_branch": "master"
   },
@@ -10105,7 +10105,7 @@
     "gh_url": "https://github.com/chriswetterman/sketch-find-and-replace-text.git",
     "gh_updated": "2019-10-07 13:52:29 UTC",
     "gh_stars": 33,
-    "gh_issues": 3,
+    "gh_issues": 4,
     "gh_branch": "master",
     "man_identifier": "com.chriswetterman.sketch.find-and-replace-text-plugin",
     "man_compatible_version": "53"
@@ -11305,12 +11305,13 @@
     "homepage": "https://github.com/YanShby/tb_colorpool_plugin",
     "added": "2019-11-13 12:00:17 UTC",
     "gh_url": "https://github.com/YanShby/tb_colorpool_plugin.git",
-    "gh_updated": "2019-12-02 09:52:40 UTC",
+    "gh_updated": "2019-12-02 10:48:30 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.tbcolorpool.sketch",
-    "man_version": "2.0.8"
+    "man_version": "2.0.9",
+    "icon": "https://raw.githubusercontent.com/YanShby/tb_colorpool_plugin/master/tieba-colorpool.sketchplugin/Contents/Resources/icon.png"
   },
   {
     "name": "Sketch-Flow",

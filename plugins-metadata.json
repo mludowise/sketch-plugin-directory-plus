@@ -6891,7 +6891,7 @@
     "homepage": "https://pravdomil.com",
     "gh_url": "https://github.com/pravdomil/Fix-Sketch-Trackpad-Speed.git",
     "gh_updated": "2018-07-17 09:12:22 UTC",
-    "gh_stars": 78,
+    "gh_stars": 79,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "com.pravdomil.FixSketchTrackpadSpeed",
@@ -11322,12 +11322,12 @@
     "homepage": "https://github.com/hite/Sketch-Flow",
     "added": "2019-11-16 09:01:16 UTC",
     "gh_url": "https://github.com/hite/Sketch-Flow.git",
-    "gh_updated": "2019-11-22 03:22:35 UTC",
+    "gh_updated": "2019-12-02 11:24:27 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "me.hite.sketch-flow",
-    "man_version": "0.1.1"
+    "man_version": "2.1.0"
   },
   {
     "name": "sketch-plugin-metaball",

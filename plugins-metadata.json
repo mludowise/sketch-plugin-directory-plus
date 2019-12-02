@@ -6390,7 +6390,7 @@
     "gh_url": "https://github.com/oodesign/merge-duplicate-symbols.git",
     "gh_updated": "2019-07-26 15:35:23 UTC",
     "gh_stars": 249,
-    "gh_issues": 9,
+    "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "com.oodesign.mergeduplicatesymbols",
     "man_version": "4.0.12",
@@ -11339,7 +11339,7 @@
     "added": "2019-11-25 11:01:21 UTC",
     "gh_url": "https://github.com/mheesakkers/sketch-plugin-metaball.git",
     "gh_updated": "2019-11-24 15:04:13 UTC",
-    "gh_stars": 1,
+    "gh_stars": 2,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_version": "0.1.2"

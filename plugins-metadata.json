@@ -10506,11 +10506,11 @@
     "homepage": "https://github.com/ajgagnon/projecthuddle-sketch-sync",
     "added": "2019-07-22 11:01:36 UTC",
     "gh_url": "https://github.com/ajgagnon/projecthuddle-sketch-sync.git",
-    "gh_updated": "2019-09-19 17:01:42 UTC",
+    "gh_updated": "2019-12-03 19:37:45 UTC",
     "gh_stars": 2,
     "gh_issues": 1,
     "gh_branch": "master",
-    "man_version": "0.0.6",
+    "man_version": "0.0.7",
     "man_compatible_version": "55"
   },
   {
@@ -11136,7 +11136,7 @@
     "added": "2019-10-15 10:01:26 UTC",
     "gh_url": "https://github.com/pexels/pexels-sketchplugin.git",
     "gh_updated": "2019-10-07 14:40:52 UTC",
-    "gh_stars": 17,
+    "gh_stars": 18,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_compatible_version": "3"
@@ -11289,7 +11289,7 @@
     "added": "2019-11-13 12:00:17 UTC",
     "gh_url": "https://github.com/vjandrei/design-tokens.git",
     "gh_updated": "2019-11-19 09:06:31 UTC",
-    "gh_stars": 14,
+    "gh_stars": 15,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "Design Tokens",

@@ -1275,7 +1275,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2019-07-26 14:32:10 UTC",
-    "gh_stars": 6673,
+    "gh_stars": 6674,
     "gh_issues": 360,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -11136,7 +11136,7 @@
     "added": "2019-10-15 10:01:26 UTC",
     "gh_url": "https://github.com/pexels/pexels-sketchplugin.git",
     "gh_updated": "2019-10-07 14:40:52 UTC",
-    "gh_stars": 18,
+    "gh_stars": 19,
     "gh_issues": 3,
     "gh_branch": "master",
     "man_compatible_version": "3"

@@ -1275,7 +1275,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2019-07-26 14:32:10 UTC",
-    "gh_stars": 6672,
+    "gh_stars": 6673,
     "gh_issues": 360,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -5387,7 +5387,16 @@
     "author": "Kohei Tabata",
     "title": "Sketch Color Palette",
     "description": "A Sketch Plugin to generate .clr(Color Palette) file from selected layers.",
-    "added": "2017-01-27 11:04:19 UTC"
+    "added": "2017-01-27 11:04:19 UTC",
+    "homepage": "https://github.com/nerd0geek1/SketchColorPalette",
+    "gh_url": "https://github.com/nerd0geek1/SketchColorPalette.git",
+    "gh_updated": "2017-01-26 17:03:32 UTC",
+    "gh_stars": 15,
+    "gh_issues": 2,
+    "gh_branch": "master",
+    "man_identifier": "com.nerd0geek1.sketch.SketchColorPalette",
+    "man_version": "1.0.0",
+    "man_compatible_version": "42"
   },
   {
     "name": "sketch-dynamic-symbol-button",

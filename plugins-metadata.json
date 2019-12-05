@@ -4580,7 +4580,7 @@
     "homepage": "https://github.com/KivyGogh/Coffee-Slice",
     "gh_url": "https://github.com/KivyGogh/Coffee-Slice.git",
     "gh_updated": "2017-05-03 08:56:10 UTC",
-    "gh_stars": 76,
+    "gh_stars": 77,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_identifier": "com.sketchapps.coffee-slice",
@@ -5387,16 +5387,7 @@
     "author": "Kohei Tabata",
     "title": "Sketch Color Palette",
     "description": "A Sketch Plugin to generate .clr(Color Palette) file from selected layers.",
-    "added": "2017-01-27 11:04:19 UTC",
-    "homepage": "https://github.com/nerd0geek1/SketchColorPalette",
-    "gh_url": "https://github.com/nerd0geek1/SketchColorPalette.git",
-    "gh_updated": "2017-01-26 17:03:32 UTC",
-    "gh_stars": 15,
-    "gh_issues": 2,
-    "gh_branch": "master",
-    "man_identifier": "com.nerd0geek1.sketch.SketchColorPalette",
-    "man_version": "1.0.0",
-    "man_compatible_version": "42"
+    "added": "2017-01-27 11:04:19 UTC"
   },
   {
     "name": "sketch-dynamic-symbol-button",

@@ -771,7 +771,9 @@
     "gh_updated": "2018-06-22 16:13:40 UTC",
     "gh_stars": 49,
     "gh_issues": 11,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.leonardpauli.sketch.layerrenamer",
+    "man_version": "1.3"
   },
   {
     "name": "sketch-ace-jump",

@@ -9254,7 +9254,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taofed/imgcook.git",
     "gh_updated": "2019-11-21 06:29:01 UTC",
-    "gh_stars": 450,
+    "gh_stars": 458,
     "gh_issues": 1,
     "gh_branch": "master"
   },
@@ -11217,7 +11217,7 @@
     "added": "2019-10-24 20:01:48 UTC",
     "gh_url": "https://github.com/cloudinary-devs/cloudinary-sketch-plugin.git",
     "gh_updated": "2019-10-30 12:26:28 UTC",
-    "gh_stars": 0,
+    "gh_stars": 1,
     "gh_issues": 8,
     "gh_branch": "master",
     "man_identifier": "cloudinary.plugins",

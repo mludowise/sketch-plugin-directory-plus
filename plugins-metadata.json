@@ -2755,7 +2755,7 @@
     "homepage": "https://github.com/shakemno/sketch-replace-images",
     "gh_url": "https://github.com/shakemno/sketch-replace-images.git",
     "gh_updated": "2019-08-27 22:12:21 UTC",
-    "gh_stars": 41,
+    "gh_stars": 42,
     "gh_issues": 1,
     "gh_branch": "master",
     "man_identifier": "Sketch Replace Images",
@@ -5972,7 +5972,7 @@
     "gh_url": "https://github.com/partyka1/Fontily.git",
     "gh_updated": "2019-08-16 01:48:56 UTC",
     "gh_stars": 114,
-    "gh_issues": 2,
+    "gh_issues": 3,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.partyka.fontily",
     "man_version": "1.2"

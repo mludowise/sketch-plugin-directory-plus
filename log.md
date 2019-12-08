@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-12-07 23:00:45 UTC
+Updated 2019-12-08 00:02:26 UTC
 
 Total plugins: 726
 
@@ -358,6 +358,8 @@ Total plugins: 726
 **[enriquezgomez/datazier-lens](https://github.com/enriquezgomez/datazier-lens) manifest.json is missing identifier**
 
 [faridsabitov/Sketch-Connection-Flow-Arrows](https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows) and [faridsabitov/Sketch-user-flows](https://github.com/faridsabitov/Sketch-user-flows) use the same manifest identifier, __me.sabitov.sketch.connectionFlowArrows__
+
+**[derekatkinson/sketch-unlock-all-selected-layers](https://github.com/derekatkinson/sketch-unlock-all-selected-layers) missing manifest.json**
 
 **[mathieudutour/sketch-styles-hierarchy](https://github.com/mathieudutour/sketch-styles-hierarchy) manifest.json is missing identifier**
 

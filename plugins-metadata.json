@@ -9458,7 +9458,9 @@
     "gh_updated": "2019-02-20 17:00:55 UTC",
     "gh_stars": 2,
     "gh_issues": 0,
-    "gh_branch": "master"
+    "gh_branch": "master",
+    "man_identifier": "com.derekatkinson.unlockallselectedlayers",
+    "man_version": "1.0.1"
   },
   {
     "name": "sketch-styles-hierarchy",
@@ -11167,7 +11169,7 @@
     "added": "2019-10-24 19:02:34 UTC",
     "gh_url": "https://github.com/mathieudutour/sketch-chat.git",
     "gh_updated": "2019-10-29 16:40:26 UTC",
-    "gh_stars": 12,
+    "gh_stars": 13,
     "gh_issues": 2,
     "gh_branch": "master",
     "man_compatible_version": "3"

@@ -2122,7 +2122,7 @@
     "gh_url": "https://github.com/preciousforever/data-populator.git",
     "gh_updated": "2018-11-11 23:19:12 UTC",
     "gh_stars": 1615,
-    "gh_issues": 39,
+    "gh_issues": 40,
     "gh_branch": "master"
   },
   {
@@ -2921,9 +2921,9 @@
     "added": "2015-10-14 15:13:05 UTC",
     "homepage": "https://github.com/wonderbit/sketch-select-similar-layers",
     "gh_url": "https://github.com/wonderbit/sketch-select-similar-layers.git",
-    "gh_updated": "2019-12-01 07:33:35 UTC",
+    "gh_updated": "2019-12-10 08:34:22 UTC",
     "gh_stars": 280,
-    "gh_issues": 18,
+    "gh_issues": 17,
     "gh_branch": "master",
     "man_identifier": "me.wessley.selectSimilarLayers",
     "man_version": "1.6"

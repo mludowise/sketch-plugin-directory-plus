@@ -1,6 +1,6 @@
 # Plugin Metadata
 
-Updated 2019-12-10 02:01:19 UTC
+Updated 2019-12-10 03:01:23 UTC
 
 Total plugins: 726
 
@@ -475,7 +475,7 @@ Total plugins: 726
 
 **[mheesakkers/sketch-plugin-metaball](https://github.com/mheesakkers/sketch-plugin-metaball) manifest.json is missing identifier**
 
-**[HugoLis/Magic-Aligner](https://github.com/HugoLis/Magic-Aligner) missing manifest.json**
+**[HugoLis/Magic-Aligner](https://github.com/HugoLis/Magic-Aligner) manifest.json is missing identifier**
 
 **[Crowdin/sketch-crowdin](https://github.com/Crowdin/sketch-crowdin) manifest.json is missing identifier**
 

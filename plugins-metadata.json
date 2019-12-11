@@ -3509,14 +3509,7 @@
     "title": "Qordoba for Sketch",
     "description": "Qordoba’s Sketch plugin allows designers to translate their mockups to other languages, making product internationalization easier.",
     "homepage": "https://www.qordoba.com",
-    "added": "2016-01-26 08:26:45 UTC",
-    "gh_url": "https://github.com/Qordobacode/qordoba-for-sketch.git",
-    "gh_updated": "2018-07-18 13:13:07 UTC",
-    "gh_stars": 131,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.qordoba.sketch.plugin",
-    "man_version": "2.1"
+    "added": "2016-01-26 08:26:45 UTC"
   },
   {
     "name": "select-parent-artboards",

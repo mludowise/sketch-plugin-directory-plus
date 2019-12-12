@@ -1291,7 +1291,7 @@
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "gh_url": "https://github.com/timuric/Content-generator-sketch-plugin.git",
     "gh_updated": "2017-10-27 21:23:58 UTC",
-    "gh_stars": 4419,
+    "gh_stars": 4420,
     "gh_issues": 47,
     "gh_branch": "master",
     "man_identifier": "com.sketchapp.tcarpeev.contentgenerator",
@@ -8091,7 +8091,7 @@
     "homepage": "https://kitchen.alipay.com/",
     "gh_url": "https://github.com/ant-design/kitchen.git",
     "gh_updated": "2018-11-13 14:23:37 UTC",
-    "gh_stars": 79,
+    "gh_stars": 80,
     "gh_issues": 23,
     "gh_branch": "master"
   },

@@ -7074,7 +7074,7 @@
     "added": "2018-01-23 11:02:55 UTC",
     "homepage": "https://github.com/pavelkuligin/chart",
     "gh_url": "https://github.com/pavelkuligin/chart.git",
-    "gh_updated": "2019-10-08 21:32:48 UTC",
+    "gh_updated": "2019-12-13 14:38:19 UTC",
     "gh_stars": 969,
     "gh_issues": 4,
     "gh_branch": "master"
@@ -11362,7 +11362,7 @@
     "gh_url": "https://github.com/crowdin/sketch-crowdin.git",
     "gh_updated": "2019-12-11 10:44:10 UTC",
     "gh_stars": 5,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_compatible_version": "3"
   }

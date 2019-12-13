@@ -9399,7 +9399,7 @@
     "gh_url": "https://github.com/enriquezgomez/datazier-lens.git",
     "gh_updated": "2019-05-28 12:50:09 UTC",
     "gh_stars": 2,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },
@@ -10138,7 +10138,7 @@
     "gh_url": "https://github.com/themainingredient/colormate.git",
     "gh_updated": "2019-09-02 12:56:19 UTC",
     "gh_stars": 25,
-    "gh_issues": 5,
+    "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.colormate.plugin",
     "man_version": "1.6.0",

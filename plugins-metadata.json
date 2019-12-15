@@ -9659,7 +9659,7 @@
     "added": "2019-03-15 17:02:18 UTC",
     "gh_url": "https://github.com/Ashung/import-colors-sketch.git",
     "gh_updated": "2019-12-13 03:08:14 UTC",
-    "gh_stars": 12,
+    "gh_stars": 13,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.ashung.hung.import-colors-sketch",
@@ -11333,7 +11333,7 @@
     "gh_url": "https://github.com/mheesakkers/sketch-plugin-metaball.git",
     "gh_updated": "2019-11-24 15:04:13 UTC",
     "gh_stars": 6,
-    "gh_issues": 0,
+    "gh_issues": 1,
     "gh_branch": "master",
     "man_version": "0.1.2"
   },

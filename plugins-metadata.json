@@ -6628,7 +6628,7 @@
     "gh_url": "https://github.com/sonburn/symbol-swapper.git",
     "gh_updated": "2019-09-18 02:29:02 UTC",
     "gh_stars": 161,
-    "gh_issues": 21,
+    "gh_issues": 22,
     "gh_branch": "master",
     "man_identifier": "com.sonburn.sketchplugins.symbol-swapper",
     "man_version": "0.18",
@@ -6817,7 +6817,7 @@
     "added": "2017-11-17 19:16:56 UTC",
     "gh_url": "https://github.com/skpm/sketch-dev-tools.git",
     "gh_updated": "2019-12-11 10:47:40 UTC",
-    "gh_stars": 224,
+    "gh_stars": 225,
     "gh_issues": 9,
     "gh_branch": "master",
     "man_compatible_version": "50"

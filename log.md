@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-12-16 13:01:08 UTC
+Updated 2019-12-16 14:00:29 UTC
 
-Total plugins: 726
+Total plugins: 728
 
 ## Problems
 **[Matthew Talebi/Sketch-Design-systems-validator](https://github.com/Matthew Talebi/Sketch-Design-systems-validator) has no repo**
@@ -480,4 +480,6 @@ Total plugins: 726
 **[HugoLis/Magic-Aligner](https://github.com/HugoLis/Magic-Aligner) manifest.json is missing identifier**
 
 **[Crowdin/sketch-crowdin](https://github.com/Crowdin/sketch-crowdin) manifest.json is missing identifier**
+
+**[Saint-loup/data-from-clipboard](https://github.com/Saint-loup/data-from-clipboard) manifest.json is missing identifier**
 

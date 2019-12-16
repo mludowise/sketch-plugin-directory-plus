@@ -11365,5 +11365,37 @@
     "gh_issues": 1,
     "gh_branch": "master",
     "man_compatible_version": "3"
+  },
+  {
+    "name": "cluse",
+    "owner": "ygev",
+    "author": "Yana Gevorgyan",
+    "title": "Cluse",
+    "description": "A Sketch plugin to check color contrast for web accessibility based on WCAG 2.0. Fitting seamlessly into your team's workflow, Cluse allows you to remotely change your design and see the updated WCAG score live.",
+    "homepage": "https://cluse.cc",
+    "added": "2019-12-16 14:00:29 UTC",
+    "gh_url": "https://github.com/ygev/cluse.git",
+    "gh_updated": "2019-12-07 22:21:18 UTC",
+    "gh_stars": 3,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_identifier": "com.yargle.cluse",
+    "man_version": "1.0",
+    "icon": "https://raw.githubusercontent.com/ygev/cluse/master/Cluse.sketchplugin/Contents/Resources/icon.png"
+  },
+  {
+    "name": "data-from-clipboard",
+    "owner": "Saint-loup",
+    "author": "Saint-loup",
+    "title": "data-from-clipboard",
+    "description": "A DataSupplier plugin",
+    "homepage": "https://github.com/Saint-loup/data-from-clipboard",
+    "added": "2019-12-16 14:00:29 UTC",
+    "gh_url": "https://github.com/Saint-loup/data-from-clipboard.git",
+    "gh_updated": "2019-12-11 10:18:30 UTC",
+    "gh_stars": 1,
+    "gh_issues": 0,
+    "gh_branch": "master",
+    "man_compatible_version": "3"
   }
 ]

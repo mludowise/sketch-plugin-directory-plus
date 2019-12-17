@@ -9247,7 +9247,7 @@
     "added": "2018-12-28 22:02:10 UTC",
     "gh_url": "https://github.com/taofed/imgcook.git",
     "gh_updated": "2019-11-21 06:29:01 UTC",
-    "gh_stars": 499,
+    "gh_stars": 500,
     "gh_issues": 0,
     "gh_branch": "master"
   },
@@ -11315,12 +11315,12 @@
     "homepage": "https://github.com/hite/Sketch-Flow",
     "added": "2019-11-16 09:01:16 UTC",
     "gh_url": "https://github.com/hite/Sketch-Flow.git",
-    "gh_updated": "2019-12-10 16:02:18 UTC",
+    "gh_updated": "2019-12-17 01:46:44 UTC",
     "gh_stars": 1,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "me.hite.sketch-flow",
-    "man_version": "2.2.4"
+    "man_version": "2.2.7"
   },
   {
     "name": "sketch-plugin-metaball",

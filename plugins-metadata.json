@@ -3999,7 +3999,7 @@
     "gh_url": "https://github.com/sketch-hq/svgo-compressor.git",
     "gh_updated": "2019-12-10 09:34:49 UTC",
     "gh_stars": 1019,
-    "gh_issues": 11,
+    "gh_issues": 12,
     "gh_branch": "develop",
     "man_identifier": "com.sketchapp.plugins.svgo-compressor",
     "man_compatible_version": "3.8"

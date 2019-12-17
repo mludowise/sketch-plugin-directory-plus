@@ -8317,7 +8317,7 @@
     "gh_url": "https://github.com/bomberstudios/artboard-manager.git",
     "gh_updated": "2019-12-12 10:20:11 UTC",
     "gh_stars": 612,
-    "gh_issues": 19,
+    "gh_issues": 20,
     "gh_branch": "master",
     "man_identifier": "com.bomberstudios.sketchplugins.artboard-manager",
     "man_compatible_version": "3"
@@ -11362,7 +11362,7 @@
     "gh_url": "https://github.com/crowdin/sketch-crowdin.git",
     "gh_updated": "2019-12-16 11:38:50 UTC",
     "gh_stars": 5,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },

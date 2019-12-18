@@ -11406,9 +11406,9 @@
     "description": "Place your Sketch design into a predefined 3D mockup or your custom 3D element. Set your desired perspective in 3D and place the result into the scene with one click.",
     "homepage": "https://github.com/vectary-dev/vectary-sketch-plugin",
     "added": "2019-12-18 13:01:23 UTC",
-    "gh_url": "https://github.com/vectary-dev/vectary-sketch-plugin.git",
-    "gh_updated": "2019-12-18 10:07:58 UTC",
-    "gh_stars": 0,
+    "gh_url": "https://github.com/vectary/vectary-sketch-plugin.git",
+    "gh_updated": "2019-12-18 13:50:30 UTC",
+    "gh_stars": 1,
     "gh_issues": 0,
     "gh_branch": "master"
   }

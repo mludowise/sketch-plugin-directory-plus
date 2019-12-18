@@ -1275,7 +1275,7 @@
     "homepage": "http://utom.design/measure",
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2019-07-26 14:32:10 UTC",
-    "gh_stars": 6687,
+    "gh_stars": 6688,
     "gh_issues": 362,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
@@ -11397,5 +11397,19 @@
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"
+  },
+  {
+    "name": "vectary-sketch-plugin",
+    "owner": "vectary-dev",
+    "author": "Vectary",
+    "title": "vectary",
+    "description": "Place your Sketch design into a predefined 3D mockup or your custom 3D element. Set your desired perspective in 3D and place the result into the scene with one click.",
+    "homepage": "https://github.com/vectary-dev/vectary-sketch-plugin",
+    "added": "2019-12-18 13:01:23 UTC",
+    "gh_url": "https://github.com/vectary-dev/vectary-sketch-plugin.git",
+    "gh_updated": "2019-12-18 10:07:58 UTC",
+    "gh_stars": 0,
+    "gh_issues": 0,
+    "gh_branch": "master"
   }
 ]

@@ -1,8 +1,8 @@
 # Plugin Metadata
 
-Updated 2019-12-18 12:00:54 UTC
+Updated 2019-12-18 13:01:23 UTC
 
-Total plugins: 728
+Total plugins: 729
 
 ## Problems
 **[Matthew Talebi/Sketch-Design-systems-validator](https://github.com/Matthew Talebi/Sketch-Design-systems-validator) has no repo**
@@ -482,4 +482,6 @@ Total plugins: 728
 **[Crowdin/sketch-crowdin](https://github.com/Crowdin/sketch-crowdin) manifest.json is missing identifier**
 
 **[Saint-loup/data-from-clipboard](https://github.com/Saint-loup/data-from-clipboard) manifest.json is missing identifier**
+
+**[vectary-dev/vectary-sketch-plugin](https://github.com/vectary-dev/vectary-sketch-plugin) missing manifest.json**
 

@@ -3767,7 +3767,7 @@
     "homepage": "http://AnimateMate.com",
     "gh_url": "https://github.com/Creatide/AnimateMate.git",
     "gh_updated": "2017-07-14 05:21:52 UTC",
-    "gh_stars": 1332,
+    "gh_stars": 1333,
     "gh_issues": 18,
     "gh_branch": "master",
     "man_identifier": "com.creatide.sketch.animatemate",
@@ -7075,7 +7075,7 @@
     "homepage": "https://github.com/pavelkuligin/chart",
     "gh_url": "https://github.com/pavelkuligin/chart.git",
     "gh_updated": "2019-12-17 19:29:54 UTC",
-    "gh_stars": 971,
+    "gh_stars": 972,
     "gh_issues": 2,
     "gh_branch": "master"
   },
@@ -10294,7 +10294,7 @@
     "added": "2019-07-22 11:01:36 UTC",
     "gh_url": "https://github.com/mathieudutour/sketch-remove-bg.git",
     "gh_updated": "2019-07-13 15:59:37 UTC",
-    "gh_stars": 73,
+    "gh_stars": 74,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_compatible_version": "3"

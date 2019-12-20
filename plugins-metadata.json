@@ -10464,12 +10464,12 @@
     "homepage": "https://github.com/uxcourt/overlaytoggler",
     "added": "2019-07-22 11:01:36 UTC",
     "gh_url": "https://github.com/uxcourt/overlaytoggler.git",
-    "gh_updated": "2019-12-20 18:31:17 UTC",
+    "gh_updated": "2019-12-20 22:54:44 UTC",
     "gh_stars": 2,
-    "gh_issues": 2,
+    "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "symbol-overlay-toggle",
-    "man_version": "0.1.0",
+    "man_version": "3.1.0",
     "man_compatible_version": "3"
   },
   {

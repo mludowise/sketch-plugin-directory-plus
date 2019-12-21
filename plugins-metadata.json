@@ -6714,7 +6714,7 @@
     "added": "2017-11-06 15:55:14 UTC",
     "homepage": "https://github.com/sonburn/shared-style-finder",
     "gh_url": "https://github.com/sonburn/shared-style-finder.git",
-    "gh_updated": "2019-04-11 21:22:52 UTC",
+    "gh_updated": "2019-04-11 21:22:48 UTC",
     "gh_stars": 45,
     "gh_issues": 8,
     "gh_branch": "master",
@@ -11361,7 +11361,7 @@
     "gh_url": "https://github.com/crowdin/sketch-crowdin.git",
     "gh_updated": "2019-12-17 12:26:40 UTC",
     "gh_stars": 5,
-    "gh_issues": 1,
+    "gh_issues": 2,
     "gh_branch": "master",
     "man_compatible_version": "3"
   },

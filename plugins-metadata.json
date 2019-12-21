@@ -2336,7 +2336,7 @@
     "homepage": "https://github.com/abynim/sketchy-pies",
     "gh_url": "https://github.com/abynim/sketchy-pies.git",
     "gh_updated": "2019-05-16 06:17:15 UTC",
-    "gh_stars": 187,
+    "gh_stars": 188,
     "gh_issues": 6,
     "gh_branch": "master",
     "man_identifier": "com.abynim.plugins.sketchypies",
@@ -11298,12 +11298,12 @@
     "homepage": "https://github.com/YanShby/tb_colorpool_plugin",
     "added": "2019-11-13 12:00:17 UTC",
     "gh_url": "https://github.com/YanShby/tb_colorpool_plugin.git",
-    "gh_updated": "2019-12-02 10:48:30 UTC",
+    "gh_updated": "2019-12-21 13:06:58 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.tbcolorpool.sketch",
-    "man_version": "2.0.9",
+    "man_version": "2.1.0",
     "icon": "https://raw.githubusercontent.com/YanShby/tb_colorpool_plugin/master/tieba-colorpool.sketchplugin/Contents/Resources/icon.png"
   },
   {

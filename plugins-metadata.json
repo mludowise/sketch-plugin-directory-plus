@@ -5186,9 +5186,7 @@
     "gh_updated": "2016-11-15 19:31:29 UTC",
     "gh_stars": 24,
     "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "com.pathprefixmanager.sketchplugin",
-    "man_version": "1.0"
+    "gh_branch": "master"
   },
   {
     "name": "fitter-sketch-plugin",

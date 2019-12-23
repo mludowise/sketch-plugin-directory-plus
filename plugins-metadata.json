@@ -10658,16 +10658,7 @@
     "title": "Excel Content Sync",
     "description": "",
     "homepage": "https://github.com/wousser/SketchExcelContentSync",
-    "added": "2019-07-22 11:01:36 UTC",
-    "gh_url": "https://github.com/wousser/SketchExcelContentSync.git",
-    "gh_updated": "2019-09-17 21:36:27 UTC",
-    "gh_stars": 8,
-    "gh_issues": 1,
-    "gh_branch": "master",
-    "man_identifier": "Excel Content Sync",
-    "man_version": "0.2.0",
-    "man_compatible_version": "3",
-    "icon": "https://raw.githubusercontent.com/wousser/SketchExcelContentSync/master/excelContentSync.sketchplugin/Contents/Resources/icon.png"
+    "added": "2019-07-22 11:01:36 UTC"
   },
   {
     "name": "sketch-tinypng-compressor",

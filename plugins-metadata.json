@@ -8121,12 +8121,12 @@
     "added": "2018-12-26 14:01:33 UTC",
     "homepage": "https://github.com/griffin-stewie/SymbolNameAutocomplete",
     "gh_url": "https://github.com/griffin-stewie/SymbolNameAutocomplete.git",
-    "gh_updated": "2019-12-21 14:17:56 UTC",
+    "gh_updated": "2019-12-24 14:42:12 UTC",
     "gh_stars": 55,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "net.cyan-stivy.sketchPlugin.symbol-name-autocomplete",
-    "man_version": "0.5.4",
+    "man_version": "0.5.5",
     "man_compatible_version": "3"
   },
   {

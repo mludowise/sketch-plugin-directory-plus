@@ -1276,7 +1276,7 @@
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2019-07-26 14:32:10 UTC",
     "gh_stars": 6695,
-    "gh_issues": 362,
+    "gh_issues": 363,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.8.1"
@@ -6977,7 +6977,7 @@
     "added": "2018-01-04 12:26:15 UTC",
     "gh_url": "https://github.com/AMoreaux/Sketch-Icons.git",
     "gh_updated": "2019-10-05 12:06:54 UTC",
-    "gh_stars": 831,
+    "gh_stars": 832,
     "gh_issues": 13,
     "gh_branch": "master",
     "man_identifier": "com.amoreaux.sketch-icons",
@@ -7075,7 +7075,7 @@
     "homepage": "https://github.com/pavelkuligin/chart",
     "gh_url": "https://github.com/pavelkuligin/chart.git",
     "gh_updated": "2019-12-17 19:29:54 UTC",
-    "gh_stars": 975,
+    "gh_stars": 976,
     "gh_issues": 2,
     "gh_branch": "master"
   },

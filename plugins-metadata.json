@@ -11298,12 +11298,12 @@
     "homepage": "https://github.com/YanShby/tb_colorpool_plugin",
     "added": "2019-11-13 12:00:17 UTC",
     "gh_url": "https://github.com/YanShby/tb_colorpool_plugin.git",
-    "gh_updated": "2019-12-24 07:45:51 UTC",
+    "gh_updated": "2019-12-24 09:40:46 UTC",
     "gh_stars": 0,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_identifier": "com.tbcolorpool.sketch",
-    "man_version": "2.1.4"
+    "man_version": "2.1.6"
   },
   {
     "name": "Sketch-Flow",

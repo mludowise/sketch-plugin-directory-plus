@@ -1276,7 +1276,7 @@
     "gh_url": "https://github.com/utom/sketch-measure.git",
     "gh_updated": "2019-07-26 14:32:10 UTC",
     "gh_stars": 6700,
-    "gh_issues": 364,
+    "gh_issues": 365,
     "gh_branch": "master",
     "man_identifier": "com.utom.measure",
     "man_version": "2.8.1"
@@ -3768,7 +3768,7 @@
     "gh_url": "https://github.com/Creatide/AnimateMate.git",
     "gh_updated": "2017-07-14 05:21:52 UTC",
     "gh_stars": 1333,
-    "gh_issues": 18,
+    "gh_issues": 17,
     "gh_branch": "master",
     "man_identifier": "com.creatide.sketch.animatemate",
     "man_version": "0.1.9",

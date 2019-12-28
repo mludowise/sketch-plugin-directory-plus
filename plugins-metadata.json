@@ -3998,7 +3998,7 @@
     "added": "2016-05-31 15:16:43 UTC",
     "gh_url": "https://github.com/sketch-hq/svgo-compressor.git",
     "gh_updated": "2019-12-10 09:34:49 UTC",
-    "gh_stars": 1019,
+    "gh_stars": 1020,
     "gh_issues": 12,
     "gh_branch": "develop",
     "man_identifier": "com.sketchapp.plugins.svgo-compressor",
@@ -11331,7 +11331,7 @@
     "added": "2019-11-25 11:01:21 UTC",
     "gh_url": "https://github.com/mheesakkers/sketch-plugin-metaball.git",
     "gh_updated": "2019-11-24 15:04:13 UTC",
-    "gh_stars": 8,
+    "gh_stars": 9,
     "gh_issues": 0,
     "gh_branch": "master",
     "man_version": "0.1.2"
